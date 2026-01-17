@@ -1,7 +1,0 @@
-CACJ_SECRETARIAT@judiciary.gov.sg
-ab_enquiry@ab.gov.sg
-ab_ephc@ab.gov.sg
-cam@courts.com.sg
-courtclerk@cctcourt.org
-enault@cctcourt.org
-mci_test@xyz.gov.sg
