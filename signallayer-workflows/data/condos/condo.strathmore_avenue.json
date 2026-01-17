@@ -1,0 +1,1541 @@
+[
+  {
+    "displayText": "Strathmore Avenue",
+    "displayType": "Street",
+    "objectId": "3122",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "48 Strathmore Avenue  140048, City & South West (D01-08)",
+    "displayText": "48 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "4n5467",
+    "objectId": "10483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61B Strathmore Avenue  143061, City & South West (D01-08)",
+    "displayText": "61B Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "vc7glm",
+    "objectId": "22112",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Strathmore Avenue  140053, City & South West (D01-08)",
+    "displayText": "53 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "xj7qtv",
+    "objectId": "25385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Strathmore Avenue  140049, City & South West (D01-08)",
+    "displayText": "49 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "utz0uy",
+    "objectId": "10484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Strathmore Avenue  140050, City & South West (D01-08)",
+    "displayText": "50 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "5pfh0t",
+    "objectId": "10485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Strathmore Avenue  140055, City & South West (D01-08)",
+    "displayText": "55 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "f9n1br",
+    "objectId": "10486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Strathmore Avenue  140056, City & South West (D01-08)",
+    "displayText": "56 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "aatj76",
+    "objectId": "10487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Strathmore Avenue  143057, City & South West (D01-08)",
+    "displayText": "57 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "guk4of",
+    "objectId": "10488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Strathmore Avenue  142058, City & South West (D01-08)",
+    "displayText": "58 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "796pgo",
+    "objectId": "10489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Strathmore Avenue  142059, City & South West (D01-08)",
+    "displayText": "59 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "9ct9sy",
+    "objectId": "10490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 Strathmore Avenue  141060, City & South West (D01-08)",
+    "displayText": "60 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "c8edry",
+    "objectId": "10491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Strathmore Avenue  141080, City & South West (D01-08)",
+    "displayText": "80 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "e7e5cd",
+    "objectId": "10492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Strathmore Avenue  141081, City & South West (D01-08)",
+    "displayText": "81 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "fbkazp",
+    "objectId": "10493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Strathmore Avenue  141082, City & South West (D01-08)",
+    "displayText": "82 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "c6tj2y",
+    "objectId": "10494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83 Strathmore Avenue  141083, City & South West (D01-08)",
+    "displayText": "83 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "58nbhb",
+    "objectId": "10495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48A Strathmore Avenue  143048, City & South West (D01-08)",
+    "displayText": "48A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "lkldjd",
+    "objectId": "10496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53A Strathmore Avenue  143053, City & South West (D01-08)",
+    "displayText": "53A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "ec4bof",
+    "objectId": "10497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54A Strathmore Avenue  141054, City & South West (D01-08)",
+    "displayText": "54A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "diauu6",
+    "objectId": "10498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55A Strathmore Avenue  143055, City & South West (D01-08)",
+    "displayText": "55A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "zw1c9q",
+    "objectId": "10499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56A Strathmore Avenue  143056, City & South West (D01-08)",
+    "displayText": "56A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "ll7ym5",
+    "objectId": "10500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60A Strathmore Avenue  142060, City & South West (D01-08)",
+    "displayText": "60A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "j3nz59",
+    "objectId": "10501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Strathmore Avenue  140051, City & South West (D01-08)",
+    "displayText": "51 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "dwg0bv",
+    "objectId": "20531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Strathmore Avenue  141052, City & South West (D01-08)",
+    "displayText": "52 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "j9rzzv",
+    "objectId": "21296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62B Strathmore Avenue  143062, City & South West (D01-08)",
+    "displayText": "62B Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "7mb1xc",
+    "objectId": "21871",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61A Strathmore Avenue  142061, City & South West (D01-08)",
+    "displayText": "61A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "2gxgij",
+    "objectId": "22052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62A Strathmore Avenue  142062, City & South West (D01-08)",
+    "displayText": "62A Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "dcfuti",
+    "objectId": "22193",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61C Strathmore Avenue  144061, City & South West (D01-08)",
+    "displayText": "61C Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "ttm7j1",
+    "objectId": "22384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "Clementi Avenue 1  120403, City & South West (D01-08)",
+    "displayText": "Clavon",
+    "displayType": "Condominium",
+    "nanoId": "umgr9u",
+    "objectId": "24518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Hougang Avenue 7   533813, Serangoon / Thomson (D19-20)",
+    "displayText": "Riverfront Residences",
+    "displayType": "Condominium",
+    "nanoId": "rr6vfd",
+    "objectId": "23460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Choa Chu Kang Avenue 5  688191, West (D22-24)",
+    "displayText": "iNz Residence",
+    "displayType": "Condominium",
+    "nanoId": "7w4d4y",
+    "objectId": "22916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Jurong East Avenue 1  609774, West (D22-24)",
+    "displayText": "Parc Oasis",
+    "displayType": "Condominium",
+    "nanoId": "bqjp2m",
+    "objectId": "141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "351 Choa Chu Kang Avenue 3  689879, West (D22-24)",
+    "displayText": "Wandervale",
+    "displayType": "Executive Condominium",
+    "nanoId": "1pefx6",
+    "objectId": "22383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 3  465461, East Coast (D15-16)",
+    "displayText": "Grandeur Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "1m24f7",
+    "objectId": "22879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Tampines Avenue 1  528684, Changi / Pasir Ris (D17-18)",
+    "displayText": "Waterview",
+    "displayType": "Condominium",
+    "nanoId": "z2w2y8",
+    "objectId": "20574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "331 Choa Chu Kang Avenue 3  689869, West (D22-24)",
+    "displayText": "The Rainforest",
+    "displayType": "Executive Condominium",
+    "nanoId": "t7hxw5",
+    "objectId": "21117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bedok South Avenue 3  000000, East Coast (D15-16)",
+    "displayText": "eCO",
+    "displayType": "Condominium",
+    "nanoId": "g3tfu0",
+    "objectId": "21324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Potong Pasir Avenue 1  358391, Balestier / Geylang (D12-14)",
+    "displayText": "The Tre Ver",
+    "displayType": "Condominium",
+    "nanoId": "5su0gv",
+    "objectId": "23476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138 Serangoon Avenue 3  554475, Serangoon / Thomson (D19-20)",
+    "displayText": "The Scala @ Lorong Chuan",
+    "displayType": "Condominium",
+    "nanoId": "2mdv7q",
+    "objectId": "2662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Tampines Avenue 8  520800, Changi / Pasir Ris (D17-18)",
+    "displayText": "Arc at Tampines",
+    "displayType": "Executive Condominium",
+    "nanoId": "wbatg7",
+    "objectId": "20739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Yishun Avenue 1  769130, North (D25-28)",
+    "displayText": "The Estuary @ Yishun",
+    "displayType": "Condominium",
+    "nanoId": "3770wm",
+    "objectId": "2636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Serangoon Avenue 2  556130, Serangoon / Thomson (D19-20)",
+    "displayText": "Sunglade",
+    "displayType": "Condominium",
+    "nanoId": "zel5nu",
+    "objectId": "277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "59 Ang Mo Kio Avenue 8  567752, Serangoon / Thomson (D19-20)",
+    "displayText": "Centro Residences",
+    "displayType": "Condominium",
+    "nanoId": "zx3tm4",
+    "objectId": "1550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Woodlands Avenue 6  738992, North (D25-28)",
+    "displayText": "Twin Fountains",
+    "displayType": "Executive Condominium",
+    "nanoId": "zpnmjt",
+    "objectId": "21588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Woodlands Avenue 5  739010, North (D25-28)",
+    "displayText": "Bellewoods",
+    "displayType": "Executive Condominium",
+    "nanoId": "hqajlm",
+    "objectId": "21960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Choa Chu Kang Avenue 3  680311, West (D22-24)",
+    "displayText": "Mi Casa",
+    "displayType": "Condominium",
+    "nanoId": "syszvp",
+    "objectId": "1487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Geylang East Avenue 2  389754, Balestier / Geylang (D12-14)",
+    "displayText": "Simsville",
+    "displayType": "Condominium",
+    "nanoId": "7fe744",
+    "objectId": "286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Bukit Batok East Avenue 2  659920, West (D22-24)",
+    "displayText": "Hillview Regency",
+    "displayType": "Condominium",
+    "nanoId": "kw2stx",
+    "objectId": "162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Geylang East Avenue 1  389782, Balestier / Geylang (D12-14)",
+    "displayText": "Tre Residences",
+    "displayType": "Condominium",
+    "nanoId": "6pci1q",
+    "objectId": "22023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Bukit Batok East Avenue 5  659801, West (D22-24)",
+    "displayText": "Regent Heights",
+    "displayType": "Condominium",
+    "nanoId": "q0l9o3",
+    "objectId": "187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131 Serangoon Avenue 3  556112, Serangoon / Thomson (D19-20)",
+    "displayText": "Chiltern Park",
+    "displayType": "Condominium",
+    "nanoId": "dop8c3",
+    "objectId": "308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Tampines Avenue 1  529771, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Tropica",
+    "displayType": "Condominium",
+    "nanoId": "7lqckd",
+    "objectId": "330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "139 Serangoon Avenue 3  556119, Serangoon / Thomson (D19-20)",
+    "displayText": "The Springbloom",
+    "displayType": "Condominium",
+    "nanoId": "6cea3p",
+    "objectId": "462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "78 Hougang Avenue 7  534260, Serangoon / Thomson (D19-20)",
+    "displayText": "The Florida",
+    "displayType": "Condominium",
+    "nanoId": "2rjw7k",
+    "objectId": "214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Ang Mo Kio Avenue 5  804605, North (D25-28)",
+    "displayText": "Belgravia Villas",
+    "displayType": "Cluster House",
+    "nanoId": "ojpqb1",
+    "objectId": "21665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Yishun Avenue 9  760000, North (D25-28)",
+    "displayText": "Nine Residences",
+    "displayType": "Apartment",
+    "nanoId": "haasb8",
+    "objectId": "21750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Bukit Batok East Avenue 6  659763, West (D22-24)",
+    "displayText": "Park Natura",
+    "displayType": "Condominium",
+    "nanoId": "yl2izh",
+    "objectId": "1144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Hougang Avenue 7  538800, Serangoon / Thomson (D19-20)",
+    "displayText": "Evergreen Park",
+    "displayType": "Condominium",
+    "nanoId": "t6a9yf",
+    "objectId": "188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ang Mo Kio Avenue 9  569758, Serangoon / Thomson (D19-20)",
+    "displayText": "Far Horizon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "8kb81y",
+    "objectId": "305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "118 Serangoon Avenue 3  554773, Serangoon / Thomson (D19-20)",
+    "displayText": "Amaranda Gardens",
+    "displayType": "Condominium",
+    "nanoId": "r9mkgr",
+    "objectId": "34",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "341 Ang Mo Kio Avenue 2  567826, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Gardens",
+    "displayType": "Cluster House",
+    "nanoId": "8h09ov",
+    "objectId": "627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Ang Mo Kio Avenue 9  569786, Serangoon / Thomson (D19-20)",
+    "displayText": "Nuovo",
+    "displayType": "Condominium",
+    "nanoId": "ogdjtn",
+    "objectId": "1407",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Ang Mo Kio Avenue 2  567000, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Green",
+    "displayType": "Terraced House",
+    "nanoId": "1bjq7s",
+    "objectId": "1071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "194A Bukit Batok West Avenue 6  651194, West (D22-24)",
+    "displayText": "194A Bukit Batok West Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "qswxei",
+    "objectId": "24524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310A Ang Mo Kio Avenue 1  561310, Serangoon / Thomson (D19-20)",
+    "displayText": "310A Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "99jmc6",
+    "objectId": "20743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310C Ang Mo Kio Avenue 1  563310, Serangoon / Thomson (D19-20)",
+    "displayText": "310C Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "koanwl",
+    "objectId": "20796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310B Ang Mo Kio Avenue 1  562310, Serangoon / Thomson (D19-20)",
+    "displayText": "310B Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "bp0e6t",
+    "objectId": "20797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311C Clementi Avenue 4  123311, City & South West (D01-08)",
+    "displayText": "311C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vpdjy7",
+    "objectId": "23490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "194B Bukit Batok West Avenue 6  652194, West (D22-24)",
+    "displayText": "194B Bukit Batok West Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "h023yg",
+    "objectId": "24572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Hougang Avenue 1",
+    "displayType": "Street",
+    "objectId": "1142",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok West Avenue 8",
+    "displayType": "Street",
+    "objectId": "8482",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok West Avenue 6",
+    "displayType": "Street",
+    "objectId": "8958",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "126 Serangoon Avenue 3  556126, Serangoon / Thomson (D19-20)",
+    "displayText": "Golden Heights",
+    "displayType": "Apartment",
+    "nanoId": "97tuo8",
+    "objectId": "1112",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Geylang East Avenue 2  389760, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Edge",
+    "displayType": "Condominium",
+    "nanoId": "ekbwcw",
+    "objectId": "20679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311A Clementi Avenue 4  121311, City & South West (D01-08)",
+    "displayText": "311A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x55i4m",
+    "objectId": "20894",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "441B Clementi Avenue 3  122441, City & South West (D01-08)",
+    "displayText": "441B Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "6k2v8g",
+    "objectId": "21135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "441A Clementi Avenue 3  121441, City & South West (D01-08)",
+    "displayText": "441A Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "het6cv",
+    "objectId": "21246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "425 Clementi Avenue 1  120425, City & South West (D01-08)",
+    "displayText": "425 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "m1e87l",
+    "objectId": "21904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312A Clementi Avenue 4  121312, City & South West (D01-08)",
+    "displayText": "312A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x1msjn",
+    "objectId": "22765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312C Clementi Avenue 4  123312, City & South West (D01-08)",
+    "displayText": "312C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xfdwml",
+    "objectId": "22766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "815C Choa Chu Kang Avenue 7  683815, West (D22-24)",
+    "displayText": "815C Choa Chu Kang Avenue 7",
+    "displayType": "HDB",
+    "nanoId": "u4txz2",
+    "objectId": "22909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312B Clementi Avenue 4  122312, City & South West (D01-08)",
+    "displayText": "312B Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t83d0f",
+    "objectId": "23201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "292B Bukit Batok East Avenue 6  652292, West (D22-24)",
+    "displayText": "292B Bukit Batok East Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "85dqj4",
+    "objectId": "23330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440C Clementi Avenue 3  123440, City & South West (D01-08)",
+    "displayText": "440C Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "pmsb6a",
+    "objectId": "23376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "449B Bukit Batok West Avenue 9  652449, West (D22-24)",
+    "displayText": "449B Bukit Batok West Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "ztzcv4",
+    "objectId": "23421",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450B Bukit Batok West Avenue 6  652450, West (D22-24)",
+    "displayText": "450B Bukit Batok West Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "jbom2y",
+    "objectId": "23428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450C Bukit Batok West Avenue 6  653450, West (D22-24)",
+    "displayText": "450C Bukit Batok West Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "wvsuxu",
+    "objectId": "23429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311B Clementi Avenue 4  122311, City & South West (D01-08)",
+    "displayText": "311B Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "mm7adl",
+    "objectId": "23489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "441A Bukit Batok West Avenue 8  651441, West (D22-24)",
+    "displayText": "441A Bukit Batok West Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "lvkcut",
+    "objectId": "23580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "439C Bukit Batok West Avenue 8  653439, West (D22-24)",
+    "displayText": "439C Bukit Batok West Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "qhmap2",
+    "objectId": "23756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "604A Tampines Avenue 9  521604, Changi / Pasir Ris (D17-18)",
+    "displayText": "604A Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "atnpw5",
+    "objectId": "23908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240A Jurong East Avenue 1  601240, West (D22-24)",
+    "displayText": "240A Jurong East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "rceyi8",
+    "objectId": "24712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461A Bukit Batok West Avenue 8  651461, West (D22-24)",
+    "displayText": "461A Bukit Batok West Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "29hmqo",
+    "objectId": "25366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461B Bukit Batok West Avenue 8  652461, West (D22-24)",
+    "displayText": "461B Bukit Batok West Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "t9lqtx",
+    "objectId": "25367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461C Bukit Batok West Avenue 8  653461, West (D22-24)",
+    "displayText": "461C Bukit Batok West Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "l1ec5i",
+    "objectId": "25368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "460D Bukit Batok West Avenue 9  654460, West (D22-24)",
+    "displayText": "460D Bukit Batok West Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "zvesjm",
+    "objectId": "25669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700A Ang Mo Kio Avenue 6  561700, Serangoon / Thomson (D19-20)",
+    "displayText": "700A Ang Mo Kio Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "m7jqy5",
+    "objectId": "3217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700B Ang Mo Kio Avenue 6  562700, Serangoon / Thomson (D19-20)",
+    "displayText": "700B Ang Mo Kio Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "ecrgvs",
+    "objectId": "3218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700C Ang Mo Kio Avenue 6  563700, Serangoon / Thomson (D19-20)",
+    "displayText": "700C Ang Mo Kio Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "02hw1y",
+    "objectId": "3219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "190 Bukit Batok West Avenue 6  650190, West (D22-24)",
+    "displayText": "190 Bukit Batok West Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "2gyk0i",
+    "objectId": "4495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

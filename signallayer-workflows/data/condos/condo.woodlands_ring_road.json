@@ -1,0 +1,1561 @@
+[
+  {
+    "displayText": "Woodlands Ring Road",
+    "displayType": "Street",
+    "objectId": "10570",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Ring  Road",
+    "displayType": "Street",
+    "objectId": "9783",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "606 Woodlands Ring Road  730606, North (D25-28)",
+    "displayText": "606 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "55aupm",
+    "objectId": "12181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "607 Woodlands Ring Road  730607, North (D25-28)",
+    "displayText": "607 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "32z2xf",
+    "objectId": "12182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608 Woodlands Ring Road  730608, North (D25-28)",
+    "displayText": "608 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "oqkbbd",
+    "objectId": "12183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609 Woodlands Ring Road  730609, North (D25-28)",
+    "displayText": "609 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "gt68f1",
+    "objectId": "12184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "611 Woodlands Ring Road  730611, North (D25-28)",
+    "displayText": "611 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "5ta2u5",
+    "objectId": "12185",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629 Woodlands Ring Road  730629, North (D25-28)",
+    "displayText": "629 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "21ow9h",
+    "objectId": "12186",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630 Woodlands Ring Road  730630, North (D25-28)",
+    "displayText": "630 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "zjzx5u",
+    "objectId": "12187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "631 Woodlands Ring Road  730631, North (D25-28)",
+    "displayText": "631 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "u5npwt",
+    "objectId": "12188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "632 Woodlands Ring Road  730632, North (D25-28)",
+    "displayText": "632 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "apuxfi",
+    "objectId": "12189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633 Woodlands Ring Road  730633, North (D25-28)",
+    "displayText": "633 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "kewlfr",
+    "objectId": "12190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634 Woodlands Ring Road  730634, North (D25-28)",
+    "displayText": "634 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ngmla1",
+    "objectId": "12191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635 Woodlands Ring Road  730635, North (D25-28)",
+    "displayText": "635 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "lnkcmf",
+    "objectId": "12192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636 Woodlands Ring Road  730636, North (D25-28)",
+    "displayText": "636 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "nrk7o5",
+    "objectId": "12193",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "637 Woodlands Ring Road  730637, North (D25-28)",
+    "displayText": "637 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "0jrj6o",
+    "objectId": "12194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "638 Woodlands Ring Road  730638, North (D25-28)",
+    "displayText": "638 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2wg4ub",
+    "objectId": "12195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "639 Woodlands Ring Road  730639, North (D25-28)",
+    "displayText": "639 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "kbqlmx",
+    "objectId": "12196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "640 Woodlands Ring Road  730640, North (D25-28)",
+    "displayText": "640 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "5kqyf2",
+    "objectId": "12197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "643 Woodlands Ring Road  730643, North (D25-28)",
+    "displayText": "643 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ndsk65",
+    "objectId": "12198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "644 Woodlands Ring Road  730644, North (D25-28)",
+    "displayText": "644 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "hwa09a",
+    "objectId": "12199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "645 Woodlands Ring Road  730645, North (D25-28)",
+    "displayText": "645 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "byj8gs",
+    "objectId": "12200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "646 Woodlands Ring Road  730646, North (D25-28)",
+    "displayText": "646 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "fxp2hm",
+    "objectId": "12201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "647 Woodlands Ring Road  730647, North (D25-28)",
+    "displayText": "647 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ceeys7",
+    "objectId": "12202",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "648 Woodlands Ring Road  730648, North (D25-28)",
+    "displayText": "648 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "jhjgnu",
+    "objectId": "12203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "649 Woodlands Ring Road  730649, North (D25-28)",
+    "displayText": "649 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "wwlq3r",
+    "objectId": "12204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "650 Woodlands Ring Road  730650, North (D25-28)",
+    "displayText": "650 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "1p3tnx",
+    "objectId": "12205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "651 Woodlands Ring Road  730651, North (D25-28)",
+    "displayText": "651 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "vq5u9w",
+    "objectId": "12206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "652 Woodlands Ring Road  730652, North (D25-28)",
+    "displayText": "652 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "pij2p1",
+    "objectId": "12207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "653 Woodlands Ring Road  730653, North (D25-28)",
+    "displayText": "653 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "pbb4sf",
+    "objectId": "12208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "654 Woodlands Ring Road  730654, North (D25-28)",
+    "displayText": "654 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "w9n9of",
+    "objectId": "12209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "655 Woodlands Ring Road  730655, North (D25-28)",
+    "displayText": "655 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6h2czk",
+    "objectId": "12210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "656 Woodlands Ring Road  730656, North (D25-28)",
+    "displayText": "656 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "1htls9",
+    "objectId": "12211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "657 Woodlands Ring Road  730657, North (D25-28)",
+    "displayText": "657 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "udkcvc",
+    "objectId": "12212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "658 Woodlands Ring Road  730658, North (D25-28)",
+    "displayText": "658 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ji8xf2",
+    "objectId": "12213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659 Woodlands Ring Road  730659, North (D25-28)",
+    "displayText": "659 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "hsd33d",
+    "objectId": "12214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660 Woodlands Ring Road  730660, North (D25-28)",
+    "displayText": "660 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3johzc",
+    "objectId": "12215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661 Woodlands Ring Road  730661, North (D25-28)",
+    "displayText": "661 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "28s7ev",
+    "objectId": "12216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662 Woodlands Ring Road  730662, North (D25-28)",
+    "displayText": "662 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "oubnpb",
+    "objectId": "12217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "663 Woodlands Ring Road  730663, North (D25-28)",
+    "displayText": "663 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "uf6cgl",
+    "objectId": "12218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664 Woodlands Ring Road  730664, North (D25-28)",
+    "displayText": "664 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "08dwn5",
+    "objectId": "12219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "665 Woodlands Ring Road  730665, North (D25-28)",
+    "displayText": "665 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "iph27u",
+    "objectId": "12220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "666 Woodlands Ring Road  730666, North (D25-28)",
+    "displayText": "666 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "p2h031",
+    "objectId": "12221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "667 Woodlands Ring Road  730667, North (D25-28)",
+    "displayText": "667 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "mt550w",
+    "objectId": "12222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668 Woodlands Ring Road  730668, North (D25-28)",
+    "displayText": "668 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "fu5col",
+    "objectId": "12223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669 Woodlands Ring Road  730669, North (D25-28)",
+    "displayText": "669 Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "674azv",
+    "objectId": "12224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608A Woodlands Ring Road  731608, North (D25-28)",
+    "displayText": "608A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "dy69tm",
+    "objectId": "12225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "628A Woodlands Ring Road  731628, North (D25-28)",
+    "displayText": "628A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2ql18a",
+    "objectId": "12226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "628B Woodlands Ring Road  732628, North (D25-28)",
+    "displayText": "628B Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6j5q5c",
+    "objectId": "12227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630A Woodlands Ring Road  731630, North (D25-28)",
+    "displayText": "630A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "dvyjgo",
+    "objectId": "12228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633A Woodlands Ring Road  731633, North (D25-28)",
+    "displayText": "633A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "tck0p2",
+    "objectId": "12229",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "638A Woodlands Ring Road  731638, North (D25-28)",
+    "displayText": "638A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "nmhlna",
+    "objectId": "12230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "644A Woodlands Ring Road  731644, North (D25-28)",
+    "displayText": "644A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "vdko76",
+    "objectId": "12232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "649A Woodlands Ring Road  731649, North (D25-28)",
+    "displayText": "649A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "vz4z49",
+    "objectId": "12233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "656A Woodlands Ring Road  731656, North (D25-28)",
+    "displayText": "656A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "z7a9kr",
+    "objectId": "12234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661A Woodlands Ring Road  731661, North (D25-28)",
+    "displayText": "661A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "c6s6nj",
+    "objectId": "12235",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "667A Woodlands Ring Road  731667, North (D25-28)",
+    "displayText": "667A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "folsqh",
+    "objectId": "12236",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26",
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668A Woodlands Ring Road  731668, North (D25-28)",
+    "displayText": "668A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "gafpea",
+    "objectId": "12237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "639A Woodlands Ring Road  731639, North (D25-28)",
+    "displayText": "639A Woodlands Ring Road",
+    "displayType": "HDB",
+    "nanoId": "wfyhmv",
+    "objectId": "12231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Woodlands Ring",
+    "displayType": "Street",
+    "objectId": "3699",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sing Ming",
+    "displayType": "Street",
+    "objectId": "9568",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "590 Yishun Ring Road  768694, North (D25-28)",
+    "displayText": "The Wisteria",
+    "displayType": "Condominium",
+    "nanoId": "kg2v86",
+    "objectId": "22391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Yishun Ring Road",
+    "displayType": "Street",
+    "objectId": "3743",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "103 Yishun Ring Road  760103, North (D25-28)",
+    "displayText": "103 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "rh8gnj",
+    "objectId": "12591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Yishun Ring Road  760104, North (D25-28)",
+    "displayText": "104 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6buz85",
+    "objectId": "12592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Yishun Ring Road  760105, North (D25-28)",
+    "displayText": "105 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "txphv6",
+    "objectId": "12593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Yishun Ring Road  760106, North (D25-28)",
+    "displayText": "106 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "nlagdk",
+    "objectId": "12594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Yishun Ring Road  760107, North (D25-28)",
+    "displayText": "107 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3qgnkl",
+    "objectId": "12595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Yishun Ring Road  760108, North (D25-28)",
+    "displayText": "108 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "kvkrnx",
+    "objectId": "12596",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Yishun Ring Road  760109, North (D25-28)",
+    "displayText": "109 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "st692t",
+    "objectId": "12597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Yishun Ring Road  760110, North (D25-28)",
+    "displayText": "110 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "u7c8uz",
+    "objectId": "12598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Yishun Ring Road  760111, North (D25-28)",
+    "displayText": "111 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "i3stay",
+    "objectId": "12599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Yishun Ring Road  760113, North (D25-28)",
+    "displayText": "113 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "qxi5bl",
+    "objectId": "12601",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Yishun Ring Road  760114, North (D25-28)",
+    "displayText": "114 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "t2w3h3",
+    "objectId": "12602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Yishun Ring Road  760115, North (D25-28)",
+    "displayText": "115 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2tkfdw",
+    "objectId": "12603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Yishun Ring Road  760116, North (D25-28)",
+    "displayText": "116 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cpijhv",
+    "objectId": "12604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Yishun Ring Road  760117, North (D25-28)",
+    "displayText": "117 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "xjvm37",
+    "objectId": "12605",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Yishun Ring Road  760118, North (D25-28)",
+    "displayText": "118 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "yyhzbs",
+    "objectId": "12606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Yishun Ring Road  760120, North (D25-28)",
+    "displayText": "120 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "14pr60",
+    "objectId": "12608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Yishun Ring Road  760136, North (D25-28)",
+    "displayText": "136 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "u6o15g",
+    "objectId": "12609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Yishun Ring Road  760137, North (D25-28)",
+    "displayText": "137 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2tjezm",
+    "objectId": "12610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Yishun Ring Road  760138, North (D25-28)",
+    "displayText": "138 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "efmchi",
+    "objectId": "12611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Yishun Ring Road  760139, North (D25-28)",
+    "displayText": "139 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cezhn4",
+    "objectId": "12612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Yishun Ring Road  760141, North (D25-28)",
+    "displayText": "141 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3otzmu",
+    "objectId": "12614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Yishun Ring Road  760142, North (D25-28)",
+    "displayText": "142 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "4sxy42",
+    "objectId": "12615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Yishun Ring Road  760143, North (D25-28)",
+    "displayText": "143 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "owa8a3",
+    "objectId": "12616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Yishun Ring Road  760165, North (D25-28)",
+    "displayText": "165 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "d1nbc7",
+    "objectId": "12617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Yishun Ring Road  760166, North (D25-28)",
+    "displayText": "166 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ignabh",
+    "objectId": "12618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167 Yishun Ring Road  760167, North (D25-28)",
+    "displayText": "167 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cyj5t3",
+    "objectId": "12619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Yishun Ring Road  760236, North (D25-28)",
+    "displayText": "236 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "7w7ctg",
+    "objectId": "12620",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Yishun Ring Road  760237, North (D25-28)",
+    "displayText": "237 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "wg6ty7",
+    "objectId": "12621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238 Yishun Ring Road  760238, North (D25-28)",
+    "displayText": "238 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "o5lmeg",
+    "objectId": "12622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Yishun Ring Road  760240, North (D25-28)",
+    "displayText": "240 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ua48k3",
+    "objectId": "12624",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Yishun Ring Road  760241, North (D25-28)",
+    "displayText": "241 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ndrigx",
+    "objectId": "12625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Yishun Ring Road  760242, North (D25-28)",
+    "displayText": "242 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "nivoef",
+    "objectId": "12626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Yishun Ring Road  760243, North (D25-28)",
+    "displayText": "243 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "8fn6ca",
+    "objectId": "12627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Yishun Ring Road  760244, North (D25-28)",
+    "displayText": "244 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ctp80i",
+    "objectId": "12628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "253 Yishun Ring Road  760253, North (D25-28)",
+    "displayText": "253 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "t19dyq",
+    "objectId": "12631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "254 Yishun Ring Road  760254, North (D25-28)",
+    "displayText": "254 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "hoaeio",
+    "objectId": "12632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "255 Yishun Ring Road  760255, North (D25-28)",
+    "displayText": "255 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "j1dc9v",
+    "objectId": "12633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

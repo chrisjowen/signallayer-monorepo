@@ -1,0 +1,1611 @@
+[
+  {
+    "displayDescription": "10 Fernvale Street  797390, North (D25-28)",
+    "displayText": "Parc Botannia",
+    "displayType": "Condominium",
+    "nanoId": "8rvnxq",
+    "objectId": "23265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "473 Fernvale Street  790473, North (D25-28)",
+    "displayText": "473 Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "8psdop",
+    "objectId": "22283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471A Fernvale Street  791471, North (D25-28)",
+    "displayText": "471A Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "0054fk",
+    "objectId": "22288",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471B Fernvale Street  792471, North (D25-28)",
+    "displayText": "471B Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "3j0u2d",
+    "objectId": "22289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471C Fernvale Street  793471, North (D25-28)",
+    "displayText": "471C Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "f4swdv",
+    "objectId": "22290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "472A Fernvale Street  791472, North (D25-28)",
+    "displayText": "472A Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "u4r20o",
+    "objectId": "22291",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "472B Fernvale Street  792472, North (D25-28)",
+    "displayText": "472B Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "88rsoj",
+    "objectId": "22292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "472C Fernvale Street  793472, North (D25-28)",
+    "displayText": "472C Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "sslvza",
+    "objectId": "22293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "472D Fernvale Street  794472, North (D25-28)",
+    "displayText": "472D Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "1h5b78",
+    "objectId": "22294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "473A Fernvale Street  791473, North (D25-28)",
+    "displayText": "473A Fernvale Street",
+    "displayType": "HDB",
+    "nanoId": "zhh13u",
+    "objectId": "22295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 Fernvale Road  797415, North (D25-28)",
+    "displayText": "High Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "e4880m",
+    "objectId": "22181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Fernvale Lane  797495, North (D25-28)",
+    "displayText": "The Topiary",
+    "displayType": "Executive Condominium",
+    "nanoId": "sixqow",
+    "objectId": "21387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Fernvale Link  797530, North (D25-28)",
+    "displayText": "H2O Residences",
+    "displayType": "Condominium",
+    "nanoId": "dmn86z",
+    "objectId": "20606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sengkang West Way/Fernvale  793000, North (D25-28)",
+    "displayText": "Riverbank at Fernvale",
+    "displayType": "Condominium",
+    "nanoId": "mycbaw",
+    "objectId": "21835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Fernvale Close  797460, North (D25-28)",
+    "displayText": "RiverTrees Residences",
+    "displayType": "Condominium",
+    "nanoId": "bkynxw",
+    "objectId": "21852",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sengkang West Way/Fernvale  793000, North (D25-28)",
+    "displayText": "Lush Acres",
+    "displayType": "Executive Condominium",
+    "nanoId": "vsacyh",
+    "objectId": "21692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Fernvale Lane  797352, North (D25-28)",
+    "displayText": "Parc Greenwich",
+    "displayType": "Executive Condominium",
+    "nanoId": "0b17ys",
+    "objectId": "24658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "418C Fernvale Link  793418, North (D25-28)",
+    "displayText": "418C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "zxdar8",
+    "objectId": "23079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Fernvale Road",
+    "displayType": "Street",
+    "objectId": "3870",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "470B Fernvale Link  792470, North (D25-28)",
+    "displayText": "470B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "yty4u3",
+    "objectId": "22285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470C Fernvale Link  793470, North (D25-28)",
+    "displayText": "470C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "tokwmu",
+    "objectId": "22286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417A Fernvale Link  791417, North (D25-28)",
+    "displayText": "417A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "5uawmr",
+    "objectId": "23075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410A Fernvale Road  791410, North (D25-28)",
+    "displayText": "410A Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "mr5tbf",
+    "objectId": "6103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430D Fernvale Link  794430, North (D25-28)",
+    "displayText": "430D Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "5mrsh3",
+    "objectId": "21783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415A Fernvale Link  791415, North (D25-28)",
+    "displayText": "415A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "2yju9v",
+    "objectId": "22176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440A Fernvale Link  791440, North (D25-28)",
+    "displayText": "440A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "36g2d4",
+    "objectId": "22262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416A Fernvale Link  791416, North (D25-28)",
+    "displayText": "416A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "tz6r1a",
+    "objectId": "22266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470A Fernvale Link  791470, North (D25-28)",
+    "displayText": "470A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "634hna",
+    "objectId": "22284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470D Fernvale Link  794470, North (D25-28)",
+    "displayText": "470D Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "c18osp",
+    "objectId": "22287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "453D Fernvale Road  794453, North (D25-28)",
+    "displayText": "453D Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "l4slmz",
+    "objectId": "22409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "453A Fernvale Road  791453, North (D25-28)",
+    "displayText": "453A Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "0h58ow",
+    "objectId": "22410",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22",
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "453B Fernvale Road  792453, North (D25-28)",
+    "displayText": "453B Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "upwn30",
+    "objectId": "22411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "453C Fernvale Road  793453, North (D25-28)",
+    "displayText": "453C Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "sae61a",
+    "objectId": "22412",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414A Fernvale Link  791414, North (D25-28)",
+    "displayText": "414A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "f58emk",
+    "objectId": "22583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414B Fernvale Link  792414, North (D25-28)",
+    "displayText": "414B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "sc0hre",
+    "objectId": "22584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415B Fernvale Link  792415, North (D25-28)",
+    "displayText": "415B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "9dhwee",
+    "objectId": "22585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415C Fernvale Link  793415, North (D25-28)",
+    "displayText": "415C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "qrsv9h",
+    "objectId": "22586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416B Fernvale Link  792416, North (D25-28)",
+    "displayText": "416B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "8fshlg",
+    "objectId": "22587",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416C Fernvale Link  793416, North (D25-28)",
+    "displayText": "416C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "7i3e98",
+    "objectId": "22588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440B Fernvale Link  792440, North (D25-28)",
+    "displayText": "440B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "luh3ki",
+    "objectId": "22595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22",
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430A Fernvale Link  791430, North (D25-28)",
+    "displayText": "430A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "7se5ef",
+    "objectId": "22858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430B Fernvale Link  792430, North (D25-28)",
+    "displayText": "430B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "o8zk0v",
+    "objectId": "22859",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430C Fernvale Link  793430, North (D25-28)",
+    "displayText": "430C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "a6j0va",
+    "objectId": "22860",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467 Fernvale Link  790467, North (D25-28)",
+    "displayText": "467 Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "wx5dvk",
+    "objectId": "22896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467A Fernvale Link  791467, North (D25-28)",
+    "displayText": "467A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "o369kl",
+    "objectId": "22897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468A Fernvale Link  791468, North (D25-28)",
+    "displayText": "468A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "ihi70q",
+    "objectId": "22898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467B Fernvale Link  792467, North (D25-28)",
+    "displayText": "467B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "f3vsl3",
+    "objectId": "22899",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468B Fernvale Link  792468, North (D25-28)",
+    "displayText": "468B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "5uzy64",
+    "objectId": "22900",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468C Fernvale Link  793468, North (D25-28)",
+    "displayText": "468C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "nn7myc",
+    "objectId": "22901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Fernvale Link  790418, North (D25-28)",
+    "displayText": "418 Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "8uq5yh",
+    "objectId": "23076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418A Fernvale Link  791418, North (D25-28)",
+    "displayText": "418A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "ohcgva",
+    "objectId": "23077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418B Fernvale Link  792418, North (D25-28)",
+    "displayText": "418B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "x1yc9w",
+    "objectId": "23078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418D Fernvale Link  794418, North (D25-28)",
+    "displayText": "418D Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "5822m1",
+    "objectId": "23080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440C Fernvale Link  793440, North (D25-28)",
+    "displayText": "440C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "cy9j4c",
+    "objectId": "23542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402A Fernvale Lane  791402, Serangoon / Thomson (D19-20)",
+    "displayText": "402A Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "iftvla",
+    "objectId": "25512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "401F Fernvale Lane  796401, North (D25-28)",
+    "displayText": "401F Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "o5r0f7",
+    "objectId": "25622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "400A Fernvale Lane  791400, North (D25-28)",
+    "displayText": "400A Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "0eh6x6",
+    "objectId": "25757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "400B Fernvale Lane  792400, North (D25-28)",
+    "displayText": "400B Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "7359c6",
+    "objectId": "25758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "400C Fernvale Lane  793400, North (D25-28)",
+    "displayText": "400C Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "583wuf",
+    "objectId": "25759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "400E Fernvale Lane  795400, North (D25-28)",
+    "displayText": "400E Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "30k39j",
+    "objectId": "25760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "465B Fernvale Road  792465, North (D25-28)",
+    "displayText": "465B Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "b5w090",
+    "objectId": "25795",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "464B Fernvale Road   792464, North (D25-28)",
+    "displayText": "464B Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "5is96x",
+    "objectId": "25828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Fernvale Lane  790403, North (D25-28)",
+    "displayText": "403 Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "h3v48d",
+    "objectId": "6061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404 Fernvale Lane  790404, North (D25-28)",
+    "displayText": "404 Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "w5u0ah",
+    "objectId": "6062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405 Fernvale Lane  790405, North (D25-28)",
+    "displayText": "405 Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "0p6saj",
+    "objectId": "6063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403A Fernvale Lane  791403, North (D25-28)",
+    "displayText": "403A Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "0dh6bo",
+    "objectId": "6064",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403B Fernvale Lane  792403, North (D25-28)",
+    "displayText": "403B Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "gw9kei",
+    "objectId": "6065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403C Fernvale Lane  793403, North (D25-28)",
+    "displayText": "403C Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "hyqxr9",
+    "objectId": "6066",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403D Fernvale Lane  794403, North (D25-28)",
+    "displayText": "403D Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "z93e1h",
+    "objectId": "6067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404A Fernvale Lane  791404, North (D25-28)",
+    "displayText": "404A Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "6v2xlk",
+    "objectId": "6068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404B Fernvale Lane  792404, North (D25-28)",
+    "displayText": "404B Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "g7xx9o",
+    "objectId": "6069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405A Fernvale Lane  791405, North (D25-28)",
+    "displayText": "405A Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "zwy872",
+    "objectId": "6070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405B Fernvale Lane  792405, North (D25-28)",
+    "displayText": "405B Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "238znh",
+    "objectId": "6071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405C Fernvale Lane  793405, North (D25-28)",
+    "displayText": "405C Fernvale Lane",
+    "displayType": "HDB",
+    "nanoId": "dayrqp",
+    "objectId": "6072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Fernvale Link  790412, North (D25-28)",
+    "displayText": "412 Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "ft8tly",
+    "objectId": "6073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Fernvale Link  790413, North (D25-28)",
+    "displayText": "413 Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "9cb6od",
+    "objectId": "6074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412A Fernvale Link  791412, North (D25-28)",
+    "displayText": "412A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "q8rpc7",
+    "objectId": "6075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412B Fernvale Link  792412, North (D25-28)",
+    "displayText": "412B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "z7t2lz",
+    "objectId": "6076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413A Fernvale Link  791413, North (D25-28)",
+    "displayText": "413A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "ys73tu",
+    "objectId": "6077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413B Fernvale Link  792413, North (D25-28)",
+    "displayText": "413B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "620wlc",
+    "objectId": "6078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Fernvale Road  790406, North (D25-28)",
+    "displayText": "406 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "w9cfya",
+    "objectId": "6079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407 Fernvale Road  790407, North (D25-28)",
+    "displayText": "407 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "ryoxdr",
+    "objectId": "6080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Fernvale Road  790408, North (D25-28)",
+    "displayText": "408 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "ygvux3",
+    "objectId": "6081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Fernvale Road  790411, North (D25-28)",
+    "displayText": "411 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "pjfq9x",
+    "objectId": "6083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "435 Fernvale Road  790435, North (D25-28)",
+    "displayText": "435 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "28s11e",
+    "objectId": "6085",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "436 Fernvale Road  790436, North (D25-28)",
+    "displayText": "436 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "b52nwu",
+    "objectId": "6086",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "442 Fernvale Road  790442, North (D25-28)",
+    "displayText": "442 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "26ojeh",
+    "objectId": "6089",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "443 Fernvale Road  790443, North (D25-28)",
+    "displayText": "443 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "conjli",
+    "objectId": "6090",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "445 Fernvale Road  790445, North (D25-28)",
+    "displayText": "445 Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "7ee74a",
+    "objectId": "6091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406A Fernvale Road  791406, North (D25-28)",
+    "displayText": "406A Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "7qrktw",
+    "objectId": "6092",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406B Fernvale Road  792406, North (D25-28)",
+    "displayText": "406B Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "z1mjws",
+    "objectId": "6093",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406C Fernvale Road  793406, North (D25-28)",
+    "displayText": "406C Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "yqjlno",
+    "objectId": "6094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407A Fernvale Road  791407, North (D25-28)",
+    "displayText": "407A Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "fosou9",
+    "objectId": "6095",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407B Fernvale Road  792407, North (D25-28)",
+    "displayText": "407B Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "bk0fjz",
+    "objectId": "6096",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407C Fernvale Road  793407, North (D25-28)",
+    "displayText": "407C Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "85pogu",
+    "objectId": "6097",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408A Fernvale Road  791408, North (D25-28)",
+    "displayText": "408A Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "3tlxoa",
+    "objectId": "6098",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408B Fernvale Road  792408, North (D25-28)",
+    "displayText": "408B Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "w925j9",
+    "objectId": "6099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408C Fernvale Road  793408, North (D25-28)",
+    "displayText": "408C Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "xt40ln",
+    "objectId": "6100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409A Fernvale Road  791409, North (D25-28)",
+    "displayText": "409A Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "38adbh",
+    "objectId": "6101",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409B Fernvale Road  792409, North (D25-28)",
+    "displayText": "409B Fernvale Road",
+    "displayType": "HDB",
+    "nanoId": "c5u9ai",
+    "objectId": "6102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

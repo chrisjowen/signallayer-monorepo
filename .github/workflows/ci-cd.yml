@@ -1,0 +1,216 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+env:
+  PYTHON_VERSION: "3.11"
+  UV_VERSION: "0.5.11"
+  NODE_VERSION: "20"
+
+jobs:
+  # ============================================
+  # Workflows (Python/Temporal) Tests
+  # ============================================
+  test-workflows:
+    name: Test Workflows
+    runs-on: ubuntu-latest
+
+    services:
+      temporal:
+        image: temporalio/auto-setup:latest
+        ports:
+          - 7233:7233
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/${{ env.UV_VERSION }}/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/uv
+            signallayer-workflows/.venv
+          key: ${{ runner.os }}-uv-workflows-${{ hashFiles('signallayer-workflows/pyproject.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-uv-workflows-
+
+      - name: Install dependencies
+        working-directory: signallayer-workflows
+        run: |
+          uv sync --all-extras
+
+      - name: Wait for Temporal
+        run: |
+          echo "Waiting for Temporal to be ready..."
+          for i in {1..30}; do
+            if nc -z localhost 7233; then
+              echo "Temporal is up!"
+              exit 0
+            fi
+            echo "Waiting... ($i/30)"
+            sleep 2
+          done
+          echo "Temporal failed to start"
+          exit 1
+
+      - name: Run linting
+        working-directory: signallayer-workflows
+        run: |
+          uv run ruff check .
+        continue-on-error: true
+
+      - name: Run type checking
+        working-directory: signallayer-workflows
+        run: |
+          uv run mypy src
+        continue-on-error: true
+
+      - name: Run tests
+        working-directory: signallayer-workflows
+        env:
+          PYTHONPATH: ${{ github.workspace }}/signallayer-workflows
+          TEMPORAL_ADDRESS: localhost:7233
+          TEMPORAL_TASK_QUEUE: signallayer-queue
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          uv run pytest tests/ -v --cov=src --cov-report=xml --cov-report=term
+
+      - name: Upload coverage reports
+        uses: codecov/codecov-action@v4
+        if: github.event_name == 'push'
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          files: signallayer-workflows/coverage.xml
+          flags: workflows
+          fail_ci_if_error: false
+
+  # ============================================
+  # UI (SvelteKit) Tests
+  # ============================================
+  test-ui:
+    name: Test UI
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Get pnpm store directory
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+
+      - name: Cache pnpm
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('signallayer-ui/pnpm-lock.yaml', 'signallayer-ui/package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies
+        working-directory: signallayer-ui
+        run: pnpm install
+
+      - name: Run lint
+        working-directory: signallayer-ui
+        run: pnpm run lint
+        continue-on-error: true
+
+      - name: Run type check
+        working-directory: signallayer-ui
+        run: pnpm run check
+        continue-on-error: true
+
+      - name: Build
+        working-directory: signallayer-ui
+        run: pnpm run build
+
+  # ============================================
+  # Deploy Workflows to Fly.io
+  # ============================================
+  deploy-workflows:
+    name: Deploy Workflows to Fly.io
+    runs-on: ubuntu-latest
+    needs: [test-workflows, test-ui]
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Fly CLI
+        uses: superfly/flyctl-actions/setup-flyctl@master
+
+      - name: Deploy to Fly.io
+        working-directory: signallayer-workflows
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+        run: |
+          flyctl deploy --remote-only
+
+  # ============================================
+  # Deploy UI (if needed - placeholder)
+  # ============================================
+  deploy-ui:
+    name: Deploy UI
+    runs-on: ubuntu-latest
+    needs: [test-workflows, test-ui]
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        working-directory: signallayer-ui
+        run: pnpm install
+
+      - name: Build
+        working-directory: signallayer-ui
+        run: pnpm run build
+
+      # Add your UI deployment steps here (Vercel, Netlify, Fly.io, etc.)
+      # Example for Vercel:
+      # - name: Deploy to Vercel
+      #   uses: amondnet/vercel-action@v25
+      #   with:
+      #     vercel-token: ${{ secrets.VERCEL_TOKEN }}
+      #     vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+      #     vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+      #     working-directory: signallayer-ui

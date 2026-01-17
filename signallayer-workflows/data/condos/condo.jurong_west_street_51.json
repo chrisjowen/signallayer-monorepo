@@ -1,0 +1,1395 @@
+[
+  {
+    "displayText": "Jurong West Street 51",
+    "displayType": "Street",
+    "objectId": "1717",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "501 Jurong West Street 51  640501, West (D22-24)",
+    "displayText": "501 Jurong West Street 51",
+    "displayType": "HDB",
+    "nanoId": "ul5jcj",
+    "objectId": "7560",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Jurong West Street 51  640504, West (D22-24)",
+    "displayText": "504 Jurong West Street 51",
+    "displayType": "HDB",
+    "nanoId": "u21gp4",
+    "objectId": "7561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 Jurong West Street 51  640509, West (D22-24)",
+    "displayText": "509 Jurong West Street 51",
+    "displayType": "HDB",
+    "nanoId": "1zsdsa",
+    "objectId": "7562",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501B Jurong West Street 51  642501, West (D22-24)",
+    "displayText": "501B Jurong West Street 51",
+    "displayType": "HDB",
+    "nanoId": "xqa9sj",
+    "objectId": "7564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501C Jurong West Street 51  643501, West (D22-24)",
+    "displayText": "501C Jurong West Street 51",
+    "displayType": "HDB",
+    "nanoId": "36gl3h",
+    "objectId": "7565",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501A Jurong West Street 51  641501, West (D22-24)",
+    "displayText": "501A Jurong West Street 51",
+    "displayType": "HDB",
+    "nanoId": "89qpa7",
+    "objectId": "7563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Jurong West Street 52  640510, West (D22-24)",
+    "displayText": "510 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "1qqjr5",
+    "objectId": "7570",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Jurong West Street 52  640511, West (D22-24)",
+    "displayText": "511 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "i98lg6",
+    "objectId": "7571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Jurong West Street 52  640513, West (D22-24)",
+    "displayText": "513 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "bc43eh",
+    "objectId": "7572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Jurong West Street 52  640514, West (D22-24)",
+    "displayText": "514 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "kiauxr",
+    "objectId": "7573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Jurong West Street 52  640515, West (D22-24)",
+    "displayText": "515 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "znut9k",
+    "objectId": "7574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Jurong West Street 52  640516, West (D22-24)",
+    "displayText": "516 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "yhug2e",
+    "objectId": "7575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Jurong West Street 52  640517, West (D22-24)",
+    "displayText": "517 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "cmdl0r",
+    "objectId": "7576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Jurong West Street 52  640518, West (D22-24)",
+    "displayText": "518 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "8lfvpe",
+    "objectId": "7577",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519 Jurong West Street 52  640519, West (D22-24)",
+    "displayText": "519 Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "wz4tq4",
+    "objectId": "7578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517A Jurong West Street 52  641517, West (D22-24)",
+    "displayText": "517A Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "lygjgt",
+    "objectId": "7596",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517B Jurong West Street 52  642517, West (D22-24)",
+    "displayText": "517B Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "aorymr",
+    "objectId": "7597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517C Jurong West Street 52  643517, West (D22-24)",
+    "displayText": "517C Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "21anwo",
+    "objectId": "7598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517D Jurong West Street 52  644517, West (D22-24)",
+    "displayText": "517D Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "cct6gj",
+    "objectId": "7599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517E Jurong West Street 52  645517, West (D22-24)",
+    "displayText": "517E Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "unzhcg",
+    "objectId": "7600",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517F Jurong West Street 52  646517, West (D22-24)",
+    "displayText": "517F Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "gqz065",
+    "objectId": "7601",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518A Jurong West Street 52  641518, West (D22-24)",
+    "displayText": "518A Jurong West Street 52",
+    "displayType": "HDB",
+    "nanoId": "xg575q",
+    "objectId": "7602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jurong West Street 41",
+    "displayType": "Street",
+    "objectId": "1715",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 52",
+    "displayType": "Street",
+    "objectId": "1718",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 61",
+    "displayType": "Street",
+    "objectId": "1719",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 81",
+    "displayType": "Street",
+    "objectId": "1728",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 91",
+    "displayType": "Street",
+    "objectId": "1730",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 71",
+    "displayType": "Street",
+    "objectId": "1722",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 64",
+    "displayType": "Street",
+    "objectId": "1721",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 65",
+    "displayType": "Street",
+    "objectId": "10382",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 42",
+    "displayType": "Street",
+    "objectId": "1716",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 24",
+    "displayType": "Street",
+    "objectId": "10296",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 25",
+    "displayType": "Street",
+    "objectId": "10566",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 63",
+    "displayType": "Street",
+    "objectId": "10959",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 62",
+    "displayType": "Street",
+    "objectId": "1720",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 72",
+    "displayType": "Street",
+    "objectId": "1723",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 73",
+    "displayType": "Street",
+    "objectId": "1724",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 74",
+    "displayType": "Street",
+    "objectId": "1725",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 75",
+    "displayType": "Street",
+    "objectId": "1726",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 82",
+    "displayType": "Street",
+    "objectId": "1729",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 92",
+    "displayType": "Street",
+    "objectId": "1731",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong West Street 93",
+    "displayType": "Street",
+    "objectId": "1732",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "535 Choa Chu Kang Street 51  680535, West (D22-24)",
+    "displayText": "535 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "xrkxiw",
+    "objectId": "21974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526 Bukit Batok Street 51  650526, West (D22-24)",
+    "displayText": "526 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "x8y79t",
+    "objectId": "4391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Bukit Batok Street 51  650527, West (D22-24)",
+    "displayText": "527 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "wqi5h0",
+    "objectId": "4392",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Bukit Batok Street 51  650528, West (D22-24)",
+    "displayText": "528 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "r7o2vw",
+    "objectId": "4393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530 Bukit Batok Street 51  650530, West (D22-24)",
+    "displayText": "530 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "4we9g9",
+    "objectId": "4394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "531 Bukit Batok Street 51  650531, West (D22-24)",
+    "displayText": "531 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "no1t5j",
+    "objectId": "4395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "532 Bukit Batok Street 51  650532, West (D22-24)",
+    "displayText": "532 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "a0t1be",
+    "objectId": "4396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533 Bukit Batok Street 51  650533, West (D22-24)",
+    "displayText": "533 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "wscx24",
+    "objectId": "4397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "534 Bukit Batok Street 51  650534, West (D22-24)",
+    "displayText": "534 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "az650m",
+    "objectId": "4398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501 Choa Chu Kang Street 51  680501, West (D22-24)",
+    "displayText": "501 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "bv3dpu",
+    "objectId": "5134",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Choa Chu Kang Street 51  680503, West (D22-24)",
+    "displayText": "503 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "y69dm3",
+    "objectId": "5136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Choa Chu Kang Street 51  680504, West (D22-24)",
+    "displayText": "504 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "bce8mo",
+    "objectId": "5137",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Choa Chu Kang Street 51  680505, West (D22-24)",
+    "displayText": "505 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "56m716",
+    "objectId": "5138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Choa Chu Kang Street 51  680506, West (D22-24)",
+    "displayText": "506 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "ljvcxp",
+    "objectId": "5139",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Choa Chu Kang Street 51  680508, West (D22-24)",
+    "displayText": "508 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "qnf3uw",
+    "objectId": "5141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 Choa Chu Kang Street 51  680509, West (D22-24)",
+    "displayText": "509 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "rau9ed",
+    "objectId": "5142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Choa Chu Kang Street 51  680510, West (D22-24)",
+    "displayText": "510 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "0x6xxf",
+    "objectId": "5143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Choa Chu Kang Street 51  680511, West (D22-24)",
+    "displayText": "511 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "jhmbm2",
+    "objectId": "5144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Choa Chu Kang Street 51  680512, West (D22-24)",
+    "displayText": "512 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "6c33ai",
+    "objectId": "5145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Choa Chu Kang Street 51  680513, West (D22-24)",
+    "displayText": "513 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "0ojmbo",
+    "objectId": "5146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Choa Chu Kang Street 51  680514, West (D22-24)",
+    "displayText": "514 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "la7or0",
+    "objectId": "5147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Choa Chu Kang Street 51  680515, West (D22-24)",
+    "displayText": "515 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "ie4ict",
+    "objectId": "5148",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Choa Chu Kang Street 51  680516, West (D22-24)",
+    "displayText": "516 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "efptmk",
+    "objectId": "5149",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Choa Chu Kang Street 51  680517, West (D22-24)",
+    "displayText": "517 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "y1cf0y",
+    "objectId": "5150",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Choa Chu Kang Street 51  680518, West (D22-24)",
+    "displayText": "518 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "e6pflg",
+    "objectId": "5151",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523 Choa Chu Kang Street 51  680523, West (D22-24)",
+    "displayText": "523 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "qiazuq",
+    "objectId": "5152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524 Choa Chu Kang Street 51  680524, West (D22-24)",
+    "displayText": "524 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "k7ftgm",
+    "objectId": "5153",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525 Choa Chu Kang Street 51  680525, West (D22-24)",
+    "displayText": "525 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "5f6ko1",
+    "objectId": "5154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526 Choa Chu Kang Street 51  680526, West (D22-24)",
+    "displayText": "526 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "lah9k4",
+    "objectId": "5155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Choa Chu Kang Street 51  680527, West (D22-24)",
+    "displayText": "527 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "8yl2zt",
+    "objectId": "5156",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Choa Chu Kang Street 51  680528, West (D22-24)",
+    "displayText": "528 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "wcbi29",
+    "objectId": "5157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "529 Choa Chu Kang Street 51  680529, West (D22-24)",
+    "displayText": "529 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "ijwgvc",
+    "objectId": "5158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530 Choa Chu Kang Street 51  680530, West (D22-24)",
+    "displayText": "530 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "zfs42c",
+    "objectId": "5159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "531 Choa Chu Kang Street 51  680531, West (D22-24)",
+    "displayText": "531 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "rjnc3w",
+    "objectId": "5160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "532 Choa Chu Kang Street 51  680532, West (D22-24)",
+    "displayText": "532 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "15cwbu",
+    "objectId": "5161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511A Choa Chu Kang Street 51  681511, West (D22-24)",
+    "displayText": "511A Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "w5j1ql",
+    "objectId": "5164",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513A Choa Chu Kang Street 51  681513, West (D22-24)",
+    "displayText": "513A Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "uz9kuq",
+    "objectId": "5165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527A Choa Chu Kang Street 51  681527, West (D22-24)",
+    "displayText": "527A Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "d6cpkh",
+    "objectId": "5166",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533A Choa Chu Kang Street 51  681533, West (D22-24)",
+    "displayText": "533A Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "ydbkoo",
+    "objectId": "5167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Choa Chu Kang Street 51  680502, West (D22-24)",
+    "displayText": "502 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "3i5xrq",
+    "objectId": "5135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Choa Chu Kang Street 51  680507, West (D22-24)",
+    "displayText": "507 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "ty4ohd",
+    "objectId": "5140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "534 Choa Chu Kang Street 51  680534, West (D22-24)",
+    "displayText": "534 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "0x55gd",
+    "objectId": "5162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502A Choa Chu Kang Street 51  681502, West (D22-24)",
+    "displayText": "502A Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "fd5nai",
+    "objectId": "5163",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong 40 Geylang  398075, Balestier / Geylang (D12-14)",
+    "displayText": "The Waterina",
+    "displayType": "Apartment",
+    "nanoId": "no1gau",
+    "objectId": "221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong G Telok Kurau  426234, East Coast (D15-16)",
+    "displayText": "Espira Spring",
+    "displayType": "Apartment",
+    "nanoId": "osu5iu",
+    "objectId": "1268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong H Telok Kurau  426052, East Coast (D15-16)",
+    "displayText": "Palm Oasis",
+    "displayType": "Apartment",
+    "nanoId": "fm0pke",
+    "objectId": "373",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Geylang Lorong 32  398311, Balestier / Geylang (D12-14)",
+    "displayText": "Casa Emerald",
+    "displayType": "Condominium",
+    "nanoId": "vdl3mf",
+    "objectId": "1699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong 34 Geylang  398240, Balestier / Geylang (D12-14)",
+    "displayText": "Central Meadows",
+    "displayType": "Condominium",
+    "nanoId": "7r5bfl",
+    "objectId": "1714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong 6 Toa Payoh  310051, Balestier / Geylang (D12-14)",
+    "displayText": "51 Lorong 6 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "pkkyem",
+    "objectId": "8366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Jurong West Street 41  649411, West (D22-24)",
+    "displayText": "The Lakeshore",
+    "displayType": "Condominium",
+    "nanoId": "ncss25",
+    "objectId": "104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jurong East Street 32  609477, West (D22-24)",
+    "displayText": "The Mayfair",
+    "displayType": "Condominium",
+    "nanoId": "par472",
+    "objectId": "176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jurong East Street 13  600000, West (D22-24)",
+    "displayText": "Ivory Heights",
+    "displayType": "Condominium",
+    "nanoId": "k28v7c",
+    "objectId": "382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "71 Jurong East Street 13  609650, West (D22-24)",
+    "displayText": "Westmere",
+    "displayType": "Condominium",
+    "nanoId": "dpd65l",
+    "objectId": "525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "372 Jurong East Street 32  600372, West (D22-24)",
+    "displayText": "372 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "qmauef",
+    "objectId": "22308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "371 Jurong East Street 32  600371, West (D22-24)",
+    "displayText": "371 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "klk4lk",
+    "objectId": "22309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "373 Jurong East Street 32  600373, West (D22-24)",
+    "displayText": "373 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "z98plt",
+    "objectId": "22310",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "374 Jurong East Street 32  600374, West (D22-24)",
+    "displayText": "374 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "f6290f",
+    "objectId": "22311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

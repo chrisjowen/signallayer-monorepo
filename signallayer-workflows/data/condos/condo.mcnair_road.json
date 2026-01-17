@@ -1,0 +1,1532 @@
+[
+  {
+    "displayText": "McNair Road",
+    "displayType": "Street",
+    "objectId": "2298",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "113A Mcnair Road  322113, Balestier / Geylang (D12-14)",
+    "displayText": "113A McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "1d6fwf",
+    "objectId": "23051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113B Mcnair Road  323113, Balestier / Geylang (D12-14)",
+    "displayText": "113B McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "kj2bom",
+    "objectId": "23052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 McNair Road  000025, Balestier / Geylang (D12-14)",
+    "displayText": "Townerville",
+    "displayType": "Conservation House",
+    "nanoId": "yqqtfz",
+    "objectId": "20534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CON",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "113C Mcnair Road  324113, Balestier / Geylang (D12-14)",
+    "displayText": "113C McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "mnrbdg",
+    "objectId": "23053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113D Mcnair Road  325113, Balestier / Geylang (D12-14)",
+    "displayText": "113D McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "alzca4",
+    "objectId": "23054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Mcnair Road  321114, Balestier / Geylang (D12-14)",
+    "displayText": "114 McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "t31svw",
+    "objectId": "23055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Mcnair Road  321115, Balestier / Geylang (D12-14)",
+    "displayText": "115 McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "1w6sqs",
+    "objectId": "23056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Mcnair Road  321108, Balestier / Geylang (D12-14)",
+    "displayText": "108 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "iqotig",
+    "objectId": "8632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15",
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Mcnair Road  320109, Balestier / Geylang (D12-14)",
+    "displayText": "109 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "a1c8bg",
+    "objectId": "8633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Mcnair Road  320110, Balestier / Geylang (D12-14)",
+    "displayText": "110 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "9nm9i1",
+    "objectId": "8634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Mcnair Road  320111, Balestier / Geylang (D12-14)",
+    "displayText": "111 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "wia1u6",
+    "objectId": "8635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Mcnair Road  320112, Balestier / Geylang (D12-14)",
+    "displayText": "112 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "34tmeq",
+    "objectId": "8636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Mcnair Road  320119, Balestier / Geylang (D12-14)",
+    "displayText": "119 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "4ggqc9",
+    "objectId": "8637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Mcnair Road  320120, Balestier / Geylang (D12-14)",
+    "displayText": "120 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "hzflhj",
+    "objectId": "8638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Mcnair Road  320121, Balestier / Geylang (D12-14)",
+    "displayText": "121 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "4rpv69",
+    "objectId": "8639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Mcnair Road  320122, Balestier / Geylang (D12-14)",
+    "displayText": "122 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "wq8h5l",
+    "objectId": "8640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Mcnair Road  320123, Balestier / Geylang (D12-14)",
+    "displayText": "123 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "x8ejov",
+    "objectId": "8641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Mcnair Road  320124, Balestier / Geylang (D12-14)",
+    "displayText": "124 Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "crawgh",
+    "objectId": "8642",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108B Mcnair Road  323108, Balestier / Geylang (D12-14)",
+    "displayText": "108B Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "rgee8n",
+    "objectId": "8643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108C Mcnair Road  324108, Balestier / Geylang (D12-14)",
+    "displayText": "108C Mcnair Road",
+    "displayType": "HDB",
+    "nanoId": "em8ztz",
+    "objectId": "8644",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Mc Nair Road",
+    "displayType": "Street",
+    "objectId": "5067",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Mcnair",
+    "displayType": "Street",
+    "objectId": "4578",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "MacNair",
+    "displayType": "Street",
+    "objectId": "4980",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Mckenzie Road",
+    "displayType": "Street",
+    "objectId": "5619",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "McKerrow Road",
+    "displayType": "Street",
+    "objectId": "4763",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 McCallum Street  069047, City & South West (D01-08)",
+    "displayText": "The Clift",
+    "displayType": "Apartment",
+    "nanoId": "2ntemh",
+    "objectId": "117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "McCallum Street",
+    "displayType": "Street",
+    "objectId": "2297",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D7",
+    "displayText": "D07 Beach Road / Bugis / Rochor",
+    "displayType": "District",
+    "objectId": "D07",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D07"
+    }
+  },
+  {
+    "displayDescription": "314 Shunfu Road  570314, Serangoon / Thomson (D19-20)",
+    "displayText": "JadeScape",
+    "displayType": "Condominium",
+    "nanoId": "9dt6ad",
+    "objectId": "23491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "180 Depot Road  109684, City & South West (D01-08)",
+    "displayText": "The Interlace",
+    "displayType": "Condominium",
+    "nanoId": "csd4hr",
+    "objectId": "1574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Stirling Road  148960, City & South West (D01-08)",
+    "displayText": "Stirling Residences",
+    "displayType": "Condominium",
+    "nanoId": "hac43b",
+    "objectId": "23462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "32A Toh Tuck Road  596110, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Forett at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "43hgva",
+    "objectId": "23957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Bayshore Road  469986, East Coast (D15-16)",
+    "displayText": "Costa Del Sol",
+    "displayType": "Condominium",
+    "nanoId": "tdtdcs",
+    "objectId": "61",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Cantonment Road  080001, City & South West (D01-08)",
+    "displayText": "Pinnacle @ Duxton",
+    "displayType": "HDB",
+    "nanoId": "sp7hrw",
+    "objectId": "20538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 Fernvale Road  797415, North (D25-28)",
+    "displayText": "High Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "e4880m",
+    "objectId": "22181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "276 Yio Chu Kang Road  544604, Serangoon / Thomson (D19-20)",
+    "displayText": "Hundred Palms Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "di3fnu",
+    "objectId": "23145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "239 Upper Paya Lebar Road  533866, Serangoon / Thomson (D19-20)",
+    "displayText": "Botanique at Bartley",
+    "displayType": "Condominium",
+    "nanoId": "1ukoq7",
+    "objectId": "22082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Meyappa Chettiar Road  358453, Balestier / Geylang (D12-14)",
+    "displayText": "The Poiz Residences",
+    "displayType": "Condominium",
+    "nanoId": "mtmehz",
+    "objectId": "22276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "22 Bayshore Road  469970, East Coast (D15-16)",
+    "displayText": "The Bayshore",
+    "displayType": "Condominium",
+    "nanoId": "bszddd",
+    "objectId": "114",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "473 River Valley Road  248358, Orchard / Holland (D09-10)",
+    "displayText": "Valley Park",
+    "displayType": "Condominium",
+    "nanoId": "omeu32",
+    "objectId": "132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "130 Tanjong Rhu Road  436918, East Coast (D15-16)",
+    "displayText": "Pebble Bay",
+    "displayType": "Condominium",
+    "nanoId": "s2tehh",
+    "objectId": "143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Siglap Road  448906, East Coast (D15-16)",
+    "displayText": "Mandarin Gardens",
+    "displayType": "Condominium",
+    "nanoId": "zn29zw",
+    "objectId": "107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "370 Alexandra Road  159953, City & South West (D01-08)",
+    "displayText": "The Anchorage",
+    "displayType": "Condominium",
+    "nanoId": "7qskjl",
+    "objectId": "195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Compassvale Road  544749, Serangoon / Thomson (D19-20)",
+    "displayText": "The Luxurie",
+    "displayType": "Condominium",
+    "nanoId": "kjcgzi",
+    "objectId": "20766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 Amber Road  439942, East Coast (D15-16)",
+    "displayText": "The Sea View",
+    "displayType": "Condominium",
+    "nanoId": "685qz3",
+    "objectId": "66",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Bayshore Road  469977, East Coast (D15-16)",
+    "displayText": "Bayshore Park",
+    "displayType": "Condominium",
+    "nanoId": "oz4cju",
+    "objectId": "92",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Dundee Road  149456, City & South West (D01-08)",
+    "displayText": "Queens Peak",
+    "displayType": "Condominium",
+    "nanoId": "tuoif9",
+    "objectId": "22701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Leonie Hill Road  239197, Orchard / Holland (D09-10)",
+    "displayText": "OUE Twin Peaks",
+    "displayType": "Condominium",
+    "nanoId": "i00njf",
+    "objectId": "2655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "261 River Valley Road  238307, Orchard / Holland (D09-10)",
+    "displayText": "Aspen Heights",
+    "displayType": "Condominium",
+    "nanoId": "80ou32",
+    "objectId": "4",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "985 Bukit Timah Road  589627, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Maple Woods",
+    "displayType": "Condominium",
+    "nanoId": "f708jf",
+    "objectId": "126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Marine Parade Road  449297, East Coast (D15-16)",
+    "displayText": "Cote D'Azur",
+    "displayType": "Condominium",
+    "nanoId": "cuu2v2",
+    "objectId": "147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Mount Vernon Road  368055, Balestier / Geylang (D12-14)",
+    "displayText": "Bartley Ridge",
+    "displayType": "Condominium",
+    "nanoId": "16nu26",
+    "objectId": "21497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Kovan Road  544894, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Residences",
+    "displayType": "Condominium",
+    "nanoId": "t1hgwl",
+    "objectId": "1338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Stirling Road  148954, City & South West (D01-08)",
+    "displayText": "Queens",
+    "displayType": "Condominium",
+    "nanoId": "ib6110",
+    "objectId": "164",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Paya Lebar Road  409053, Balestier / Geylang (D12-14)",
+    "displayText": "Park Place Residences",
+    "displayType": "Condominium",
+    "nanoId": "leem6w",
+    "objectId": "22798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "758 Bedok Reservoir Road  479260, East Coast (D15-16)",
+    "displayText": "Waterfront Isle",
+    "displayType": "Condominium",
+    "nanoId": "iupwyz",
+    "objectId": "20703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bedok Reservoir Road  470700, East Coast (D15-16)",
+    "displayText": "Archipelago",
+    "displayType": "Condominium",
+    "nanoId": "guvu6t",
+    "objectId": "21115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2",
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "81 Amber Road  439893, East Coast (D15-16)",
+    "displayText": "The Shore Residences",
+    "displayType": "Condominium",
+    "nanoId": "b1azxc",
+    "objectId": "2511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "46 Toh Tuck Road  596721, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Signature Park",
+    "displayType": "Condominium",
+    "nanoId": "jae1ne",
+    "objectId": "210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "89 Holland Road  275750, Orchard / Holland (D09-10)",
+    "displayText": "Hyll on Holland",
+    "displayType": "Condominium",
+    "nanoId": "q7hn9b",
+    "objectId": "24515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lincoln Road  308342, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Park Infinia at Wee Nam",
+    "displayType": "Condominium",
+    "nanoId": "g3kn14",
+    "objectId": "67",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "112 Kim Seng Road  239432, Orchard / Holland (D09-10)",
+    "displayText": "The Trillium",
+    "displayType": "Condominium",
+    "nanoId": "ck22xu",
+    "objectId": "746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Meyer Road  437878, East Coast (D15-16)",
+    "displayText": "The Seafront on Meyer",
+    "displayType": "Condominium",
+    "nanoId": "sgzjkm",
+    "objectId": "749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "76 West Coast Road  126826, City & South West (D01-08)",
+    "displayText": "Varsity Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "tzl22z",
+    "objectId": "80",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "181 Tanjong Rhu Road  436922, East Coast (D15-16)",
+    "displayText": "Sanctuary Green",
+    "displayType": "Condominium",
+    "nanoId": "rgvzs3",
+    "objectId": "105",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "511 Yio Chu Kang Road  787066, North (D25-28)",
+    "displayText": "The Calrose",
+    "displayType": "Condominium",
+    "nanoId": "fmwy5v",
+    "objectId": "116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sophia Road  228152, Orchard / Holland (D09-10)",
+    "displayText": "Sophia Residence",
+    "displayType": "Condominium",
+    "nanoId": "uy5ued",
+    "objectId": "1533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "121 Meyer Road  437932, East Coast (D15-16)",
+    "displayText": "The Makena",
+    "displayType": "Condominium",
+    "nanoId": "wi3rfq",
+    "objectId": "215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jelebu Road  677000, West (D22-24)",
+    "displayText": "Hillion Residences",
+    "displayType": "Apartment",
+    "nanoId": "0q53sl",
+    "objectId": "21502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Kim Tian Road  168592, City & South West (D01-08)",
+    "displayText": "Highline Residences",
+    "displayType": "Condominium",
+    "nanoId": "e09e9n",
+    "objectId": "21958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "82 Jellicoe Road  208741, City & South West (D01-08)",
+    "displayText": "Citylights",
+    "displayType": "Condominium",
+    "nanoId": "201bcf",
+    "objectId": "64",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Kovan Road  545018, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Melody",
+    "displayType": "Condominium",
+    "nanoId": "ypwolj",
+    "objectId": "84",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "921 Bukit Timah Road  589624, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Cascadia",
+    "displayType": "Condominium",
+    "nanoId": "k1xsk4",
+    "objectId": "958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "770 Bedok Reservoir Road  479250, East Coast (D15-16)",
+    "displayText": "Waterfront Key",
+    "displayType": "Condominium",
+    "nanoId": "syw55r",
+    "objectId": "1597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "450 Corporation Road  649810, West (D22-24)",
+    "displayText": "Parc Vista",
+    "displayType": "Condominium",
+    "nanoId": "hwm011",
+    "objectId": "189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Havelock Road  169658, City & South West (D01-08)",
+    "displayText": "River Place",
+    "displayType": "Condominium",
+    "nanoId": "buxdnl",
+    "objectId": "191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Spottiswoode Park Road  088660, City & South West (D01-08)",
+    "displayText": "Spottiswoode Residences",
+    "displayType": "Condominium",
+    "nanoId": "oebygy",
+    "objectId": "20545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "610 Telok Blangah Road  109025, City & South West (D01-08)",
+    "displayText": "Skyline Residences",
+    "displayType": "Condominium",
+    "nanoId": "y4jcjh",
+    "objectId": "20701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "626 Upper Thomson Road  787130, North (D25-28)",
+    "displayText": "Meadows @ Peirce",
+    "displayType": "Condominium",
+    "nanoId": "u53ilv",
+    "objectId": "2190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Cuscaden Road  249732, Orchard / Holland (D09-10)",
+    "displayText": "Cuscaden Reserve",
+    "displayType": "Condominium",
+    "nanoId": "kgkj6o",
+    "objectId": "23805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "977 Bukit Timah Road  589626, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Floridian",
+    "displayType": "Condominium",
+    "nanoId": "2m0pz2",
+    "objectId": "1272",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Petir Road  678265, West (D22-24)",
+    "displayText": "Maysprings",
+    "displayType": "Apartment",
+    "nanoId": "5mmmb3",
+    "objectId": "175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sommerville Estate Road  258000, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Park",
+    "displayType": "Condominium",
+    "nanoId": "uxlnxl",
+    "objectId": "203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Tanjong Rhu Road  436879, East Coast (D15-16)",
+    "displayText": "The Waterside",
+    "displayType": "Condominium",
+    "nanoId": "slnyee",
+    "objectId": "204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "107D Tampines Road  534006, Serangoon / Thomson (D19-20)",
+    "displayText": "The Tembusu",
+    "displayType": "Condominium",
+    "nanoId": "anbyzx",
+    "objectId": "21457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "966 Dunearn Road  589488, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Jardin",
+    "displayType": "Condominium",
+    "nanoId": "v9zsod",
+    "objectId": "1159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "298 Beach Road  199554, City & South West (D01-08)",
+    "displayText": "Concourse Skyline",
+    "displayType": "Condominium",
+    "nanoId": "sr0yao",
+    "objectId": "1383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Segar Road  677721, West (D22-24)",
+    "displayText": "Blossom Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "qexql4",
+    "objectId": "20698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "984 Upper Serangoon Road  533854, Serangoon / Thomson (D19-20)",
+    "displayText": "Stars of Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ohgzu6",
+    "objectId": "22474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56F South Buona Vista Road  117293, City & South West (D01-08)",
+    "displayText": "Kent Ridge Hill Residences",
+    "displayType": "Condominium",
+    "nanoId": "kwyywb",
+    "objectId": "23535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Meyer Road  437906, East Coast (D15-16)",
+    "displayText": "Meyer Mansion",
+    "displayType": "Condominium",
+    "nanoId": "ad9gpc",
+    "objectId": "23782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "325 River Valley Road  238357, Orchard / Holland (D09-10)",
+    "displayText": "Yong An Park",
+    "displayType": "Condominium",
+    "nanoId": "3xhocw",
+    "objectId": "260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "800 Thomson Road  298144, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Thomson 800",
+    "displayType": "Condominium",
+    "nanoId": "jxuuda",
+    "objectId": "339",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Marine Parade Road  000000, East Coast (D15-16)",
+    "displayText": "Laguna Park",
+    "displayType": "Apartment",
+    "nanoId": "y73jtg",
+    "objectId": "359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Kim Seng Road  239471, Orchard / Holland (D09-10)",
+    "displayText": "The Cosmopolitan",
+    "displayType": "Condominium",
+    "nanoId": "u6mgp2",
+    "objectId": "81",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "760 Bedok Reservoir Road  479245, East Coast (D15-16)",
+    "displayText": "Waterfront Waves",
+    "displayType": "Condominium",
+    "nanoId": "7jme0o",
+    "objectId": "1261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Keng Chin Road  258709, Orchard / Holland (D09-10)",
+    "displayText": "Cyan",
+    "displayType": "Condominium",
+    "nanoId": "hs6or5",
+    "objectId": "1590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "478 Siglap Road  454852, East Coast (D15-16)",
+    "displayText": "Flamingo Valley",
+    "displayType": "Condominium",
+    "nanoId": "h7lsjh",
+    "objectId": "1931",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Petir Road  678272, West (D22-24)",
+    "displayText": "Foresque Residences",
+    "displayType": "Condominium",
+    "nanoId": "c8qq80",
+    "objectId": "20657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

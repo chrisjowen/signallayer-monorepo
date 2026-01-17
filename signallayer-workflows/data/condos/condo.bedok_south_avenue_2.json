@@ -1,0 +1,1574 @@
+[
+  {
+    "displayText": "Bedok South Avenue 2",
+    "displayType": "Street",
+    "objectId": "202",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "5 Bedok South Avenue 2  460005, East Coast (D15-16)",
+    "displayText": "5 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "hjvmsa",
+    "objectId": "3680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Bedok South Avenue 2  460006, East Coast (D15-16)",
+    "displayText": "6 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "tgog2g",
+    "objectId": "3681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Bedok South Avenue 2  460007, East Coast (D15-16)",
+    "displayText": "7 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "c3b6tr",
+    "objectId": "3682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Bedok South Avenue 2  460008, East Coast (D15-16)",
+    "displayText": "8 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "6lqdce",
+    "objectId": "3683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Bedok South Avenue 2  460009, East Coast (D15-16)",
+    "displayText": "9 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "7ci1ge",
+    "objectId": "3684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Bedok South Avenue 1  460002, East Coast (D15-16)",
+    "displayText": "2 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6bcvyn",
+    "objectId": "3675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Bedok South Avenue 2  460012, East Coast (D15-16)",
+    "displayText": "12 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "z6ue4j",
+    "objectId": "3685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Bedok South Avenue 2  460014, East Coast (D15-16)",
+    "displayText": "14 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "oxi0fv",
+    "objectId": "3686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Bedok South Avenue 2  460031, East Coast (D15-16)",
+    "displayText": "31 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ql3bqo",
+    "objectId": "3687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Bedok South Avenue 2  460032, East Coast (D15-16)",
+    "displayText": "32 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "jq821h",
+    "objectId": "3688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Bedok South Avenue 2  460033, East Coast (D15-16)",
+    "displayText": "33 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "3vdvbw",
+    "objectId": "3689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Bedok South Avenue 2  460034, East Coast (D15-16)",
+    "displayText": "34 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "g2bxie",
+    "objectId": "3690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Bedok South Avenue 2  460035, East Coast (D15-16)",
+    "displayText": "35 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "94zp00",
+    "objectId": "3691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Bedok South Avenue 2  460036, East Coast (D15-16)",
+    "displayText": "36 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "sc18ev",
+    "objectId": "3692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37 Bedok South Avenue 2  460037, East Coast (D15-16)",
+    "displayText": "37 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "qm6750",
+    "objectId": "3693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10B Bedok South Avenue 2  461010, East Coast (D15-16)",
+    "displayText": "10B Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "grjhit",
+    "objectId": "3694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10C Bedok South Avenue 2  462010, East Coast (D15-16)",
+    "displayText": "10C Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "bwzete",
+    "objectId": "3695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10D Bedok South Avenue 2  463010, East Coast (D15-16)",
+    "displayText": "10D Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l1aach",
+    "objectId": "3696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10E Bedok South Avenue 2  464010, East Coast (D15-16)",
+    "displayText": "10E Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0noiv9",
+    "objectId": "3697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10F Bedok South Avenue 2  465010, East Coast (D15-16)",
+    "displayText": "10F Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "opvs6c",
+    "objectId": "3698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Bedok South Avenue 1  460022, East Coast (D15-16)",
+    "displayText": "22 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "pgg2gv",
+    "objectId": "3678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Bedok South Avenue 1  460023, East Coast (D15-16)",
+    "displayText": "23 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6mzcec",
+    "objectId": "3679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "295 Bedok South Avenue 3  469296, East Coast (D15-16)",
+    "displayText": "Bedok Court",
+    "displayType": "Condominium",
+    "nanoId": "t21lbo",
+    "objectId": "377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bedok South Avenue 1",
+    "displayType": "Street",
+    "objectId": "201",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bedok South Avenue 3",
+    "displayType": "Street",
+    "objectId": "6310",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bedok North Avenue 2",
+    "displayType": "Street",
+    "objectId": "11463",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "408 Bedok North Avenue 2  460408, East Coast (D15-16)",
+    "displayText": "408 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l2jdun",
+    "objectId": "3352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Bedok North Avenue 2  460409, East Coast (D15-16)",
+    "displayText": "409 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "e9ie8a",
+    "objectId": "3353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Bedok North Avenue 2  460410, East Coast (D15-16)",
+    "displayText": "410 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "htnglh",
+    "objectId": "3354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Bedok North Avenue 2  460411, East Coast (D15-16)",
+    "displayText": "411 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pjh1pe",
+    "objectId": "3355",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Bedok North Avenue 2  460412, East Coast (D15-16)",
+    "displayText": "412 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zrwoc6",
+    "objectId": "3356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Bedok North Avenue 2  460413, East Coast (D15-16)",
+    "displayText": "413 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "q8ipbj",
+    "objectId": "3357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Bedok North Avenue 2  460414, East Coast (D15-16)",
+    "displayText": "414 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "vtg6eh",
+    "objectId": "3358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Bedok North Avenue 2  460415, East Coast (D15-16)",
+    "displayText": "415 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "gt4fs5",
+    "objectId": "3359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416 Bedok North Avenue 2  460416, East Coast (D15-16)",
+    "displayText": "416 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ut50pn",
+    "objectId": "3360",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Bedok North Avenue 2  460417, East Coast (D15-16)",
+    "displayText": "417 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ey46kg",
+    "objectId": "3361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Bedok North Avenue 2  460418, East Coast (D15-16)",
+    "displayText": "418 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "wyi8k2",
+    "objectId": "3362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Bedok North Avenue 2  460512, East Coast (D15-16)",
+    "displayText": "512 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "7n334i",
+    "objectId": "3363",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Bedok North Avenue 2  460513, East Coast (D15-16)",
+    "displayText": "513 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pso9md",
+    "objectId": "3364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Bedok North Avenue 2  460514, East Coast (D15-16)",
+    "displayText": "514 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l5vjev",
+    "objectId": "3365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Bedok North Avenue 2  460515, East Coast (D15-16)",
+    "displayText": "515 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "vo8xi4",
+    "objectId": "3366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Bedok North Avenue 2  460516, East Coast (D15-16)",
+    "displayText": "516 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "n195oc",
+    "objectId": "3367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Bedok North Avenue 2  460517, East Coast (D15-16)",
+    "displayText": "517 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0lb6ys",
+    "objectId": "3368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Bedok North Avenue 2  460518, East Coast (D15-16)",
+    "displayText": "518 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "du8b06",
+    "objectId": "3369",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 3  465461, East Coast (D15-16)",
+    "displayText": "Grandeur Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "1m24f7",
+    "objectId": "22879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bedok South Avenue 3  000000, East Coast (D15-16)",
+    "displayText": "eCO",
+    "displayType": "Condominium",
+    "nanoId": "g3tfu0",
+    "objectId": "21324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 1  460001, East Coast (D15-16)",
+    "displayText": "1 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "y35z8x",
+    "objectId": "3674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Bedok South Avenue 1  460003, East Coast (D15-16)",
+    "displayText": "3 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "cbpk8v",
+    "objectId": "3676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Bedok South Avenue 1  460004, East Coast (D15-16)",
+    "displayText": "4 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "gtihzs",
+    "objectId": "3677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Bedok South Avenue 3  460047, East Coast (D15-16)",
+    "displayText": "47 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "khugjw",
+    "objectId": "3700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Bedok South Avenue 3  460066, East Coast (D15-16)",
+    "displayText": "66 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "q3q0v0",
+    "objectId": "3704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Bedok South Avenue 3  460067, East Coast (D15-16)",
+    "displayText": "67 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "xefhpd",
+    "objectId": "3705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "68 Bedok South Avenue 3  460068, East Coast (D15-16)",
+    "displayText": "68 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "c8lrkp",
+    "objectId": "3706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "69 Bedok South Avenue 3  460069, East Coast (D15-16)",
+    "displayText": "69 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "gxg0is",
+    "objectId": "3707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Bedok South Avenue 3  460072, East Coast (D15-16)",
+    "displayText": "72 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "qj68h6",
+    "objectId": "3708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Bedok South Avenue 3  460156, East Coast (D15-16)",
+    "displayText": "156 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sfx9s2",
+    "objectId": "3711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Bedok South Avenue 3  460157, East Coast (D15-16)",
+    "displayText": "157 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "w0wty6",
+    "objectId": "3712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Bedok South Avenue 3  460158, East Coast (D15-16)",
+    "displayText": "158 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "9n709k",
+    "objectId": "3713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Bedok South Avenue 3  460159, East Coast (D15-16)",
+    "displayText": "159 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "zi45i0",
+    "objectId": "3714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Bedok South Avenue 3  460160, East Coast (D15-16)",
+    "displayText": "160 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "i5mk5x",
+    "objectId": "3715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Bedok South Avenue 3  460161, East Coast (D15-16)",
+    "displayText": "161 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ulkled",
+    "objectId": "3716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Bedok South Avenue 3  460166, East Coast (D15-16)",
+    "displayText": "166 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "5ht6t5",
+    "objectId": "3717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167 Bedok South Avenue 3  460167, East Coast (D15-16)",
+    "displayText": "167 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "tzjpgc",
+    "objectId": "3718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168 Bedok South Avenue 3  460168, East Coast (D15-16)",
+    "displayText": "168 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "bh00mi",
+    "objectId": "3719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169 Bedok South Avenue 3  460169, East Coast (D15-16)",
+    "displayText": "169 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "t8bb9w",
+    "objectId": "3720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Bedok South Avenue 3  460046, East Coast (D15-16)",
+    "displayText": "46 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "q8qh8l",
+    "objectId": "3699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Bedok South Avenue 3  460048, East Coast (D15-16)",
+    "displayText": "48 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "my153d",
+    "objectId": "3701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Bedok South Avenue 3  460049, East Coast (D15-16)",
+    "displayText": "49 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "nbt4ha",
+    "objectId": "3702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Bedok South Avenue 3  460050, East Coast (D15-16)",
+    "displayText": "50 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "wxauph",
+    "objectId": "3703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73 Bedok South Avenue 3  460073, East Coast (D15-16)",
+    "displayText": "73 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "09u2lr",
+    "objectId": "3709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Bedok South Avenue 3  460155, East Coast (D15-16)",
+    "displayText": "155 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "zwgxm1",
+    "objectId": "3710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Harbourfront Avenue  097991, City & South West (D01-08)",
+    "displayText": "The Reef at King's Dock",
+    "displayType": "Condominium",
+    "nanoId": "ftth5a",
+    "objectId": "25429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "328 Clementi Avenue 2  120328, City & South West (D01-08)",
+    "displayText": "328 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ycwx5v",
+    "objectId": "5305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Clementi Avenue 2  120329, City & South West (D01-08)",
+    "displayText": "329 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "otjkxc",
+    "objectId": "5306",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10",
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Clementi Avenue 2  120330, City & South West (D01-08)",
+    "displayText": "330 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "iprr1k",
+    "objectId": "5307",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Clementi Avenue 2  120331, City & South West (D01-08)",
+    "displayText": "331 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "o1g0sa",
+    "objectId": "5308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Clementi Avenue 2  120332, City & South West (D01-08)",
+    "displayText": "332 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "1vnaaf",
+    "objectId": "5309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333 Clementi Avenue 2  120333, City & South West (D01-08)",
+    "displayText": "333 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0ysfia",
+    "objectId": "5310",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334 Clementi Avenue 2  120334, City & South West (D01-08)",
+    "displayText": "334 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pm2jop",
+    "objectId": "5311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Clementi Avenue 2  120335, City & South West (D01-08)",
+    "displayText": "335 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "delqfs",
+    "objectId": "5312",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336 Clementi Avenue 2  120336, City & South West (D01-08)",
+    "displayText": "336 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "xsleiu",
+    "objectId": "5313",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337 Clementi Avenue 2  120337, City & South West (D01-08)",
+    "displayText": "337 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "gdl1m7",
+    "objectId": "5314",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338 Clementi Avenue 2  120338, City & South West (D01-08)",
+    "displayText": "338 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "dnpltz",
+    "objectId": "5315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "349 Clementi Avenue 2  120349, City & South West (D01-08)",
+    "displayText": "349 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ytkr5w",
+    "objectId": "5316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "350 Clementi Avenue 2  120350, City & South West (D01-08)",
+    "displayText": "350 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "xuzhku",
+    "objectId": "5317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "351 Clementi Avenue 2  120351, City & South West (D01-08)",
+    "displayText": "351 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "x8kuqa",
+    "objectId": "5318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "352 Clementi Avenue 2  120352, City & South West (D01-08)",
+    "displayText": "352 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "quuvzu",
+    "objectId": "5319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354 Clementi Avenue 2  120354, City & South West (D01-08)",
+    "displayText": "354 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zlx4ju",
+    "objectId": "5321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "355 Clementi Avenue 2  120355, City & South West (D01-08)",
+    "displayText": "355 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "hyugti",
+    "objectId": "5322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356 Clementi Avenue 2  120356, City & South West (D01-08)",
+    "displayText": "356 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "9szxv1",
+    "objectId": "5323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357 Clementi Avenue 2  120357, City & South West (D01-08)",
+    "displayText": "357 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "cnrhl5",
+    "objectId": "5324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358 Clementi Avenue 2  120358, City & South West (D01-08)",
+    "displayText": "358 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "8ttnpp",
+    "objectId": "5325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359 Clementi Avenue 2  120359, City & South West (D01-08)",
+    "displayText": "359 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "di3t1m",
+    "objectId": "5326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "361 Clementi Avenue 2  120361, City & South West (D01-08)",
+    "displayText": "361 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "a7o1as",
+    "objectId": "5328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362 Clementi Avenue 2  120362, City & South West (D01-08)",
+    "displayText": "362 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "g11z8r",
+    "objectId": "5329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "363 Clementi Avenue 2  120363, City & South West (D01-08)",
+    "displayText": "363 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "gveycd",
+    "objectId": "5330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "364 Clementi Avenue 2  120364, City & South West (D01-08)",
+    "displayText": "364 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "1g69fv",
+    "objectId": "5331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365 Clementi Avenue 2  120365, City & South West (D01-08)",
+    "displayText": "365 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "3m50ao",
+    "objectId": "5332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "366 Clementi Avenue 2  120366, City & South West (D01-08)",
+    "displayText": "366 Clementi Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pqja9x",
+    "objectId": "5333",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

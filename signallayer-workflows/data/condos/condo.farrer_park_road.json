@@ -1,0 +1,1401 @@
+[
+  {
+    "displayText": "Farrer Park Road",
+    "displayType": "Street",
+    "objectId": "4833",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "101 Mergui Road  219067, City & South West (D01-08)",
+    "displayText": "Cityscape at Farrer Park",
+    "displayType": "Condominium",
+    "nanoId": "syrult",
+    "objectId": "2670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Owen Road  218896, City & South West (D01-08)",
+    "displayText": "Farrer Park Suites",
+    "displayType": "Condominium",
+    "nanoId": "7x6lwf",
+    "objectId": "21233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Farrer Park Road  210011, City & South West (D01-08)",
+    "displayText": "11 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "zerjvx",
+    "objectId": "6052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Farrer Park Road  210012, City & South West (D01-08)",
+    "displayText": "12 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "qg65sy",
+    "objectId": "6053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Farrer Park Road  210013, City & South West (D01-08)",
+    "displayText": "13 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "5orj8n",
+    "objectId": "6054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Farrer Park Road  210014, City & South West (D01-08)",
+    "displayText": "14 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "3rk5cf",
+    "objectId": "6055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Farrer Park Road  210015, City & South West (D01-08)",
+    "displayText": "15 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "5zcp8z",
+    "objectId": "6056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14A Farrer Park Road  211014, City & South West (D01-08)",
+    "displayText": "14A Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "38wzof",
+    "objectId": "6057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Leedon Heights  266224, Orchard / Holland (D09-10)",
+    "displayText": "d'Leedon (Former Farrer Court)",
+    "displayType": "Condominium",
+    "nanoId": "z8wtmf",
+    "objectId": "20575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D8",
+    "displayText": "D08 Farrer Park / Serangoon Rd",
+    "displayType": "District",
+    "objectId": "D08",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D08"
+    }
+  },
+  {
+    "displayText": "Farrer Park",
+    "displayType": "Street",
+    "objectId": "4434",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "56 Farrer Road  268844, Orchard / Holland (D09-10)",
+    "displayText": "Spanish Village",
+    "displayType": "Condominium",
+    "nanoId": "cgp3iz",
+    "objectId": "1327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Farrer Road  268850, Orchard / Holland (D09-10)",
+    "displayText": "Gallop Gables",
+    "displayType": "Condominium",
+    "nanoId": "zdu6vv",
+    "objectId": "309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2  Perumal Road Singapore  218773, City & South West (D01-08)",
+    "displayText": "Uptown @ Farrer",
+    "displayType": "Condominium",
+    "nanoId": "xw4u92",
+    "objectId": "24441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Farrer Road  268820, Orchard / Holland (D09-10)",
+    "displayText": "Waterfall Gardens",
+    "displayType": "Condominium",
+    "nanoId": "qc19ur",
+    "objectId": "258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Farrer Road  268836, Orchard / Holland (D09-10)",
+    "displayText": "The Levelz",
+    "displayType": "Condominium",
+    "nanoId": "1c6vqh",
+    "objectId": "406",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Farrer Road  268832, Orchard / Holland (D09-10)",
+    "displayText": "Wilshire Residences",
+    "displayType": "Condominium",
+    "nanoId": "nt9y8j",
+    "objectId": "23733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "24 Farrer Road  268829, Orchard / Holland (D09-10)",
+    "displayText": "Sutton Place",
+    "displayType": "Condominium",
+    "nanoId": "usdgjy",
+    "objectId": "681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "142 Race Course Road  218593, City & South West (D01-08)",
+    "displayText": "Ritz @ Farrer",
+    "displayType": "Apartment",
+    "nanoId": "sbl8am",
+    "objectId": "21784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Farrer Road  260005, Orchard / Holland (D09-10)",
+    "displayText": "5 Farrer Road",
+    "displayType": "HDB",
+    "nanoId": "0u9k23",
+    "objectId": "6058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "7"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Farrer Road  260006, Orchard / Holland (D09-10)",
+    "displayText": "6 Farrer Road",
+    "displayType": "HDB",
+    "nanoId": "27bjq4",
+    "objectId": "6059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "7"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6A Farrer Road  261006, Orchard / Holland (D09-10)",
+    "displayText": "6A Farrer Road",
+    "displayType": "HDB",
+    "nanoId": "2hiecx",
+    "objectId": "6060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "7"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172 Race Course Road  218605, City & South West (D01-08)",
+    "displayText": "Soho @ Farrer",
+    "displayType": "Apartment",
+    "nanoId": "vw8ze1",
+    "objectId": "803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Farrer Road",
+    "displayType": "Street",
+    "objectId": "869",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Faber Park  120000, City & South West (D01-08)",
+    "displayText": "Faber Hills Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "nw4pun",
+    "objectId": "21474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        ""
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Faber Park",
+    "displayType": "Street",
+    "objectId": "856",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber  Park",
+    "displayType": "Street",
+    "objectId": "9721",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "15 Farrer Drive  259296, Orchard / Holland (D09-10)",
+    "displayText": "Pollen & Bleu",
+    "displayType": "Condominium",
+    "nanoId": "rv1mdn",
+    "objectId": "21778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Farrer Drive  259275, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Grandeur",
+    "displayType": "Condominium",
+    "nanoId": "1l7p37",
+    "objectId": "786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Sing Joo Walk  217820, City & South West (D01-08)",
+    "displayText": "8 Farrer Suites",
+    "displayType": "Apartment",
+    "nanoId": "d7vvy3",
+    "objectId": "21723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Farrer Court",
+    "displayType": "Street",
+    "objectId": "867",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Farrer Drive",
+    "displayType": "Street",
+    "objectId": "868",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Newton Road  307954, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Newton 21 (Former Newton Euro-Asia)",
+    "displayType": "Apartment",
+    "nanoId": "32mdrh",
+    "objectId": "427",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Barker Road  307000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Barker Ville",
+    "displayType": "Semi-Detached House",
+    "nanoId": "4dai9p",
+    "objectId": "20632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "31 Paterson Road  238522, Orchard / Holland (D09-10)",
+    "displayText": "Fraser Residence Orchard Singapore",
+    "displayType": "Apartment",
+    "nanoId": "m54m9y",
+    "objectId": "24749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "491A  River Valley Road  248372, Orchard / Holland (D09-10)",
+    "displayText": "Fraser Suites Singapore",
+    "displayType": "Apartment",
+    "nanoId": "9nk25o",
+    "objectId": "24750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29R Barker Road  307493, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Barker Terraces",
+    "displayType": "Terraced House",
+    "nanoId": "tcd9zh",
+    "objectId": "649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Barker Road",
+    "displayType": "Street",
+    "objectId": "157",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Harper Road",
+    "displayType": "Street",
+    "objectId": "1061",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "3 Mount Faber Road  099196, City & South West (D01-08)",
+    "displayText": "The Pearl @ Mount Faber",
+    "displayType": "Condominium",
+    "nanoId": "z92rpg",
+    "objectId": "184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Wishart Road  098748, City & South West (D01-08)",
+    "displayText": "The Foresta @ Mount Faber",
+    "displayType": "Condominium",
+    "nanoId": "dn975a",
+    "objectId": "20655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Mount Faber Road  099200, City & South West (D01-08)",
+    "displayText": "Mount Faber Lodge",
+    "displayType": "Condominium",
+    "nanoId": "nqkp59",
+    "objectId": "586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Mount Faber Road",
+    "displayType": "Street",
+    "objectId": "2364",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "27 Fernvale Road  797415, North (D25-28)",
+    "displayText": "High Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "e4880m",
+    "objectId": "22181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "473 River Valley Road  248358, Orchard / Holland (D09-10)",
+    "displayText": "Valley Park",
+    "displayType": "Condominium",
+    "nanoId": "omeu32",
+    "objectId": "132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Bayshore Road  469977, East Coast (D15-16)",
+    "displayText": "Bayshore Park",
+    "displayType": "Condominium",
+    "nanoId": "oz4cju",
+    "objectId": "92",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Paya Lebar Road  409053, Balestier / Geylang (D12-14)",
+    "displayText": "Park Place Residences",
+    "displayType": "Condominium",
+    "nanoId": "leem6w",
+    "objectId": "22798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "46 Toh Tuck Road  596721, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Signature Park",
+    "displayType": "Condominium",
+    "nanoId": "jae1ne",
+    "objectId": "210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lincoln Road  308342, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Park Infinia at Wee Nam",
+    "displayType": "Condominium",
+    "nanoId": "g3kn14",
+    "objectId": "67",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "76 West Coast Road  126826, City & South West (D01-08)",
+    "displayText": "Varsity Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "tzl22z",
+    "objectId": "80",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Spottiswoode Park Road  088660, City & South West (D01-08)",
+    "displayText": "Spottiswoode Residences",
+    "displayType": "Condominium",
+    "nanoId": "oebygy",
+    "objectId": "20545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sommerville Estate Road  258000, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Park",
+    "displayType": "Condominium",
+    "nanoId": "uxlnxl",
+    "objectId": "203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "325 River Valley Road  238357, Orchard / Holland (D09-10)",
+    "displayText": "Yong An Park",
+    "displayType": "Condominium",
+    "nanoId": "3xhocw",
+    "objectId": "260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Marine Parade Road  000000, East Coast (D15-16)",
+    "displayText": "Laguna Park",
+    "displayType": "Apartment",
+    "nanoId": "y73jtg",
+    "objectId": "359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Seletar Road  807019, North (D25-28)",
+    "displayText": "Seletar Park Residence",
+    "displayType": "Condominium",
+    "nanoId": "f23v1n",
+    "objectId": "21127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Nathan Road  248726, Orchard / Holland (D09-10)",
+    "displayText": "Regency Park",
+    "displayType": "Condominium",
+    "nanoId": "bpckrx",
+    "objectId": "222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "520 East Coast Road  458965, East Coast (D15-16)",
+    "displayText": "Ocean Park",
+    "displayType": "Condominium",
+    "nanoId": "4gybuv",
+    "objectId": "293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Flora Road  506999, Changi / Pasir Ris (D17-18)",
+    "displayText": "Edelweiss Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "1k54qu",
+    "objectId": "140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Indus Road  169586, City & South West (D01-08)",
+    "displayText": "Emerald Park",
+    "displayType": "Condominium",
+    "nanoId": "3p3msx",
+    "objectId": "251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "491 Yio Chu Kang Road  787078, North (D25-28)",
+    "displayText": "Seasons Park",
+    "displayType": "Condominium",
+    "nanoId": "l0gqrg",
+    "objectId": "264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Spottiswoode Park Road  088661, City & South West (D01-08)",
+    "displayText": "Spottiswoode Suites",
+    "displayType": "Condominium",
+    "nanoId": "fmgfcq",
+    "objectId": "21364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "99 Cluny Park Road  257496, Orchard / Holland (D09-10)",
+    "displayText": "Cluny Park Residence",
+    "displayType": "Condominium",
+    "nanoId": "vmp2eo",
+    "objectId": "21734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "398 Kallang Road  339098, Balestier / Geylang (D12-14)",
+    "displayText": "The Riverine By The Park",
+    "displayType": "Apartment",
+    "nanoId": "buu3nl",
+    "objectId": "968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Spottiswoode Park Road  088642, City & South West (D01-08)",
+    "displayText": "Spottiswoode 18",
+    "displayType": "Condominium",
+    "nanoId": "36zfz9",
+    "objectId": "20582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Grange Road  249569, Orchard / Holland (D09-10)",
+    "displayText": "Gramercy Park",
+    "displayType": "Condominium",
+    "nanoId": "zok8po",
+    "objectId": "2161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Bedok Road  469360, East Coast (D15-16)",
+    "displayText": "Country Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "8tyh6f",
+    "objectId": "592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Nassim Road  258386, Orchard / Holland (D09-10)",
+    "displayText": "Nassim Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "yvps1i",
+    "objectId": "1344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Adam Road  289895, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Adam Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "gvo89y",
+    "objectId": "25",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "361 Holland Road  278637, Orchard / Holland (D09-10)",
+    "displayText": "Allsworth Park",
+    "displayType": "Condominium",
+    "nanoId": "z13f46",
+    "objectId": "3",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 Kellock Road  248903, Orchard / Holland (D09-10)",
+    "displayText": "Melrose Park",
+    "displayType": "Condominium",
+    "nanoId": "rgd1gt",
+    "objectId": "394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Park Road  059108, City & South West (D01-08)",
+    "displayText": "People's Park Complex",
+    "displayType": "Apartment",
+    "nanoId": "n1totc",
+    "objectId": "428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Road  509725, Changi / Pasir Ris (D17-18)",
+    "displayText": "Azalea Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cxsdu3",
+    "objectId": "539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Mimosa Road  807979, North (D25-28)",
+    "displayText": "Mimosa Park",
+    "displayType": "Condominium",
+    "nanoId": "7cq1al",
+    "objectId": "796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 Holland Road  258865, Orchard / Holland (D09-10)",
+    "displayText": "Verdure @ Holland Park",
+    "displayType": "Condominium",
+    "nanoId": "zfbykr",
+    "objectId": "1537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Bideford Road  229920, Orchard / Holland (D09-10)",
+    "displayText": "Richmond Park",
+    "displayType": "Condominium",
+    "nanoId": "92988m",
+    "objectId": "302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Jervois Road  249045, Orchard / Holland (D09-10)",
+    "displayText": "Dormer Park",
+    "displayType": "Condominium",
+    "nanoId": "i3myij",
+    "objectId": "529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131 Poh Huat Road West  546684, Serangoon / Thomson (D19-20)",
+    "displayText": "Nouvelle Park",
+    "displayType": "Condominium",
+    "nanoId": "uf3ue1",
+    "objectId": "905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "109 Tampines Road  535131, Serangoon / Thomson (D19-20)",
+    "displayText": "Fortune Park",
+    "displayType": "Condominium",
+    "nanoId": "ai6ouq",
+    "objectId": "1006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "102  Spottiswoode Park Road  080102, City & South West (D01-08)",
+    "displayText": "102 Spottiswoode Park Road",
+    "displayType": "Apartment",
+    "nanoId": "4w4n4n",
+    "objectId": "10441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "157A Tamarind Road  806105, North (D25-28)",
+    "displayText": "Serenity Park",
+    "displayType": "Condominium",
+    "nanoId": "o074b2",
+    "objectId": "732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "105  Spottiswoode Park Road  080105, City & South West (D01-08)",
+    "displayText": "105 Spottiswoode Park Road",
+    "displayType": "Apartment",
+    "nanoId": "rcsdx1",
+    "objectId": "10444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "107  Spottiswoode Park Road  080107, City & South West (D01-08)",
+    "displayText": "107 Spottiswoode Park Road",
+    "displayType": "Apartment",
+    "nanoId": "sgfl4l",
+    "objectId": "10446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "831 Upper Serangoon Road  534679, Serangoon / Thomson (D19-20)",
+    "displayText": "Park Residences Kovan",
+    "displayType": "Condominium",
+    "nanoId": "hzl62n",
+    "objectId": "20754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Spottiswoode Park Road  080101, City & South West (D01-08)",
+    "displayText": "101 Spottiswoode Park Road",
+    "displayType": "Condominium",
+    "nanoId": "91lu5a",
+    "objectId": "23445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "440 Tanjong Katong Road  437149, East Coast (D15-16)",
+    "displayText": "Seaview Park",
+    "displayType": "Condominium",
+    "nanoId": "v769ho",
+    "objectId": "2398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Tomlinson Road  247857, Orchard / Holland (D09-10)",
+    "displayText": "Park Nova",
+    "displayType": "Condominium",
+    "nanoId": "0rjryr",
+    "objectId": "24608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Windsor Park Road  000001, Serangoon / Thomson (D19-20)",
+    "displayText": "Windsor Park Estate",
+    "displayType": "Bungalow House",
+    "nanoId": "869kwa",
+    "objectId": "629",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "LBUNG",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "200 Pasir Panjang Road  118571, City & South West (D01-08)",
+    "displayText": "Pasir View Park",
+    "displayType": "Condominium",
+    "nanoId": "6i12pe",
+    "objectId": "891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Cashew Road  679633, West (D22-24)",
+    "displayText": "Cashew Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "yrmi1b",
+    "objectId": "903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "103 Spottiswoode Park Road  080103, City & South West (D01-08)",
+    "displayText": "103 Spottiswoode Park Road",
+    "displayType": "HDB",
+    "nanoId": "oyzhx4",
+    "objectId": "10442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Spottiswoode Park Road  080104, City & South West (D01-08)",
+    "displayText": "104 Spottiswoode Park Road",
+    "displayType": "HDB",
+    "nanoId": "fmcov5",
+    "objectId": "10443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Spottiswoode Park Road  080106, City & South West (D01-08)",
+    "displayText": "106 Spottiswoode Park Road",
+    "displayType": "HDB",
+    "nanoId": "w5r96f",
+    "objectId": "10445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Spottiswoode Park Road  080108, City & South West (D01-08)",
+    "displayText": "108 Spottiswoode Park Road",
+    "displayType": "HDB",
+    "nanoId": "nitcmn",
+    "objectId": "10447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Spottiswoode Park Road  080109, City & South West (D01-08)",
+    "displayText": "109 Spottiswoode Park Road",
+    "displayType": "HDB",
+    "nanoId": "s262aa",
+    "objectId": "10448",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Spottiswoode Park Road  081110, City & South West (D01-08)",
+    "displayText": "110 Spottiswoode Park Road",
+    "displayType": "HDB",
+    "nanoId": "s6zliy",
+    "objectId": "10449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Meyer Road  437908, East Coast (D15-16)",
+    "displayText": "Meyer Park",
+    "displayType": "Condominium",
+    "nanoId": "mkbt9c",
+    "objectId": "1217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Leedon Road  267830, Orchard / Holland (D09-10)",
+    "displayText": "Wilmer Park",
+    "displayType": "Apartment",
+    "nanoId": "2c7hxy",
+    "objectId": "1618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "137 Tamarind Road  806084, North (D25-28)",
+    "displayText": "Camelia Park",
+    "displayType": "Condominium",
+    "nanoId": "8xzh28",
+    "objectId": "1687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sembawang Road  758000, North (D25-28)",
+    "displayText": "Goodlink Park",
+    "displayType": "Terraced House",
+    "nanoId": "w8qlbx",
+    "objectId": "1967",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  }
+]

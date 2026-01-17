@@ -1,0 +1,1428 @@
+[
+  {
+    "displayDescription": "177 Yung Sheng Road  610177, West (D22-24)",
+    "displayText": "177 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "cgup9k",
+    "objectId": "13003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178 Yung Sheng Road  610178, West (D22-24)",
+    "displayText": "178 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "c3n4it",
+    "objectId": "13004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "179 Yung Sheng Road  610179, West (D22-24)",
+    "displayText": "179 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "mp5ztu",
+    "objectId": "13005",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180 Yung Sheng Road  610180, West (D22-24)",
+    "displayText": "180 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "g93ips",
+    "objectId": "13006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "181 Yung Sheng Road  610181, West (D22-24)",
+    "displayText": "181 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "enmq5h",
+    "objectId": "13007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182 Yung Sheng Road  610182, West (D22-24)",
+    "displayText": "182 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "24udpp",
+    "objectId": "13008",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183 Yung Sheng Road  610183, West (D22-24)",
+    "displayText": "183 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "mmue3w",
+    "objectId": "13009",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "184 Yung Sheng Road  610184, West (D22-24)",
+    "displayText": "184 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "5szhhg",
+    "objectId": "13010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182A Yung Sheng Road  611182, West (D22-24)",
+    "displayText": "182A Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "yc9zzv",
+    "objectId": "13011",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Yung Sheng",
+    "displayType": "Street",
+    "objectId": "3764",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yuan Sheng Road",
+    "displayType": "Street",
+    "objectId": "13459",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "84 Koon Seng Road  427026, East Coast (D15-16)",
+    "displayText": "Yong Shuey Lodge",
+    "displayType": "Apartment",
+    "nanoId": "vli0cl",
+    "objectId": "1604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "13 13 Mar Thoma Road  328693, Balestier / Geylang (D12-14)",
+    "displayText": "Kai Sheng Court",
+    "displayType": "Apartment",
+    "nanoId": "66r234",
+    "objectId": "25204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Senang  418000, Balestier / Geylang (D12-14)",
+    "displayText": "Yong Seng Estate",
+    "displayType": "Terraced House",
+    "nanoId": "eg6g3t",
+    "objectId": "1605",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Grisek  419000, Balestier / Geylang (D12-14)",
+    "displayText": "Seng Yong Villas",
+    "displayType": "Terraced House",
+    "nanoId": "d3g0ks",
+    "objectId": "2405",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Yung Kuang Road",
+    "displayType": "Street",
+    "objectId": "3761",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "357 Yung An Road  610357, West (D22-24)",
+    "displayText": "357 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "t1jk07",
+    "objectId": "12969",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358 Yung An Road  610358, West (D22-24)",
+    "displayText": "358 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "lklp05",
+    "objectId": "12970",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359 Yung An Road  610359, West (D22-24)",
+    "displayText": "359 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "oxukio",
+    "objectId": "12971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "360 Yung An Road  610360, West (D22-24)",
+    "displayText": "360 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "u5w18i",
+    "objectId": "12972",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "361 Yung An Road  610361, West (D22-24)",
+    "displayText": "361 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "h0qec8",
+    "objectId": "12973",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362 Yung An Road  610362, West (D22-24)",
+    "displayText": "362 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "sctr4v",
+    "objectId": "12974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "363 Yung An Road  610363, West (D22-24)",
+    "displayText": "363 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "28w5b0",
+    "objectId": "12975",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "364 Yung An Road  610364, West (D22-24)",
+    "displayText": "364 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "3t15rx",
+    "objectId": "12976",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "369 Yung An Road  610369, West (D22-24)",
+    "displayText": "369 Yung An Road",
+    "displayType": "HDB",
+    "nanoId": "xqdtrx",
+    "objectId": "12977",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "151 Yung Ho Road  610151, West (D22-24)",
+    "displayText": "151 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "e01klj",
+    "objectId": "12978",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Yung Ho Road  610152, West (D22-24)",
+    "displayText": "152 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "fz97y9",
+    "objectId": "12979",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153 Yung Ho Road  610153, West (D22-24)",
+    "displayText": "153 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "ukss79",
+    "objectId": "12980",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154 Yung Ho Road  610154, West (D22-24)",
+    "displayText": "154 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "wahwm5",
+    "objectId": "12981",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Yung Kuang Road  610007, West (D22-24)",
+    "displayText": "7 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "zretus",
+    "objectId": "12982",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Yung Kuang Road  610008, West (D22-24)",
+    "displayText": "8 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "p7a2zd",
+    "objectId": "12983",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Yung Kuang Road  610009, West (D22-24)",
+    "displayText": "9 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "ryqsm6",
+    "objectId": "12984",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Yung Kuang Road  610010, West (D22-24)",
+    "displayText": "10 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "gmfl58",
+    "objectId": "12985",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Yung Kuang Road  610063, West (D22-24)",
+    "displayText": "63 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "vmq5vc",
+    "objectId": "12986",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Yung Kuang Road  610065, West (D22-24)",
+    "displayText": "65 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "m7bjal",
+    "objectId": "12988",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Yung Kuang Road  610066, West (D22-24)",
+    "displayText": "66 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "fvl05t",
+    "objectId": "12989",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Yung Loh Road  610155, West (D22-24)",
+    "displayText": "155 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "vj05fs",
+    "objectId": "12990",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Yung Loh Road  610156, West (D22-24)",
+    "displayText": "156 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "6gq0ny",
+    "objectId": "12991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Yung Loh Road  610157, West (D22-24)",
+    "displayText": "157 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "c9dnur",
+    "objectId": "12992",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Yung Loh Road  610158, West (D22-24)",
+    "displayText": "158 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "52skkd",
+    "objectId": "12993",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155A Yung Loh Road  611155, West (D22-24)",
+    "displayText": "155A Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "iuu5t3",
+    "objectId": "12994",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Yung Ping Road  610005, West (D22-24)",
+    "displayText": "5 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "dgvw3b",
+    "objectId": "12995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Yung Ping Road  610159, West (D22-24)",
+    "displayText": "159 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "w4rysm",
+    "objectId": "12997",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Yung Ping Road  610160, West (D22-24)",
+    "displayText": "160 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "a6lltf",
+    "objectId": "12998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Yung Ping Road  610161, West (D22-24)",
+    "displayText": "161 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "q5ddci",
+    "objectId": "12999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162 Yung Ping Road  610162, West (D22-24)",
+    "displayText": "162 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "c34t1k",
+    "objectId": "13000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Yung Ping Road  610163, West (D22-24)",
+    "displayText": "163 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "tf4cld",
+    "objectId": "13001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163A Yung Ping Road  611163, West (D22-24)",
+    "displayText": "163A Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "1uem2x",
+    "objectId": "13002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175A Yung Kuang Road  611175, West (D22-24)",
+    "displayText": "175A Corporation Tiara",
+    "displayType": "HDB",
+    "nanoId": "iqyxhk",
+    "objectId": "22811",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175B Yung Kuang Road  612175, West (D22-24)",
+    "displayText": "175B Corporation Tiara",
+    "displayType": "HDB",
+    "nanoId": "1nh8ko",
+    "objectId": "22812",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175C Yung Kuang Road  613175, West (D22-24)",
+    "displayText": "175C Corporation Tiara",
+    "displayType": "HDB",
+    "nanoId": "z04dpn",
+    "objectId": "22813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "176 Yung Kuang Road  610176, West (D22-24)",
+    "displayText": "176 Corporation Tiara",
+    "displayType": "HDB",
+    "nanoId": "tzc5u4",
+    "objectId": "22814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164A Yung Kuang Road  611164, West (D22-24)",
+    "displayText": "164A Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "cl3s6f",
+    "objectId": "23215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Yung Kuang Road  610165, West (D22-24)",
+    "displayText": "165 Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "ypkw5p",
+    "objectId": "23216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165A Yung Kuang Road  611165, West (D22-24)",
+    "displayText": "165A Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "fouug9",
+    "objectId": "23217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165B Yung Kuang Road  612165, West (D22-24)",
+    "displayText": "165B Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "bmg0hz",
+    "objectId": "23218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Yung Kuang Road  610166, West (D22-24)",
+    "displayText": "166 Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "e1puc8",
+    "objectId": "23219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166A Yung Kuang Road  611166, West (D22-24)",
+    "displayText": "166A Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "yciany",
+    "objectId": "23220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166B Yung Kuang Road  612166, West (D22-24)",
+    "displayText": "166B Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "q325xc",
+    "objectId": "23221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Yung An Road",
+    "displayType": "Street",
+    "objectId": "3759",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yung Ho Road",
+    "displayType": "Street",
+    "objectId": "3760",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yung Loh Road",
+    "displayType": "Street",
+    "objectId": "3762",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "64 Yung Kuang Road  610064, West (D22-24)",
+    "displayText": "64 Yung Kuang Road",
+    "displayType": "HDB",
+    "nanoId": "pdvss7",
+    "objectId": "12987",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Yung Ping Road  610006, West (D22-24)",
+    "displayText": "6 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "8i2sdf",
+    "objectId": "12996",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Yung Ping",
+    "displayType": "Street",
+    "objectId": "3763",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "325 River Valley Road  238357, Orchard / Holland (D09-10)",
+    "displayText": "Yong An Park",
+    "displayType": "Condominium",
+    "nanoId": "3xhocw",
+    "objectId": "260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1  3 Hullet Road  229157, Orchard / Holland (D09-10)",
+    "displayText": "Char Yong Gardens",
+    "displayType": "Condominium",
+    "nanoId": "up8eca",
+    "objectId": "24923",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Robin Road  258203, Orchard / Holland (D09-10)",
+    "displayText": "Ying Mansions",
+    "displayType": "Apartment",
+    "nanoId": "8l5xey",
+    "objectId": "25228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Kung Chong Road",
+    "displayType": "Street",
+    "objectId": "10680",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sixth Lok Yang Road",
+    "displayType": "Street",
+    "objectId": "3040",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Third Lok Yang Road",
+    "displayType": "Street",
+    "objectId": "3365",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Fifth Lok Yang Road",
+    "displayType": "Street",
+    "objectId": "876",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "First Lok Yang Road",
+    "displayType": "Street",
+    "objectId": "883",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Fourth Lok Yang Road",
+    "displayType": "Street",
+    "objectId": "908",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Tan Kim Cheng Road  266621, Orchard / Holland (D09-10)",
+    "displayText": "Lutheran Towers",
+    "displayType": "Apartment",
+    "nanoId": "xl6vkr",
+    "objectId": "1480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Tan Kim Cheng Road  266631, Orchard / Holland (D09-10)",
+    "displayText": "The Siena",
+    "displayType": "Apartment",
+    "nanoId": "lvjbz6",
+    "objectId": "21828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Kovan Road  548036, Serangoon / Thomson (D19-20)",
+    "displayText": "Cheng Hoe House",
+    "displayType": "Apartment",
+    "nanoId": "hyvht3",
+    "objectId": "1810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tan Kim Cheng Road",
+    "displayType": "Street",
+    "objectId": "3282",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "112 Kim Seng Road  239432, Orchard / Holland (D09-10)",
+    "displayText": "The Trillium",
+    "displayType": "Condominium",
+    "nanoId": "ck22xu",
+    "objectId": "746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Kim Seng Road  239471, Orchard / Holland (D09-10)",
+    "displayText": "The Cosmopolitan",
+    "displayType": "Condominium",
+    "nanoId": "u6mgp2",
+    "objectId": "81",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Kim Seng Road  239426, Orchard / Holland (D09-10)",
+    "displayText": "Mirage Tower",
+    "displayType": "Condominium",
+    "nanoId": "1b7m0v",
+    "objectId": "287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Seng Road  239497, Orchard / Holland (D09-10)",
+    "displayText": "Tribeca by the Waterfront",
+    "displayType": "Condominium",
+    "nanoId": "388qcf",
+    "objectId": "136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Kim Seng Road  239427, Orchard / Holland (D09-10)",
+    "displayText": "Centennia Suites",
+    "displayType": "Condominium",
+    "nanoId": "9qbyub",
+    "objectId": "20611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "58 Seng Poh Road  160058, City & South West (D01-08)",
+    "displayText": "Tiong Bahru Estate",
+    "displayType": "Apartment",
+    "nanoId": "jvqgqa",
+    "objectId": "2532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        "5"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "126 Koon Seng Road  427059, East Coast (D15-16)",
+    "displayText": "Tivoli Grande",
+    "displayType": "Condominium",
+    "nanoId": "3z0f6v",
+    "objectId": "20530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Joo Seng Road  360009, Balestier / Geylang (D12-14)",
+    "displayText": "9 Joo Seng Road",
+    "displayType": "HDB",
+    "nanoId": "8wqlyg",
+    "objectId": "23352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Koon Seng Road  427071, East Coast (D15-16)",
+    "displayText": "Ovada 8",
+    "displayType": "Condominium",
+    "nanoId": "dayh2a",
+    "objectId": "1099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "54 Sembawang Road  779085, North (D25-28)",
+    "displayText": "Hong Heng Mansions",
+    "displayType": "Apartment",
+    "nanoId": "lxympt",
+    "objectId": "1443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "98 Koon Seng Road  427037, East Coast (D15-16)",
+    "displayText": "Alpha Apartments",
+    "displayType": "Condominium",
+    "nanoId": "wsjo8j",
+    "objectId": "1491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Sembawang Road  779084, North (D25-28)",
+    "displayText": "Hong Heng Garden",
+    "displayType": "Apartment",
+    "nanoId": "3nd4f2",
+    "objectId": "2035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Thong Bee Road  778000, North (D25-28)",
+    "displayText": "Hong Heng Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "6ieazd",
+    "objectId": "2036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "81 Koon Seng Road  427024, East Coast (D15-16)",
+    "displayText": "Casa Feliz",
+    "displayType": "Condominium",
+    "nanoId": "rdcbqk",
+    "objectId": "20637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "115 Koon Seng Road  427048, East Coast (D15-16)",
+    "displayText": "Bendigo Gardens",
+    "displayType": "Apartment",
+    "nanoId": "kf31q3",
+    "objectId": "20834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Koon Seng Road  426000, East Coast (D15-16)",
+    "displayText": "Heritage 9",
+    "displayType": "Conservation House",
+    "nanoId": "9xcjxb",
+    "objectId": "20931",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CON",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "133 Koon Seng Road  427063, East Coast (D15-16)",
+    "displayText": "Klassic Court",
+    "displayType": "Condominium",
+    "nanoId": "pd20ec",
+    "objectId": "2104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113B Koon Seng Road  427047, East Coast (D15-16)",
+    "displayText": "Koon Seng Court",
+    "displayType": "Apartment",
+    "nanoId": "migwk9",
+    "objectId": "2107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "63 Koon Seng Road  426998, East Coast (D15-16)",
+    "displayText": "63 Koon Seng Road",
+    "displayType": "Walk-up",
+    "nanoId": "3b27c5",
+    "objectId": "23057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1B Woo Mon Chew Road  455055, East Coast (D15-16)",
+    "displayText": "Poh Heng Court",
+    "displayType": "Apartment",
+    "nanoId": "uuw87i",
+    "objectId": "2308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "89A Koon Seng Road  427030, East Coast (D15-16)",
+    "displayText": "East Court",
+    "displayType": "Apartment",
+    "nanoId": "bjkqce",
+    "objectId": "24930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "89 Koon Seng Road  427030, East Coast (D15-16)",
+    "displayText": "Koon Seng House",
+    "displayType": "Condominium",
+    "nanoId": "vm47w7",
+    "objectId": "25662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

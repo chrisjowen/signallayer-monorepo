@@ -1,0 +1,1442 @@
+[
+  {
+    "displayText": "Woodlands Drive 60",
+    "displayType": "Street",
+    "objectId": "3679",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "769 Woodlands Drive 60  730769, North (D25-28)",
+    "displayText": "769 Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "h70k8m",
+    "objectId": "12092",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "770 Woodlands Drive 60  730770, North (D25-28)",
+    "displayText": "770 Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "gxruk3",
+    "objectId": "12093",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "771 Woodlands Drive 60  730771, North (D25-28)",
+    "displayText": "771 Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "s1uyc0",
+    "objectId": "12094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "772 Woodlands Drive 60  730772, North (D25-28)",
+    "displayText": "772 Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "ev50j0",
+    "objectId": "12095",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "773 Woodlands Drive 60  730773, North (D25-28)",
+    "displayText": "773 Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "qa590x",
+    "objectId": "12096",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "778 Woodlands Drive 60  730778, North (D25-28)",
+    "displayText": "778 Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "6bq54e",
+    "objectId": "12097",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "773A Woodlands Drive 60  731773, North (D25-28)",
+    "displayText": "773A Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "s2c47k",
+    "objectId": "12098",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "786B Woodlands Drive 60  732786, North (D25-28)",
+    "displayText": "786B Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "6lac2v",
+    "objectId": "12100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "786C Woodlands Drive 60  733786, North (D25-28)",
+    "displayText": "786C Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "3ts1nj",
+    "objectId": "12101",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "786D Woodlands Drive 60  734786, North (D25-28)",
+    "displayText": "786D Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "7xjohd",
+    "objectId": "12102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "786E Woodlands Drive 60  735786, North (D25-28)",
+    "displayText": "786E Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "l0duku",
+    "objectId": "12103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "786F Woodlands Drive 60  736786, North (D25-28)",
+    "displayText": "786F Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "hcmjxt",
+    "objectId": "12104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "786A Woodlands Drive 60  731786, North (D25-28)",
+    "displayText": "786A Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "q8s7qy",
+    "objectId": "12099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "799A Woodlands Drive 60  731799, North (D25-28)",
+    "displayText": "799A Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "d6d2k3",
+    "objectId": "25866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "799B Woodlands Drive 60  732799, North (D25-28)",
+    "displayText": "799B Woodlands Drive 60",
+    "displayType": "HDB",
+    "nanoId": "tot10g",
+    "objectId": "25901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "601 Woodlands Drive 42  730601, North (D25-28)",
+    "displayText": "601 Woodlands Drive 42",
+    "displayType": "HDB",
+    "nanoId": "haiow5",
+    "objectId": "12030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "602 Woodlands Drive 42  730602, North (D25-28)",
+    "displayText": "602 Woodlands Drive 42",
+    "displayType": "HDB",
+    "nanoId": "9gv2dh",
+    "objectId": "12031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "603 Woodlands Drive 42  730603, North (D25-28)",
+    "displayText": "603 Woodlands Drive 42",
+    "displayType": "HDB",
+    "nanoId": "penqms",
+    "objectId": "12032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "604 Woodlands Drive 42  730604, North (D25-28)",
+    "displayText": "604 Woodlands Drive 42",
+    "displayType": "HDB",
+    "nanoId": "3qnk4v",
+    "objectId": "12033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605 Woodlands Drive 42  730605, North (D25-28)",
+    "displayText": "605 Woodlands Drive 42",
+    "displayType": "HDB",
+    "nanoId": "suwvq4",
+    "objectId": "12034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605A Woodlands Drive 42  731605, North (D25-28)",
+    "displayText": "605A Woodlands Drive 42",
+    "displayType": "HDB",
+    "nanoId": "yolyb9",
+    "objectId": "12035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Woodlands Drive 50",
+    "displayType": "Street",
+    "objectId": "3676",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 40",
+    "displayType": "Street",
+    "objectId": "3672",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 62",
+    "displayType": "Street",
+    "objectId": "3681",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 63",
+    "displayType": "Street",
+    "objectId": "3682",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 65",
+    "displayType": "Street",
+    "objectId": "3683",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 70",
+    "displayType": "Street",
+    "objectId": "3684",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 75",
+    "displayType": "Street",
+    "objectId": "10398",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 14",
+    "displayType": "Street",
+    "objectId": "3670",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 16",
+    "displayType": "Street",
+    "objectId": "3671",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 42",
+    "displayType": "Street",
+    "objectId": "3673",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 44",
+    "displayType": "Street",
+    "objectId": "3675",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 52",
+    "displayType": "Street",
+    "objectId": "3677",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 53",
+    "displayType": "Street",
+    "objectId": "3678",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 71",
+    "displayType": "Street",
+    "objectId": "3685",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 72",
+    "displayType": "Street",
+    "objectId": "3686",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Drive 73",
+    "displayType": "Street",
+    "objectId": "3687",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "60 Mei Hwan Drive  568426, Serangoon / Thomson (D19-20)",
+    "displayText": "Goldenhill Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "2yoenc",
+    "objectId": "635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Sims Drive  380060, Balestier / Geylang (D12-14)",
+    "displayText": "60 Sims Drive",
+    "displayType": "HDB",
+    "nanoId": "llswdm",
+    "objectId": "10397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 Commonwealth Drive  140060, City & South West (D01-08)",
+    "displayText": "60 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "xalg06",
+    "objectId": "5545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 Marine Drive  440060, East Coast (D15-16)",
+    "displayText": "60 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "0fdln6",
+    "objectId": "8484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Woodlands Drive 16  737763, North (D25-28)",
+    "displayText": "Forestville",
+    "displayType": "Executive Condominium",
+    "nanoId": "wl2w79",
+    "objectId": "21431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Woodlands Drive 72  738089, North (D25-28)",
+    "displayText": "Woodsvale",
+    "displayType": "Condominium",
+    "nanoId": "vhx3fm",
+    "objectId": "138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Woodlands Drive 16  737892, North (D25-28)",
+    "displayText": "La Casa",
+    "displayType": "Condominium",
+    "nanoId": "kn1ogv",
+    "objectId": "110",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "589 Woodlands Drive 16  730589, North (D25-28)",
+    "displayText": "589 Woodlands Drive 16",
+    "displayType": "HDB",
+    "nanoId": "3f9zcm",
+    "objectId": "12013",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "574B Woodlands Drive 16  732574, North (D25-28)",
+    "displayText": "574B Woodlands Glen",
+    "displayType": "HDB",
+    "nanoId": "90e1p8",
+    "objectId": "23368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "889D Woodlands Drive 50  734889, North (D25-28)",
+    "displayText": "889D Woodlands Drive 50",
+    "displayType": "HDB",
+    "nanoId": "opp7v1",
+    "objectId": "23622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "900 South Woodlands Drive  730900, North (D25-28)",
+    "displayText": "900 South Woodlands Drive",
+    "displayType": "HDB",
+    "nanoId": "ylvihk",
+    "objectId": "10440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501 Woodlands Drive 14  730501, North (D25-28)",
+    "displayText": "501 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "p9i6ga",
+    "objectId": "11940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Woodlands Drive 14  730502, North (D25-28)",
+    "displayText": "502 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "rufgqe",
+    "objectId": "11941",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Woodlands Drive 14  730503, North (D25-28)",
+    "displayText": "503 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "i9jdiy",
+    "objectId": "11942",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Woodlands Drive 14  730504, North (D25-28)",
+    "displayText": "504 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "78dr2w",
+    "objectId": "11943",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Woodlands Drive 14  730505, North (D25-28)",
+    "displayText": "505 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "uh4gfw",
+    "objectId": "11944",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Woodlands Drive 14  730506, North (D25-28)",
+    "displayText": "506 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "drv97t",
+    "objectId": "11945",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Woodlands Drive 14  730507, North (D25-28)",
+    "displayText": "507 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "cvjbxh",
+    "objectId": "11946",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Woodlands Drive 14  730508, North (D25-28)",
+    "displayText": "508 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "62xyr1",
+    "objectId": "11947",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 Woodlands Drive 14  730509, North (D25-28)",
+    "displayText": "509 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "br9v46",
+    "objectId": "11948",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Woodlands Drive 14  730510, North (D25-28)",
+    "displayText": "510 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "2s3suj",
+    "objectId": "11949",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Woodlands Drive 14  730511, North (D25-28)",
+    "displayText": "511 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "bxn94v",
+    "objectId": "11950",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Woodlands Drive 14  730512, North (D25-28)",
+    "displayText": "512 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "j2onc5",
+    "objectId": "11951",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Woodlands Drive 14  730513, North (D25-28)",
+    "displayText": "513 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "plibix",
+    "objectId": "11952",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Woodlands Drive 14  730514, North (D25-28)",
+    "displayText": "514 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "nuevmf",
+    "objectId": "11953",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Woodlands Drive 14  730515, North (D25-28)",
+    "displayText": "515 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "6zinf4",
+    "objectId": "11954",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Woodlands Drive 14  730516, North (D25-28)",
+    "displayText": "516 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "7sty93",
+    "objectId": "11955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Woodlands Drive 14  730517, North (D25-28)",
+    "displayText": "517 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "ovldbh",
+    "objectId": "11956",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Woodlands Drive 14  730518, North (D25-28)",
+    "displayText": "518 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "cc616f",
+    "objectId": "11957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519 Woodlands Drive 14  730519, North (D25-28)",
+    "displayText": "519 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "ase8w1",
+    "objectId": "11958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "520 Woodlands Drive 14  730520, North (D25-28)",
+    "displayText": "520 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "w18go1",
+    "objectId": "11959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "521 Woodlands Drive 14  730521, North (D25-28)",
+    "displayText": "521 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "coc36t",
+    "objectId": "11960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "522 Woodlands Drive 14  730522, North (D25-28)",
+    "displayText": "522 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "3e4d2f",
+    "objectId": "11961",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523 Woodlands Drive 14  730523, North (D25-28)",
+    "displayText": "523 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "i5i59r",
+    "objectId": "11962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524 Woodlands Drive 14  730524, North (D25-28)",
+    "displayText": "524 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "wsieis",
+    "objectId": "11963",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525 Woodlands Drive 14  730525, North (D25-28)",
+    "displayText": "525 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "de4z3p",
+    "objectId": "11964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526 Woodlands Drive 14  730526, North (D25-28)",
+    "displayText": "526 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "gb90mo",
+    "objectId": "11965",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Woodlands Drive 14  730527, North (D25-28)",
+    "displayText": "527 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "gzj6yu",
+    "objectId": "11966",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Woodlands Drive 14  730528, North (D25-28)",
+    "displayText": "528 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "zawh57",
+    "objectId": "11967",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "529 Woodlands Drive 14  730529, North (D25-28)",
+    "displayText": "529 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "9djvcq",
+    "objectId": "11968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530 Woodlands Drive 14  730530, North (D25-28)",
+    "displayText": "530 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "zft7ds",
+    "objectId": "11969",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "531 Woodlands Drive 14  730531, North (D25-28)",
+    "displayText": "531 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "8gt4dd",
+    "objectId": "11970",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "532 Woodlands Drive 14  730532, North (D25-28)",
+    "displayText": "532 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "gnpdvf",
+    "objectId": "11971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533 Woodlands Drive 14  730533, North (D25-28)",
+    "displayText": "533 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "3gdboj",
+    "objectId": "11972",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "534 Woodlands Drive 14  730534, North (D25-28)",
+    "displayText": "534 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "562oh2",
+    "objectId": "11973",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "535 Woodlands Drive 14  730535, North (D25-28)",
+    "displayText": "535 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "05wrjz",
+    "objectId": "11974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "536 Woodlands Drive 14  730536, North (D25-28)",
+    "displayText": "536 Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "xkah0u",
+    "objectId": "11975",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502A Woodlands Drive 14  731502, North (D25-28)",
+    "displayText": "502A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "m8rrs7",
+    "objectId": "11976",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505A Woodlands Drive 14  731505, North (D25-28)",
+    "displayText": "505A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "pe60hc",
+    "objectId": "11977",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509A Woodlands Drive 14  731509, North (D25-28)",
+    "displayText": "509A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "2rd7w7",
+    "objectId": "11978",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26",
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515A Woodlands Drive 14  731515, North (D25-28)",
+    "displayText": "515A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "hj72fz",
+    "objectId": "11979",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516A Woodlands Drive 14  731516, North (D25-28)",
+    "displayText": "516A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "541rap",
+    "objectId": "11980",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517A Woodlands Drive 14  731517, North (D25-28)",
+    "displayText": "517A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "nqioj2",
+    "objectId": "11981",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519A Woodlands Drive 14  731519, North (D25-28)",
+    "displayText": "519A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "3z79dc",
+    "objectId": "11982",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "521A Woodlands Drive 14  731521, North (D25-28)",
+    "displayText": "521A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "0d0r63",
+    "objectId": "11983",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523A Woodlands Drive 14  731523, North (D25-28)",
+    "displayText": "523A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "3pobt3",
+    "objectId": "11984",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525A Woodlands Drive 14  731525, North (D25-28)",
+    "displayText": "525A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "a8ba2h",
+    "objectId": "11985",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "536A Woodlands Drive 14  731536, North (D25-28)",
+    "displayText": "536A Woodlands Drive 14",
+    "displayType": "HDB",
+    "nanoId": "pkmfh3",
+    "objectId": "11987",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "537 Woodlands Drive 16  730537, North (D25-28)",
+    "displayText": "537 Woodlands Drive 16",
+    "displayType": "HDB",
+    "nanoId": "fqp1kq",
+    "objectId": "11988",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "538 Woodlands Drive 16  730538, North (D25-28)",
+    "displayText": "538 Woodlands Drive 16",
+    "displayType": "HDB",
+    "nanoId": "ryz7hr",
+    "objectId": "11989",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "539 Woodlands Drive 16  730539, North (D25-28)",
+    "displayText": "539 Woodlands Drive 16",
+    "displayType": "HDB",
+    "nanoId": "k26y3g",
+    "objectId": "11990",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "540 Woodlands Drive 16  730540, North (D25-28)",
+    "displayText": "540 Woodlands Drive 16",
+    "displayType": "HDB",
+    "nanoId": "9b3wzv",
+    "objectId": "11991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

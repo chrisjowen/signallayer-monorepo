@@ -1,0 +1,1475 @@
+[
+  {
+    "displayText": "Marine Drive",
+    "displayType": "Street",
+    "objectId": "2254",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "60 Marine Drive  440060, East Coast (D15-16)",
+    "displayText": "60 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "0fdln6",
+    "objectId": "8484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Marine Drive  440061, East Coast (D15-16)",
+    "displayText": "61 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "2anzn2",
+    "objectId": "8485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 Marine Drive  440062, East Coast (D15-16)",
+    "displayText": "62 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "o9j4uw",
+    "objectId": "8486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Marine Drive  440063, East Coast (D15-16)",
+    "displayText": "63 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "uiop8c",
+    "objectId": "8487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Marine Drive  440064, East Coast (D15-16)",
+    "displayText": "64 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "o9kgp7",
+    "objectId": "8488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Marine Drive  440065, East Coast (D15-16)",
+    "displayText": "65 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "2wd69s",
+    "objectId": "8489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Marine Drive  440066, East Coast (D15-16)",
+    "displayText": "66 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "bf97up",
+    "objectId": "8490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Marine Drive  440067, East Coast (D15-16)",
+    "displayText": "67 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "9w0p99",
+    "objectId": "8491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "71 Marine Drive  440071, East Coast (D15-16)",
+    "displayText": "71 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "8pmkxd",
+    "objectId": "8492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Marine Drive  440072, East Coast (D15-16)",
+    "displayText": "72 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "0ilt4j",
+    "objectId": "8493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73 Marine Drive  440073, East Coast (D15-16)",
+    "displayText": "73 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "1cee9i",
+    "objectId": "8494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74 Marine Drive  440074, East Coast (D15-16)",
+    "displayText": "74 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "ek0yte",
+    "objectId": "8495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75 Marine Drive  440075, East Coast (D15-16)",
+    "displayText": "75 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "28vrl7",
+    "objectId": "8496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "76 Marine Drive  440076, East Coast (D15-16)",
+    "displayText": "76 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "rzslqm",
+    "objectId": "8497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "77 Marine Drive  440077, East Coast (D15-16)",
+    "displayText": "77 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "uwrrm6",
+    "objectId": "8498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "78 Marine Drive  440078, East Coast (D15-16)",
+    "displayText": "78 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "i4g8sp",
+    "objectId": "8499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "79 Marine Drive  440079, East Coast (D15-16)",
+    "displayText": "79 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "ag4afv",
+    "objectId": "8500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65A Marine Drive  441065, East Coast (D15-16)",
+    "displayText": "65A Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "c5x1a4",
+    "objectId": "8501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Cove Drive  098327, City & South West (D01-08)",
+    "displayText": "Marina Collection",
+    "displayType": "Condominium",
+    "nanoId": "d3i3rk",
+    "objectId": "1275",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Saint Martin's Drive  257989, Orchard / Holland (D09-10)",
+    "displayText": "St. Martin Residence",
+    "displayType": "Condominium",
+    "nanoId": "2xuhl8",
+    "objectId": "492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "St Martin Drive",
+    "displayType": "Street",
+    "objectId": "5781",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D15",
+    "displayText": "D15 East Coast / Marine Parade",
+    "displayType": "District",
+    "objectId": "D15",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D15"
+    }
+  },
+  {
+    "displayText": "Marine Parade",
+    "displayType": "HDB Estate",
+    "objectId": "17",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "60 Marine Parade Road  449297, East Coast (D15-16)",
+    "displayText": "Cote D'Azur",
+    "displayType": "Condominium",
+    "nanoId": "cuu2v2",
+    "objectId": "147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Marine Vista  449025, East Coast (D15-16)",
+    "displayText": "Neptune Court",
+    "displayType": "Apartment",
+    "nanoId": "eyyqcx",
+    "objectId": "307",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Marine Parade Road  000000, East Coast (D15-16)",
+    "displayText": "Laguna Park",
+    "displayType": "Apartment",
+    "nanoId": "y73jtg",
+    "objectId": "359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "95 Marine Parade Road  449271, East Coast (D15-16)",
+    "displayText": "Marine Blue",
+    "displayType": "Condominium",
+    "nanoId": "gj83h6",
+    "objectId": "1499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5000J Marine Parade Road  449291, East Coast (D15-16)",
+    "displayText": "Lagoon View",
+    "displayType": "Apartment",
+    "nanoId": "iiae2h",
+    "objectId": "426",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Marine Parade Road  449265, East Coast (D15-16)",
+    "displayText": "Parkway View",
+    "displayType": "Condominium",
+    "nanoId": "bnqj5k",
+    "objectId": "2279",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "97 Marine Parade Road  449273, East Coast (D15-16)",
+    "displayText": "Marine View Mansion",
+    "displayType": "Condominium",
+    "nanoId": "1sf8uh",
+    "objectId": "2182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Marine Terrace",
+    "displayType": "Street",
+    "objectId": "10249",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "501 Marine Parade Road  449303, East Coast (D15-16)",
+    "displayText": "Taipan Grand",
+    "displayType": "Condominium",
+    "nanoId": "t9zq2f",
+    "objectId": "1520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Siglap Road  455000, East Coast (D15-16)",
+    "displayText": "Marine Garden",
+    "displayType": "Terraced House",
+    "nanoId": "5wwl2w",
+    "objectId": "20967",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "163 Marine Parade  449528, East Coast (D15-16)",
+    "displayText": "Marine Meadows",
+    "displayType": "Apartment",
+    "nanoId": "4kqp6v",
+    "objectId": "20968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Sea Avenue  424249, East Coast (D15-16)",
+    "displayText": "Marine Mansion",
+    "displayType": "Apartment",
+    "nanoId": "1woc9w",
+    "objectId": "21683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "161 Marine Parade  449527, East Coast (D15-16)",
+    "displayText": "Marine Ville",
+    "displayType": "Apartment",
+    "nanoId": "15zhdk",
+    "objectId": "2183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Marine Crescent  440027, East Coast (D15-16)",
+    "displayText": "27 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "3m5eui",
+    "objectId": "8468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Marine Crescent  440028, East Coast (D15-16)",
+    "displayText": "28 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "dszvvs",
+    "objectId": "8469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Marine Crescent  440029, East Coast (D15-16)",
+    "displayText": "29 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "wlehkq",
+    "objectId": "8470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 Marine Crescent  440030, East Coast (D15-16)",
+    "displayText": "30 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "i3khsw",
+    "objectId": "8471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Marine Crescent  440031, East Coast (D15-16)",
+    "displayText": "31 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "mmxro5",
+    "objectId": "8472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Marine Crescent  440032, East Coast (D15-16)",
+    "displayText": "32 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "lxvmre",
+    "objectId": "8473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Marine Crescent  440033, East Coast (D15-16)",
+    "displayText": "33 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "bkzoz6",
+    "objectId": "8474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Marine Crescent  440034, East Coast (D15-16)",
+    "displayText": "34 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "aaggvc",
+    "objectId": "8475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Marine Crescent  440035, East Coast (D15-16)",
+    "displayText": "35 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "mw78qf",
+    "objectId": "8476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Marine Crescent  440043, East Coast (D15-16)",
+    "displayText": "43 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "ju9ytl",
+    "objectId": "8477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Marine Crescent  440044, East Coast (D15-16)",
+    "displayText": "44 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "fxtmii",
+    "objectId": "8478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Marine Crescent  440045, East Coast (D15-16)",
+    "displayText": "45 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "7o6oan",
+    "objectId": "8479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Marine Crescent  440046, East Coast (D15-16)",
+    "displayText": "46 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "pprbik",
+    "objectId": "8480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Marine Crescent  440047, East Coast (D15-16)",
+    "displayText": "47 Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "v920on",
+    "objectId": "8481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27A Marine Crescent  441027, East Coast (D15-16)",
+    "displayText": "27A Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "wp3owt",
+    "objectId": "8482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47A Marine Crescent  441047, East Coast (D15-16)",
+    "displayText": "47A Marine Crescent",
+    "displayType": "HDB",
+    "nanoId": "f5xnu5",
+    "objectId": "8483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Marine Parade Central  440080, East Coast (D15-16)",
+    "displayText": "80 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "f6xq5n",
+    "objectId": "8502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Marine Parade Central  440081, East Coast (D15-16)",
+    "displayText": "81 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "humn0o",
+    "objectId": "8503",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Marine Parade Central  440082, East Coast (D15-16)",
+    "displayText": "82 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "lvslmf",
+    "objectId": "8504",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83 Marine Parade Central  440083, East Coast (D15-16)",
+    "displayText": "83 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "bqgdap",
+    "objectId": "8505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Marine Parade Central  440084, East Coast (D15-16)",
+    "displayText": "84 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "qbxdw9",
+    "objectId": "8506",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "85 Marine Parade Central  440085, East Coast (D15-16)",
+    "displayText": "85 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "rg2a9v",
+    "objectId": "8507",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86 Marine Parade Central  440086, East Coast (D15-16)",
+    "displayText": "86 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "6xtko3",
+    "objectId": "8508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "87 Marine Parade Central  440087, East Coast (D15-16)",
+    "displayText": "87 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "4kja99",
+    "objectId": "8509",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "89 Marine Parade Central  440089, East Coast (D15-16)",
+    "displayText": "89 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "zewcvw",
+    "objectId": "8510",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Marine Terrace  440001, East Coast (D15-16)",
+    "displayText": "1 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "4quz83",
+    "objectId": "8511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Marine Terrace  440002, East Coast (D15-16)",
+    "displayText": "2 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "p92f4x",
+    "objectId": "8512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Marine Terrace  440003, East Coast (D15-16)",
+    "displayText": "3 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "osm720",
+    "objectId": "8513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Marine Terrace  440004, East Coast (D15-16)",
+    "displayText": "4 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "whx9ui",
+    "objectId": "8514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Marine Terrace  440005, East Coast (D15-16)",
+    "displayText": "5 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "kna5ot",
+    "objectId": "8515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Marine Terrace  440006, East Coast (D15-16)",
+    "displayText": "6 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "di4axw",
+    "objectId": "8516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Marine Terrace  440007, East Coast (D15-16)",
+    "displayText": "7 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "5fwxso",
+    "objectId": "8517",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Marine Terrace  440008, East Coast (D15-16)",
+    "displayText": "8 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "eta9iy",
+    "objectId": "8518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Marine Terrace  440012, East Coast (D15-16)",
+    "displayText": "12 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "jibe8z",
+    "objectId": "8519",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Marine Terrace  440013, East Coast (D15-16)",
+    "displayText": "13 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "a4859e",
+    "objectId": "8520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Marine Terrace  440014, East Coast (D15-16)",
+    "displayText": "14 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "ko7a34",
+    "objectId": "8521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Marine Terrace  440015, East Coast (D15-16)",
+    "displayText": "15 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "7yi0ga",
+    "objectId": "8522",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Marine Terrace  440016, East Coast (D15-16)",
+    "displayText": "16 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "fp3jow",
+    "objectId": "8523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Marine Terrace  440017, East Coast (D15-16)",
+    "displayText": "17 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "2wllfm",
+    "objectId": "8524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Marine Terrace  440018, East Coast (D15-16)",
+    "displayText": "18 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "uwzfms",
+    "objectId": "8525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Marine Terrace  440019, East Coast (D15-16)",
+    "displayText": "19 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "t4aaw1",
+    "objectId": "8526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Marine Terrace  440020, East Coast (D15-16)",
+    "displayText": "20 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "d06izy",
+    "objectId": "8527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Marine Terrace  440051, East Coast (D15-16)",
+    "displayText": "51 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "y4uogy",
+    "objectId": "8529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Marine Terrace  440052, East Coast (D15-16)",
+    "displayText": "52 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "fnvvjm",
+    "objectId": "8530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Marine Terrace  440053, East Coast (D15-16)",
+    "displayText": "53 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "g4epbc",
+    "objectId": "8531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Marine Terrace  440054, East Coast (D15-16)",
+    "displayText": "54 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "gewjvu",
+    "objectId": "8532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Marine Terrace  440055, East Coast (D15-16)",
+    "displayText": "55 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "4u2dg2",
+    "objectId": "8533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Marine Terrace  440056, East Coast (D15-16)",
+    "displayText": "56 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "rjdtiv",
+    "objectId": "8534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Marine Terrace  440057, East Coast (D15-16)",
+    "displayText": "57 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "i93d6l",
+    "objectId": "8535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Marine Terrace  440058, East Coast (D15-16)",
+    "displayText": "58 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "axcmup",
+    "objectId": "8536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Marine Terrace  440059, East Coast (D15-16)",
+    "displayText": "59 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "70djkj",
+    "objectId": "8537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50A Marine Terrace  441050, East Coast (D15-16)",
+    "displayText": "50A Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "7qhitx",
+    "objectId": "8538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Marine Crescent",
+    "displayType": "Street",
+    "objectId": "2253",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Marine Vista",
+    "displayType": "Street",
+    "objectId": "2256",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Marine Parade Central",
+    "displayType": "Street",
+    "objectId": "2257",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Marine Parade Road",
+    "displayType": "Street",
+    "objectId": "2258",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Marine Point",
+    "displayType": "Street",
+    "objectId": "3944",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "50 Marine Terrace  440050, East Coast (D15-16)",
+    "displayText": "50 Marine Terrace",
+    "displayType": "HDB",
+    "nanoId": "1tcfp5",
+    "objectId": "8528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D1",
+    "displayText": "D01 Boat Quay / Raffles Place / Marina",
+    "displayType": "District",
+    "objectId": "D01",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D01"
+    }
+  },
+  {
+    "displayDescription": "6 Marina Boulevard  018985, City & South West (D01-08)",
+    "displayText": "The Sail @ Marina Bay",
+    "displayType": "Condominium",
+    "nanoId": "7i5xen",
+    "objectId": "59",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Marina Way  018978, City & South West (D01-08)",
+    "displayText": "Marina One Residences",
+    "displayType": "Condominium",
+    "nanoId": "syzzuc",
+    "objectId": "21458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Marina Boulevard  018980, City & South West (D01-08)",
+    "displayText": "Marina Bay Residences",
+    "displayType": "Condominium",
+    "nanoId": "s1obzy",
+    "objectId": "70",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "457396, East Coast (D15-16)",
+    "displayText": "Villa Marina",
+    "displayType": "Condominium",
+    "nanoId": "vxqa94",
+    "objectId": "209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

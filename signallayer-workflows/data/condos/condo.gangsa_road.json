@@ -1,0 +1,1465 @@
+[
+  {
+    "displayText": "Gangsa Road",
+    "displayType": "Street",
+    "objectId": "932",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "101 Gangsa Road  670101, West (D22-24)",
+    "displayText": "101 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "7ref1h",
+    "objectId": "6138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Gangsa Road  670102, West (D22-24)",
+    "displayText": "102 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "d61utl",
+    "objectId": "6139",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Gangsa Road  670104, West (D22-24)",
+    "displayText": "104 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "v0rv7f",
+    "objectId": "6141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Gangsa Road  670106, West (D22-24)",
+    "displayText": "106 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "vg4srz",
+    "objectId": "6143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Gangsa Road  670107, West (D22-24)",
+    "displayText": "107 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "vjzokd",
+    "objectId": "6144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Gangsa Road  670108, West (D22-24)",
+    "displayText": "108 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "d91quq",
+    "objectId": "6145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Gangsa Road  670109, West (D22-24)",
+    "displayText": "109 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "3hp89e",
+    "objectId": "6146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Gangsa Road  670110, West (D22-24)",
+    "displayText": "110 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "ognvb0",
+    "objectId": "6147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Gangsa Road  670111, West (D22-24)",
+    "displayText": "111 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "n3xa7m",
+    "objectId": "6148",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Gangsa Road  670146, West (D22-24)",
+    "displayText": "146 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "eaqubg",
+    "objectId": "6149",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "147 Gangsa Road  670147, West (D22-24)",
+    "displayText": "147 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "64oii8",
+    "objectId": "6150",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "148 Gangsa Road  670148, West (D22-24)",
+    "displayText": "148 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "xhljwg",
+    "objectId": "6151",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Gangsa Road  670152, West (D22-24)",
+    "displayText": "152 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "dujwq9",
+    "objectId": "6152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153 Gangsa Road  670153, West (D22-24)",
+    "displayText": "153 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "a365ty",
+    "objectId": "6153",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154 Gangsa Road  670154, West (D22-24)",
+    "displayText": "154 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "m40l2p",
+    "objectId": "6154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Gangsa Road  670155, West (D22-24)",
+    "displayText": "155 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "9woty8",
+    "objectId": "6155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Gangsa Road  670163, West (D22-24)",
+    "displayText": "163 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "ua8aao",
+    "objectId": "6156",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164 Gangsa Road  670164, West (D22-24)",
+    "displayText": "164 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "5dy9d5",
+    "objectId": "6157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Gangsa Road  670165, West (D22-24)",
+    "displayText": "165 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "qlmj9r",
+    "objectId": "6158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Gangsa Road  670166, West (D22-24)",
+    "displayText": "166 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "2d8q2s",
+    "objectId": "6159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170 Gangsa Road  670170, West (D22-24)",
+    "displayText": "170 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "pbh056",
+    "objectId": "6160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171 Gangsa Road  670171, West (D22-24)",
+    "displayText": "171 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "0p1cl1",
+    "objectId": "6161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172 Gangsa Road  670172, West (D22-24)",
+    "displayText": "172 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "6egnvo",
+    "objectId": "6162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173 Gangsa Road  670173, West (D22-24)",
+    "displayText": "173 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "90v7v9",
+    "objectId": "6163",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152A Gangsa Road  671152, West (D22-24)",
+    "displayText": "152A Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "80esp9",
+    "objectId": "6164",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163A Gangsa Road  671163, West (D22-24)",
+    "displayText": "163A Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "bb5ow9",
+    "objectId": "6165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171A Gangsa Road  671171, West (D22-24)",
+    "displayText": "171A Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "lfqqdj",
+    "objectId": "6166",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Gangsa Road  670103, West (D22-24)",
+    "displayText": "103 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "974nor",
+    "objectId": "6140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Gangsa Road  670105, West (D22-24)",
+    "displayText": "105 Gangsa Road",
+    "displayType": "HDB",
+    "nanoId": "dkvcdz",
+    "objectId": "6142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Langsat Road",
+    "displayType": "Street",
+    "objectId": "10350",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Gangsa Rd",
+    "displayType": "Street",
+    "objectId": "11100",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Langsat Road  426686, East Coast (D15-16)",
+    "displayText": "Spring @ Langsat",
+    "displayType": "Apartment",
+    "nanoId": "y5b9n9",
+    "objectId": "1512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "123 Langsat Road  426775, East Coast (D15-16)",
+    "displayText": "123 Langsat Road",
+    "displayType": "Apartment",
+    "nanoId": "4vzgsy",
+    "objectId": "21309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "1 Langsat Road",
+    "displayType": "Street",
+    "objectId": "25149",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lengkok Angsa",
+    "displayType": "Street",
+    "objectId": "1912",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ganges Ave",
+    "displayType": "Street",
+    "objectId": "6384",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ganges Avenue",
+    "displayType": "Street",
+    "objectId": "931",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Siglap Road  448906, East Coast (D15-16)",
+    "displayText": "Mandarin Gardens",
+    "displayType": "Condominium",
+    "nanoId": "zn29zw",
+    "objectId": "107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "371 Beach Road  199597, City & South West (D01-08)",
+    "displayText": "City Gate",
+    "displayType": "Apartment",
+    "nanoId": "mu7huw",
+    "objectId": "21937",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "950 Dunearn Road  589474, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Gardenvista",
+    "displayType": "Condominium",
+    "nanoId": "nafjkz",
+    "objectId": "144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "64 Flora Road  506911, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Gale",
+    "displayType": "Condominium",
+    "nanoId": "6b4q7c",
+    "objectId": "1526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Farrer Road  268850, Orchard / Holland (D09-10)",
+    "displayText": "Gallop Gables",
+    "displayType": "Condominium",
+    "nanoId": "zdu6vv",
+    "objectId": "309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Rifle Range Road  588376, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mayfair Gardens",
+    "displayType": "Condominium",
+    "nanoId": "tcx7r4",
+    "objectId": "23549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "235 Arcadia Road  289843, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Arcadia (Arcadia Gardens)",
+    "displayType": "Condominium",
+    "nanoId": "p4vv4y",
+    "objectId": "196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 - 27 Flora Road  509738, Changi / Pasir Ris (D17-18)",
+    "displayText": "Estella Gardens",
+    "displayType": "Condominium",
+    "nanoId": "aaa0jh",
+    "objectId": "416",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Farrer Road  268820, Orchard / Holland (D09-10)",
+    "displayText": "Waterfall Gardens",
+    "displayType": "Condominium",
+    "nanoId": "qc19ur",
+    "objectId": "258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Flora Road  509732, Changi / Pasir Ris (D17-18)",
+    "displayText": "Avila Gardens",
+    "displayType": "Condominium",
+    "nanoId": "gpwz7t",
+    "objectId": "9",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "71 Nim Road  807583, North (D25-28)",
+    "displayText": "Nim Gardens",
+    "displayType": "Condominium",
+    "nanoId": "wn2xh6",
+    "objectId": "659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "69 Cavenagh Road  229622, Orchard / Holland (D09-10)",
+    "displayText": "Cavenagh Gardens",
+    "displayType": "Apartment",
+    "nanoId": "sr4cf5",
+    "objectId": "814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "335 Bukit Timah Road  259718, Orchard / Holland (D09-10)",
+    "displayText": "Wing on Life Garden",
+    "displayType": "Apartment",
+    "nanoId": "scewpl",
+    "objectId": "503",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Changi Road East  486000, East Coast (D15-16)",
+    "displayText": "Summer Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "d3dxi0",
+    "objectId": "729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "332 Upper East Coast Road  466456, East Coast (D15-16)",
+    "displayText": "The Tropic Gardens",
+    "displayType": "Condominium",
+    "nanoId": "94c46r",
+    "objectId": "1056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "221 Pasir Panjang Road  118574, City & South West (D01-08)",
+    "displayText": "Harbour View Gardens",
+    "displayType": "Apartment",
+    "nanoId": "qhho15",
+    "objectId": "2004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Belmont Road  269854, Orchard / Holland (D09-10)",
+    "displayText": "YGK Gardens",
+    "displayType": "Condominium",
+    "nanoId": "mzkqoe",
+    "objectId": "23544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sin Ming Road  000000, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Garden Estate",
+    "displayType": "Terraced House",
+    "nanoId": "u0bjne",
+    "objectId": "2523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "235 Tembeling Road  423720, East Coast (D15-16)",
+    "displayText": "Katong Gardens",
+    "displayType": "Condominium",
+    "nanoId": "xgdmtq",
+    "objectId": "588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Fort Road  439089, East Coast (D15-16)",
+    "displayText": "Fort Gardens",
+    "displayType": "Condominium",
+    "nanoId": "e9dggz",
+    "objectId": "656",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Walshe Road  257650, Orchard / Holland (D09-10)",
+    "displayText": "Chelsea Gardens",
+    "displayType": "Condominium",
+    "nanoId": "3ybah7",
+    "objectId": "784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Pasir Panjang Road  117000, City & South West (D01-08)",
+    "displayText": "Barossa Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "tzhsi2",
+    "objectId": "1075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "10 Walshe Road  257654, Orchard / Holland (D09-10)",
+    "displayText": "Gardenville",
+    "displayType": "Condominium",
+    "nanoId": "vqf2th",
+    "objectId": "1111",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "36E Kheam Hock Road  298807, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Kheam Hock Gardens",
+    "displayType": "Condominium",
+    "nanoId": "t4a0zi",
+    "objectId": "1129",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Onan Road  424482, East Coast (D15-16)",
+    "displayText": "Galaxy Towers",
+    "displayType": "Apartment",
+    "nanoId": "80maf1",
+    "objectId": "1130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "300 Upper East Coast Road  466438, East Coast (D15-16)",
+    "displayText": "Rich East Garden",
+    "displayType": "Condominium",
+    "nanoId": "uoed75",
+    "objectId": "1571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "357 Upper Paya Lebar Road  534959, Serangoon / Thomson (D19-20)",
+    "displayText": "Fragrant Gardens",
+    "displayType": "Condominium",
+    "nanoId": "7wxtrq",
+    "objectId": "1938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Gilstead Road  309065, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Morimasa Garden",
+    "displayType": "Condominium",
+    "nanoId": "nq7lur",
+    "objectId": "2211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Cactus Road  809000, North (D25-28)",
+    "displayText": "Seletar Garden",
+    "displayType": "Terraced House",
+    "nanoId": "vi6ycw",
+    "objectId": "2401",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "581A Upper Changi Road  486993, East Coast (D15-16)",
+    "displayText": "Apollo Gardens",
+    "displayType": "Apartment",
+    "nanoId": "mwbwiq",
+    "objectId": "44",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Balmoral Road  259811, Orchard / Holland (D09-10)",
+    "displayText": "Balmoral Gate",
+    "displayType": "Condominium",
+    "nanoId": "6ptaj2",
+    "objectId": "645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Yam Road  239361, Orchard / Holland (D09-10)",
+    "displayText": "Gambier Court",
+    "displayType": "Apartment",
+    "nanoId": "8ba85c",
+    "objectId": "818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Choa Chu Kang Road  689388, West (D22-24)",
+    "displayText": "Nicon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "f5dy2q",
+    "objectId": "949",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Teban Gardens Road",
+    "displayType": "Street",
+    "objectId": "3322",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Zehnder Road  117687, City & South West (D01-08)",
+    "displayText": "Buona Vista Gardens",
+    "displayType": "Condominium",
+    "nanoId": "cbs376",
+    "objectId": "1030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "821 Mouthbatten Road  437814, East Coast (D15-16)",
+    "displayText": "Singa Gardens",
+    "displayType": "Apartment",
+    "nanoId": "wnt6cr",
+    "objectId": "1042",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Pulasan Road  424376, East Coast (D15-16)",
+    "displayText": "Gallery 8",
+    "displayType": "Apartment",
+    "nanoId": "927fnl",
+    "objectId": "1110",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Teban Gardens Road  600008, West (D22-24)",
+    "displayText": "8 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "4dyidb",
+    "objectId": "11270",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Teban Gardens Road  600010, West (D22-24)",
+    "displayText": "10 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "lx41yq",
+    "objectId": "11272",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Teban Gardens Road  600012, West (D22-24)",
+    "displayText": "12 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "rdj6nl",
+    "objectId": "11274",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Teban Gardens Road  600018, West (D22-24)",
+    "displayText": "18 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "rkj1ev",
+    "objectId": "11280",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Teban Gardens Road  600020, West (D22-24)",
+    "displayText": "20 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "e9ymfo",
+    "objectId": "11282",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Teban Gardens Road  600021, West (D22-24)",
+    "displayText": "21 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "bz65ox",
+    "objectId": "11283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Teban Gardens Road  600022, West (D22-24)",
+    "displayText": "22 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "a343qe",
+    "objectId": "11284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Teban Gardens Road  600023, West (D22-24)",
+    "displayText": "23 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "4wb0bn",
+    "objectId": "11285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Teban Gardens Road  600024, West (D22-24)",
+    "displayText": "24 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "lu1zut",
+    "objectId": "11286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Teban Gardens Road  600025, West (D22-24)",
+    "displayText": "25 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "c1y19k",
+    "objectId": "11287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Teban Gardens Road  600026, West (D22-24)",
+    "displayText": "26 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "4lu52l",
+    "objectId": "11288",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 Teban Gardens Road  600027, West (D22-24)",
+    "displayText": "27 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "7zoymp",
+    "objectId": "11289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Teban Gardens Road  600028, West (D22-24)",
+    "displayText": "28 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "56ex65",
+    "objectId": "11290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 Teban Gardens Road  600030, West (D22-24)",
+    "displayText": "30 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "2sews5",
+    "objectId": "11292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Teban Gardens Road  600031, West (D22-24)",
+    "displayText": "31 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "qpdog3",
+    "objectId": "11293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Teban Gardens Road  600032, West (D22-24)",
+    "displayText": "32 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "lkyeib",
+    "objectId": "11294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Teban Gardens Road  600033, West (D22-24)",
+    "displayText": "33 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "8n3bxz",
+    "objectId": "11295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Teban Gardens Road  600034, West (D22-24)",
+    "displayText": "34 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "w5azcs",
+    "objectId": "11296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Teban Gardens Road  600035, West (D22-24)",
+    "displayText": "35 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "zwxl1p",
+    "objectId": "11297",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Teban Gardens Road  600036, West (D22-24)",
+    "displayText": "36 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "s5mm9t",
+    "objectId": "11298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37 Teban Gardens Road  600037, West (D22-24)",
+    "displayText": "37 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "0d6vdo",
+    "objectId": "11299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38 Teban Gardens Road  600038, West (D22-24)",
+    "displayText": "38 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "batfb9",
+    "objectId": "11300",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39 Teban Gardens Road  600039, West (D22-24)",
+    "displayText": "39 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "5lnmb2",
+    "objectId": "11301",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40 Teban Gardens Road  600040, West (D22-24)",
+    "displayText": "40 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "nrddbc",
+    "objectId": "11302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "41 Teban Gardens Road  600041, West (D22-24)",
+    "displayText": "41 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "tkc3wt",
+    "objectId": "11303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

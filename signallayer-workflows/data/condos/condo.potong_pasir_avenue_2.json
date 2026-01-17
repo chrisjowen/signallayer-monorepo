@@ -1,0 +1,1541 @@
+[
+  {
+    "displayDescription": "143 Potong Pasir Avenue 2  350143, Balestier / Geylang (D12-14)",
+    "displayText": "143 Potong Pasir Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "bp0jh5",
+    "objectId": "9330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Potong Pasir Avenue 2  350144, Balestier / Geylang (D12-14)",
+    "displayText": "144 Potong Pasir Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "8rprts",
+    "objectId": "9331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Potong Pasir Avenue 2  350145, Balestier / Geylang (D12-14)",
+    "displayText": "145 Potong Pasir Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "xif9z0",
+    "objectId": "9332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Potong Pasir Avenue 1",
+    "displayType": "Street",
+    "objectId": "10489",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Potong Pasir Avenue 3",
+    "displayType": "Street",
+    "objectId": "10490",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "60 Potong Pasir Avenue 1  358391, Balestier / Geylang (D12-14)",
+    "displayText": "The Tre Ver",
+    "displayType": "Condominium",
+    "nanoId": "5su0gv",
+    "objectId": "23476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "114 Potong Pasir Avenue 1  350114, Balestier / Geylang (D12-14)",
+    "displayText": "Blk 114 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "97iruu",
+    "objectId": "24908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Potong Pasir Avenue 1  350101, Balestier / Geylang (D12-14)",
+    "displayText": "101 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "eu1ibb",
+    "objectId": "9294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Potong Pasir Avenue 1  350102, Balestier / Geylang (D12-14)",
+    "displayText": "102 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "jq7ajq",
+    "objectId": "9295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Potong Pasir Avenue 1  350103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "37sq70",
+    "objectId": "9296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Potong Pasir Avenue 1  350104, Balestier / Geylang (D12-14)",
+    "displayText": "104 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "llqb2l",
+    "objectId": "9297",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Potong Pasir Avenue 1  350105, Balestier / Geylang (D12-14)",
+    "displayText": "105 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "wqkus1",
+    "objectId": "9298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Potong Pasir Avenue 1  350106, Balestier / Geylang (D12-14)",
+    "displayText": "106 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "9uy9n0",
+    "objectId": "9299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Potong Pasir Avenue 1  350107, Balestier / Geylang (D12-14)",
+    "displayText": "107 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "vbsbfd",
+    "objectId": "9300",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Potong Pasir Avenue 1  350108, Balestier / Geylang (D12-14)",
+    "displayText": "108 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "03t0mh",
+    "objectId": "9301",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Potong Pasir Avenue 1  350109, Balestier / Geylang (D12-14)",
+    "displayText": "109 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "sgafp4",
+    "objectId": "9302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Potong Pasir Avenue 1  350110, Balestier / Geylang (D12-14)",
+    "displayText": "110 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "p6rl1r",
+    "objectId": "9303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Potong Pasir Avenue 1  350111, Balestier / Geylang (D12-14)",
+    "displayText": "111 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "yfra2n",
+    "objectId": "9304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Potong Pasir Avenue 1  350112, Balestier / Geylang (D12-14)",
+    "displayText": "112 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "8icfw3",
+    "objectId": "9305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Potong Pasir Avenue 1  350113, Balestier / Geylang (D12-14)",
+    "displayText": "113 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "9o08vk",
+    "objectId": "9306",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Potong Pasir Avenue 1  350114, Balestier / Geylang (D12-14)",
+    "displayText": "114 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "qdy7f1",
+    "objectId": "9307",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Potong Pasir Avenue 1  350115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ns9dip",
+    "objectId": "9308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Potong Pasir Avenue 1  350117, Balestier / Geylang (D12-14)",
+    "displayText": "117 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "zzmjp5",
+    "objectId": "9310",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Potong Pasir Avenue 1  350118, Balestier / Geylang (D12-14)",
+    "displayText": "118 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "fxke0p",
+    "objectId": "9311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Potong Pasir Avenue 1  350119, Balestier / Geylang (D12-14)",
+    "displayText": "119 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "m3z5hu",
+    "objectId": "9312",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Potong Pasir Avenue 1  350120, Balestier / Geylang (D12-14)",
+    "displayText": "120 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "2cpldv",
+    "objectId": "9313",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Potong Pasir Avenue 1  350121, Balestier / Geylang (D12-14)",
+    "displayText": "121 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "paph20",
+    "objectId": "9314",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Potong Pasir Avenue 1  350122, Balestier / Geylang (D12-14)",
+    "displayText": "122 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "bnxhsw",
+    "objectId": "9315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Potong Pasir Avenue 1  350123, Balestier / Geylang (D12-14)",
+    "displayText": "123 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "d6qg52",
+    "objectId": "9316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Potong Pasir Avenue 1  350124, Balestier / Geylang (D12-14)",
+    "displayText": "124 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6jjmj1",
+    "objectId": "9317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Potong Pasir Avenue 1  350125, Balestier / Geylang (D12-14)",
+    "displayText": "125 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "gk5osc",
+    "objectId": "9318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Potong Pasir Avenue 1  350126, Balestier / Geylang (D12-14)",
+    "displayText": "126 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "0y7368",
+    "objectId": "9319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Potong Pasir Avenue 1  350127, Balestier / Geylang (D12-14)",
+    "displayText": "127 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "u72pfy",
+    "objectId": "9320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Potong Pasir Avenue 1  350128, Balestier / Geylang (D12-14)",
+    "displayText": "128 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "43x4w6",
+    "objectId": "9321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Potong Pasir Avenue 1  350129, Balestier / Geylang (D12-14)",
+    "displayText": "129 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "1azh34",
+    "objectId": "9322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Potong Pasir Avenue 1  350130, Balestier / Geylang (D12-14)",
+    "displayText": "130 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ay5z8j",
+    "objectId": "9323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Potong Pasir Avenue 1  350131, Balestier / Geylang (D12-14)",
+    "displayText": "131 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "jt8sce",
+    "objectId": "9324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Potong Pasir Avenue 1  350132, Balestier / Geylang (D12-14)",
+    "displayText": "132 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "9bnh1n",
+    "objectId": "9325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Potong Pasir Avenue 1  350133, Balestier / Geylang (D12-14)",
+    "displayText": "133 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "7np2j4",
+    "objectId": "9326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Potong Pasir Avenue 1  350146, Balestier / Geylang (D12-14)",
+    "displayText": "146 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "8fv2ng",
+    "objectId": "9327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "147 Potong Pasir Avenue 1  350147, Balestier / Geylang (D12-14)",
+    "displayText": "147 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "xlh0wt",
+    "objectId": "9328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "148 Potong Pasir Avenue 1  350148, Balestier / Geylang (D12-14)",
+    "displayText": "148 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ln0ukz",
+    "objectId": "9329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Potong Pasir Avenue 3  350134, Balestier / Geylang (D12-14)",
+    "displayText": "134 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "cf9h8n",
+    "objectId": "9333",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Potong Pasir Avenue 3  350136, Balestier / Geylang (D12-14)",
+    "displayText": "136 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "pthgu8",
+    "objectId": "9335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Potong Pasir Avenue 3  350137, Balestier / Geylang (D12-14)",
+    "displayText": "137 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "z5o8qv",
+    "objectId": "9336",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Potong Pasir Avenue 3  350138, Balestier / Geylang (D12-14)",
+    "displayText": "138 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "d3aphl",
+    "objectId": "9337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Potong Pasir Avenue 3  350139, Balestier / Geylang (D12-14)",
+    "displayText": "139 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "k1rqj3",
+    "objectId": "9338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "140 Potong Pasir Avenue 3  350140, Balestier / Geylang (D12-14)",
+    "displayText": "140 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "0zsnhw",
+    "objectId": "9339",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Potong Pasir Avenue 3  350141, Balestier / Geylang (D12-14)",
+    "displayText": "141 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "cc45pw",
+    "objectId": "9340",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Potong Pasir Avenue 3  350142, Balestier / Geylang (D12-14)",
+    "displayText": "142 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "cu4l9s",
+    "objectId": "9341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Potong Pasir Avenue 1  350116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Potong Pasir Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "da0gbv",
+    "objectId": "9309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "135 Potong Pasir Avenue 3  350135, Balestier / Geylang (D12-14)",
+    "displayText": "135 Potong Pasir Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "o6cjna",
+    "objectId": "9334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D13",
+    "displayText": "D13 Macpherson / Potong Pasir",
+    "displayType": "District",
+    "objectId": "D13",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D13"
+    }
+  },
+  {
+    "displayDescription": "2 Simei Rise  528800, Changi / Pasir Ris (D17-18)",
+    "displayText": "Changi Rise Condo",
+    "displayType": "Condominium",
+    "nanoId": "28jdme",
+    "objectId": "387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Drive  507025, Changi / Pasir Ris (D17-18)",
+    "displayText": "Carissa Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cni6fm",
+    "objectId": "452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Tampines Street 73  528823, Changi / Pasir Ris (D17-18)",
+    "displayText": "Pinevale",
+    "displayType": "Condominium",
+    "nanoId": "wwr30e",
+    "objectId": "327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Road  509725, Changi / Pasir Ris (D17-18)",
+    "displayText": "Azalea Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cxsdu3",
+    "objectId": "539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "205 Jalan Loyang Besar  509456, Changi / Pasir Ris (D17-18)",
+    "displayText": "Bluwaters 2",
+    "displayType": "Condominium",
+    "nanoId": "7p7t4g",
+    "objectId": "974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "141 Simei Street 2  520141, Changi / Pasir Ris (D17-18)",
+    "displayText": "141 Simei Street 2",
+    "displayType": "HDB",
+    "nanoId": "qh5wd7",
+    "objectId": "10342",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Simei Street 2  520142, Changi / Pasir Ris (D17-18)",
+    "displayText": "142 Simei Street 2",
+    "displayType": "HDB",
+    "nanoId": "o3hvi1",
+    "objectId": "10343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Simei Street 2  520144, Changi / Pasir Ris (D17-18)",
+    "displayText": "144 Simei Street 2",
+    "displayType": "HDB",
+    "nanoId": "6ogys3",
+    "objectId": "10344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Simei Street 2  520145, Changi / Pasir Ris (D17-18)",
+    "displayText": "145 Simei Street 2",
+    "displayType": "HDB",
+    "nanoId": "r2uvvs",
+    "objectId": "10345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Simei Street 2  520146, Changi / Pasir Ris (D17-18)",
+    "displayText": "146 Simei Street 2",
+    "displayType": "HDB",
+    "nanoId": "8qvq8f",
+    "objectId": "10346",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "147 Simei Street 2  520147, Changi / Pasir Ris (D17-18)",
+    "displayText": "147 Simei Street 2",
+    "displayType": "HDB",
+    "nanoId": "rib7pz",
+    "objectId": "10347",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629A Tampines North Drive 2  521633, Changi / Pasir Ris (D17-18)",
+    "displayText": "629A Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "om17vp",
+    "objectId": "25502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630B Tampines North Drive 2  522630, Changi / Pasir Ris (D17-18)",
+    "displayText": "630B Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "fxc1r7",
+    "objectId": "25539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634C Tampines North Drive 2  523634, Changi / Pasir Ris (D17-18)",
+    "displayText": "634C Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "lc1hga",
+    "objectId": "25618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635C Tampines North Drive 2  523635, Changi / Pasir Ris (D17-18)",
+    "displayText": "635C Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "l2dt5w",
+    "objectId": "25788",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Changi Village Road  500002, Changi / Pasir Ris (D17-18)",
+    "displayText": "2 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "gkasl2",
+    "objectId": "4782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Pasir Ris Drive 2",
+    "displayType": "Street",
+    "objectId": "2610",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "629B Tampines North Drive 2  522629, Changi / Pasir Ris (D17-18)",
+    "displayText": "629B Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "7b2346",
+    "objectId": "25870",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634A Tampines North Drive 2  521634, Changi / Pasir Ris (D17-18)",
+    "displayText": "634A Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "lj8jpi",
+    "objectId": "25881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633B Tampines North Drive 2  522633, Changi / Pasir Ris (D17-18)",
+    "displayText": "633B Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "ywedy5",
+    "objectId": "25883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630A Tampines North Drive 2  521630, Changi / Pasir Ris (D17-18)",
+    "displayText": "630A Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "kzhcr0",
+    "objectId": "25884",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635A Tampines North Drive 2  521635, Changi / Pasir Ris (D17-18)",
+    "displayText": "635A Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "xazoks",
+    "objectId": "25886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636C Tampines North Drive 2  523636, Changi / Pasir Ris (D17-18)",
+    "displayText": "636C Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "k18z2j",
+    "objectId": "25889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633A Tampines north drive 2   521633, Changi / Pasir Ris (D17-18)",
+    "displayText": "633A Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "pxxyjl",
+    "objectId": "26098",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Pasir Ris Farmway 2",
+    "displayType": "Street",
+    "objectId": "2616",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "121 Lorong 2 Toa Payoh  310121, Balestier / Geylang (D12-14)",
+    "displayText": "121 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "8tuyh1",
+    "objectId": "8260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Lorong 2 Toa Payoh  310122, Balestier / Geylang (D12-14)",
+    "displayText": "122 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "zjl40d",
+    "objectId": "8261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Lorong 2 Toa Payoh  310152, Balestier / Geylang (D12-14)",
+    "displayText": "152 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "yts1uk",
+    "objectId": "8269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Lorong 2 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10523",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Lorong M Telok Kurau  425279, East Coast (D15-16)",
+    "displayText": "Naturalis",
+    "displayType": "Apartment",
+    "nanoId": "twrezo",
+    "objectId": "1378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "99A Lorong 2 Toa Payoh  310099, Balestier / Geylang (D12-14)",
+    "displayText": "99A Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "dg0t15",
+    "objectId": "20526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Lorong 26  398478, Balestier / Geylang (D12-14)",
+    "displayText": "Geylang Mansion",
+    "displayType": "Apartment",
+    "nanoId": "1nx5k6",
+    "objectId": "20911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lorong K Telok Kurau  425604, East Coast (D15-16)",
+    "displayText": "King's Apartments",
+    "displayType": "Apartment",
+    "nanoId": "uljsgr",
+    "objectId": "2099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lorong L Telok Kurau  425600, East Coast (D15-16)",
+    "displayText": "Sunshine Loft",
+    "displayType": "Condominium",
+    "nanoId": "6l258p",
+    "objectId": "2450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Blk 2 Lorong 7 Toa Payoh  310002, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Court",
+    "displayType": "HDB",
+    "nanoId": "l4y1aw",
+    "objectId": "24755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83 Lorong 2 Toa Payoh  310083, Balestier / Geylang (D12-14)",
+    "displayText": "83 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "zotmo3",
+    "objectId": "8255",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Lorong 2 Toa Payoh  310084, Balestier / Geylang (D12-14)",
+    "displayText": "84 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "0g6kum",
+    "objectId": "8256",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86 Lorong 2 Toa Payoh  310086, Balestier / Geylang (D12-14)",
+    "displayText": "86 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "89izf5",
+    "objectId": "8257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Lorong 2 Toa Payoh  310116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "4h4ypf",
+    "objectId": "8258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Lorong 2 Toa Payoh  310120, Balestier / Geylang (D12-14)",
+    "displayText": "120 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "brhzrr",
+    "objectId": "8259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Lorong 2 Toa Payoh  311141, Balestier / Geylang (D12-14)",
+    "displayText": "141 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "3hz71b",
+    "objectId": "8262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Lorong 2 Toa Payoh  310142, Balestier / Geylang (D12-14)",
+    "displayText": "142 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "gvxdju",
+    "objectId": "8263",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Lorong 2 Toa Payoh  310143, Balestier / Geylang (D12-14)",
+    "displayText": "143 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "xzb9sq",
+    "objectId": "8264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Lorong 2 Toa Payoh  310144, Balestier / Geylang (D12-14)",
+    "displayText": "144 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "wumvky",
+    "objectId": "8265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Lorong 2 Toa Payoh  310145, Balestier / Geylang (D12-14)",
+    "displayText": "145 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "o1pv27",
+    "objectId": "8266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Lorong 2 Toa Payoh  310146, Balestier / Geylang (D12-14)",
+    "displayText": "146 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "dc0k7i",
+    "objectId": "8267",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "147 Lorong 2 Toa Payoh  310147, Balestier / Geylang (D12-14)",
+    "displayText": "147 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "3mzqzf",
+    "objectId": "8268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

@@ -1,0 +1,1495 @@
+[
+  {
+    "displayText": "Tessensohn Road",
+    "displayType": "Street",
+    "objectId": "3356",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Tessensohn Road  217701, City & South West (D01-08)",
+    "displayText": "1953",
+    "displayType": "Apartment",
+    "nanoId": "0xon03",
+    "objectId": "23616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "683 Tessensohn Road  210683, City & South West (D01-08)",
+    "displayText": "683 Tessensohn Road",
+    "displayType": "HDB",
+    "nanoId": "7f5vv4",
+    "objectId": "11482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "610 Telok Blangah Road  109025, City & South West (D01-08)",
+    "displayText": "Skyline Residences",
+    "displayType": "Condominium",
+    "nanoId": "y4jcjh",
+    "objectId": "20701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "107D Tampines Road  534006, Serangoon / Thomson (D19-20)",
+    "displayText": "The Tembusu",
+    "displayType": "Condominium",
+    "nanoId": "anbyzx",
+    "objectId": "21457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Wilby Road  276305, Orchard / Holland (D09-10)",
+    "displayText": "The Tessarina",
+    "displayType": "Condominium",
+    "nanoId": "taykhq",
+    "objectId": "169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Yio Chu Kang Road  544773, Serangoon / Thomson (D19-20)",
+    "displayText": "Terrasse",
+    "displayType": "Condominium",
+    "nanoId": "cx4kxe",
+    "objectId": "20654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Toh Tuck Road  596677, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Terrene at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "0cw7dm",
+    "objectId": "20643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3A Woodlands Road  677727, West (D22-24)",
+    "displayText": "The Tennery",
+    "displayType": "Condominium",
+    "nanoId": "hqx080",
+    "objectId": "21082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "66 Telok Blangah Road  098830, City & South West (D01-08)",
+    "displayText": "Harbourlights",
+    "displayType": "Apartment",
+    "nanoId": "9k6zdc",
+    "objectId": "1039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Lower Delta Road  090000, City & South West (D01-08)",
+    "displayText": "Teresa Ville",
+    "displayType": "Condominium",
+    "nanoId": "sam3h5",
+    "objectId": "459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Telok Kurau Road  423762, East Coast (D15-16)",
+    "displayText": "Parc Elegance",
+    "displayType": "Condominium",
+    "nanoId": "uc8m08",
+    "objectId": "20640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "308 Telok Kurau Road  423858, East Coast (D15-16)",
+    "displayText": "Vibes @ East Coast",
+    "displayType": "Apartment",
+    "nanoId": "4u4h3u",
+    "objectId": "20664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Yew Siang Road  117755, City & South West (D01-08)",
+    "displayText": "Terra Hill",
+    "displayType": "Condominium",
+    "nanoId": "yyevuq",
+    "objectId": "25378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "235 Tembeling Road  423720, East Coast (D15-16)",
+    "displayText": "Katong Gardens",
+    "displayType": "Condominium",
+    "nanoId": "xgdmtq",
+    "objectId": "588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "250 Tembeling Road  423728, East Coast (D15-16)",
+    "displayText": "The Beacon Edge",
+    "displayType": "Apartment",
+    "nanoId": "6xit8w",
+    "objectId": "1147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Tay Lian Teck Road  455615, East Coast (D15-16)",
+    "displayText": "Eastbay",
+    "displayType": "Condominium",
+    "nanoId": "6p3d3i",
+    "objectId": "1316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "233 Tembeling Road  423718, East Coast (D15-16)",
+    "displayText": "Studios@Tembeling",
+    "displayType": "Condominium",
+    "nanoId": "b0xzrk",
+    "objectId": "20527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "116 Bukit Teresa Road  099758, City & South West (D01-08)",
+    "displayText": "Teresa Villas",
+    "displayType": "Cluster House",
+    "nanoId": "enud0a",
+    "objectId": "21075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Boon Teck Road  329583, Balestier / Geylang (D12-14)",
+    "displayText": "VA Residences",
+    "displayType": "Condominium",
+    "nanoId": "2llg7d",
+    "objectId": "21432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Tembeling Road  000000, East Coast (D15-16)",
+    "displayText": "Sandalwood",
+    "displayType": "Apartment",
+    "nanoId": "2tijrs",
+    "objectId": "2388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "326 Changi Road  419801, Balestier / Geylang (D12-14)",
+    "displayText": "Tedge",
+    "displayType": "Condominium",
+    "nanoId": "v9o2h6",
+    "objectId": "23889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "323 Bukit Timah Road  259713, Orchard / Holland (D09-10)",
+    "displayText": "Perfect Ten",
+    "displayType": "Condominium",
+    "nanoId": "75htyz",
+    "objectId": "25063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "286 Telok Kurau Road  423911, East Coast (D15-16)",
+    "displayText": "Prestige Loft",
+    "displayType": "Apartment",
+    "nanoId": "846rs8",
+    "objectId": "2610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Suffolk Road  307786, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Ten @ Suffolk",
+    "displayType": "Apartment",
+    "nanoId": "cme7sw",
+    "objectId": "397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Teban Gardens Road",
+    "displayType": "Street",
+    "objectId": "3322",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "41 Boon Teck Road  329608, Balestier / Geylang (D12-14)",
+    "displayText": "Boon Teck Towers",
+    "displayType": "Condominium",
+    "nanoId": "78f31z",
+    "objectId": "1027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Teban Gardens Road  600008, West (D22-24)",
+    "displayText": "8 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "4dyidb",
+    "objectId": "11270",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Teban Gardens Road  600010, West (D22-24)",
+    "displayText": "10 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "lx41yq",
+    "objectId": "11272",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Teban Gardens Road  600012, West (D22-24)",
+    "displayText": "12 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "rdj6nl",
+    "objectId": "11274",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Teban Gardens Road  600018, West (D22-24)",
+    "displayText": "18 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "rkj1ev",
+    "objectId": "11280",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Teban Gardens Road  600020, West (D22-24)",
+    "displayText": "20 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "e9ymfo",
+    "objectId": "11282",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Teban Gardens Road  600021, West (D22-24)",
+    "displayText": "21 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "bz65ox",
+    "objectId": "11283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Teban Gardens Road  600022, West (D22-24)",
+    "displayText": "22 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "a343qe",
+    "objectId": "11284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Teban Gardens Road  600023, West (D22-24)",
+    "displayText": "23 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "4wb0bn",
+    "objectId": "11285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Teban Gardens Road  600024, West (D22-24)",
+    "displayText": "24 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "lu1zut",
+    "objectId": "11286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Teban Gardens Road  600025, West (D22-24)",
+    "displayText": "25 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "c1y19k",
+    "objectId": "11287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Teban Gardens Road  600026, West (D22-24)",
+    "displayText": "26 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "4lu52l",
+    "objectId": "11288",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 Teban Gardens Road  600027, West (D22-24)",
+    "displayText": "27 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "7zoymp",
+    "objectId": "11289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Teban Gardens Road  600028, West (D22-24)",
+    "displayText": "28 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "56ex65",
+    "objectId": "11290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 Teban Gardens Road  600030, West (D22-24)",
+    "displayText": "30 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "2sews5",
+    "objectId": "11292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Teban Gardens Road  600031, West (D22-24)",
+    "displayText": "31 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "qpdog3",
+    "objectId": "11293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Teban Gardens Road  600032, West (D22-24)",
+    "displayText": "32 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "lkyeib",
+    "objectId": "11294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Teban Gardens Road  600033, West (D22-24)",
+    "displayText": "33 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "8n3bxz",
+    "objectId": "11295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Teban Gardens Road  600034, West (D22-24)",
+    "displayText": "34 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "w5azcs",
+    "objectId": "11296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Teban Gardens Road  600035, West (D22-24)",
+    "displayText": "35 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "zwxl1p",
+    "objectId": "11297",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Teban Gardens Road  600036, West (D22-24)",
+    "displayText": "36 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "s5mm9t",
+    "objectId": "11298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37 Teban Gardens Road  600037, West (D22-24)",
+    "displayText": "37 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "0d6vdo",
+    "objectId": "11299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38 Teban Gardens Road  600038, West (D22-24)",
+    "displayText": "38 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "batfb9",
+    "objectId": "11300",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39 Teban Gardens Road  600039, West (D22-24)",
+    "displayText": "39 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "5lnmb2",
+    "objectId": "11301",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40 Teban Gardens Road  600040, West (D22-24)",
+    "displayText": "40 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "nrddbc",
+    "objectId": "11302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "41 Teban Gardens Road  600041, West (D22-24)",
+    "displayText": "41 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "tkc3wt",
+    "objectId": "11303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Teban Gardens Road  600043, West (D22-24)",
+    "displayText": "43 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "q2ribd",
+    "objectId": "11304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Teban Gardens Road  600044, West (D22-24)",
+    "displayText": "44 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "spg0je",
+    "objectId": "11305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Teban Gardens Road  600045, West (D22-24)",
+    "displayText": "45 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "t9lki4",
+    "objectId": "11306",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Teban Gardens Road  600046, West (D22-24)",
+    "displayText": "46 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "ozmphy",
+    "objectId": "11307",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Teban Gardens Road  600047, West (D22-24)",
+    "displayText": "47 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "setjft",
+    "objectId": "11308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Teban Gardens Road  600048, West (D22-24)",
+    "displayText": "48 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "2lhucr",
+    "objectId": "11309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Teban Gardens Road  600049, West (D22-24)",
+    "displayText": "49 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "vwy9gu",
+    "objectId": "11310",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Teban Gardens Road  600050, West (D22-24)",
+    "displayText": "50 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "xkjttb",
+    "objectId": "11311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Teban Gardens Road  600051, West (D22-24)",
+    "displayText": "51 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "1ceclt",
+    "objectId": "11312",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Teban Gardens Road  600052, West (D22-24)",
+    "displayText": "52 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "vvkyou",
+    "objectId": "11313",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Teban Gardens Road  600053, West (D22-24)",
+    "displayText": "53 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "zi76td",
+    "objectId": "11314",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Teban Gardens Road  600054, West (D22-24)",
+    "displayText": "54 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "htlxsk",
+    "objectId": "11315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 Teban Gardens Road  600060, West (D22-24)",
+    "displayText": "60 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "jjdmk3",
+    "objectId": "11316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 Teban Gardens Road  600062, West (D22-24)",
+    "displayText": "62 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "x2sb2y",
+    "objectId": "11318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Teban Gardens Road  600063, West (D22-24)",
+    "displayText": "63 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "z9cokg",
+    "objectId": "11319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Teban Gardens Road  600064, West (D22-24)",
+    "displayText": "64 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "j6dqsm",
+    "objectId": "11320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Teban Gardens Road  600065, West (D22-24)",
+    "displayText": "65 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "b82w1f",
+    "objectId": "11321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37A Teban Gardens Road  601037, West (D22-24)",
+    "displayText": "37A Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "nge2sr",
+    "objectId": "11322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62A Teban Gardens Road  601062, West (D22-24)",
+    "displayText": "62A Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "wvt9oz",
+    "objectId": "11323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63A Teban Gardens Road  601063, West (D22-24)",
+    "displayText": "63A Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "i4j04j",
+    "objectId": "11324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Telok Kurau Road  423788, East Coast (D15-16)",
+    "displayText": "Residence 66",
+    "displayType": "Apartment",
+    "nanoId": "gfqh6x",
+    "objectId": "1248",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Teo Kim Eng Road  416378, Balestier / Geylang (D12-14)",
+    "displayText": "Cascata",
+    "displayType": "Condominium",
+    "nanoId": "rvbwxi",
+    "objectId": "1323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "42 Boon Teck Road  329609, Balestier / Geylang (D12-14)",
+    "displayText": "Boon Teck Apartments",
+    "displayType": "Apartment",
+    "nanoId": "743li0",
+    "objectId": "1799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "348R Pasir Panjang Road  117679, City & South West (D01-08)",
+    "displayText": "Gryphon Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "w9ncw4",
+    "objectId": "1986",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Thong Bee Road  778000, North (D25-28)",
+    "displayText": "Hong Heng Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "6ieazd",
+    "objectId": "2036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "86 Tembeling Road  423596, East Coast (D15-16)",
+    "displayText": "Tembeling Court",
+    "displayType": "Condominium",
+    "nanoId": "fyuwh0",
+    "objectId": "20512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Boon Teck Road  329602, Balestier / Geylang (D12-14)",
+    "displayText": "D'Mira",
+    "displayType": "Condominium",
+    "nanoId": "xp02yi",
+    "objectId": "20528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "163 - 169 Telok Kurau Road  423816, East Coast (D15-16)",
+    "displayText": "Ji Xiang Court",
+    "displayType": "Apartment",
+    "nanoId": "jezosc",
+    "objectId": "2065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "171 Telok Kurau Road  423824, East Coast (D15-16)",
+    "displayText": "The Cotz",
+    "displayType": "Apartment",
+    "nanoId": "w9bhd4",
+    "objectId": "20663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "306 Telok Kurau Road  423857, East Coast (D15-16)",
+    "displayText": "Katong Mansions",
+    "displayType": "Apartment",
+    "nanoId": "zw7ohv",
+    "objectId": "2077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "46 Boon Teck Road  329610, Balestier / Geylang (D12-14)",
+    "displayText": "Boon Teck Lodge",
+    "displayType": "Apartment",
+    "nanoId": "dgkqkr",
+    "objectId": "20836",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Tay Lian Teck Road  455620, East Coast (D15-16)",
+    "displayText": "Dong Xing Court",
+    "displayType": "Condominium",
+    "nanoId": "5fqwyl",
+    "objectId": "20875",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Boon Teck Road  329599, Balestier / Geylang (D12-14)",
+    "displayText": "Kingsley Mansions",
+    "displayType": "Apartment",
+    "nanoId": "q6y04b",
+    "objectId": "20953",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Flower Road  545000, Serangoon / Thomson (D19-20)",
+    "displayText": "Palm Grove Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "5xg0pr",
+    "objectId": "20998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Lorong L Telok Kurau  425000, East Coast (D15-16)",
+    "displayText": "Roman Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "8aery7",
+    "objectId": "21020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Rosyth Terrace  546000, Serangoon / Thomson (D19-20)",
+    "displayText": "Rosyth Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "rwajwf",
+    "objectId": "21021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Telok Kurau Road  423000, East Coast (D15-16)",
+    "displayText": "St Patrick's Row",
+    "displayType": "Terraced House",
+    "nanoId": "bdncjh",
+    "objectId": "21052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "230 Tembeling Road  423742, East Coast (D15-16)",
+    "displayText": "Tembeling Mansions",
+    "displayType": "Apartment",
+    "nanoId": "zuo61j",
+    "objectId": "21072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Tembeling Road  423538, East Coast (D15-16)",
+    "displayText": "Tembeling Terraces",
+    "displayType": "Apartment",
+    "nanoId": "sma6d5",
+    "objectId": "21073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Tembeling Road  423000, East Coast (D15-16)",
+    "displayText": "Tembeling Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "jfyq9q",
+    "objectId": "21074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "134 Emerald Hill Road  229414, Orchard / Holland (D09-10)",
+    "displayText": "Top Ten",
+    "displayType": "Apartment",
+    "nanoId": "wfwk94",
+    "objectId": "21087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Toh Tuck Road  596000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Teck Hiang Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "dk1bu4",
+    "objectId": "21409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "281 Telok Kurau Road  423847, East Coast (D15-16)",
+    "displayText": "Merlot Ville",
+    "displayType": "Apartment",
+    "nanoId": "as4zl1",
+    "objectId": "2200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "184 - 184C Tembeling Road  423683, East Coast (D15-16)",
+    "displayText": "Tembelina",
+    "displayType": "Apartment",
+    "nanoId": "6rj2my",
+    "objectId": "22035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 Teban Gardens Road  600055, West (D22-24)",
+    "displayText": "55 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "zgwl5f",
+    "objectId": "22477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Teban Gardens Road  600056, West (D22-24)",
+    "displayText": "56 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "e16lgg",
+    "objectId": "22478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Teban Gardens Road  600057, West (D22-24)",
+    "displayText": "57 Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "b1y68w",
+    "objectId": "22479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57B Teban Gardens Road  602057, West (D22-24)",
+    "displayText": "57B Teban Gardens Road",
+    "displayType": "HDB",
+    "nanoId": "jpqpm3",
+    "objectId": "22480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

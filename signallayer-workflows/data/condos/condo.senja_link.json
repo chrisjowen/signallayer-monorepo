@@ -1,0 +1,1502 @@
+[
+  {
+    "displayText": "Senja Link",
+    "displayType": "Street",
+    "objectId": "2924",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "650 Senja Link  670650, West (D22-24)",
+    "displayText": "650 Senja Link",
+    "displayType": "HDB",
+    "nanoId": "sjhoxs",
+    "objectId": "9966",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "651 Senja Link  670651, West (D22-24)",
+    "displayText": "651 Senja Link",
+    "displayType": "HDB",
+    "nanoId": "c4w01p",
+    "objectId": "9967",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "652 Senja Link  670652, West (D22-24)",
+    "displayText": "652 Senja Link",
+    "displayType": "HDB",
+    "nanoId": "niqx5f",
+    "objectId": "9968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "653 Senja Link  670653, West (D22-24)",
+    "displayText": "653 Senja Link",
+    "displayType": "HDB",
+    "nanoId": "wbubk1",
+    "objectId": "9969",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "651A Senja Link  671651, West (D22-24)",
+    "displayText": "651A Senja Link",
+    "displayType": "HDB",
+    "nanoId": "z4gj6j",
+    "objectId": "9970",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Senja Road",
+    "displayType": "Street",
+    "objectId": "2925",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "625A Senja Road  671625, West (D22-24)",
+    "displayText": "625A Senja Road",
+    "displayType": "HDB",
+    "nanoId": "cqex0m",
+    "objectId": "10000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "625B Senja Road  672625, West (D22-24)",
+    "displayText": "625B Senja Road",
+    "displayType": "HDB",
+    "nanoId": "ezz9fv",
+    "objectId": "10001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629A Senja Road  671629, West (D22-24)",
+    "displayText": "629A Senja Road",
+    "displayType": "HDB",
+    "nanoId": "p6cevo",
+    "objectId": "10002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629B Senja Road  672629, West (D22-24)",
+    "displayText": "629B Senja Road",
+    "displayType": "HDB",
+    "nanoId": "vuqqlz",
+    "objectId": "10003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "654A Senja Road  671654, West (D22-24)",
+    "displayText": "654A Senja Road",
+    "displayType": "HDB",
+    "nanoId": "c7noe4",
+    "objectId": "10004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633B Senja Road  672633, West (D22-24)",
+    "displayText": "633B Senja Green",
+    "displayType": "HDB",
+    "nanoId": "dm9i86",
+    "objectId": "21312",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634A Senja Road  671634, West (D22-24)",
+    "displayText": "634A Senja Road",
+    "displayType": "HDB",
+    "nanoId": "o6akn7",
+    "objectId": "22070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634B Senja Road  672634, West (D22-24)",
+    "displayText": "634B Senja Road",
+    "displayType": "HDB",
+    "nanoId": "nezhyv",
+    "objectId": "22071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635A Senja Road  671635, West (D22-24)",
+    "displayText": "635A Senja Road",
+    "displayType": "HDB",
+    "nanoId": "ukwhxf",
+    "objectId": "22072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635B Senja Road  672635, West (D22-24)",
+    "displayText": "635B Senja Road",
+    "displayType": "HDB",
+    "nanoId": "lm6qs7",
+    "objectId": "22073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635C Senja Road  673635, West (D22-24)",
+    "displayText": "635C Senja Road",
+    "displayType": "HDB",
+    "nanoId": "y0yqsz",
+    "objectId": "22074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635D Senja Road  674635, West (D22-24)",
+    "displayText": "635D Senja Road",
+    "displayType": "HDB",
+    "nanoId": "jabcwx",
+    "objectId": "22075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636C Senja Road  673636, West (D22-24)",
+    "displayText": "636C Senja Parc View",
+    "displayType": "HDB",
+    "nanoId": "sil31g",
+    "objectId": "22203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636B Senja Road  672636, West (D22-24)",
+    "displayText": "636B Senja Parc View",
+    "displayType": "HDB",
+    "nanoId": "ig71as",
+    "objectId": "22549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633D Senja Road  674633, West (D22-24)",
+    "displayText": "633D Senja Green",
+    "displayType": "HDB",
+    "nanoId": "at3ac1",
+    "objectId": "22603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633C Senja Road  673633, West (D22-24)",
+    "displayText": "633C Senja Green",
+    "displayType": "HDB",
+    "nanoId": "ro45uq",
+    "objectId": "22762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633A Senja Road  671633, West (D22-24)",
+    "displayText": "633A Senja Green",
+    "displayType": "HDB",
+    "nanoId": "ztc8cf",
+    "objectId": "22763",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636A Senja Road  671636, West (D22-24)",
+    "displayText": "636A Senja Parc View",
+    "displayType": "HDB",
+    "nanoId": "lmgglx",
+    "objectId": "23839",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "643B Senja Close  672643, West (D22-24)",
+    "displayText": "643B Senja Close",
+    "displayType": "HDB",
+    "nanoId": "qw8z8l",
+    "objectId": "25487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "643A Senja Close  671643, West (D22-24)",
+    "displayText": "643A Senja Close",
+    "displayType": "HDB",
+    "nanoId": "osvnzw",
+    "objectId": "25684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "641A Senja Close  671641, West (D22-24)",
+    "displayText": "641A Senja Close",
+    "displayType": "HDB",
+    "nanoId": "9fbrrz",
+    "objectId": "25746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "601 Senja Road  670601, West (D22-24)",
+    "displayText": "601 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "58pp3g",
+    "objectId": "9971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "602 Senja Road  670602, West (D22-24)",
+    "displayText": "602 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "su5vu9",
+    "objectId": "9972",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "603 Senja Road  670603, West (D22-24)",
+    "displayText": "603 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "0evoo5",
+    "objectId": "9973",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "604 Senja Road  670604, West (D22-24)",
+    "displayText": "604 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "7is6nc",
+    "objectId": "9974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605 Senja Road  670605, West (D22-24)",
+    "displayText": "605 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "2t72yj",
+    "objectId": "9975",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606 Senja Road  670606, West (D22-24)",
+    "displayText": "606 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "k2di8i",
+    "objectId": "9976",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "607 Senja Road  670607, West (D22-24)",
+    "displayText": "607 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "5t9t3q",
+    "objectId": "9977",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608 Senja Road  670608, West (D22-24)",
+    "displayText": "608 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "u0leqk",
+    "objectId": "9978",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "610 Senja Road  670610, West (D22-24)",
+    "displayText": "610 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "6q7704",
+    "objectId": "9979",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "612 Senja Road  670612, West (D22-24)",
+    "displayText": "612 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "s1bdhw",
+    "objectId": "9980",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "614 Senja Road  670614, West (D22-24)",
+    "displayText": "614 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "myhcrx",
+    "objectId": "9981",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "616 Senja Road  670616, West (D22-24)",
+    "displayText": "616 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "50i2i5",
+    "objectId": "9982",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618 Senja Road  670618, West (D22-24)",
+    "displayText": "618 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "3m8qzo",
+    "objectId": "9983",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "621 Senja Road  670621, West (D22-24)",
+    "displayText": "621 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "u4gupl",
+    "objectId": "9984",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622 Senja Road  670622, West (D22-24)",
+    "displayText": "622 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "xwqzip",
+    "objectId": "9985",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "623 Senja Road  670623, West (D22-24)",
+    "displayText": "623 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "rrluhu",
+    "objectId": "9986",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "624 Senja Road  670624, West (D22-24)",
+    "displayText": "624 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "dbxc29",
+    "objectId": "9987",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "625 Senja Road  670625, West (D22-24)",
+    "displayText": "625 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "s03mi2",
+    "objectId": "9988",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "626 Senja Road  670626, West (D22-24)",
+    "displayText": "626 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "7soywg",
+    "objectId": "9989",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "627 Senja Road  670627, West (D22-24)",
+    "displayText": "627 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "i8mlo0",
+    "objectId": "9990",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "628 Senja Road  670628, West (D22-24)",
+    "displayText": "628 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "mtap6q",
+    "objectId": "9991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629 Senja Road  670629, West (D22-24)",
+    "displayText": "629 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "y7h59y",
+    "objectId": "9992",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630 Senja Road  670630, West (D22-24)",
+    "displayText": "630 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "7poxfc",
+    "objectId": "9993",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "631 Senja Road  670631, West (D22-24)",
+    "displayText": "631 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "e9wvqs",
+    "objectId": "9994",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "654 Senja Road  670654, West (D22-24)",
+    "displayText": "654 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "q7wodt",
+    "objectId": "9995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "655 Senja Road  670655, West (D22-24)",
+    "displayText": "655 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "yk0yss",
+    "objectId": "9996",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "656 Senja Road  670656, West (D22-24)",
+    "displayText": "656 Senja Road",
+    "displayType": "HDB",
+    "nanoId": "7swr3l",
+    "objectId": "9997",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "603A Senja Road  671603, West (D22-24)",
+    "displayText": "603A Senja Road",
+    "displayType": "HDB",
+    "nanoId": "0jz8yi",
+    "objectId": "9998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "616A Senja Road  671616, West (D22-24)",
+    "displayText": "616A Senja Road",
+    "displayType": "HDB",
+    "nanoId": "g0b8yt",
+    "objectId": "9999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Siglap Link  448869, East Coast (D15-16)",
+    "displayText": "Seaside Residences",
+    "displayType": "Apartment",
+    "nanoId": "ga8rbq",
+    "objectId": "22939",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Kitchener Link  207223, City & South West (D01-08)",
+    "displayText": "City Square Residences",
+    "displayType": "Condominium",
+    "nanoId": "b3zbus",
+    "objectId": "88",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Jurong Lake Link  648130, West (D22-24)",
+    "displayText": "Lake Grande",
+    "displayType": "Condominium",
+    "nanoId": "06w3c2",
+    "objectId": "22592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Jurong Lake Link  648155, West (D22-24)",
+    "displayText": "Lakeville",
+    "displayType": "Condominium",
+    "nanoId": "uk2jfb",
+    "objectId": "21883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Fernvale Link  797530, North (D25-28)",
+    "displayText": "H2O Residences",
+    "displayType": "Condominium",
+    "nanoId": "dmn86z",
+    "objectId": "20606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Tanah Merah Kechil Link  465417, East Coast (D15-16)",
+    "displayText": "Urban Vista",
+    "displayType": "Condominium",
+    "nanoId": "48o50p",
+    "objectId": "21441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Pasir Ris Link  518160, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ripple Bay",
+    "displayType": "Condominium",
+    "nanoId": "gqv0vy",
+    "objectId": "21183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Pasir Ris Link  518150, Changi / Pasir Ris (D17-18)",
+    "displayText": "Watercolours",
+    "displayType": "Executive Condominium",
+    "nanoId": "tlaewt",
+    "objectId": "21243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Rivervale Link  545118, Serangoon / Thomson (D19-20)",
+    "displayText": "The Rivervale",
+    "displayType": "Condominium",
+    "nanoId": "v1lhij",
+    "objectId": "194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Pasir Ris Link  518180, Changi / Pasir Ris (D17-18)",
+    "displayText": "Seastrand",
+    "displayType": "Condominium",
+    "nanoId": "rwkloj",
+    "objectId": "20737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Pasir Ris Link  518145, Changi / Pasir Ris (D17-18)",
+    "displayText": "Sea Esta",
+    "displayType": "Condominium",
+    "nanoId": "3h0pdx",
+    "objectId": "21257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Bukit Batok Central Link  658074, West (D22-24)",
+    "displayText": "The Jade",
+    "displayType": "Condominium",
+    "nanoId": "2kcsoh",
+    "objectId": "348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Rivervale Link  545040, Serangoon / Thomson (D19-20)",
+    "displayText": "Park Green",
+    "displayType": "Condominium",
+    "nanoId": "ri89tt",
+    "objectId": "1514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Holland Link  275764, Orchard / Holland (D09-10)",
+    "displayText": "Eleven @ Holland",
+    "displayType": "Cluster House",
+    "nanoId": "uijfo6",
+    "objectId": "20669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Tanah Merah Kechil Link  468456, East Coast (D15-16)",
+    "displayText": "Sceneca Residence",
+    "displayType": "Condominium",
+    "nanoId": "hfgkek",
+    "objectId": "25304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Prinsep Link  187948, City & South West (D01-08)",
+    "displayText": "Sunshine Plaza",
+    "displayType": "Apartment",
+    "nanoId": "44wsr3",
+    "objectId": "576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Bukit Timah Link   589943, Newton / Bt. Timah (D11, 21)",
+    "displayText": "8@BT",
+    "displayType": "Condominium",
+    "nanoId": "xe0035",
+    "objectId": "25827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Kandis Link  756967, North (D25-28)",
+    "displayText": "Kandis Residence",
+    "displayType": "Condominium",
+    "nanoId": "1wd0e4",
+    "objectId": "23188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Chempaka Kuning Link  486000, East Coast (D15-16)",
+    "displayText": "The Springfield",
+    "displayType": "Terraced House",
+    "nanoId": "qtuyya",
+    "objectId": "520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Ghim  Moh Link",
+    "displayType": "Street",
+    "objectId": "27368",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "418C Fernvale Link  793418, North (D25-28)",
+    "displayText": "418C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "zxdar8",
+    "objectId": "23079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Ghim Moh Link  271032, Orchard / Holland (D09-10)",
+    "displayText": "32 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "z7f05f",
+    "objectId": "23249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Ghim Moh Link  270033, Orchard / Holland (D09-10)",
+    "displayText": "33 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "kbzd8z",
+    "objectId": "23250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Compassvale Link",
+    "displayType": "Street",
+    "objectId": "4636",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Anchorvale Link",
+    "displayType": "Street",
+    "objectId": "54",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "23 Ghim Moh Link  271023, Orchard / Holland (D09-10)",
+    "displayText": "23 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "91fvhf",
+    "objectId": "22030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Ghim Moh Link  270026, Orchard / Holland (D09-10)",
+    "displayText": "26 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "rdtocr",
+    "objectId": "22033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 Ghim Moh Link  270027, Orchard / Holland (D09-10)",
+    "displayText": "27 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "l7g3q6",
+    "objectId": "22034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470B Fernvale Link  792470, North (D25-28)",
+    "displayText": "470B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "yty4u3",
+    "objectId": "22285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470C Fernvale Link  793470, North (D25-28)",
+    "displayText": "470C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "tokwmu",
+    "objectId": "22286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "817A Keat Hong Link  681817, West (D22-24)",
+    "displayText": "817A Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "4vrjc7",
+    "objectId": "22659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417A Fernvale Link  791417, North (D25-28)",
+    "displayText": "417A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "5uawmr",
+    "objectId": "23075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Ghim Moh Link  270029, Orchard / Holland (D09-10)",
+    "displayText": "29 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "61tmwv",
+    "objectId": "23244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333C Anchorvale Link  543333, Serangoon / Thomson (D19-20)",
+    "displayText": "333C Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "m5uwq5",
+    "objectId": "23480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302B Anchorvale Link  542302, Serangoon / Thomson (D19-20)",
+    "displayText": "302B Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "0i0uy2",
+    "objectId": "2799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "277C Compassvale Link  543277, Serangoon / Thomson (D19-20)",
+    "displayText": "277C Compassvale Link",
+    "displayType": "HDB",
+    "nanoId": "4stinm",
+    "objectId": "5664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Buangkok Link",
+    "displayType": "Street",
+    "objectId": "5810",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Greenleaf Road  279000, Orchard / Holland (D09-10)",
+    "displayText": "Link Residence @ Holland",
+    "displayType": "Cluster House",
+    "nanoId": "hho917",
+    "objectId": "20563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Chuan Link  554000, Serangoon / Thomson (D19-20)",
+    "displayText": "Chiselhurst Green",
+    "displayType": "Terraced House",
+    "nanoId": "6ho7z1",
+    "objectId": "20633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Cashew Link  679000, West (D22-24)",
+    "displayText": "Cashew Garden",
+    "displayType": "Semi-Detached House",
+    "nanoId": "3bu9o2",
+    "objectId": "20844",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Chuan Link  554000, Serangoon / Thomson (D19-20)",
+    "displayText": "Chuan Ville",
+    "displayType": "Terraced House",
+    "nanoId": "amw967",
+    "objectId": "20858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Dedap Link  809000, North (D25-28)",
+    "displayText": "Dedap Gardens",
+    "displayType": "Semi-Detached House",
+    "nanoId": "demzkm",
+    "objectId": "20872",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "490 Admiralty Link  750490, North (D25-28)",
+    "displayText": "490 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "2yojta",
+    "objectId": "21167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

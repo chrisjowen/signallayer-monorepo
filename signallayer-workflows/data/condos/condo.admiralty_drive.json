@@ -1,0 +1,1496 @@
+[
+  {
+    "displayDescription": "353 Admiralty Drive  750353, North (D25-28)",
+    "displayText": "353 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "wa2tr8",
+    "objectId": "2673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356 Admiralty Drive  750356, North (D25-28)",
+    "displayText": "356 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "9ra781",
+    "objectId": "2675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357 Admiralty Drive  750357, North (D25-28)",
+    "displayText": "357 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "8qci84",
+    "objectId": "2676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359 Admiralty Drive  750359, North (D25-28)",
+    "displayText": "359 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "lkw34g",
+    "objectId": "2678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "360 Admiralty Drive  750360, North (D25-28)",
+    "displayText": "360 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "or185k",
+    "objectId": "2679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467 Admiralty Drive  750467, North (D25-28)",
+    "displayText": "467 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "dq5xdb",
+    "objectId": "2680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468 Admiralty Drive  750468, North (D25-28)",
+    "displayText": "468 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "czcpyw",
+    "objectId": "2681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469 Admiralty Drive  750469, North (D25-28)",
+    "displayText": "469 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "43g0o9",
+    "objectId": "2682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "353A Admiralty Drive  751353, North (D25-28)",
+    "displayText": "353A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "j6l7wr",
+    "objectId": "2683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "353B Admiralty Drive  752353, North (D25-28)",
+    "displayText": "353B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "c05j6v",
+    "objectId": "2684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "353C Admiralty Drive  753353, North (D25-28)",
+    "displayText": "353C Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "8f946z",
+    "objectId": "2685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354A Admiralty Drive  751354, North (D25-28)",
+    "displayText": "354A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "7b1fip",
+    "objectId": "2686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354B Admiralty Drive  752354, North (D25-28)",
+    "displayText": "354B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "bvgn0f",
+    "objectId": "2687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354C Admiralty Drive  753354, North (D25-28)",
+    "displayText": "354C Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "yst38y",
+    "objectId": "2688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354D Admiralty Drive  754354, North (D25-28)",
+    "displayText": "354D Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "wmtnha",
+    "objectId": "2689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356A Admiralty Drive  751356, North (D25-28)",
+    "displayText": "356A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "ne6w3y",
+    "objectId": "2690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356B Admiralty Drive  752356, North (D25-28)",
+    "displayText": "356B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "u6pb25",
+    "objectId": "2691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356C Admiralty Drive  753356, North (D25-28)",
+    "displayText": "356C Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "qv8sg5",
+    "objectId": "2692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357A Admiralty Drive  751357, North (D25-28)",
+    "displayText": "357A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "pmhws9",
+    "objectId": "2693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357B Admiralty Drive  752357, North (D25-28)",
+    "displayText": "357B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "y7tpyz",
+    "objectId": "2694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "753341, North (D25-28)",
+    "displayText": "357C Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "41w0js",
+    "objectId": "2695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21",
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358A Admiralty Drive  751358, North (D25-28)",
+    "displayText": "358A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "6ainf7",
+    "objectId": "2696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359A Admiralty Drive  751359, North (D25-28)",
+    "displayText": "359A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "osdiha",
+    "objectId": "2697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359B Admiralty Drive  752359, North (D25-28)",
+    "displayText": "359B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "x5yj73",
+    "objectId": "2698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359C Admiralty Drive  753359, North (D25-28)",
+    "displayText": "359C Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "48phq1",
+    "objectId": "2699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "360A Admiralty Drive  751360, North (D25-28)",
+    "displayText": "360A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "wfnkva",
+    "objectId": "2700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "360B Admiralty Drive  752360, North (D25-28)",
+    "displayText": "360B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "7qe09b",
+    "objectId": "2701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "360C Admiralty Drive  753360, North (D25-28)",
+    "displayText": "360C Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "2jrpog",
+    "objectId": "2702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467A Admiralty Drive  751467, North (D25-28)",
+    "displayText": "467A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "srtjrb",
+    "objectId": "2703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467B Admiralty Drive  752467, North (D25-28)",
+    "displayText": "467B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "1n0ge3",
+    "objectId": "2704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468A Admiralty Drive  751468, North (D25-28)",
+    "displayText": "468A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "0mmnzz",
+    "objectId": "2705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468B Admiralty Drive  752468, North (D25-28)",
+    "displayText": "468B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "ua06nj",
+    "objectId": "2706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468C Admiralty Drive  753468, North (D25-28)",
+    "displayText": "468C Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "h4k16u",
+    "objectId": "2707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468D Admiralty Drive  754468, North (D25-28)",
+    "displayText": "468D Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "0r1mkg",
+    "objectId": "2708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469A Admiralty Drive  751469, North (D25-28)",
+    "displayText": "469A Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "cpm7l2",
+    "objectId": "2709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469B Admiralty Drive  752469, North (D25-28)",
+    "displayText": "469B Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "12825y",
+    "objectId": "2710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358 Admiralty Drive  750358, North (D25-28)",
+    "displayText": "358 Admiralty Drive",
+    "displayType": "HDB",
+    "nanoId": "aojkcw",
+    "objectId": "2677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D25",
+    "displayText": "D25 Admiralty / Woodlands",
+    "displayType": "District",
+    "objectId": "D25",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D25"
+    }
+  },
+  {
+    "displayDescription": "490 Admiralty Link  750490, North (D25-28)",
+    "displayText": "490 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "2yojta",
+    "objectId": "21167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "488 Admiralty Link  750488, North (D25-28)",
+    "displayText": "488 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "jcqrpc",
+    "objectId": "21842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "489 Admiralty Link  750489, North (D25-28)",
+    "displayText": "489 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "176oqz",
+    "objectId": "21911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "401 Admiralty Link  750401, North (D25-28)",
+    "displayText": "401 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "c1cbfh",
+    "objectId": "2711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402 Admiralty Link  750402, North (D25-28)",
+    "displayText": "402 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "mg4eyk",
+    "objectId": "2712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Admiralty Link  750403, North (D25-28)",
+    "displayText": "403 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "et3vgv",
+    "objectId": "2713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404 Admiralty Link  750404, North (D25-28)",
+    "displayText": "404 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "qeajup",
+    "objectId": "2714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405 Admiralty Link  750405, North (D25-28)",
+    "displayText": "405 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "vije49",
+    "objectId": "2715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "482 Admiralty Link  750482, North (D25-28)",
+    "displayText": "482 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "l2kypi",
+    "objectId": "2716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "483 Admiralty Link  750483, North (D25-28)",
+    "displayText": "483 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "zrlwde",
+    "objectId": "2717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "484 Admiralty Link  750484, North (D25-28)",
+    "displayText": "484 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "q3jwsh",
+    "objectId": "2718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "485 Admiralty Link  750485, North (D25-28)",
+    "displayText": "485 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "uuzkbw",
+    "objectId": "2719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "486 Admiralty Link  750486, North (D25-28)",
+    "displayText": "486 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "9pzr7u",
+    "objectId": "2720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "487 Admiralty Link  750487, North (D25-28)",
+    "displayText": "487 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "ih2ozg",
+    "objectId": "2721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "491 Admiralty Link  750491, North (D25-28)",
+    "displayText": "491 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "xhcz54",
+    "objectId": "2722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "492 Admiralty Link  750492, North (D25-28)",
+    "displayText": "492 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "ong218",
+    "objectId": "2723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "493 Admiralty Link  750493, North (D25-28)",
+    "displayText": "493 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "uf1kr5",
+    "objectId": "2724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403A Admiralty Link  751403, North (D25-28)",
+    "displayText": "403A Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "fhjfip",
+    "objectId": "2725",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404A Admiralty Link  751404, North (D25-28)",
+    "displayText": "404A Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "3nju3f",
+    "objectId": "2726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "482B Admiralty Link  752482, North (D25-28)",
+    "displayText": "482B Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "j25hqs",
+    "objectId": "2728",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "484B Admiralty Link  752484, North (D25-28)",
+    "displayText": "484B Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "s70gwb",
+    "objectId": "2730",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "492A Admiralty Link  751492, North (D25-28)",
+    "displayText": "492A Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "w119yf",
+    "objectId": "2731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Admiralty Link",
+    "displayType": "Street",
+    "objectId": "10",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Admiralty Road West",
+    "displayType": "Street",
+    "objectId": "11563",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Admiralty Street",
+    "displayType": "Street",
+    "objectId": "3816",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "8 Adis Road  229975, Orchard / Holland (D09-10)",
+    "displayText": "Parc Sophia",
+    "displayType": "Apartment",
+    "nanoId": "fzd3wp",
+    "objectId": "1300",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Adam Road  289895, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Adam Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "gvo89y",
+    "objectId": "25",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Derbyshire Road  309466, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Adria",
+    "displayType": "Condominium",
+    "nanoId": "monob9",
+    "objectId": "20578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Adis Road  229977, Orchard / Holland (D09-10)",
+    "displayText": "LIV on Sophia",
+    "displayType": "Apartment",
+    "nanoId": "obrmpv",
+    "objectId": "21636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Old Upper Thomson Road  573868, Serangoon / Thomson (D19-20)",
+    "displayText": "Adana @ Thomson",
+    "displayType": "Condominium",
+    "nanoId": "ec42zx",
+    "objectId": "22118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Meyappa Chettiar Road   358461, Balestier / Geylang (D12-14)",
+    "displayText": "The Addition",
+    "displayType": "Condominium",
+    "nanoId": "rimmiz",
+    "objectId": "23527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Chapel Road  429515, East Coast (D15-16)",
+    "displayText": "The Adara",
+    "displayType": "Condominium",
+    "nanoId": "ucjbko",
+    "objectId": "1254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Lorong 25A Geylang  388222, Balestier / Geylang (D12-14)",
+    "displayText": "Advance Apartments",
+    "displayType": "Apartment",
+    "nanoId": "onb7nr",
+    "objectId": "1485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Gardenia Road  000002, Serangoon / Thomson (D19-20)",
+    "displayText": "Adelphi Park Estate",
+    "displayType": "Detached House",
+    "nanoId": "tvfvnz",
+    "objectId": "20828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "7 Adam Road  289885, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Adam Green",
+    "displayType": "Apartment",
+    "nanoId": "o31c7d",
+    "objectId": "21608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "32 Adis Road  229978, Orchard / Holland (D09-10)",
+    "displayText": "Sophia Court",
+    "displayType": "Condominium",
+    "nanoId": "rg6xjo",
+    "objectId": "2357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "121 Penang Road  238464, Orchard / Holland (D09-10)",
+    "displayText": "Adina Serviced Apartments Singapore Orchard",
+    "displayType": "Apartment",
+    "nanoId": "evq268",
+    "objectId": "2578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5B Adam Road  289882, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Adam Place",
+    "displayType": "Apartment",
+    "nanoId": "u0g3xv",
+    "objectId": "26",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jalan Adat",
+    "displayType": "Street",
+    "objectId": "1201",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Adis Rd",
+    "displayType": "Street",
+    "objectId": "5670",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Adis Road",
+    "displayType": "Street",
+    "objectId": "7",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "46 Keppel Bay Drive  098635, City & South West (D01-08)",
+    "displayText": "Caribbean at Keppel Bay",
+    "displayType": "Condominium",
+    "nanoId": "gd6fgu",
+    "objectId": "65",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Sims Drive  387386, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Urban Oasis",
+    "displayType": "Condominium",
+    "nanoId": "grb4fv",
+    "objectId": "22053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Bidadari Park Drive  341105, Balestier / Geylang (D12-14)",
+    "displayText": "The Woodleigh Residences",
+    "displayType": "Apartment",
+    "nanoId": "s6h3kh",
+    "objectId": "23532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Sims Drive  387395, Balestier / Geylang (D12-14)",
+    "displayText": "Penrose",
+    "displayType": "Condominium",
+    "nanoId": "ntn5a0",
+    "objectId": "24454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Buangkok Drive  540000, Serangoon / Thomson (D19-20)",
+    "displayText": "Jewel @ Buangkok",
+    "displayType": "Condominium",
+    "nanoId": "cw22qc",
+    "objectId": "21639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Lakeside Drive  648305, West (D22-24)",
+    "displayText": "The Lakefront Residences",
+    "displayType": "Condominium",
+    "nanoId": "2pyi4i",
+    "objectId": "20561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "160 Canberra Drive  767999, North (D25-28)",
+    "displayText": "The Brownstone",
+    "displayType": "Executive Condominium",
+    "nanoId": "kbzy12",
+    "objectId": "22200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "174 Canberra Drive  767949, North (D25-28)",
+    "displayText": "The Visionaire",
+    "displayType": "Executive Condominium",
+    "nanoId": "e0j5mx",
+    "objectId": "22501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Bedok North Drive  465493, East Coast (D15-16)",
+    "displayText": "Bedok Residences",
+    "displayType": "Condominium",
+    "nanoId": "fbqjc4",
+    "objectId": "21109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Woodlands Drive 16  737763, North (D25-28)",
+    "displayText": "Forestville",
+    "displayType": "Executive Condominium",
+    "nanoId": "wl2w79",
+    "objectId": "21431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Lakeside Drive  648315, West (D22-24)",
+    "displayText": "Caspian",
+    "displayType": "Condominium",
+    "nanoId": "aq7fqm",
+    "objectId": "1395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "81 West Coast Drive  127997, City & South West (D01-08)",
+    "displayText": "Hundred Trees",
+    "displayType": "Condominium",
+    "nanoId": "6n3ilu",
+    "objectId": "1589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Bright Hill Drive  573883, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Three",
+    "displayType": "Condominium",
+    "nanoId": "47sing",
+    "objectId": "21732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sembawang Drive  750000, North (D25-28)",
+    "displayText": "SkyPark Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "ubfhgr",
+    "objectId": "21786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Rochester Drive  138638, City & South West (D01-08)",
+    "displayText": "The Rochester Residences",
+    "displayType": "Apartment",
+    "nanoId": "sbisc7",
+    "objectId": "959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Sinaran Drive  307467, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Soleil @ Sinaran",
+    "displayType": "Condominium",
+    "nanoId": "xzidg4",
+    "objectId": "966",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Flora Drive  506856, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Olympia",
+    "displayType": "Condominium",
+    "nanoId": "6u1zmx",
+    "objectId": "21302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Canberra Drive  768094, North (D25-28)",
+    "displayText": "Eight Courtyards",
+    "displayType": "Condominium",
+    "nanoId": "z14pns",
+    "objectId": "20659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Punggol Drive  828794, Serangoon / Thomson (D19-20)",
+    "displayText": "Riverparc Residence",
+    "displayType": "Executive Condominium",
+    "nanoId": "nh5793",
+    "objectId": "20729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "276 Ocean Drive  098449, City & South West (D01-08)",
+    "displayText": "The Coast at Sentosa Cove",
+    "displayType": "Condominium",
+    "nanoId": "6pvzbk",
+    "objectId": "87",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Flora Drive  506941, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ferraria Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "utkpou",
+    "objectId": "1277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

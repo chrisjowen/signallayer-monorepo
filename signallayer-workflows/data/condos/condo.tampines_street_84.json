@@ -1,0 +1,1371 @@
+[
+  {
+    "displayText": "Tampines Street 84",
+    "displayType": "Street",
+    "objectId": "3276",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "871 Tampines Street 84  520871, Changi / Pasir Ris (D17-18)",
+    "displayText": "871 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "xm6igl",
+    "objectId": "11185",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "872 Tampines Street 84  520872, Changi / Pasir Ris (D17-18)",
+    "displayText": "872 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "ntom5o",
+    "objectId": "11186",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "873 Tampines Street 84  520873, Changi / Pasir Ris (D17-18)",
+    "displayText": "873 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "f3z9vh",
+    "objectId": "11187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "874 Tampines Street 84  520874, Changi / Pasir Ris (D17-18)",
+    "displayText": "874 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "7r8gw7",
+    "objectId": "11188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "875 Tampines Street 84  520875, Changi / Pasir Ris (D17-18)",
+    "displayText": "875 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "iot2uh",
+    "objectId": "11189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "876 Tampines Street 84  520876, Changi / Pasir Ris (D17-18)",
+    "displayText": "876 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "drrggd",
+    "objectId": "11190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "877 Tampines Street 84  520877, Changi / Pasir Ris (D17-18)",
+    "displayText": "877 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "9z786p",
+    "objectId": "11191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "881 Tampines Street 84  520881, Changi / Pasir Ris (D17-18)",
+    "displayText": "881 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "k0ylbz",
+    "objectId": "11192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "882 Tampines Street 84  521882, Changi / Pasir Ris (D17-18)",
+    "displayText": "882 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "z6wwpd",
+    "objectId": "11193",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "883 Tampines Street 84  520883, Changi / Pasir Ris (D17-18)",
+    "displayText": "883 Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "h7aeoj",
+    "objectId": "11194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "871A Tampines Street 84  521871, Changi / Pasir Ris (D17-18)",
+    "displayText": "871A Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "r1a5t0",
+    "objectId": "11195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "874A Tampines Street 84  521874, Changi / Pasir Ris (D17-18)",
+    "displayText": "874A Tampines Street 84",
+    "displayType": "HDB",
+    "nanoId": "eo0vc1",
+    "objectId": "11196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "840 Tampines Street 82  520840, Changi / Pasir Ris (D17-18)",
+    "displayText": "840 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "ie8xuw",
+    "objectId": "11126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842 Tampines Street 82  520842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "rifbfp",
+    "objectId": "11127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "844 Tampines Street 82  520844, Changi / Pasir Ris (D17-18)",
+    "displayText": "844 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "dwoqo4",
+    "objectId": "11128",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "846 Tampines Street 82  520846, Changi / Pasir Ris (D17-18)",
+    "displayText": "846 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "71p394",
+    "objectId": "11129",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "848 Tampines Street 82  520848, Changi / Pasir Ris (D17-18)",
+    "displayText": "848 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "6mbnm1",
+    "objectId": "11130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842A Tampines Street 82  521842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842A Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "bmjmsm",
+    "objectId": "11135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842B Tampines Street 82  522842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842B Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "llwknh",
+    "objectId": "11136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842C Tampines Street 82  523842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842C Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "jgtzx2",
+    "objectId": "11137",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842D Tampines Street 82  524842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842D Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "2gntrd",
+    "objectId": "11138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842E Tampines Street 82  525842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842E Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "tu4vwu",
+    "objectId": "11139",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842F Tampines Street 82  526842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842F Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "7yg0hj",
+    "objectId": "11140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842G Tampines Street 82  527842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842G Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "5cp63o",
+    "objectId": "11141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842H Tampines Street 82  528842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842H Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "1dz99g",
+    "objectId": "11142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "841 Tampines Street 83  520841, Changi / Pasir Ris (D17-18)",
+    "displayText": "841 Tampines Street 83",
+    "displayType": "HDB",
+    "nanoId": "oj5r5u",
+    "objectId": "11154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "843 Tampines Street 83  520843, Changi / Pasir Ris (D17-18)",
+    "displayText": "843 Tampines Street 83",
+    "displayType": "HDB",
+    "nanoId": "mt7d6f",
+    "objectId": "11155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "845 Tampines Street 83  520845, Changi / Pasir Ris (D17-18)",
+    "displayText": "845 Tampines Street 83",
+    "displayType": "HDB",
+    "nanoId": "1dumcw",
+    "objectId": "11156",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "847 Tampines Street 83  520847, Changi / Pasir Ris (D17-18)",
+    "displayText": "847 Tampines Street 83",
+    "displayType": "HDB",
+    "nanoId": "92kav8",
+    "objectId": "11157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "849 Tampines Street 83  520849, Changi / Pasir Ris (D17-18)",
+    "displayText": "849 Tampines Street 83",
+    "displayType": "HDB",
+    "nanoId": "scqhna",
+    "objectId": "11158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tampines Street 82",
+    "displayType": "Street",
+    "objectId": "3274",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 81",
+    "displayType": "Street",
+    "objectId": "3273",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 24",
+    "displayType": "Street",
+    "objectId": "3260",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 34",
+    "displayType": "Street",
+    "objectId": "3264",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 44",
+    "displayType": "Street",
+    "objectId": "3268",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 83",
+    "displayType": "Street",
+    "objectId": "3275",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 11",
+    "displayType": "Street",
+    "objectId": "3255",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 21",
+    "displayType": "Street",
+    "objectId": "3257",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 45",
+    "displayType": "Street",
+    "objectId": "3269",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 71",
+    "displayType": "Street",
+    "objectId": "3270",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 10",
+    "displayType": "Street",
+    "objectId": "12339",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 12",
+    "displayType": "Street",
+    "objectId": "3256",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 22",
+    "displayType": "Street",
+    "objectId": "3258",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 23",
+    "displayType": "Street",
+    "objectId": "3259",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 31",
+    "displayType": "Street",
+    "objectId": "3261",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 32",
+    "displayType": "Street",
+    "objectId": "3262",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 33",
+    "displayType": "Street",
+    "objectId": "3263",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 41",
+    "displayType": "Street",
+    "objectId": "3265",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 42",
+    "displayType": "Street",
+    "objectId": "3266",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 43",
+    "displayType": "Street",
+    "objectId": "3267",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 72",
+    "displayType": "Street",
+    "objectId": "3271",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 73",
+    "displayType": "Street",
+    "objectId": "3272",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 91",
+    "displayType": "Street",
+    "objectId": "3278",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 92",
+    "displayType": "Street",
+    "objectId": "3279",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 93",
+    "displayType": "Street",
+    "objectId": "3280",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "84 Bedok North Street 4  460084, East Coast (D15-16)",
+    "displayText": "84 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "8rvcuu",
+    "objectId": "3512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Upper Serangoon View  533876, Serangoon / Thomson (D19-20)",
+    "displayText": "Kingsford Waterbay",
+    "displayType": "Condominium",
+    "nanoId": "deb1k2",
+    "objectId": "22069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Punggol Central  828719, Serangoon / Thomson (D19-20)",
+    "displayText": "Parc Centros",
+    "displayType": "Condominium",
+    "nanoId": "25lym7",
+    "objectId": "21295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Duchess Avenue  266474, Orchard / Holland (D09-10)",
+    "displayText": "Duchess Crest",
+    "displayType": "Condominium",
+    "nanoId": "lqt8cr",
+    "objectId": "370",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Telok Blangah Heights  100084, City & South West (D01-08)",
+    "displayText": "84 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "w9zeuc",
+    "objectId": "11455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Whampoa Drive  320084, Balestier / Geylang (D12-14)",
+    "displayText": "84 Whampoa Drive",
+    "displayType": "HDB",
+    "nanoId": "ydenq5",
+    "objectId": "11747",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Koon Seng Road  427026, East Coast (D15-16)",
+    "displayText": "Yong Shuey Lodge",
+    "displayType": "Apartment",
+    "nanoId": "vli0cl",
+    "objectId": "1604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Shrewsbury Road  307842, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Suites @ Shrewsbury",
+    "displayType": "Condominium",
+    "nanoId": "xx1w4m",
+    "objectId": "20607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Commonwealth Close  140084, City & South West (D01-08)",
+    "displayText": "84 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "31ksjf",
+    "objectId": "5501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Lorong 2 Toa Payoh  310084, Balestier / Geylang (D12-14)",
+    "displayText": "84 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "0g6kum",
+    "objectId": "8256",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Macpherson Lane  360084, Balestier / Geylang (D12-14)",
+    "displayText": "84 Macpherson Lane",
+    "displayType": "HDB",
+    "nanoId": "u6m26e",
+    "objectId": "8464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Marine Parade Central  440084, East Coast (D15-16)",
+    "displayText": "84 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "qbxdw9",
+    "objectId": "8506",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Redhill Lane  150084, City & South West (D01-08)",
+    "displayText": "84 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "mdpgfu",
+    "objectId": "9571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Tampines Street 86  528509, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Tapestry",
+    "displayType": "Condominium",
+    "nanoId": "x7vogv",
+    "objectId": "23396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Tampines Street 86  528583, Changi / Pasir Ris (D17-18)",
+    "displayText": "Q Bay Residences",
+    "displayType": "Condominium",
+    "nanoId": "xoxy81",
+    "objectId": "21443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Tampines Street 86  520000, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Santorini",
+    "displayType": "Condominium",
+    "nanoId": "0lka76",
+    "objectId": "21876",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "129 Tampines Street 86  528446, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Central Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "7z71qp",
+    "objectId": "24569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Tampines Street 73  528823, Changi / Pasir Ris (D17-18)",
+    "displayText": "Pinevale",
+    "displayType": "Condominium",
+    "nanoId": "wwr30e",
+    "objectId": "327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "729 Tampines Street 71  520729, Changi / Pasir Ris (D17-18)",
+    "displayText": "729 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "0itge9",
+    "objectId": "11058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Tampines Street 11  521101, Changi / Pasir Ris (D17-18)",
+    "displayText": "101 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "kx3hcu",
+    "objectId": "10628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Tampines Street 11  521102, Changi / Pasir Ris (D17-18)",
+    "displayText": "102 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "2qc55u",
+    "objectId": "10629",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Tampines Street 11  520103, Changi / Pasir Ris (D17-18)",
+    "displayText": "103 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "w4d9v7",
+    "objectId": "10630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Tampines Street 11  520104, Changi / Pasir Ris (D17-18)",
+    "displayText": "104 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "xfpfsh",
+    "objectId": "10631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Tampines Street 11  521105, Changi / Pasir Ris (D17-18)",
+    "displayText": "105 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "cpyd5f",
+    "objectId": "10632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Tampines Street 11  521106, Changi / Pasir Ris (D17-18)",
+    "displayText": "106 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "z8j8n3",
+    "objectId": "10633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Tampines Street 11  521107, Changi / Pasir Ris (D17-18)",
+    "displayText": "107 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "qrccwq",
+    "objectId": "10634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Tampines Street 11  521108, Changi / Pasir Ris (D17-18)",
+    "displayText": "108 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "wgbclb",
+    "objectId": "10635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Tampines Street 11  521109, Changi / Pasir Ris (D17-18)",
+    "displayText": "109 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "ipof3g",
+    "objectId": "10636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Tampines Street 11  521110, Changi / Pasir Ris (D17-18)",
+    "displayText": "110 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "9yzgwq",
+    "objectId": "10637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Tampines Street 11  521111, Changi / Pasir Ris (D17-18)",
+    "displayText": "111 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "7lrb4z",
+    "objectId": "10638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Tampines Street 11  521112, Changi / Pasir Ris (D17-18)",
+    "displayText": "112 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "2gaa3s",
+    "objectId": "10639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Tampines Street 11  521113, Changi / Pasir Ris (D17-18)",
+    "displayText": "113 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "1eu58c",
+    "objectId": "10640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Tampines Street 11  521114, Changi / Pasir Ris (D17-18)",
+    "displayText": "114 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "0s1pq5",
+    "objectId": "10641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Tampines Street 11  521119, Changi / Pasir Ris (D17-18)",
+    "displayText": "119 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "yktv8n",
+    "objectId": "10642",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Tampines Street 11  521120, Changi / Pasir Ris (D17-18)",
+    "displayText": "120 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "3ul8th",
+    "objectId": "10643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Tampines Street 11  521122, Changi / Pasir Ris (D17-18)",
+    "displayText": "122 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "3fciv0",
+    "objectId": "10645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Tampines Street 11  521124, Changi / Pasir Ris (D17-18)",
+    "displayText": "124 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "y0dcwa",
+    "objectId": "10647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Tampines Street 11  521125, Changi / Pasir Ris (D17-18)",
+    "displayText": "125 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "hydk1g",
+    "objectId": "10648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Tampines Street 11  521126, Changi / Pasir Ris (D17-18)",
+    "displayText": "126 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "xqvfdb",
+    "objectId": "10649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Tampines Street 11  521127, Changi / Pasir Ris (D17-18)",
+    "displayText": "127 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "eb7kcp",
+    "objectId": "10650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Tampines Street 11  521128, Changi / Pasir Ris (D17-18)",
+    "displayText": "128 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "rytf88",
+    "objectId": "10651",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Tampines Street 11  521129, Changi / Pasir Ris (D17-18)",
+    "displayText": "129 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "ho67bv",
+    "objectId": "10652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Tampines Street 11  521130, Changi / Pasir Ris (D17-18)",
+    "displayText": "130 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "24b6nl",
+    "objectId": "10653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Tampines Street 11  521132, Changi / Pasir Ris (D17-18)",
+    "displayText": "132 Tampines Street 11",
+    "displayType": "HDB",
+    "nanoId": "50pf09",
+    "objectId": "10655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

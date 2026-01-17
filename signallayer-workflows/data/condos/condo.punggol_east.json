@@ -1,0 +1,1517 @@
+[
+  {
+    "displayText": "Punggol East",
+    "displayType": "Street",
+    "objectId": "6369",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Punggol  East",
+    "displayType": "Street",
+    "objectId": "5126",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "658C Punggol East  823658, Serangoon / Thomson (D19-20)",
+    "displayText": "658C Punggol East",
+    "displayType": "HDB",
+    "nanoId": "sot1qk",
+    "objectId": "23646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "658A Punggol East  821658, Serangoon / Thomson (D19-20)",
+    "displayText": "658A Punggol East",
+    "displayType": "HDB",
+    "nanoId": "rkcxxl",
+    "objectId": "25345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "658 Punggol East  820658, Serangoon / Thomson (D19-20)",
+    "displayText": "658 Punggol East",
+    "displayType": "HDB",
+    "nanoId": "se068w",
+    "objectId": "25386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "658B Punggol East  822658, Serangoon / Thomson (D19-20)",
+    "displayText": "658B Punggol East",
+    "displayType": "HDB",
+    "nanoId": "czaj0s",
+    "objectId": "25387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659A Punggol East  821659, Serangoon / Thomson (D19-20)",
+    "displayText": "659A Punggol East",
+    "displayType": "HDB",
+    "nanoId": "0v6g5e",
+    "objectId": "25388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659B Punggol East  822659, Serangoon / Thomson (D19-20)",
+    "displayText": "659B Punggol East",
+    "displayType": "HDB",
+    "nanoId": "que4fz",
+    "objectId": "25389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659C Punggol East  823659, Serangoon / Thomson (D19-20)",
+    "displayText": "659C Punggol East",
+    "displayType": "HDB",
+    "nanoId": "w00ugx",
+    "objectId": "25390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659D Punggol East  824659, Serangoon / Thomson (D19-20)",
+    "displayText": "659D Punggol East",
+    "displayType": "HDB",
+    "nanoId": "tapshh",
+    "objectId": "25391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "655C Punggol East  823655, Serangoon / Thomson (D19-20)",
+    "displayText": "655C Punggol East",
+    "displayType": "HDB",
+    "nanoId": "hgspvf",
+    "objectId": "25689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "657A Punggol East  821657, Serangoon / Thomson (D19-20)",
+    "displayText": "657A Punggol East",
+    "displayType": "HDB",
+    "nanoId": "pcegvj",
+    "objectId": "25690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "656B Punggol East  822656, Serangoon / Thomson (D19-20)",
+    "displayText": "656B Punggol East",
+    "displayType": "HDB",
+    "nanoId": "swceco",
+    "objectId": "25715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "656C Punggol East  823656, Serangoon / Thomson (D19-20)",
+    "displayText": "656C Punggol East",
+    "displayType": "HDB",
+    "nanoId": "blb8xw",
+    "objectId": "25776",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167 Punggol East  820167, Serangoon / Thomson (D19-20)",
+    "displayText": "167 Punggol East",
+    "displayType": "HDB",
+    "nanoId": "tmn7pk",
+    "objectId": "9418",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167A Punggol East  821167, Serangoon / Thomson (D19-20)",
+    "displayText": "167A Punggol East",
+    "displayType": "HDB",
+    "nanoId": "wy0s07",
+    "objectId": "9419",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167B Punggol East  822167, Serangoon / Thomson (D19-20)",
+    "displayText": "167B Punggol East",
+    "displayType": "HDB",
+    "nanoId": "n1coff",
+    "objectId": "9420",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167C Punggol East  823167, Serangoon / Thomson (D19-20)",
+    "displayText": "167C Punggol East",
+    "displayType": "HDB",
+    "nanoId": "0ws8ra",
+    "objectId": "9421",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167D Punggol East  824167, Serangoon / Thomson (D19-20)",
+    "displayText": "167D Punggol East",
+    "displayType": "HDB",
+    "nanoId": "f448zf",
+    "objectId": "9422",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168A Punggol East  821168, Serangoon / Thomson (D19-20)",
+    "displayText": "168A Punggol East",
+    "displayType": "HDB",
+    "nanoId": "0youny",
+    "objectId": "9423",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168B Punggol East  822168, Serangoon / Thomson (D19-20)",
+    "displayText": "168B Punggol East",
+    "displayType": "HDB",
+    "nanoId": "s99sgb",
+    "objectId": "9424",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "655B Punggol East  822655, Serangoon / Thomson (D19-20)",
+    "displayText": "655B Punggol East",
+    "displayType": "HDB",
+    "nanoId": "pbh8mi",
+    "objectId": "26010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D19",
+    "displayText": "D19 Hougang / Punggol / Sengkang",
+    "displayType": "District",
+    "objectId": "D19",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D19"
+    }
+  },
+  {
+    "displayText": "Punggol",
+    "displayType": "HDB Estate",
+    "objectId": "19",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "69 Punggol Central  828754, Serangoon / Thomson (D19-20)",
+    "displayText": "Watertown",
+    "displayType": "Condominium",
+    "nanoId": "pxufcb",
+    "objectId": "21150",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "58 Punggol Walk  828779, Serangoon / Thomson (D19-20)",
+    "displayText": "A Treasure Trove",
+    "displayType": "Condominium",
+    "nanoId": "l91iw2",
+    "objectId": "20765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Punggol Field  822810, Serangoon / Thomson (D19-20)",
+    "displayText": "Prive",
+    "displayType": "Executive Condominium",
+    "nanoId": "6r0vq7",
+    "objectId": "20580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "82 Punggol Central  828763, Serangoon / Thomson (D19-20)",
+    "displayText": "Twin Waterfalls",
+    "displayType": "Executive Condominium",
+    "nanoId": "uwwu97",
+    "objectId": "21140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Punggol Central  828719, Serangoon / Thomson (D19-20)",
+    "displayText": "Parc Centros",
+    "displayType": "Condominium",
+    "nanoId": "25lym7",
+    "objectId": "21295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Punggol Central  820000, Serangoon / Thomson (D19-20)",
+    "displayText": "River Isles",
+    "displayType": "Condominium",
+    "nanoId": "094ce2",
+    "objectId": "21242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Punggol Walk  822000, Serangoon / Thomson (D19-20)",
+    "displayText": "Ecopolitan",
+    "displayType": "Executive Condominium",
+    "nanoId": "ubdvsq",
+    "objectId": "21666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Punggol Drive  828794, Serangoon / Thomson (D19-20)",
+    "displayText": "Riverparc Residence",
+    "displayType": "Executive Condominium",
+    "nanoId": "nh5793",
+    "objectId": "20729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Punggol Field Walk  820000, Serangoon / Thomson (D19-20)",
+    "displayText": "Waterwoods",
+    "displayType": "Executive Condominium",
+    "nanoId": "lehltg",
+    "objectId": "21713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Punggol Field Walk  820000, Serangoon / Thomson (D19-20)",
+    "displayText": "FLO Residence",
+    "displayType": "Condominium",
+    "nanoId": "8pcfh6",
+    "objectId": "21232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "308A Punggol Walk  821308, Serangoon / Thomson (D19-20)",
+    "displayText": "308A Punggol Walk",
+    "displayType": "HDB",
+    "nanoId": "bug1cp",
+    "objectId": "22335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308B Punggol Walk  822308, Serangoon / Thomson (D19-20)",
+    "displayText": "308B Punggol Walk",
+    "displayType": "HDB",
+    "nanoId": "7v5wk9",
+    "objectId": "22336",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Punggol Field",
+    "displayType": "Street",
+    "objectId": "4197",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Punggol Central",
+    "displayType": "Street",
+    "objectId": "4292",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Punggol Drive",
+    "displayType": "Street",
+    "objectId": "4855",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "273B Punggol Place  822273, Serangoon / Thomson (D19-20)",
+    "displayText": "273B Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "625tym",
+    "objectId": "21423",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305A Punggol Road  821305, Serangoon / Thomson (D19-20)",
+    "displayText": "305A Punggol Road",
+    "displayType": "HDB",
+    "nanoId": "5kazk2",
+    "objectId": "21446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271C Punggol Walk  823271, Serangoon / Thomson (D19-20)",
+    "displayText": "271C Punggol Walk",
+    "displayType": "HDB",
+    "nanoId": "gyu0t6",
+    "objectId": "21720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170A Punggol Field  821170, Serangoon / Thomson (D19-20)",
+    "displayText": "170A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "8yg3kf",
+    "objectId": "21800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664A Punggol Drive  821664, Serangoon / Thomson (D19-20)",
+    "displayText": "664A Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "jnt9qs",
+    "objectId": "22326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310A Punggol Walk  821310, Serangoon / Thomson (D19-20)",
+    "displayText": "310A Punggol Walk",
+    "displayType": "HDB",
+    "nanoId": "2xuanj",
+    "objectId": "22334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308C Punggol Walk  823308, Serangoon / Thomson (D19-20)",
+    "displayText": "308C Punggol Walk",
+    "displayType": "HDB",
+    "nanoId": "w89hv1",
+    "objectId": "22337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310B Punggol Walk  822310, Serangoon / Thomson (D19-20)",
+    "displayText": "310B Punggol Walk",
+    "displayType": "HDB",
+    "nanoId": "qpyqq8",
+    "objectId": "22340",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310C Punggol Walk  823310, Serangoon / Thomson (D19-20)",
+    "displayText": "310C Punggol Walk",
+    "displayType": "HDB",
+    "nanoId": "40rhpv",
+    "objectId": "22341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "677C Punggol Drive  823677, Serangoon / Thomson (D19-20)",
+    "displayText": "677C Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "pud5uo",
+    "objectId": "22376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "677D Punggol Drive  824677, Serangoon / Thomson (D19-20)",
+    "displayText": "677D Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "rds7ro",
+    "objectId": "22377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306C Punggol Place  823306, Serangoon / Thomson (D19-20)",
+    "displayText": "306C Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "78lnbm",
+    "objectId": "22607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "270B Punggol Field  822270, Serangoon / Thomson (D19-20)",
+    "displayText": "270B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "82kfui",
+    "objectId": "22682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "315B Punggol Way  822315, Serangoon / Thomson (D19-20)",
+    "displayText": "315B Punggol Way",
+    "displayType": "HDB",
+    "nanoId": "v46jhd",
+    "objectId": "22938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Punggol Place",
+    "displayType": "Street",
+    "objectId": "7876",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "302D Punggol Place  824302, Serangoon / Thomson (D19-20)",
+    "displayText": "302D Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "toqaqh",
+    "objectId": "13024",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Punggol 17th Avenue  829000, Serangoon / Thomson (D19-20)",
+    "displayText": "Whiteshores",
+    "displayType": "Cluster House",
+    "nanoId": "0pi9nn",
+    "objectId": "1626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "301D Punggol Place  824301, Serangoon / Thomson (D19-20)",
+    "displayText": "301D Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "6b5c4q",
+    "objectId": "20540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613B Punggol Drive  822613, Serangoon / Thomson (D19-20)",
+    "displayText": "613B Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "4xipg3",
+    "objectId": "20745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267A Punggol Field  821267, Serangoon / Thomson (D19-20)",
+    "displayText": "267A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "q7iawv",
+    "objectId": "21230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613A Punggol Drive  821613, Serangoon / Thomson (D19-20)",
+    "displayText": "613A Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "hsmagx",
+    "objectId": "21261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619A Punggol Drive  821619, Serangoon / Thomson (D19-20)",
+    "displayText": "619A Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "fr91x1",
+    "objectId": "21304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "602B Punggol Central  822602, Serangoon / Thomson (D19-20)",
+    "displayText": "602B Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "7pmuce",
+    "objectId": "21306",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "612B Punggol Drive  822612, Serangoon / Thomson (D19-20)",
+    "displayText": "612B Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "zu9e3m",
+    "objectId": "21333",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "603C Punggol Road  823603, Serangoon / Thomson (D19-20)",
+    "displayText": "603C Punggol Road",
+    "displayType": "HDB",
+    "nanoId": "xxve93",
+    "objectId": "21345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "601C Punggol Central  823601, Serangoon / Thomson (D19-20)",
+    "displayText": "601C Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "sk7fjl",
+    "objectId": "21354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302C Punggol Place  823302, Serangoon / Thomson (D19-20)",
+    "displayText": "302C Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "uf5n4a",
+    "objectId": "21369",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "617A Punggol Drive  821617, Serangoon / Thomson (D19-20)",
+    "displayText": "617A Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "q8qdnl",
+    "objectId": "21411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "617B Punggol Drive  822617, Serangoon / Thomson (D19-20)",
+    "displayText": "617B Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "jir5nc",
+    "objectId": "21412",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "617C Punggol Drive  823617, Serangoon / Thomson (D19-20)",
+    "displayText": "617C Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "02xx4z",
+    "objectId": "21413",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "617D Punggol Drive  824617, Serangoon / Thomson (D19-20)",
+    "displayText": "617D Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "h5n652",
+    "objectId": "21414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618A Punggol Drive  821618, Serangoon / Thomson (D19-20)",
+    "displayText": "618A Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "4dsoj0",
+    "objectId": "21415",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618B Punggol Drive  822618, Serangoon / Thomson (D19-20)",
+    "displayText": "618B Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "jn7xaq",
+    "objectId": "21416",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618C Punggol Drive  823618, Serangoon / Thomson (D19-20)",
+    "displayText": "618C Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "oy66gt",
+    "objectId": "21417",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618D Punggol Drive  824618, Serangoon / Thomson (D19-20)",
+    "displayText": "618D Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "bztlfa",
+    "objectId": "21418",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619B Punggol Drive  822619, Serangoon / Thomson (D19-20)",
+    "displayText": "619B Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "drhbco",
+    "objectId": "21419",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619C Punggol Drive  823619, Serangoon / Thomson (D19-20)",
+    "displayText": "619C Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "4kw66u",
+    "objectId": "21420",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619D Punggol Drive  824619, Serangoon / Thomson (D19-20)",
+    "displayText": "619D Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "dq0rb9",
+    "objectId": "21421",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "616A Punggol Drive  821616, Serangoon / Thomson (D19-20)",
+    "displayText": "616A Punggol Drive",
+    "displayType": "HDB",
+    "nanoId": "krhiz0",
+    "objectId": "21422",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "273C Punggol Place  823273, Serangoon / Thomson (D19-20)",
+    "displayText": "273C Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "86ikgp",
+    "objectId": "21424",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "273D Punggol Place  824273, Serangoon / Thomson (D19-20)",
+    "displayText": "273D Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "fmy43p",
+    "objectId": "21425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274A Punggol Place  821274, Serangoon / Thomson (D19-20)",
+    "displayText": "274A Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "h084f4",
+    "objectId": "21426",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274B Punggol Place  822274, Serangoon / Thomson (D19-20)",
+    "displayText": "274B Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "88exqz",
+    "objectId": "21427",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274C Punggol Place  823274, Serangoon / Thomson (D19-20)",
+    "displayText": "274C Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "1fcrhh",
+    "objectId": "21428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274D Punggol Place  824274, Serangoon / Thomson (D19-20)",
+    "displayText": "274D Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "1phc6n",
+    "objectId": "21429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275 Punggol Place  820275, Serangoon / Thomson (D19-20)",
+    "displayText": "275 Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "vs5941",
+    "objectId": "21430",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305B Punggol Road  822305, Serangoon / Thomson (D19-20)",
+    "displayText": "305B Punggol Road",
+    "displayType": "HDB",
+    "nanoId": "vjmw06",
+    "objectId": "21447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306B Punggol Place  822306, Serangoon / Thomson (D19-20)",
+    "displayText": "306B Punggol Place",
+    "displayType": "HDB",
+    "nanoId": "fo124k",
+    "objectId": "21450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267C Punggol Field  823267, Serangoon / Thomson (D19-20)",
+    "displayText": "267C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "t31ivx",
+    "objectId": "21486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301A Punggol Central  821301, Serangoon / Thomson (D19-20)",
+    "displayText": "301A Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "ywbimz",
+    "objectId": "21611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622 Punggol Central  820622, Serangoon / Thomson (D19-20)",
+    "displayText": "622 Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "6gy0kj",
+    "objectId": "21652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622A Punggol Central  821622, Serangoon / Thomson (D19-20)",
+    "displayText": "622A Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "8uaeoe",
+    "objectId": "21653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622B Punggol Central  822622, Serangoon / Thomson (D19-20)",
+    "displayText": "622B Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "3sinxi",
+    "objectId": "21654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622C Punggol Central  823622, Serangoon / Thomson (D19-20)",
+    "displayText": "622C Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "jegt56",
+    "objectId": "21655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622D Punggol Central  824622, Serangoon / Thomson (D19-20)",
+    "displayText": "622D Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "tecx5q",
+    "objectId": "21656",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "623A Punggol Central  821623, Serangoon / Thomson (D19-20)",
+    "displayText": "623A Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "136828",
+    "objectId": "21658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "623B Punggol Central  822623, Serangoon / Thomson (D19-20)",
+    "displayText": "623B Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "qzecih",
+    "objectId": "21659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "623C Punggol Central  823623, Serangoon / Thomson (D19-20)",
+    "displayText": "623C Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "d8eqb8",
+    "objectId": "21660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "624A Punggol Central  821624, Serangoon / Thomson (D19-20)",
+    "displayText": "624A Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "d7a00v",
+    "objectId": "21661",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "624B Punggol Central  822624, Serangoon / Thomson (D19-20)",
+    "displayText": "624B Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "kjpd2v",
+    "objectId": "21662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "624C Punggol Central  823624, Serangoon / Thomson (D19-20)",
+    "displayText": "624C Punggol Central",
+    "displayType": "HDB",
+    "nanoId": "ux2sxl",
+    "objectId": "21663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

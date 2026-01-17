@@ -1,0 +1,1525 @@
+[
+  {
+    "displayText": "Pasir Ris Drive 3",
+    "displayType": "Street",
+    "objectId": "2611",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "31 Pasir Ris Drive 3  519491, Changi / Pasir Ris (D17-18)",
+    "displayText": "Eastvale",
+    "displayType": "Condominium",
+    "nanoId": "vqlrl8",
+    "objectId": "343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Tampines North Drive 3  528499, Changi / Pasir Ris (D17-18)",
+    "displayText": "1 Tampines North Drive 3",
+    "displayType": "HDB",
+    "nanoId": "cba3gu",
+    "objectId": "25740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "626 Pasir Ris Drive 3  510626, Changi / Pasir Ris (D17-18)",
+    "displayText": "626 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "n8se6a",
+    "objectId": "8805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "627 Pasir Ris Drive 3  510627, Changi / Pasir Ris (D17-18)",
+    "displayText": "627 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "xtplc6",
+    "objectId": "8806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "628 Pasir Ris Drive 3  510628, Changi / Pasir Ris (D17-18)",
+    "displayText": "628 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "m2v5rw",
+    "objectId": "8807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629 Pasir Ris Drive 3  510629, Changi / Pasir Ris (D17-18)",
+    "displayText": "629 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "wl6vf3",
+    "objectId": "8808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630 Pasir Ris Drive 3  510630, Changi / Pasir Ris (D17-18)",
+    "displayText": "630 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "rhosbi",
+    "objectId": "8809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "631 Pasir Ris Drive 3  510631, Changi / Pasir Ris (D17-18)",
+    "displayText": "631 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "16ag9l",
+    "objectId": "8810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "632 Pasir Ris Drive 3  510632, Changi / Pasir Ris (D17-18)",
+    "displayText": "632 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "cwtwq2",
+    "objectId": "8811",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633 Pasir Ris Drive 3  510633, Changi / Pasir Ris (D17-18)",
+    "displayText": "633 Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "m46ur1",
+    "objectId": "8812",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "631A Pasir Ris Drive 3  511631, Changi / Pasir Ris (D17-18)",
+    "displayText": "631A Pasir Ris Drive 3",
+    "displayType": "HDB",
+    "nanoId": "9js9nb",
+    "objectId": "8813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Flora Drive  509904, Changi / Pasir Ris (D17-18)",
+    "displayText": "Kassia",
+    "displayType": "Condominium",
+    "nanoId": "q5b2eb",
+    "objectId": "25809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Pasir Ris Drive 1",
+    "displayType": "Street",
+    "objectId": "2607",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pasir Ris Drive 2",
+    "displayType": "Street",
+    "objectId": "2610",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pasir Ris Drive 6",
+    "displayType": "Street",
+    "objectId": "2613",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pasir Ris Drive 8",
+    "displayType": "Street",
+    "objectId": "2614",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pasir Ris Drive 12",
+    "displayType": "Street",
+    "objectId": "2609",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "25 Simei Street 3  529899, Changi / Pasir Ris (D17-18)",
+    "displayText": "My Manhattan",
+    "displayType": "Condominium",
+    "nanoId": "zhru9v",
+    "objectId": "20609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Simei Street 3  529890, Changi / Pasir Ris (D17-18)",
+    "displayText": "Eastpoint Green",
+    "displayType": "Condominium",
+    "nanoId": "mcnr3t",
+    "objectId": "212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "248 Simei Street 3  520248, Changi / Pasir Ris (D17-18)",
+    "displayText": "248 Simei Street 3",
+    "displayType": "HDB",
+    "nanoId": "nttf37",
+    "objectId": "10348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Changi Village Road  500003, Changi / Pasir Ris (D17-18)",
+    "displayText": "3 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "ea2ea8",
+    "objectId": "4783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "1 Pasir Ris Central Street 3",
+    "displayType": "Street",
+    "objectId": "24844",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "56 Flora Drive  506856, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Olympia",
+    "displayType": "Condominium",
+    "nanoId": "6u1zmx",
+    "objectId": "21302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Flora Drive  506941, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ferraria Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "utkpou",
+    "objectId": "1277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Flora Drive  506760, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Jovell",
+    "displayType": "Condominium",
+    "nanoId": "5xtzu9",
+    "objectId": "23508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Drive  507025, Changi / Pasir Ris (D17-18)",
+    "displayText": "Carissa Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cni6fm",
+    "objectId": "452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "71 Flora Drive  506881, Changi / Pasir Ris (D17-18)",
+    "displayText": "Hedges Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "42acye",
+    "objectId": "20652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 Pasir Ris Drive 1  519530, Changi / Pasir Ris (D17-18)",
+    "displayText": "Belysa",
+    "displayType": "Executive Condominium",
+    "nanoId": "fmtdzl",
+    "objectId": "20704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "40 Flora Drive  506866, Changi / Pasir Ris (D17-18)",
+    "displayText": "Palm Isles",
+    "displayType": "Condominium",
+    "nanoId": "b39cdr",
+    "objectId": "21195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "59 Flora Drive  506846, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Inflora",
+    "displayType": "Condominium",
+    "nanoId": "3hkiid",
+    "objectId": "21789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Pasir Ris Drive 8  519467, Changi / Pasir Ris (D17-18)",
+    "displayText": "Pasir Ris 8",
+    "displayType": "Apartment",
+    "nanoId": "1v0kur",
+    "objectId": "24626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Pasir Ris Drive 4  519459, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Esparis",
+    "displayType": "Condominium",
+    "nanoId": "h1kjjz",
+    "objectId": "872",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Flora Drive  507009, Changi / Pasir Ris (D17-18)",
+    "displayText": "Dahlia Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "h4aycj",
+    "objectId": "660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "610C Tampines North Drive 1  523610, Changi / Pasir Ris (D17-18)",
+    "displayText": "610C Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "eiu52l",
+    "objectId": "23886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Toh Drive  507000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Toh Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "e0skjz",
+    "objectId": "21085",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "610A Tampines North Drive 1  521610, Changi / Pasir Ris (D17-18)",
+    "displayText": "610A Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "0h0ff2",
+    "objectId": "23884",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "610B Tampines North Drive 1  522610, Changi / Pasir Ris (D17-18)",
+    "displayText": "610B Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "aabxqw",
+    "objectId": "23885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530D Pasir Ris Drive 1  514530, Changi / Pasir Ris (D17-18)",
+    "displayText": "530D Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "wo5dh8",
+    "objectId": "21454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Toh Drive  507875, Changi / Pasir Ris (D17-18)",
+    "displayText": "Victory Ville",
+    "displayType": "Cluster House",
+    "nanoId": "wtbltj",
+    "objectId": "21924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "530A Pasir Ris Drive 1  511530, Changi / Pasir Ris (D17-18)",
+    "displayText": "530A Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "4can3x",
+    "objectId": "23285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530B Pasir Ris Drive 1  512530, Changi / Pasir Ris (D17-18)",
+    "displayText": "530B Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "6t1kej",
+    "objectId": "23286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530C Pasir Ris Drive 1  513530, Changi / Pasir Ris (D17-18)",
+    "displayText": "530C Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "wzha0c",
+    "objectId": "23287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "529 Pasir Ris Drive 1  510529, Changi / Pasir Ris (D17-18)",
+    "displayText": "529 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "92wjlz",
+    "objectId": "23288",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608A Tampines North Drive 1  521608, Changi / Pasir Ris (D17-18)",
+    "displayText": "608A Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "nlpsam",
+    "objectId": "23865",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608B Tampines North Drive 1  522608, Changi / Pasir Ris (D17-18)",
+    "displayText": "608B Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "ahcnvg",
+    "objectId": "23866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608C Tampines North Drive 1  523608, Changi / Pasir Ris (D17-18)",
+    "displayText": "608C Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "qzjano",
+    "objectId": "23867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609A Tampines North Drive 1  521609, Changi / Pasir Ris (D17-18)",
+    "displayText": "609A Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "p5u0em",
+    "objectId": "23880",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609B Tampines North Drive 1  522609, Changi / Pasir Ris (D17-18)",
+    "displayText": "609B Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "mp654x",
+    "objectId": "23881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609C Tampines North Drive 1  523609, Changi / Pasir Ris (D17-18)",
+    "displayText": "609C Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "6be2yp",
+    "objectId": "23882",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609D Tampines North Drive 1  524609, Changi / Pasir Ris (D17-18)",
+    "displayText": "609D Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "1g46r0",
+    "objectId": "23883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613A Tampines North Drive 1  521613, Changi / Pasir Ris (D17-18)",
+    "displayText": "613A Tampines North Drive 1",
+    "displayType": "HDB",
+    "nanoId": "xvmjkr",
+    "objectId": "24638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629A Tampines North Drive 2  521633, Changi / Pasir Ris (D17-18)",
+    "displayText": "629A Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "om17vp",
+    "objectId": "25502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630B Tampines North Drive 2  522630, Changi / Pasir Ris (D17-18)",
+    "displayText": "630B Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "fxc1r7",
+    "objectId": "25539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634C Tampines North Drive 2  523634, Changi / Pasir Ris (D17-18)",
+    "displayText": "634C Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "lc1hga",
+    "objectId": "25618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635C Tampines North Drive 2  523635, Changi / Pasir Ris (D17-18)",
+    "displayText": "635C Tampines North Drive 2",
+    "displayType": "HDB",
+    "nanoId": "l2dt5w",
+    "objectId": "25788",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "531 Pasir Ris Drive 1  510531, Changi / Pasir Ris (D17-18)",
+    "displayText": "531 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "ej7lyl",
+    "objectId": "8763",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "532 Pasir Ris Drive 1  510532, Changi / Pasir Ris (D17-18)",
+    "displayText": "532 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "9wdpos",
+    "objectId": "8764",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533 Pasir Ris Drive 1  510533, Changi / Pasir Ris (D17-18)",
+    "displayText": "533 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "4toc2h",
+    "objectId": "8765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "534 Pasir Ris Drive 1  510534, Changi / Pasir Ris (D17-18)",
+    "displayText": "534 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "wndzux",
+    "objectId": "8766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "535 Pasir Ris Drive 1  510535, Changi / Pasir Ris (D17-18)",
+    "displayText": "535 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "k4bjaz",
+    "objectId": "8767",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "536 Pasir Ris Drive 1  510536, Changi / Pasir Ris (D17-18)",
+    "displayText": "536 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "1layg0",
+    "objectId": "8768",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634 Pasir Ris Drive 1  510634, Changi / Pasir Ris (D17-18)",
+    "displayText": "634 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "5vctzy",
+    "objectId": "8769",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635 Pasir Ris Drive 1  510635, Changi / Pasir Ris (D17-18)",
+    "displayText": "635 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "u8ohcs",
+    "objectId": "8770",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636 Pasir Ris Drive 1  510636, Changi / Pasir Ris (D17-18)",
+    "displayText": "636 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "7hww5j",
+    "objectId": "8771",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "637 Pasir Ris Drive 1  510637, Changi / Pasir Ris (D17-18)",
+    "displayText": "637 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "s1wuqf",
+    "objectId": "8772",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "638 Pasir Ris Drive 1  510638, Changi / Pasir Ris (D17-18)",
+    "displayText": "638 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "7gd6jm",
+    "objectId": "8773",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "639 Pasir Ris Drive 1  510639, Changi / Pasir Ris (D17-18)",
+    "displayText": "639 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "iwaop0",
+    "objectId": "8774",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "640 Pasir Ris Drive 1  510640, Changi / Pasir Ris (D17-18)",
+    "displayText": "640 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "ckch00",
+    "objectId": "8775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "641 Pasir Ris Drive 1  510641, Changi / Pasir Ris (D17-18)",
+    "displayText": "641 Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "cwsmvg",
+    "objectId": "8776",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635A Pasir Ris Drive 1  511635, Changi / Pasir Ris (D17-18)",
+    "displayText": "635A Pasir Ris Drive 1",
+    "displayType": "HDB",
+    "nanoId": "ciofxl",
+    "objectId": "8777",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "642 Pasir Ris Drive 10  510642, Changi / Pasir Ris (D17-18)",
+    "displayText": "642 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "fnh87v",
+    "objectId": "8778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "643 Pasir Ris Drive 10  510643, Changi / Pasir Ris (D17-18)",
+    "displayText": "643 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "7rvqo9",
+    "objectId": "8779",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "644 Pasir Ris Drive 10  510644, Changi / Pasir Ris (D17-18)",
+    "displayText": "644 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "4mwhhq",
+    "objectId": "8780",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "645 Pasir Ris Drive 10  510645, Changi / Pasir Ris (D17-18)",
+    "displayText": "645 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "v0o6zk",
+    "objectId": "8781",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "646 Pasir Ris Drive 10  510646, Changi / Pasir Ris (D17-18)",
+    "displayText": "646 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "xrzn6z",
+    "objectId": "8782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "647 Pasir Ris Drive 10  510647, Changi / Pasir Ris (D17-18)",
+    "displayText": "647 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "vtupm6",
+    "objectId": "8783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "648 Pasir Ris Drive 10  510648, Changi / Pasir Ris (D17-18)",
+    "displayText": "648 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "tf4pt1",
+    "objectId": "8784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "649 Pasir Ris Drive 10  510649, Changi / Pasir Ris (D17-18)",
+    "displayText": "649 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "bju6qo",
+    "objectId": "8785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "650 Pasir Ris Drive 10  510650, Changi / Pasir Ris (D17-18)",
+    "displayText": "650 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "ou39r1",
+    "objectId": "8786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "651 Pasir Ris Drive 10  510651, Changi / Pasir Ris (D17-18)",
+    "displayText": "651 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "744vr2",
+    "objectId": "8787",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700 Pasir Ris Drive 10  510700, Changi / Pasir Ris (D17-18)",
+    "displayText": "700 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "qr2uof",
+    "objectId": "8788",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "701 Pasir Ris Drive 10  510701, Changi / Pasir Ris (D17-18)",
+    "displayText": "701 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "mb7zbb",
+    "objectId": "8789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "702 Pasir Ris Drive 10  510702, Changi / Pasir Ris (D17-18)",
+    "displayText": "702 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "gs5kca",
+    "objectId": "8790",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "703 Pasir Ris Drive 10  510703, Changi / Pasir Ris (D17-18)",
+    "displayText": "703 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "pu8lyd",
+    "objectId": "8791",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "704 Pasir Ris Drive 10  510704, Changi / Pasir Ris (D17-18)",
+    "displayText": "704 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "87fnhn",
+    "objectId": "8792",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "705 Pasir Ris Drive 10  510705, Changi / Pasir Ris (D17-18)",
+    "displayText": "705 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "ajht6c",
+    "objectId": "8793",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "706 Pasir Ris Drive 10  510706, Changi / Pasir Ris (D17-18)",
+    "displayText": "706 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "z74mrw",
+    "objectId": "8794",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "707 Pasir Ris Drive 10  510707, Changi / Pasir Ris (D17-18)",
+    "displayText": "707 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "16n1p0",
+    "objectId": "8795",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "708 Pasir Ris Drive 10  510708, Changi / Pasir Ris (D17-18)",
+    "displayText": "708 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "6vosv4",
+    "objectId": "8796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "709 Pasir Ris Drive 10  510709, Changi / Pasir Ris (D17-18)",
+    "displayText": "709 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "lgijw5",
+    "objectId": "8797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "736 Pasir Ris Drive 10  510736, Changi / Pasir Ris (D17-18)",
+    "displayText": "736 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "sxs0vh",
+    "objectId": "8798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "737 Pasir Ris Drive 10  510737, Changi / Pasir Ris (D17-18)",
+    "displayText": "737 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "abi4vk",
+    "objectId": "8799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "738 Pasir Ris Drive 10  510738, Changi / Pasir Ris (D17-18)",
+    "displayText": "738 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "at6v4y",
+    "objectId": "8800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "739 Pasir Ris Drive 10  510739, Changi / Pasir Ris (D17-18)",
+    "displayText": "739 Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "1xhsvm",
+    "objectId": "8801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "649A Pasir Ris Drive 10  511649, Changi / Pasir Ris (D17-18)",
+    "displayText": "649A Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "a2rka6",
+    "objectId": "8802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700A Pasir Ris Drive 10  511700, Changi / Pasir Ris (D17-18)",
+    "displayText": "700A Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "1dyq3c",
+    "objectId": "8803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "736A Pasir Ris Drive 10  511736, Changi / Pasir Ris (D17-18)",
+    "displayText": "736A Pasir Ris Drive 10",
+    "displayType": "HDB",
+    "nanoId": "7jxhur",
+    "objectId": "8804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "231 Pasir Ris Drive 4  510231, Changi / Pasir Ris (D17-18)",
+    "displayText": "231 Pasir Ris Drive 4",
+    "displayType": "HDB",
+    "nanoId": "9g7p03",
+    "objectId": "8814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "232 Pasir Ris Drive 4  510232, Changi / Pasir Ris (D17-18)",
+    "displayText": "232 Pasir Ris Drive 4",
+    "displayType": "HDB",
+    "nanoId": "2ute0u",
+    "objectId": "8815",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

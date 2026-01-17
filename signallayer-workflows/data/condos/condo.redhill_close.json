@@ -1,0 +1,1527 @@
+[
+  {
+    "displayText": "Redhill Close",
+    "displayType": "Street",
+    "objectId": "10306",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Redhill Close  151001, City & South West (D01-08)",
+    "displayText": "1 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "sgv6rc",
+    "objectId": "9534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Redhill Close  151006, City & South West (D01-08)",
+    "displayText": "6 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "7gbv49",
+    "objectId": "9538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Redhill Close  151002, City & South West (D01-08)",
+    "displayText": "2 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "uuwapb",
+    "objectId": "9535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Redhill Close  151003, City & South West (D01-08)",
+    "displayText": "3 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "7y90pr",
+    "objectId": "9536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Redhill Close  150005, City & South West (D01-08)",
+    "displayText": "5 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "fjrpyr",
+    "objectId": "9537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Redhill Close  151007, City & South West (D01-08)",
+    "displayText": "7 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "9cbl2q",
+    "objectId": "9539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Redhill Close  151008, City & South West (D01-08)",
+    "displayText": "8 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "x3lafc",
+    "objectId": "9540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Redhill Close  151009, City & South West (D01-08)",
+    "displayText": "9 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "0skky9",
+    "objectId": "9541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Redhill Close  151010, City & South West (D01-08)",
+    "displayText": "10 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "8tloxw",
+    "objectId": "9542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Redhill Close  151012, City & South West (D01-08)",
+    "displayText": "12 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "nyhc0t",
+    "objectId": "9544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Redhill Close  151013, City & South West (D01-08)",
+    "displayText": "13 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "b0034h",
+    "objectId": "9545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Redhill Close  151014, City & South West (D01-08)",
+    "displayText": "14 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "sbuu9r",
+    "objectId": "9546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Redhill Close  150016, City & South West (D01-08)",
+    "displayText": "16 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "7hten3",
+    "objectId": "9548",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Redhill Close  150021, City & South West (D01-08)",
+    "displayText": "21 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "4ead8c",
+    "objectId": "9553",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "68 Redhill Close  150068, City & South West (D01-08)",
+    "displayText": "68 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "n6x6m3",
+    "objectId": "9555",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "150004, City & South West (D01-08)",
+    "displayText": "69 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "wp9trz",
+    "objectId": "9556",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5",
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70 Redhill Close  150070, City & South West (D01-08)",
+    "displayText": "70 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "d2xipo",
+    "objectId": "9557",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86 Redhill Close  150086, City & South West (D01-08)",
+    "displayText": "86 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "s0qqod",
+    "objectId": "9558",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "87 Redhill Close  150087, City & South West (D01-08)",
+    "displayText": "87 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "9fenpz",
+    "objectId": "9559",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "88 Redhill Close  150088, City & South West (D01-08)",
+    "displayText": "88 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "r4qq6y",
+    "objectId": "9560",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "89 Redhill Close  150089, City & South West (D01-08)",
+    "displayText": "89 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "xlf0kq",
+    "objectId": "9561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "90 Redhill Close  150090, City & South West (D01-08)",
+    "displayText": "90 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "5pahfh",
+    "objectId": "9562",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70A Redhill Close  151070, City & South West (D01-08)",
+    "displayText": "70A Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "qhvzli",
+    "objectId": "9563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "88A Redhill Close  151088, City & South West (D01-08)",
+    "displayText": "88A Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "udg4qv",
+    "objectId": "9564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Redhill Close  151011, City & South West (D01-08)",
+    "displayText": "11 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "jrmp3u",
+    "objectId": "9543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Redhill Close  150015, City & South West (D01-08)",
+    "displayText": "15 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "q6jvpv",
+    "objectId": "9547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Redhill Close  150017, City & South West (D01-08)",
+    "displayText": "17 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "s9xc8q",
+    "objectId": "9549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Redhill Close  150018, City & South West (D01-08)",
+    "displayText": "18 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "m12t6n",
+    "objectId": "9550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Redhill Close  150019, City & South West (D01-08)",
+    "displayText": "19 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "rmuic8",
+    "objectId": "9551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Redhill Close  150020, City & South West (D01-08)",
+    "displayText": "20 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "k4jouf",
+    "objectId": "9552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Redhill Close  150022, City & South West (D01-08)",
+    "displayText": "22 Redhill Close",
+    "displayType": "HDB",
+    "nanoId": "9p4749",
+    "objectId": "9554",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Red Hill Close",
+    "displayType": "Street",
+    "objectId": "25438",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Redhill",
+    "displayType": "Street",
+    "objectId": "5821",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "78 Redhill Lane  150078, City & South West (D01-08)",
+    "displayText": "78 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "w064wj",
+    "objectId": "9565",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "79 Redhill Lane  150079, City & South West (D01-08)",
+    "displayText": "79 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "2hpkoh",
+    "objectId": "9566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Redhill Lane  150080, City & South West (D01-08)",
+    "displayText": "80 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "gxqt7d",
+    "objectId": "9567",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Redhill Lane  150081, City & South West (D01-08)",
+    "displayText": "81 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "tok8ha",
+    "objectId": "9568",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Redhill Lane  150082, City & South West (D01-08)",
+    "displayText": "82 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "nz6hg1",
+    "objectId": "9569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83 Redhill Lane  150083, City & South West (D01-08)",
+    "displayText": "83 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "bql79n",
+    "objectId": "9570",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Redhill Lane  150084, City & South West (D01-08)",
+    "displayText": "84 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "mdpgfu",
+    "objectId": "9571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "85 Redhill Lane  150085, City & South West (D01-08)",
+    "displayText": "85 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "skwwud",
+    "objectId": "9572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "71 Redhill Road  150071, City & South West (D01-08)",
+    "displayText": "71 Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "3wmm3s",
+    "objectId": "9573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Redhill Road  150072, City & South West (D01-08)",
+    "displayText": "72 Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "z7v8va",
+    "objectId": "9574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73 Redhill Road  150073, City & South West (D01-08)",
+    "displayText": "73 Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "z0xpq2",
+    "objectId": "9575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74 Redhill Road  150074, City & South West (D01-08)",
+    "displayText": "74 Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "tanmur",
+    "objectId": "9576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "76 Redhill Road  150076, City & South West (D01-08)",
+    "displayText": "76 Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "sn4pi5",
+    "objectId": "9577",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "77 Redhill Road  150077, City & South West (D01-08)",
+    "displayText": "77 Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "k7kdi8",
+    "objectId": "9578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73A Redhill Road  151073, City & South West (D01-08)",
+    "displayText": "73A Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "ftd0zc",
+    "objectId": "9579",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74A Redhill Road  151074, City & South West (D01-08)",
+    "displayText": "74A Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "n3nmmi",
+    "objectId": "9580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75A Redhill Road  151075, City & South West (D01-08)",
+    "displayText": "75A Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "kpq6av",
+    "objectId": "9581",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75B Redhill Road  152075, City & South West (D01-08)",
+    "displayText": "75B Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "abbaq3",
+    "objectId": "9582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75C Redhill Road  153075, City & South West (D01-08)",
+    "displayText": "75C Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "f6l0g7",
+    "objectId": "9583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75D Redhill Road  154075, City & South West (D01-08)",
+    "displayText": "75D Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "hyceae",
+    "objectId": "9584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "76A Redhill Road  151076, City & South West (D01-08)",
+    "displayText": "76A Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "buu4mt",
+    "objectId": "9585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "77A Redhill Road  151077, City & South West (D01-08)",
+    "displayText": "77A Redhill Road",
+    "displayType": "HDB",
+    "nanoId": "29b48a",
+    "objectId": "9586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Redhill Rise",
+    "displayType": "Street",
+    "objectId": "18551",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Redhill Lane",
+    "displayType": "Street",
+    "objectId": "2772",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Redhill Road",
+    "displayType": "Street",
+    "objectId": "2773",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Redhill Industrial Estate",
+    "displayType": "Street",
+    "objectId": "2774",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Yishun Close  768004, North (D25-28)",
+    "displayText": "Symphony Suites",
+    "displayType": "Condominium",
+    "nanoId": "yipkwy",
+    "objectId": "22047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Ridgewood Close  276693, Orchard / Holland (D09-10)",
+    "displayText": "The Trizon",
+    "displayType": "Condominium",
+    "nanoId": "klkrho",
+    "objectId": "1365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 River Valley Close  238432, Orchard / Holland (D09-10)",
+    "displayText": "The Avenir",
+    "displayType": "Condominium",
+    "nanoId": "a4x245",
+    "objectId": "23843",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "520 Miltonia Close  768104, North (D25-28)",
+    "displayText": "Miltonia Residences",
+    "displayType": "Condominium",
+    "nanoId": "qgtigx",
+    "objectId": "20678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Fernvale Close  797460, North (D25-28)",
+    "displayText": "RiverTrees Residences",
+    "displayType": "Condominium",
+    "nanoId": "bkynxw",
+    "objectId": "21852",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Woodleigh Close  357900, Balestier / Geylang (D12-14)",
+    "displayText": "8 @ Woodleigh",
+    "displayType": "Condominium",
+    "nanoId": "1nqp4z",
+    "objectId": "1524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ridgewood Close  276692, Orchard / Holland (D09-10)",
+    "displayText": "Ridgewood Condominium",
+    "displayType": "Condominium",
+    "nanoId": "4dh39z",
+    "objectId": "425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Woodleigh Close  357905, Balestier / Geylang (D12-14)",
+    "displayText": "Blossoms @ Woodleigh",
+    "displayType": "Condominium",
+    "nanoId": "zxgof1",
+    "objectId": "102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Jervois Close  249099, Orchard / Holland (D09-10)",
+    "displayText": "One Jervois",
+    "displayType": "Condominium",
+    "nanoId": "v4d1qz",
+    "objectId": "77",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 River Valley Close  238427, Orchard / Holland (D09-10)",
+    "displayText": "Urbana",
+    "displayType": "Condominium",
+    "nanoId": "27d3uj",
+    "objectId": "237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 River Valley Close  238437, Orchard / Holland (D09-10)",
+    "displayText": "Starlight Suites",
+    "displayType": "Condominium",
+    "nanoId": "k7lyzp",
+    "objectId": "2640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Miltonia Close  768187, North (D25-28)",
+    "displayText": "The Shaughnessy",
+    "displayType": "Terraced House",
+    "nanoId": "fx405g",
+    "objectId": "74",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "1 Zion Close  247811, Orchard / Holland (D09-10)",
+    "displayText": "Mill Point",
+    "displayType": "Apartment",
+    "nanoId": "pwor7k",
+    "objectId": "395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 River Valley Close  238428, Orchard / Holland (D09-10)",
+    "displayText": "The Regalia",
+    "displayType": "Apartment",
+    "nanoId": "ki91io",
+    "objectId": "515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Woodsville Close  357774, Balestier / Geylang (D12-14)",
+    "displayText": "Woodsville 28",
+    "displayType": "Condominium",
+    "nanoId": "qpmlf8",
+    "objectId": "1380",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Woodsville Close  357799, Balestier / Geylang (D12-14)",
+    "displayText": "18 Woodsville",
+    "displayType": "Condominium",
+    "nanoId": "zq3ws6",
+    "objectId": "21159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "45 Yishun Close  769294, North (D25-28)",
+    "displayText": "North Gaia",
+    "displayType": "Executive Condominium",
+    "nanoId": "4l8pb9",
+    "objectId": "25295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Woodleigh Close  357920, Balestier / Geylang (D12-14)",
+    "displayText": "Euro-Asia Park",
+    "displayType": "Condominium",
+    "nanoId": "t16eap",
+    "objectId": "793",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 River Valley Close  238429, Orchard / Holland (D09-10)",
+    "displayText": "Euro-Asia Court",
+    "displayType": "Apartment",
+    "nanoId": "af0fgl",
+    "objectId": "797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Kim Keat Close  328933, Balestier / Geylang (D12-14)",
+    "displayText": "Bliss Loft",
+    "displayType": "Condominium",
+    "nanoId": "2pju9k",
+    "objectId": "1660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Jervois Close  249114, Orchard / Holland (D09-10)",
+    "displayText": "Jervois Jade",
+    "displayType": "Apartment",
+    "nanoId": "zv1g04",
+    "objectId": "625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Woodleigh Close  357916, Balestier / Geylang (D12-14)",
+    "displayText": "Parc Mondrian",
+    "displayType": "Apartment",
+    "nanoId": "phxna7",
+    "objectId": "752",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Loyang Besar Close  509049, Changi / Pasir Ris (D17-18)",
+    "displayText": "Coastal Breeze Residences",
+    "displayType": "Condominium",
+    "nanoId": "60qlna",
+    "objectId": "1544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Jervois Close  249100, Orchard / Holland (D09-10)",
+    "displayText": "Jervois Mansion",
+    "displayType": "Condominium",
+    "nanoId": "44iqjf",
+    "objectId": "24699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Stevens Close  257940, Orchard / Holland (D09-10)",
+    "displayText": "Stevens Suites",
+    "displayType": "Condominium",
+    "nanoId": "3hy5vm",
+    "objectId": "2666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "271000, Orchard / Holland (D09-10)",
+    "displayText": "6 Holland Close",
+    "displayType": "HDB",
+    "nanoId": "dcidpv",
+    "objectId": "6304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20",
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Cantonment Close",
+    "displayType": "Street",
+    "objectId": "10386",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Loyang Besar Close  509000, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Watercrest",
+    "displayType": "Condominium",
+    "nanoId": "lltj4x",
+    "objectId": "1431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Pasir Panjang Close  118972, City & South West (D01-08)",
+    "displayText": "Pasir Panjang Court",
+    "displayType": "Apartment",
+    "nanoId": "z6opas",
+    "objectId": "1439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Woodsville Close  357769, Balestier / Geylang (D12-14)",
+    "displayText": "Leong Bee Court",
+    "displayType": "Condominium",
+    "nanoId": "2ldhyg",
+    "objectId": "1449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Woodsville Close  357768, Balestier / Geylang (D12-14)",
+    "displayText": "Woodsville Mansions",
+    "displayType": "Apartment",
+    "nanoId": "31cl2d",
+    "objectId": "1614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 River Valley Close  238434, Orchard / Holland (D09-10)",
+    "displayText": "Welkin Mansion",
+    "displayType": "Condominium",
+    "nanoId": "66971v",
+    "objectId": "1634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Steven’s Close  257939, Orchard / Holland (D09-10)",
+    "displayText": "Casa Uno",
+    "displayType": "Walk-up",
+    "nanoId": "qwu29d",
+    "objectId": "1706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Chuan Close  554000, Serangoon / Thomson (D19-20)",
+    "displayText": "Chuan Villas",
+    "displayType": "Terraced House",
+    "nanoId": "9mylnx",
+    "objectId": "1827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "30F - 30H Jervois Close  249012, Orchard / Holland (D09-10)",
+    "displayText": "Jervois Gardens",
+    "displayType": "Condominium",
+    "nanoId": "nij1kd",
+    "objectId": "2062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35E Cotswold Close  357704, Balestier / Geylang (D12-14)",
+    "displayText": "Cotswold villas",
+    "displayType": "Cluster House",
+    "nanoId": "csrk95",
+    "objectId": "20731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Chepstow Close  558691, Serangoon / Thomson (D19-20)",
+    "displayText": "Chepstow Ville",
+    "displayType": "Cluster House",
+    "nanoId": "qh8tai",
+    "objectId": "20852",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Tudor Close  297000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Tudor Ten",
+    "displayType": "Bungalow House",
+    "nanoId": "xj914g",
+    "objectId": "21089",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "LBUNG",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "11 Woodleigh Close  357906, Balestier / Geylang (D12-14)",
+    "displayText": "Woodleigh Grove",
+    "displayType": "Apartment",
+    "nanoId": "yjuh7g",
+    "objectId": "21104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Tudor Close  297000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Tudor Close",
+    "displayType": "Bungalow House",
+    "nanoId": "3hoxff",
+    "objectId": "21126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "LBUNG",
+      "propertyTypeGroup": "LANDED"
+    }
+  }
+]

@@ -1,0 +1,1524 @@
+[
+  {
+    "displayText": "Clarence Lane",
+    "displayType": "Street",
+    "objectId": "561",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "129 Clarence Lane  140129, City & South West (D01-08)",
+    "displayText": "129 Clarence Lane",
+    "displayType": "HDB",
+    "nanoId": "9s1fdr",
+    "objectId": "5290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Clarence Lane  140130, City & South West (D01-08)",
+    "displayText": "130 Clarence Lane",
+    "displayType": "HDB",
+    "nanoId": "y39emp",
+    "objectId": "5291",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Clarence Lane  140131, City & South West (D01-08)",
+    "displayText": "131 Clarence Lane",
+    "displayType": "HDB",
+    "nanoId": "jpap9i",
+    "objectId": "5292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Clarence Lane  140132, City & South West (D01-08)",
+    "displayText": "132 Clarence Lane",
+    "displayType": "HDB",
+    "nanoId": "ufgxtd",
+    "objectId": "5293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Clarence Lane  140133, City & South West (D01-08)",
+    "displayText": "133 Clarence Lane",
+    "displayType": "HDB",
+    "nanoId": "u38n6d",
+    "objectId": "5294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129A Clarence Lane  141129, City & South West (D01-08)",
+    "displayText": "129A Clarence Lane",
+    "displayType": "HDB",
+    "nanoId": "vs4n0y",
+    "objectId": "5295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "714  530714, Serangoon / Thomson (D19-20)",
+    "displayText": "The Florence Residences",
+    "displayType": "Condominium",
+    "nanoId": "e9ywft",
+    "objectId": "23599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Florence Road  549555, Serangoon / Thomson (D19-20)",
+    "displayText": "The Florentine",
+    "displayType": "Apartment",
+    "nanoId": "9gb4hf",
+    "objectId": "1271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "97 Still Road  423988, East Coast (D15-16)",
+    "displayText": "Claydence",
+    "displayType": "Apartment",
+    "nanoId": "tm74oo",
+    "objectId": "25517",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "42 Florence Road  549576, Serangoon / Thomson (D19-20)",
+    "displayText": "Fiorenza",
+    "displayType": "Condominium",
+    "nanoId": "3by8on",
+    "objectId": "1498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Florence Rd",
+    "displayType": "Street",
+    "objectId": "10015",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Florence Close",
+    "displayType": "Street",
+    "objectId": "11731",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Florence Road",
+    "displayType": "Street",
+    "objectId": "894",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "199 Telok Kurau Road  423833, East Coast (D15-16)",
+    "displayText": "Cadence Light",
+    "displayType": "Apartment",
+    "nanoId": "6zkg5m",
+    "objectId": "609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Tampines Lane  528457, Changi / Pasir Ris (D17-18)",
+    "displayText": "Treasure at Tampines",
+    "displayType": "Condominium",
+    "nanoId": "td2fto",
+    "objectId": "23600",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Woodleigh Lane  357657, Balestier / Geylang (D12-14)",
+    "displayText": "Park Colonial",
+    "displayType": "Condominium",
+    "nanoId": "0phrvr",
+    "objectId": "23459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Fernvale Lane  797495, North (D25-28)",
+    "displayText": "The Topiary",
+    "displayType": "Executive Condominium",
+    "nanoId": "sixqow",
+    "objectId": "21387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Dairy Farm Lane  677615, West (D22-24)",
+    "displayText": "Dairy Farm Residences",
+    "displayType": "Condominium",
+    "nanoId": "djoena",
+    "objectId": "23828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Thomson Lane  297724, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Sky @ Eleven",
+    "displayType": "Condominium",
+    "nanoId": "3mf92i",
+    "objectId": "79",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11A Mount Sinai Lane  277050, Orchard / Holland (D09-10)",
+    "displayText": "Glentrees",
+    "displayType": "Condominium",
+    "nanoId": "ig580n",
+    "objectId": "274",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Fernvale Lane  797352, North (D25-28)",
+    "displayText": "Parc Greenwich",
+    "displayType": "Executive Condominium",
+    "nanoId": "0b17ys",
+    "objectId": "24658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Butterworth Lane  439421, East Coast (D15-16)",
+    "displayText": "Butterworth 8",
+    "displayType": "Condominium",
+    "nanoId": "3wunq3",
+    "objectId": "711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2A Simon Lane  546018, Serangoon / Thomson (D19-20)",
+    "displayText": "Bliss@Kovan",
+    "displayType": "Apartment",
+    "nanoId": "cawerm",
+    "objectId": "20756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Ipoh Lane  438620, East Coast (D15-16)",
+    "displayText": "Imperial Heights",
+    "displayType": "Apartment",
+    "nanoId": "71xawu",
+    "objectId": "201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26B Saint George's Lane  322026, Balestier / Geylang (D12-14)",
+    "displayText": "26B Saint George's Lane",
+    "displayType": "HDB",
+    "nanoId": "aejnaj",
+    "objectId": "25351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29A Ipoh Lane  438627, East Coast (D15-16)",
+    "displayText": "Versilia On Haig",
+    "displayType": "Condominium",
+    "nanoId": "c5w7a0",
+    "objectId": "1143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Ipoh Lane  438646, East Coast (D15-16)",
+    "displayText": "38 I Suites",
+    "displayType": "Condominium",
+    "nanoId": "fpiyuh",
+    "objectId": "20641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "64 Moonstone Lane  328489, Balestier / Geylang (D12-14)",
+    "displayText": "M66",
+    "displayType": "Condominium",
+    "nanoId": "xd9jel",
+    "objectId": "21252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25A Saint George's Lane  321025, Balestier / Geylang (D12-14)",
+    "displayText": "25A Saint George's Lane",
+    "displayType": "HDB",
+    "nanoId": "abp51p",
+    "objectId": "25349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26A Saint George's Lane  321026, Balestier / Geylang (D12-14)",
+    "displayText": "26A Saint George's Lane",
+    "displayType": "HDB",
+    "nanoId": "x60c1r",
+    "objectId": "25350",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Rose Lane  437370, East Coast (D15-16)",
+    "displayText": "Melrose Ville",
+    "displayType": "Apartment",
+    "nanoId": "sy7asn",
+    "objectId": "2600",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Moonstone Lane  328465, Balestier / Geylang (D12-14)",
+    "displayText": "Moonstone Residences",
+    "displayType": "Apartment",
+    "nanoId": "rm0u80",
+    "objectId": "759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Moonstone Lane  328496, Balestier / Geylang (D12-14)",
+    "displayText": "Moonstone View",
+    "displayType": "Condominium",
+    "nanoId": "f94s5z",
+    "objectId": "1103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Charlton Lane  000000, Serangoon / Thomson (D19-20)",
+    "displayText": "Charlton Villas",
+    "displayType": "Terraced House",
+    "nanoId": "22n112",
+    "objectId": "1347",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "9 Butterworth Lane  439424, East Coast (D15-16)",
+    "displayText": "The Silver Fir",
+    "displayType": "Apartment",
+    "nanoId": "bbsgyq",
+    "objectId": "1399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Chancery Lane  309513, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Grove",
+    "displayType": "Cluster House",
+    "nanoId": "duj98w",
+    "objectId": "1724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Ipoh Lane  438610, East Coast (D15-16)",
+    "displayText": "Bella Casita",
+    "displayType": "Condominium",
+    "nanoId": "kejxok",
+    "objectId": "20622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "77 Charlton Lane  533976, Serangoon / Thomson (D19-20)",
+    "displayText": "Charlton 18",
+    "displayType": "Terraced House",
+    "nanoId": "qa9p2m",
+    "objectId": "21793",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "213B Compassvale Lane  542213, Serangoon / Thomson (D19-20)",
+    "displayText": "213B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "jp1zb0",
+    "objectId": "21816",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Upper Aljunied Lane  360007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "nmzrcs",
+    "objectId": "23132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221A Sumang Lane  821221, Serangoon / Thomson (D19-20)",
+    "displayText": "221A Sumang Lane",
+    "displayType": "HDB",
+    "nanoId": "dmgys3",
+    "objectId": "23343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "224B Sumang Lane  822224, Serangoon / Thomson (D19-20)",
+    "displayText": "224B Sumang Lane",
+    "displayType": "HDB",
+    "nanoId": "ioe6ky",
+    "objectId": "23350",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Seraya Lane  437279, East Coast (D15-16)",
+    "displayText": "Seraya Residences",
+    "displayType": "Condominium",
+    "nanoId": "su5lsb",
+    "objectId": "23774",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Race Course Lane  218745, City & South West (D01-08)",
+    "displayText": "City Studios",
+    "displayType": "Apartment",
+    "nanoId": "5ya5t2",
+    "objectId": "2608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Kim Keat Lane  328882, Balestier / Geylang (D12-14)",
+    "displayText": "Calarasi",
+    "displayType": "Apartment",
+    "nanoId": "95kf33",
+    "objectId": "364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Ipoh Lane  438622, East Coast (D15-16)",
+    "displayText": "Emery Point",
+    "displayType": "Condominium",
+    "nanoId": "o4i9hj",
+    "objectId": "374",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Joo Chiat Lane  428096, East Coast (D15-16)",
+    "displayText": "Legenda @ Joo Chiat",
+    "displayType": "Apartment",
+    "nanoId": "2iecli",
+    "objectId": "612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16A Jervois Lane  159192, City & South West (D01-08)",
+    "displayText": "Clydesview",
+    "displayType": "Condominium",
+    "nanoId": "455ef5",
+    "objectId": "669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12B Marsiling Lane  732012, North (D25-28)",
+    "displayText": "12B Marsiling Lane",
+    "displayType": "HDB",
+    "nanoId": "aimj1e",
+    "objectId": "8595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Chancery Lane  309494, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Esquire",
+    "displayType": "Condominium",
+    "nanoId": "lj0gw4",
+    "objectId": "881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Chancery Lane  309568, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Villa Chancery",
+    "displayType": "Condominium",
+    "nanoId": "s89b9f",
+    "objectId": "948",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Teck Whye Lane",
+    "displayType": "Street",
+    "objectId": "3330",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Compassvale Lane",
+    "displayType": "Street",
+    "objectId": "613",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Butterworth Lane  439431, East Coast (D15-16)",
+    "displayText": "Butterworth View",
+    "displayType": "Apartment",
+    "nanoId": "g73r4k",
+    "objectId": "1009",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Joo Chiat Lane  428094, East Coast (D15-16)",
+    "displayText": "D'Sunrise",
+    "displayType": "Condominium",
+    "nanoId": "dunl9v",
+    "objectId": "1059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Teck Whye Lane  680009, West (D22-24)",
+    "displayText": "9 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "lmmtah",
+    "objectId": "11336",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Teck Whye Lane  680011, West (D22-24)",
+    "displayText": "11 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "0gdfk7",
+    "objectId": "11337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Teck Whye Lane  680012, West (D22-24)",
+    "displayText": "12 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "azi95w",
+    "objectId": "11338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Teck Whye Lane  680013, West (D22-24)",
+    "displayText": "13 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "v2s0km",
+    "objectId": "11339",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Teck Whye Lane  680014, West (D22-24)",
+    "displayText": "14 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "hp90v2",
+    "objectId": "11340",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Teck Whye Lane  680016, West (D22-24)",
+    "displayText": "16 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "2sr0t1",
+    "objectId": "11342",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Teck Whye Lane  680017, West (D22-24)",
+    "displayText": "17 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "nx1el4",
+    "objectId": "11343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Teck Whye Lane  680018, West (D22-24)",
+    "displayText": "18 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "ogawt0",
+    "objectId": "11344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Teck Whye Lane  680019, West (D22-24)",
+    "displayText": "19 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "iflrc3",
+    "objectId": "11345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Teck Whye Lane  680020, West (D22-24)",
+    "displayText": "20 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "b7u2so",
+    "objectId": "11346",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Teck Whye Lane  680025, West (D22-24)",
+    "displayText": "25 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "kzfvcr",
+    "objectId": "11347",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Teck Whye Lane  680026, West (D22-24)",
+    "displayText": "26 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "8wi071",
+    "objectId": "11348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Teck Whye Lane  680101, West (D22-24)",
+    "displayText": "101 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "f5kbra",
+    "objectId": "11349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Teck Whye Lane  680102, West (D22-24)",
+    "displayText": "102 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "y3nrw3",
+    "objectId": "11350",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Teck Whye Lane  680103, West (D22-24)",
+    "displayText": "103 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "l03grz",
+    "objectId": "11351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Teck Whye Lane  680104, West (D22-24)",
+    "displayText": "104 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "y8u7ss",
+    "objectId": "11352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Teck Whye Lane  680105, West (D22-24)",
+    "displayText": "105 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "97dgqd",
+    "objectId": "11353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Teck Whye Lane  680106, West (D22-24)",
+    "displayText": "106 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "zaf4ij",
+    "objectId": "11354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Teck Whye Lane  680107, West (D22-24)",
+    "displayText": "107 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "16twk0",
+    "objectId": "11355",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Teck Whye Lane  680108, West (D22-24)",
+    "displayText": "108 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "rmap9z",
+    "objectId": "11356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Teck Whye Lane  680109, West (D22-24)",
+    "displayText": "109 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "5bluix",
+    "objectId": "11357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Teck Whye Lane  680110, West (D22-24)",
+    "displayText": "110 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "92vj9c",
+    "objectId": "11358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Teck Whye Lane  680111, West (D22-24)",
+    "displayText": "111 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "xo82nx",
+    "objectId": "11359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Teck Whye Lane  680112, West (D22-24)",
+    "displayText": "112 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "sbq8dr",
+    "objectId": "11360",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Teck Whye Lane  680113, West (D22-24)",
+    "displayText": "113 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "hbtc7j",
+    "objectId": "11361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Teck Whye Lane  680114, West (D22-24)",
+    "displayText": "114 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "a6h0pn",
+    "objectId": "11362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Teck Whye Lane  680115, West (D22-24)",
+    "displayText": "115 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "cpl0ru",
+    "objectId": "11363",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Teck Whye Lane  680116, West (D22-24)",
+    "displayText": "116 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "5q185w",
+    "objectId": "11364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Teck Whye Lane  680117, West (D22-24)",
+    "displayText": "117 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "py7cw8",
+    "objectId": "11365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Teck Whye Lane  680118, West (D22-24)",
+    "displayText": "118 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "w1ey1n",
+    "objectId": "11366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Teck Whye Lane  680119, West (D22-24)",
+    "displayText": "119 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "x8srk0",
+    "objectId": "11367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Teck Whye Lane  680120, West (D22-24)",
+    "displayText": "120 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "8dl8px",
+    "objectId": "11368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Teck Whye Lane  680121, West (D22-24)",
+    "displayText": "121 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "w2mwkk",
+    "objectId": "11369",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Teck Whye Lane  680122, West (D22-24)",
+    "displayText": "122 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "6nq6c1",
+    "objectId": "11370",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Teck Whye Lane  680123, West (D22-24)",
+    "displayText": "123 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "d5wy5n",
+    "objectId": "11371",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Teck Whye Lane  680124, West (D22-24)",
+    "displayText": "124 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "6ws6sb",
+    "objectId": "11372",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Teck Whye Lane  680133, West (D22-24)",
+    "displayText": "133 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "67b2sl",
+    "objectId": "11373",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Teck Whye Lane  680134, West (D22-24)",
+    "displayText": "134 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "9qb1m2",
+    "objectId": "11374",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Teck Whye Lane  680136, West (D22-24)",
+    "displayText": "136 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "mftock",
+    "objectId": "11376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Teck Whye Lane  680137, West (D22-24)",
+    "displayText": "137 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "4ef0z3",
+    "objectId": "11377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "140 Teck Whye Lane  680140, West (D22-24)",
+    "displayText": "140 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "6j2bpb",
+    "objectId": "11378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Teck Whye Lane  680141, West (D22-24)",
+    "displayText": "141 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "ifdy2t",
+    "objectId": "11379",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Teck Whye Lane  680142, West (D22-24)",
+    "displayText": "142 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "x93mzo",
+    "objectId": "11380",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Teck Whye Lane  680143, West (D22-24)",
+    "displayText": "143 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "ecrpcj",
+    "objectId": "11381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

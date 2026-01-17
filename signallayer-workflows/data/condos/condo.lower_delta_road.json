@@ -1,0 +1,1367 @@
+[
+  {
+    "displayText": "Lower Delta Road",
+    "displayType": "Street",
+    "objectId": "2165",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Lower Delta Road  090000, City & South West (D01-08)",
+    "displayText": "Teresa Ville",
+    "displayType": "Condominium",
+    "nanoId": "sam3h5",
+    "objectId": "459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Lower Delta Road  160048, City & South West (D01-08)",
+    "displayText": "48 Lower Delta Road",
+    "displayType": "HDB",
+    "nanoId": "du10p2",
+    "objectId": "8460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Lower Delta",
+    "displayType": "Street",
+    "objectId": "9860",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lower Kent Ridge Road",
+    "displayType": "Street",
+    "objectId": "2166",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Delta Road  169813, City & South West (D01-08)",
+    "displayText": "Domain 21",
+    "displayType": "Condominium",
+    "nanoId": "aowfb3",
+    "objectId": "150",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Delta Road",
+    "displayType": "Street",
+    "objectId": "699",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Delta Avenue  160001, City & South West (D01-08)",
+    "displayText": "1 Delta Avenue",
+    "displayType": "HDB",
+    "nanoId": "0dysb1",
+    "objectId": "5804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Delta Avenue  161002, City & South West (D01-08)",
+    "displayText": "2 Delta Avenue",
+    "displayType": "HDB",
+    "nanoId": "xxr73o",
+    "objectId": "5805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Delta Avenue  160003, City & South West (D01-08)",
+    "displayText": "3 Delta Avenue",
+    "displayType": "HDB",
+    "nanoId": "ucdnqw",
+    "objectId": "5806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Delta Avenue  161004, City & South West (D01-08)",
+    "displayText": "4 Delta Avenue",
+    "displayType": "HDB",
+    "nanoId": "n0vebp",
+    "objectId": "5807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Delta Avenue  160005, City & South West (D01-08)",
+    "displayText": "5 Delta Avenue",
+    "displayType": "HDB",
+    "nanoId": "gr3u09",
+    "objectId": "5808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Delta Ave",
+    "displayType": "Street",
+    "objectId": "3866",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Delta Avenue",
+    "displayType": "Street",
+    "objectId": "698",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "80 Kim Seng Road  239426, Orchard / Holland (D09-10)",
+    "displayText": "Mirage Tower",
+    "displayType": "Condominium",
+    "nanoId": "1b7m0v",
+    "objectId": "287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Scotts Road  228240, Orchard / Holland (D09-10)",
+    "displayText": "The Scotts Tower",
+    "displayType": "Condominium",
+    "nanoId": "u8c90z",
+    "objectId": "21241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73 Meyer Road  437898, East Coast (D15-16)",
+    "displayText": "Hawaii Tower",
+    "displayType": "Condominium",
+    "nanoId": "kpy6bj",
+    "objectId": "457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "341 Bukit Timah Road  259719, Orchard / Holland (D09-10)",
+    "displayText": "Honolulu Tower",
+    "displayType": "Apartment",
+    "nanoId": "han0ev",
+    "objectId": "1179",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9G Yuan Ching Road  618649, West (D22-24)",
+    "displayText": "Lakeside Tower",
+    "displayType": "Apartment",
+    "nanoId": "iwjyf8",
+    "objectId": "742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "431 Bukit Timah Road  259738, Orchard / Holland (D09-10)",
+    "displayText": "Jaya Tower",
+    "displayType": "Apartment",
+    "nanoId": "keoz73",
+    "objectId": "1180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "370 Thomson Road  298128, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Tan Tong Meng Tower",
+    "displayType": "Condominium",
+    "nanoId": "t3s9r1",
+    "objectId": "2658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Balmoral Road  259808, Orchard / Holland (D09-10)",
+    "displayText": "Balmoral Tower",
+    "displayType": "Condominium",
+    "nanoId": "1rfbnv",
+    "objectId": "801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Flower Road  545000, Serangoon / Thomson (D19-20)",
+    "displayText": "Palm Grove Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "5xg0pr",
+    "objectId": "20998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "57 Meyer Road  437878, East Coast (D15-16)",
+    "displayText": "Meyer Tower",
+    "displayType": "Condominium",
+    "nanoId": "4vr2wo",
+    "objectId": "2201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Cairnhill Road  229681, Orchard / Holland (D09-10)",
+    "displayText": "Trendale Tower",
+    "displayType": "Condominium",
+    "nanoId": "gzykuq",
+    "objectId": "2384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Grange Road  249569, Orchard / Holland (D09-10)",
+    "displayText": "Lucky Tower",
+    "displayType": "Condominium",
+    "nanoId": "w5zi49",
+    "objectId": "25182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "173 Chin Swee Road  169878, City & South West (D01-08)",
+    "displayText": "Landmark Tower",
+    "displayType": "Apartment",
+    "nanoId": "aqxeio",
+    "objectId": "25191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tower Road",
+    "displayType": "Street",
+    "objectId": "6516",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Flower Road",
+    "displayType": "Street",
+    "objectId": "897",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "12 Clementi Avenue 1  129632, City & South West (D01-08)",
+    "displayText": "ELTA",
+    "displayType": "Apartment",
+    "nanoId": "4sekl5",
+    "objectId": "25895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Mount Elizabeth  228511, Orchard / Holland (D09-10)",
+    "displayText": "Elizabeth Tower",
+    "displayType": "Condominium",
+    "nanoId": "v621z6",
+    "objectId": "740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Queensway  149053, City & South West (D01-08)",
+    "displayText": "Queensway Tower",
+    "displayType": "Apartment",
+    "nanoId": "a4x7mw",
+    "objectId": "821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Holland Heights  249510, Orchard / Holland (D09-10)",
+    "displayText": "Holland Tower",
+    "displayType": "Condominium",
+    "nanoId": "pnpt7x",
+    "objectId": "2031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Mount Sinai Rise  276955, Orchard / Holland (D09-10)",
+    "displayText": "Village Tower",
+    "displayType": "Condominium",
+    "nanoId": "31fdnf",
+    "objectId": "1745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Jalan Rajah  329137, Balestier / Geylang (D12-14)",
+    "displayText": "Diamond Tower",
+    "displayType": "Condominium",
+    "nanoId": "q7lb6y",
+    "objectId": "25162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Moulmein Rise  308140, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Grand Tower",
+    "displayType": "Apartment",
+    "nanoId": "a3ss8v",
+    "objectId": "25188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tan Tong Meng Tower",
+    "displayType": "Street",
+    "objectId": "26127",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Suntec Tower",
+    "displayType": "Street",
+    "objectId": "5283",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Flower Rd",
+    "displayType": "Street",
+    "objectId": "5783",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sim Lim Tower",
+    "displayType": "Street",
+    "objectId": "9679",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "86A Lor N Telok Kurau  425236, East Coast (D15-16)",
+    "displayText": "De Casalle",
+    "displayType": "Condominium",
+    "nanoId": "yyuapl",
+    "objectId": "1361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Lorong 33 Geylang  387982, Balestier / Geylang (D12-14)",
+    "displayText": "Delight Court",
+    "displayType": "Condominium",
+    "nanoId": "ov7poh",
+    "objectId": "1866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "180 Depot Road  109684, City & South West (D01-08)",
+    "displayText": "The Interlace",
+    "displayType": "Condominium",
+    "nanoId": "csd4hr",
+    "objectId": "1574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Bayshore Road  469986, East Coast (D15-16)",
+    "displayText": "Costa Del Sol",
+    "displayType": "Condominium",
+    "nanoId": "tdtdcs",
+    "objectId": "61",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Derbyshire Road  309461, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Fyve Derbyshire",
+    "displayType": "Condominium",
+    "nanoId": "iktrn1",
+    "objectId": "23564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Derbyshire Road  309462, Newton / Bt. Timah (D11, 21)",
+    "displayText": "6 Derbyshire",
+    "displayType": "Condominium",
+    "nanoId": "p5qean",
+    "objectId": "21807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Devonshire Road  239896, Orchard / Holland (D09-10)",
+    "displayText": "One Devonshire",
+    "displayType": "Condominium",
+    "nanoId": "heguek",
+    "objectId": "1511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 Devonshire Road  239855, Orchard / Holland (D09-10)",
+    "displayText": "Devonshire Residences",
+    "displayType": "Condominium",
+    "nanoId": "ofwqbo",
+    "objectId": "20614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Still Road South  423936, East Coast (D15-16)",
+    "displayText": "D'Ecosia",
+    "displayType": "Condominium",
+    "nanoId": "jbsrgz",
+    "objectId": "639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "83 Devonshire Road  239864, Orchard / Holland (D09-10)",
+    "displayText": "The Metz",
+    "displayType": "Condominium",
+    "nanoId": "lfiw1g",
+    "objectId": "137",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57-57A Devonshire Road  239897, Orchard / Holland (D09-10)",
+    "displayText": "The Suites @ Central",
+    "displayType": "Condominium",
+    "nanoId": "cwrs8h",
+    "objectId": "962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Taman Nakhoda  257000, Orchard / Holland (D09-10)",
+    "displayText": "Villa Delle Rose",
+    "displayType": "Condominium",
+    "nanoId": "alv8sj",
+    "objectId": "1410",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "65 Devonshire Road  239900, Orchard / Holland (D09-10)",
+    "displayText": "Illuminaire on Devonshire",
+    "displayType": "Apartment",
+    "nanoId": "m2fd9s",
+    "objectId": "1488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Derbyshire Road  309466, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Adria",
+    "displayType": "Condominium",
+    "nanoId": "monob9",
+    "objectId": "20578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "145 Devonshire Road  239893, Orchard / Holland (D09-10)",
+    "displayText": "The Beaumont",
+    "displayType": "Condominium",
+    "nanoId": "fx1apg",
+    "objectId": "908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6A Tanjong Rhu Road  436884, East Coast (D15-16)",
+    "displayText": "De Centurion",
+    "displayType": "Apartment",
+    "nanoId": "0o5gg8",
+    "objectId": "1165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Jalan Rama Rama  329111, Balestier / Geylang (D12-14)",
+    "displayText": "De Royale",
+    "displayType": "Condominium",
+    "nanoId": "0i0sdk",
+    "objectId": "259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "385 Pasir Panjang Road  118719, City & South West (D01-08)",
+    "displayText": "Villa De West",
+    "displayType": "Condominium",
+    "nanoId": "4heu5e",
+    "objectId": "1419",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "125 Whitley Road  297820, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Villa Des Flores",
+    "displayType": "Condominium",
+    "nanoId": "1oa1hx",
+    "objectId": "1447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2A Derbyshire Road  309470, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Pasadena",
+    "displayType": "Condominium",
+    "nanoId": "lebtpq",
+    "objectId": "1922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Devonshire Road  239847, Orchard / Holland (D09-10)",
+    "displayText": "Devonshire 12",
+    "displayType": "Apartment",
+    "nanoId": "t3w8x1",
+    "objectId": "21782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Devonshire Road  239852, Orchard / Holland (D09-10)",
+    "displayText": "33 Devonshire",
+    "displayType": "Apartment",
+    "nanoId": "wnoqxp",
+    "objectId": "25664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "114 Depot Road  100114, City & South West (D01-08)",
+    "displayText": "114 Depot Road",
+    "displayType": "HDB",
+    "nanoId": "y5byhv",
+    "objectId": "5814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Devonshire Road  239895, Orchard / Holland (D09-10)",
+    "displayText": "The Abode at Devonshire",
+    "displayType": "Condominium",
+    "nanoId": "qhqbgg",
+    "objectId": "595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Evelyn Road  309305, Newton / Bt. Timah (D11, 21)",
+    "displayText": "D'Evelyn",
+    "displayType": "Apartment",
+    "nanoId": "nmi954",
+    "objectId": "868",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Martaban Road  328644, Balestier / Geylang (D12-14)",
+    "displayText": "De Paradiso",
+    "displayType": "Condominium",
+    "nanoId": "9db2ro",
+    "objectId": "1048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6A Beatty Road  209946, City & South West (D01-08)",
+    "displayText": "Wu De Building",
+    "displayType": "Apartment",
+    "nanoId": "n4d125",
+    "objectId": "1613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "402 Orchard Road  238876, Orchard / Holland (D09-10)",
+    "displayText": "Delfi Orchard",
+    "displayType": "Apartment",
+    "nanoId": "oulyx5",
+    "objectId": "1865",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Derbyshire Road  309461, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Derby Court",
+    "displayType": "Condominium",
+    "nanoId": "x2rcn7",
+    "objectId": "1868",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Derbyshire Road  309467, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Derbyshire Mansions",
+    "displayType": "Apartment",
+    "nanoId": "7ckasa",
+    "objectId": "1869",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Scotts Road  228213, Orchard / Holland (D09-10)",
+    "displayText": "Far East Plaza Deluxe Service Apartment",
+    "displayType": "Apartment",
+    "nanoId": "t1zkwl",
+    "objectId": "1928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "114 Holland Road Singapore  278557, Orchard / Holland (D09-10)",
+    "displayText": "Chateau De Hollande",
+    "displayType": "Apartment",
+    "nanoId": "jh8b4m",
+    "objectId": "20851",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Devonshire Road  239845, Orchard / Holland (D09-10)",
+    "displayText": "Devonshire 8",
+    "displayType": "Condominium",
+    "nanoId": "qkeb9k",
+    "objectId": "21689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "239888, Orchard / Holland (D09-10)",
+    "displayText": "135 Devonshire Road",
+    "displayType": "HDB",
+    "nanoId": "8jelpx",
+    "objectId": "21886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        "8",
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105A Depot Road  101105, City & South West (D01-08)",
+    "displayText": "105A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "1kbkys",
+    "objectId": "23190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105B Depot Road  102105, City & South West (D01-08)",
+    "displayText": "105B Depot Road",
+    "displayType": "HDB",
+    "nanoId": "b0eqhh",
+    "objectId": "23191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110A Depot Road  101110, City & South West (D01-08)",
+    "displayText": "110A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "qgst9z",
+    "objectId": "23899",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "90 Tanjong Katong Road  439998, East Coast (D15-16)",
+    "displayText": "Nine Degrees",
+    "displayType": "Apartment",
+    "nanoId": "ziwd02",
+    "objectId": "25201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Devonshire Road  239849, Orchard / Holland (D09-10)",
+    "displayText": "Devonshire Apartments",
+    "displayType": "Apartment",
+    "nanoId": "mth18e",
+    "objectId": "2582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Devonshire Road,  239850, Orchard / Holland (D09-10)",
+    "displayText": "Devonshire Building",
+    "displayType": "Apartment",
+    "nanoId": "fdtnje",
+    "objectId": "2584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "105 Depot Road  100105, City & South West (D01-08)",
+    "displayText": "105 Depot Road",
+    "displayType": "HDB",
+    "nanoId": "p5yq7x",
+    "objectId": "5810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Depot Road  100113, City & South West (D01-08)",
+    "displayText": "113 Depot Road",
+    "displayType": "HDB",
+    "nanoId": "nmcijl",
+    "objectId": "5813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103A Depot Road  101103, City & South West (D01-08)",
+    "displayText": "103A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "j5niss",
+    "objectId": "5815",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103B Depot Road  102103, City & South West (D01-08)",
+    "displayText": "103B Depot Road",
+    "displayType": "HDB",
+    "nanoId": "xz0h0t",
+    "objectId": "5816",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104A Depot Road  101104, City & South West (D01-08)",
+    "displayText": "104A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "vc38r5",
+    "objectId": "5817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104B Depot Road  102104, City & South West (D01-08)",
+    "displayText": "104B Depot Road",
+    "displayType": "HDB",
+    "nanoId": "pzvsfx",
+    "objectId": "5818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106A Depot Road  101106, City & South West (D01-08)",
+    "displayText": "106A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "zwmcec",
+    "objectId": "5820",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106B Depot Road  102106, City & South West (D01-08)",
+    "displayText": "106B Depot Road",
+    "displayType": "HDB",
+    "nanoId": "dyid5g",
+    "objectId": "5821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109A Depot Road  101109, City & South West (D01-08)",
+    "displayText": "109A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "r7ul2g",
+    "objectId": "5823",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109B Depot Road  102109, City & South West (D01-08)",
+    "displayText": "109B Depot Road",
+    "displayType": "HDB",
+    "nanoId": "0gmyh6",
+    "objectId": "5824",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111A Depot Road  101111, City & South West (D01-08)",
+    "displayText": "111A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "vcopao",
+    "objectId": "5825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111B Depot Road  102111, City & South West (D01-08)",
+    "displayText": "111B Depot Road",
+    "displayType": "HDB",
+    "nanoId": "elv38f",
+    "objectId": "5826",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112A Depot Road  101112, City & South West (D01-08)",
+    "displayText": "112A Depot Road",
+    "displayType": "HDB",
+    "nanoId": "uqoei9",
+    "objectId": "5827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112B Depot Road  102112, City & South West (D01-08)",
+    "displayText": "112B Depot Road",
+    "displayType": "HDB",
+    "nanoId": "vf4yk3",
+    "objectId": "5828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Derbyshire Road  309459, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Derbyshire Heights",
+    "displayType": "Condominium",
+    "nanoId": "rxskft",
+    "objectId": "678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "104 Holland Road  278547, Orchard / Holland (D09-10)",
+    "displayText": "De Lente",
+    "displayType": "Apartment",
+    "nanoId": "r21chk",
+    "objectId": "705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Derbyshire Road  309460, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Ultra Mansion",
+    "displayType": "Apartment",
+    "nanoId": "11c5xf",
+    "objectId": "874",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Devonshire Road",
+    "displayType": "Street",
+    "objectId": "10267",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Derbyshire  Road",
+    "displayType": "Street",
+    "objectId": "11711",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Devonshire Road,",
+    "displayType": "Street",
+    "objectId": "12040",
+    "objectType": "STREET",
+    "properties": {}
+  }
+]

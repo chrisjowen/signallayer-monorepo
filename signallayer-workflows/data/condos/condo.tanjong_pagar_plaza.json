@@ -1,0 +1,1287 @@
+[
+  {
+    "displayDescription": "7 Tanjong Pagar Plaza  081007, City & South West (D01-08)",
+    "displayText": "7 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "rcdrgh",
+    "objectId": "11259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Tanjong Pagar Plaza  080008, City & South West (D01-08)",
+    "displayText": "8 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "i9oqlv",
+    "objectId": "11260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Tanjong Pagar Plaza  080002, City & South West (D01-08)",
+    "displayText": "2 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "bna54c",
+    "objectId": "11254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Tanjong Pagar Plaza  081003, City & South West (D01-08)",
+    "displayText": "3 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "r6jryg",
+    "objectId": "11255",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Tanjong Pagar Plaza  081004, City & South West (D01-08)",
+    "displayText": "4 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "1mne3f",
+    "objectId": "11256",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Tanjong Pagar Plaza  081005, City & South West (D01-08)",
+    "displayText": "5 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "h9b2cj",
+    "objectId": "11257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Tanjong Pagar Plaza  081006, City & South West (D01-08)",
+    "displayText": "6 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "o21le6",
+    "objectId": "11258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Tanjong Pagar Plaza  082001, City & South West (D01-08)",
+    "displayText": "1 Tanjong Pagar Plaza",
+    "displayType": "HDB",
+    "nanoId": "llsp5n",
+    "objectId": "21314",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D2",
+    "displayText": "D02 Chinatown / Tanjong Pagar",
+    "displayType": "District",
+    "objectId": "D02",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D02"
+    }
+  },
+  {
+    "displayDescription": "11 Kee Seng Street  089218, City & South West (D01-08)",
+    "displayText": "Onze @ Tanjong Pagar",
+    "displayType": "Apartment",
+    "nanoId": "lzlz0g",
+    "objectId": "21737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tanjong Pagar",
+    "displayType": "Street",
+    "objectId": "10652",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tanjong Pagar Road",
+    "displayType": "Street",
+    "objectId": "10670",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tanjang Pagar",
+    "displayType": "Street",
+    "objectId": "9592",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "130 Tanjong Rhu Road  436918, East Coast (D15-16)",
+    "displayText": "Pebble Bay",
+    "displayType": "Condominium",
+    "nanoId": "s2tehh",
+    "objectId": "143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "181 Tanjong Rhu Road  436922, East Coast (D15-16)",
+    "displayText": "Sanctuary Green",
+    "displayType": "Condominium",
+    "nanoId": "rgvzs3",
+    "objectId": "105",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Tanjong Rhu Road  436879, East Coast (D15-16)",
+    "displayText": "The Waterside",
+    "displayType": "Condominium",
+    "nanoId": "slnyee",
+    "objectId": "204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "175 Tanjong Rhu Road  436606, East Coast (D15-16)",
+    "displayText": "Water Place",
+    "displayType": "Condominium",
+    "nanoId": "an2ou3",
+    "objectId": "123",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Tanjong Katong Road  436950, East Coast (D15-16)",
+    "displayText": "Katong Regency",
+    "displayType": "Condominium",
+    "nanoId": "eiiaa5",
+    "objectId": "21220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Tanjong Rhu Road  436883, East Coast (D15-16)",
+    "displayText": "The Line@Tanjong Rhu",
+    "displayType": "Condominium",
+    "nanoId": "zqv6my",
+    "objectId": "21290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "201 Tanjong Rhu Road  436917, East Coast (D15-16)",
+    "displayText": "Parkshore",
+    "displayType": "Condominium",
+    "nanoId": "1eu4bp",
+    "objectId": "593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "121 Tanjong Rhu Road  436914, East Coast (D15-16)",
+    "displayText": "Tanjong Ria Condominium",
+    "displayType": "Condominium",
+    "nanoId": "17ufrv",
+    "objectId": "809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "437 Tanjong Katong Road  437147, East Coast (D15-16)",
+    "displayText": "King's Mansion",
+    "displayType": "Condominium",
+    "nanoId": "9m3xgo",
+    "objectId": "1068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "120 Tanjong Rhu Road  436904, East Coast (D15-16)",
+    "displayText": "Casuarina Cove",
+    "displayType": "Condominium",
+    "nanoId": "bt2vkj",
+    "objectId": "421",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "110 Tanjong Rhu Road  436928, East Coast (D15-16)",
+    "displayText": "Camelot By-The-Water",
+    "displayType": "Condominium",
+    "nanoId": "od7by8",
+    "objectId": "207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6A Tanjong Rhu Road  436884, East Coast (D15-16)",
+    "displayText": "De Centurion",
+    "displayType": "Apartment",
+    "nanoId": "0o5gg8",
+    "objectId": "1165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "263 Tanjong Katong Road  437050, East Coast (D15-16)",
+    "displayText": "Suites @ Katong",
+    "displayType": "Condominium",
+    "nanoId": "j42fo0",
+    "objectId": "20537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "300 Tanjong Katong Road  437083, East Coast (D15-16)",
+    "displayText": "Chelsea Lodge",
+    "displayType": "Condominium",
+    "nanoId": "l5nws0",
+    "objectId": "632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "440 Tanjong Katong Road  437149, East Coast (D15-16)",
+    "displayText": "Seaview Park",
+    "displayType": "Condominium",
+    "nanoId": "v769ho",
+    "objectId": "2398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8A Tanjong Rhu Road  436889, East Coast (D15-16)",
+    "displayText": "Crystal Rhu",
+    "displayType": "Apartment",
+    "nanoId": "abu3e6",
+    "objectId": "687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8D Tanjong Rhu Road  436892, East Coast (D15-16)",
+    "displayText": "Emerald East",
+    "displayType": "Apartment",
+    "nanoId": "v59x34",
+    "objectId": "820",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tanjong Rhu Road",
+    "displayType": "Street",
+    "objectId": "10252",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Tanjong Rhu Road  436879, East Coast (D15-16)",
+    "displayText": "Fortredale",
+    "displayType": "Apartment",
+    "nanoId": "2oszm9",
+    "objectId": "1016",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8C Tanjong Rhu Road  436891, East Coast (D15-16)",
+    "displayText": "Palazzetto",
+    "displayType": "Apartment",
+    "nanoId": "esvu2d",
+    "objectId": "1044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "150 Tanjong Katong Road  437154, East Coast (D15-16)",
+    "displayText": "Eastside Loft",
+    "displayType": "Condominium",
+    "nanoId": "lyglxj",
+    "objectId": "1892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "86 - 88 Tanjong Katong Road  436958, East Coast (D15-16)",
+    "displayText": "Katong Ville",
+    "displayType": "Condominium",
+    "nanoId": "1a0pra",
+    "objectId": "2078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6C -6D Tanjong Rhu Road  436885, East Coast (D15-16)",
+    "displayText": "La Ville",
+    "displayType": "Condominium",
+    "nanoId": "r1pwr0",
+    "objectId": "2121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Tanjong Katong Road  439998, East Coast (D15-16)",
+    "displayText": "Nine Degrees",
+    "displayType": "Apartment",
+    "nanoId": "ziwd02",
+    "objectId": "25201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tanjong Katong Road",
+    "displayType": "Street",
+    "objectId": "10430",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Tanjong",
+    "displayType": "Street",
+    "objectId": "10626",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "6D Tanjong Rhu Road  436886, East Coast (D15-16)",
+    "displayText": "Arina East Residences",
+    "displayType": "Condominium",
+    "nanoId": "orf6sp",
+    "objectId": "25863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "289 Tanjong Katong Road  437072, East Coast (D15-16)",
+    "displayText": "289 Tanjong Katong Road",
+    "displayType": "Walk-up",
+    "nanoId": "ypqv52",
+    "objectId": "25903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tanjong Kling Road",
+    "displayType": "Street",
+    "objectId": "11287",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Pasar Baru",
+    "displayType": "Street",
+    "objectId": "1611",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Anson Road  079903, City & South West (D01-08)",
+    "displayText": "International Plaza",
+    "displayType": "Apartment",
+    "nanoId": "9qsnvc",
+    "objectId": "335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Prinsep Link  187948, City & South West (D01-08)",
+    "displayText": "Sunshine Plaza",
+    "displayType": "Apartment",
+    "nanoId": "44wsr3",
+    "objectId": "576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7500A Beach Road  199591, City & South West (D01-08)",
+    "displayText": "The Plaza",
+    "displayType": "Apartment",
+    "nanoId": "s2wyqg",
+    "objectId": "761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "53 Cairnhill Road  229664, Orchard / Holland (D09-10)",
+    "displayText": "Cairnhill Plaza",
+    "displayType": "Apartment",
+    "nanoId": "34r2jb",
+    "objectId": "325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Sin Ming Road  575583, Serangoon / Thomson (D19-20)",
+    "displayText": "Sin Ming Plaza",
+    "displayType": "Apartment",
+    "nanoId": "ktbhgt",
+    "objectId": "587",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "304 Orchard Road  238863, Orchard / Holland (D09-10)",
+    "displayText": "Lucky Plaza",
+    "displayType": "Apartment",
+    "nanoId": "3oiu50",
+    "objectId": "708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "271 Bukit Timah Road  259708, Orchard / Holland (D09-10)",
+    "displayText": "Balmoral Plaza",
+    "displayType": "Condominium",
+    "nanoId": "4mpoi8",
+    "objectId": "1778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "140 Upper Bukit Timah Road  588176, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Beauty World Plaza",
+    "displayType": "Condominium",
+    "nanoId": "ibyo8i",
+    "objectId": "1785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Kovan Road  548008, Serangoon / Thomson (D19-20)",
+    "displayText": "Simon Plaza",
+    "displayType": "Apartment",
+    "nanoId": "4ntwkb",
+    "objectId": "2422",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "400 Balestier Road  329802, Balestier / Geylang (D12-14)",
+    "displayText": "Balestier Plaza",
+    "displayType": "Apartment",
+    "nanoId": "lo6ba3",
+    "objectId": "488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Sembawang Drive  757713, North (D25-28)",
+    "displayText": "Sun Plaza",
+    "displayType": "Apartment",
+    "nanoId": "hmos1o",
+    "objectId": "829",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Claymore Hill  229571, Orchard / Holland (D09-10)",
+    "displayText": "Claymore Plaza Apartments",
+    "displayType": "Apartment",
+    "nanoId": "mkkiui",
+    "objectId": "1479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Scotts Road  228213, Orchard / Holland (D09-10)",
+    "displayText": "Far East Plaza Deluxe Service Apartment",
+    "displayType": "Apartment",
+    "nanoId": "t1zkwl",
+    "objectId": "1928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Kitchener Road  208511, City & South West (D01-08)",
+    "displayText": "Jalan Besar Plaza",
+    "displayType": "Apartment",
+    "nanoId": "9tszkw",
+    "objectId": "2057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Jalan Masjid  418944, Balestier / Geylang (D12-14)",
+    "displayText": "Kembangan Plaza",
+    "displayType": "Apartment",
+    "nanoId": "p3p9h4",
+    "objectId": "2082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "34 Craig Road  089673, City & South West (D01-08)",
+    "displayText": "Chinatown Plaza",
+    "displayType": "Apartment",
+    "nanoId": "ic38ib",
+    "objectId": "21592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Scotts Road  228213, Orchard / Holland (D09-10)",
+    "displayText": "Far East Plaza Residences",
+    "displayType": "Apartment",
+    "nanoId": "k42yqe",
+    "objectId": "24832",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "205 Balestier Road  329682, Balestier / Geylang (D12-14)",
+    "displayText": "Ruby Plaza",
+    "displayType": "Apartment",
+    "nanoId": "1hr9yq",
+    "objectId": "24999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Marigold Drive  576385, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Plaza",
+    "displayType": "Apartment",
+    "nanoId": "15gv1n",
+    "objectId": "2525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "587 Bukit Timah Road  269707, Orchard / Holland (D09-10)",
+    "displayText": "Coronation Shopping Plaza",
+    "displayType": "Apartment",
+    "nanoId": "e1d52a",
+    "objectId": "25398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "810 Geylang Road  409286, Balestier / Geylang (D12-14)",
+    "displayText": "City Plaza",
+    "displayType": "Apartment",
+    "nanoId": "9fyoyh",
+    "objectId": "620",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Cuppage Plaza",
+    "displayType": "Street",
+    "objectId": "5383",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Beauty World Plaza",
+    "displayType": "Street",
+    "objectId": "5384",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Far East Plaza",
+    "displayType": "Street",
+    "objectId": "5386",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lucky Plaza",
+    "displayType": "Street",
+    "objectId": "5389",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Opposite Punggol Plaza Edgedale Plains",
+    "displayType": "Street",
+    "objectId": "5408",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Orchard Plaza",
+    "displayType": "Street",
+    "objectId": "5456",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kembangan Plaza",
+    "displayType": "Street",
+    "objectId": "5726",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chinatown Plaza",
+    "displayType": "Street",
+    "objectId": "5992",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sultan Plaza",
+    "displayType": "Street",
+    "objectId": "6263",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Besar Plaza",
+    "displayType": "Street",
+    "objectId": "6872",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Goldhill Plaza",
+    "displayType": "Street",
+    "objectId": "970",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tanjung Rhu Road",
+    "displayType": "Street",
+    "objectId": "5786",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D23",
+    "displayText": "D23 Dairy Farm / Bukit Panjang / Choa Chu Kang",
+    "displayType": "District",
+    "objectId": "D23",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D23"
+    }
+  },
+  {
+    "displayText": "Bukit Panjang",
+    "displayType": "HDB Estate",
+    "objectId": "6",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "227 Pasir Panjang Road  117341, City & South West (D01-08)",
+    "displayText": "The Verandah Residences",
+    "displayType": "Condominium",
+    "nanoId": "aqo0a2",
+    "objectId": "23398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "417 Pasir Panjang Road  118758, City & South West (D01-08)",
+    "displayText": "Village @ Pasir Panjang",
+    "displayType": "Condominium",
+    "nanoId": "a6u9zw",
+    "objectId": "1411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "253A Pasir Panjang Road  117422, City & South West (D01-08)",
+    "displayText": "Parc Imperial",
+    "displayType": "Condominium",
+    "nanoId": "srfh2p",
+    "objectId": "1554",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "332A Pasir Panjang Road  117381, City & South West (D01-08)",
+    "displayText": "WhiteHaven",
+    "displayType": "Apartment",
+    "nanoId": "7oront",
+    "objectId": "21612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "294 Pasir Panjang Road  118635, City & South West (D01-08)",
+    "displayText": "Palisades",
+    "displayType": "Condominium",
+    "nanoId": "5bdiv7",
+    "objectId": "857",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "42 Pasir Panjang Hill  118894, City & South West (D01-08)",
+    "displayText": "Le Hill",
+    "displayType": "Condominium",
+    "nanoId": "idulvx",
+    "objectId": "1414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "242K Pasir Panjang Road  117489, City & South West (D01-08)",
+    "displayText": "The Maylea",
+    "displayType": "Condominium",
+    "nanoId": "ncw6g4",
+    "objectId": "158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "221 Pasir Panjang Road  118574, City & South West (D01-08)",
+    "displayText": "Harbour View Gardens",
+    "displayType": "Apartment",
+    "nanoId": "qhho15",
+    "objectId": "2004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Pasir Panjang Hill  118862, City & South West (D01-08)",
+    "displayText": "Horizon Residences",
+    "displayType": "Condominium",
+    "nanoId": "i67nzv",
+    "objectId": "20631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "252 Pasir Panjang Road  118617, City & South West (D01-08)",
+    "displayText": "SeaSuites",
+    "displayType": "Apartment",
+    "nanoId": "7q94sd",
+    "objectId": "21453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "292 Pasir Panjang Rd  118633, City & South West (D01-08)",
+    "displayText": "The Hillshore",
+    "displayType": "Condominium",
+    "nanoId": "wk4e8d",
+    "objectId": "25634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Pasir Panjang Road  117000, City & South West (D01-08)",
+    "displayText": "Barossa Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "tzhsi2",
+    "objectId": "1075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "360 Pasir Panjang Road  118699, City & South West (D01-08)",
+    "displayText": "Gold Coast Condo",
+    "displayType": "Condominium",
+    "nanoId": "i6dv8b",
+    "objectId": "1238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "95 Pasir Panjang Hill  118893, City & South West (D01-08)",
+    "displayText": "Ventana",
+    "displayType": "Apartment",
+    "nanoId": "so3lrw",
+    "objectId": "1371",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "385 Pasir Panjang Road  118719, City & South West (D01-08)",
+    "displayText": "Villa De West",
+    "displayType": "Condominium",
+    "nanoId": "4heu5e",
+    "objectId": "1419",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Mas Kuning  000000, City & South West (D01-08)",
+    "displayText": "Pasir Panjang Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "g2rp9g",
+    "objectId": "21003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "218 Pasir Panjang Road  118579, City & South West (D01-08)",
+    "displayText": "Icon @ Pasir Panjang",
+    "displayType": "Apartment",
+    "nanoId": "r3d5a0",
+    "objectId": "21685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "251 Pasir Panjang Road  118610, City & South West (D01-08)",
+    "displayText": "The Orient",
+    "displayType": "Condominium",
+    "nanoId": "kj1e5y",
+    "objectId": "22037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "241 Pasir Panjang Road  118596, City & South West (D01-08)",
+    "displayText": "24 One Residences",
+    "displayType": "Condominium",
+    "nanoId": "2zhz7f",
+    "objectId": "23160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "132 Pasir Panjang Road  118549, City & South West (D01-08)",
+    "displayText": "The Cassandra",
+    "displayType": "Apartment",
+    "nanoId": "ay5c7u",
+    "objectId": "469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "202 Pasir Panjang Road  118572, City & South West (D01-08)",
+    "displayText": "Landridge Condo",
+    "displayType": "Condominium",
+    "nanoId": "x4shhy",
+    "objectId": "617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Pasir Panjang Hill  118860, City & South West (D01-08)",
+    "displayText": "The Grandhill",
+    "displayType": "Condominium",
+    "nanoId": "baxaja",
+    "objectId": "876",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

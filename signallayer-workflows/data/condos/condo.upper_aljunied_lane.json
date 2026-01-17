@@ -1,0 +1,1338 @@
+[
+  {
+    "displayText": "Upper Aljunied Lane",
+    "displayType": "Street",
+    "objectId": "3512",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Upper Aljunied Lane  360007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "nmzrcs",
+    "objectId": "23132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Upper Aljunied Lane  360001, Balestier / Geylang (D12-14)",
+    "displayText": "1 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "6yd5lq",
+    "objectId": "11645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Upper Aljunied Lane  360002, Balestier / Geylang (D12-14)",
+    "displayText": "2 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "cjz2wu",
+    "objectId": "11646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Upper Aljunied Lane  360003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "yfmm20",
+    "objectId": "11647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Upper Aljunied Lane  360004, Balestier / Geylang (D12-14)",
+    "displayText": "4 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "eumtd8",
+    "objectId": "11648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Upper Aljunied Lane  360005, Balestier / Geylang (D12-14)",
+    "displayText": "5 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "zry47z",
+    "objectId": "11649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "349385, Balestier / Geylang (D12-14)",
+    "displayText": "2A Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "vg8d4r",
+    "objectId": "11650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Upper Aljunied Link",
+    "displayType": "Street",
+    "objectId": "3513",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Road",
+    "displayType": "Street",
+    "objectId": "3514",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied",
+    "displayType": "Street",
+    "objectId": "7498",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "233A Upper Aljunied Road  361233, Balestier / Geylang (D12-14)",
+    "displayText": "233A Upper Aljunied",
+    "displayType": "HDB",
+    "nanoId": "dv0ym8",
+    "objectId": "26034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Upper Aljunied Rd",
+    "displayType": "Street",
+    "objectId": "8398",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aijunied Road",
+    "displayType": "Street",
+    "objectId": "8544",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljuned Road",
+    "displayType": "Street",
+    "objectId": "8556",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Aljunied Rd  389799, Balestier / Geylang (D12-14)",
+    "displayText": "Avant Residences",
+    "displayType": "Apartment",
+    "nanoId": "cr22sn",
+    "objectId": "23399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113 Aljunied Avenue 2  380113, Balestier / Geylang (D12-14)",
+    "displayText": "113 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "5dnjtm",
+    "objectId": "2734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Aljunied Avenue 2  380115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "4j6tnm",
+    "objectId": "2736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Aljunied Avenue 2  380117, Balestier / Geylang (D12-14)",
+    "displayText": "117 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "jy2xao",
+    "objectId": "2738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Aljunied Avenue 2  380118, Balestier / Geylang (D12-14)",
+    "displayText": "118 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0am36c",
+    "objectId": "2739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Aljunied Avenue 2  380119, Balestier / Geylang (D12-14)",
+    "displayText": "119 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "79hg28",
+    "objectId": "2740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95 Aljunied Crescent  380095, Balestier / Geylang (D12-14)",
+    "displayText": "95 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "r4rnkd",
+    "objectId": "2741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96 Aljunied Crescent  380096, Balestier / Geylang (D12-14)",
+    "displayText": "96 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "muy7t8",
+    "objectId": "2742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "97 Aljunied Crescent  380097, Balestier / Geylang (D12-14)",
+    "displayText": "97 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "na5kqx",
+    "objectId": "2743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98 Aljunied Crescent  380098, Balestier / Geylang (D12-14)",
+    "displayText": "98 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "xiwd4w",
+    "objectId": "2744",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "99 Aljunied Crescent  380099, Balestier / Geylang (D12-14)",
+    "displayText": "99 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "qhuhvv",
+    "objectId": "2745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "100 Aljunied Crescent  380100, Balestier / Geylang (D12-14)",
+    "displayText": "100 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "a13vtc",
+    "objectId": "2746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Aljunied Crescent  380101, Balestier / Geylang (D12-14)",
+    "displayText": "101 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "wn3n54",
+    "objectId": "2747",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Aljunied Crescent  380102, Balestier / Geylang (D12-14)",
+    "displayText": "102 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ilr1f8",
+    "objectId": "2748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Aljunied Crescent  380103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "r4sbgg",
+    "objectId": "2749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Aljunied Crescent  380104, Balestier / Geylang (D12-14)",
+    "displayText": "104 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "7owjdi",
+    "objectId": "2750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Aljunied Crescent  380105, Balestier / Geylang (D12-14)",
+    "displayText": "105 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "nim9am",
+    "objectId": "2751",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Aljunied Crescent  380106, Balestier / Geylang (D12-14)",
+    "displayText": "106 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "z08ehj",
+    "objectId": "2752",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Aljunied Crescent  380107, Balestier / Geylang (D12-14)",
+    "displayText": "107 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ei7zvr",
+    "objectId": "2753",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Aljunied Crescent  380108, Balestier / Geylang (D12-14)",
+    "displayText": "108 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "dygwa6",
+    "objectId": "2754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Aljunied Crescent  380109, Balestier / Geylang (D12-14)",
+    "displayText": "109 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "kswlfo",
+    "objectId": "2755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Aljunied Crescent  380110, Balestier / Geylang (D12-14)",
+    "displayText": "110 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "12mzp3",
+    "objectId": "2756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Aljunied Crescent  380111, Balestier / Geylang (D12-14)",
+    "displayText": "111 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "oupaut",
+    "objectId": "2757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Aljunied Crescent  380112, Balestier / Geylang (D12-14)",
+    "displayText": "112 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "majtsr",
+    "objectId": "2758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98A Aljunied Crescent  381098, Balestier / Geylang (D12-14)",
+    "displayText": "98A Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ayqfa7",
+    "objectId": "2759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Aljunied Road  380125, Balestier / Geylang (D12-14)",
+    "displayText": "125 Aljunied Road",
+    "displayType": "HDB",
+    "nanoId": "cvylhu",
+    "objectId": "2760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Aljunied Road  380126, Balestier / Geylang (D12-14)",
+    "displayText": "126 Aljunied Road",
+    "displayType": "HDB",
+    "nanoId": "6gnllz",
+    "objectId": "2761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Aljunied Cresent",
+    "displayType": "Street",
+    "objectId": "10603",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 2",
+    "displayType": "Street",
+    "objectId": "26",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Industrial Estate",
+    "displayType": "Street",
+    "objectId": "30",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Road",
+    "displayType": "Street",
+    "objectId": "31",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Crescent",
+    "displayType": "Street",
+    "objectId": "3853",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Link",
+    "displayType": "Street",
+    "objectId": "6748",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "114 Aljunied Avenue 2  380114, Balestier / Geylang (D12-14)",
+    "displayText": "114 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zlme08",
+    "objectId": "2735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Aljunied Avenue 2  380116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "2u0wx1",
+    "objectId": "2737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Aljunied Rd",
+    "displayType": "Street",
+    "objectId": "10183",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 1",
+    "displayType": "Street",
+    "objectId": "25",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 3",
+    "displayType": "Street",
+    "objectId": "27",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 4",
+    "displayType": "Street",
+    "objectId": "28",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 5",
+    "displayType": "Street",
+    "objectId": "29",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ajunied Road",
+    "displayType": "Street",
+    "objectId": "4844",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "474 Upper East Coast Road  466515, East Coast (D15-16)",
+    "displayText": "Aldea Blanca",
+    "displayType": "Condominium",
+    "nanoId": "3txted",
+    "objectId": "25187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D16",
+    "displayText": "D16 Bedok / Upper East Coast",
+    "displayType": "District",
+    "objectId": "D16",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D16"
+    }
+  },
+  {
+    "displayDescription": "D21",
+    "displayText": "D21 Clementi Park / Upper Bukit Timah",
+    "displayType": "District",
+    "objectId": "D21",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D21"
+    }
+  },
+  {
+    "displayDescription": "D26",
+    "displayText": "D26 Mandai / Upper Thomson",
+    "displayType": "District",
+    "objectId": "D26",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D26"
+    }
+  },
+  {
+    "displayDescription": "239 Upper Paya Lebar Road  533866, Serangoon / Thomson (D19-20)",
+    "displayText": "Botanique at Bartley",
+    "displayType": "Condominium",
+    "nanoId": "1ukoq7",
+    "objectId": "22082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Upper Serangoon View  533876, Serangoon / Thomson (D19-20)",
+    "displayText": "Kingsford Waterbay",
+    "displayType": "Condominium",
+    "nanoId": "deb1k2",
+    "objectId": "22069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "24 Upper Serangoon Crescent  534024, Serangoon / Thomson (D19-20)",
+    "displayText": "Riversails",
+    "displayType": "Condominium",
+    "nanoId": "lcxu3g",
+    "objectId": "21301",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Serangoon View  530000, Serangoon / Thomson (D19-20)",
+    "displayText": "Heron Bay",
+    "displayType": "Executive Condominium",
+    "nanoId": "k08vef",
+    "objectId": "21335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "626 Upper Thomson Road  787130, North (D25-28)",
+    "displayText": "Meadows @ Peirce",
+    "displayType": "Condominium",
+    "nanoId": "u53ilv",
+    "objectId": "2190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "984 Upper Serangoon Road  533854, Serangoon / Thomson (D19-20)",
+    "displayText": "Stars of Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ohgzu6",
+    "objectId": "22474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Upper Serangoon View  534042, Serangoon / Thomson (D19-20)",
+    "displayText": "Boathouse Residences",
+    "displayType": "Condominium",
+    "nanoId": "xe8ffw",
+    "objectId": "20733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "959 Upper Changi Road North  506787, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Komo",
+    "displayType": "Condominium",
+    "nanoId": "y8b7j9",
+    "objectId": "23712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "",
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Upper Serangoon View  534198, Serangoon / Thomson (D19-20)",
+    "displayText": "Rio Vista",
+    "displayType": "Condominium",
+    "nanoId": "9lujzs",
+    "objectId": "240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "698 Upper Changi Road East  486828, East Coast (D15-16)",
+    "displayText": "Changi Court",
+    "displayType": "Condominium",
+    "nanoId": "kgwxqa",
+    "objectId": "523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "781 Upper Changi Road East  486069, East Coast (D15-16)",
+    "displayText": "Sunhaven",
+    "displayType": "Condominium",
+    "nanoId": "lvj82e",
+    "objectId": "441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Upper East Coast Road  455283, East Coast (D15-16)",
+    "displayText": "Eastern Lagoon II",
+    "displayType": "Condominium",
+    "nanoId": "ay5hpq",
+    "objectId": "590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "712 Upper Changi Road East  486842, East Coast (D15-16)",
+    "displayText": "Changi Green",
+    "displayType": "Condominium",
+    "nanoId": "55o7v6",
+    "objectId": "655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1189 Upper Serangoon Road  534785, Serangoon / Thomson (D19-20)",
+    "displayText": "Midtown Residences",
+    "displayType": "Condominium",
+    "nanoId": "tzdnhn",
+    "objectId": "21584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "118 Upper Bukit Timah Road  588173, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The LINQ @ Beauty World",
+    "displayType": "Condominium",
+    "nanoId": "dekho0",
+    "objectId": "23852",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "388 Upper East Coast Road  466477, East Coast (D15-16)",
+    "displayText": "Uber 388",
+    "displayType": "Condominium",
+    "nanoId": "3p04kr",
+    "objectId": "20726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "880 Upper Bukit Timah Road  678181, West (D22-24)",
+    "displayText": "The Linear",
+    "displayType": "Apartment",
+    "nanoId": "5elg5j",
+    "objectId": "464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Bukit Timah Road  580000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Hillside",
+    "displayType": "Condominium",
+    "nanoId": "x2akbg",
+    "objectId": "320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "451 Upper East Coast Road  466499, East Coast (D15-16)",
+    "displayText": "The Summit",
+    "displayType": "Condominium",
+    "nanoId": "5soedd",
+    "objectId": "349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Upper East Coast Road  455283, East Coast (D15-16)",
+    "displayText": "Eastern Lagoon I",
+    "displayType": "Condominium",
+    "nanoId": "dcns3u",
+    "objectId": "873",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "97A Upper Thomson Road  574327, Serangoon / Thomson (D19-20)",
+    "displayText": "Lakeview Estate",
+    "displayType": "Apartment",
+    "nanoId": "1l7vbb",
+    "objectId": "938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "412 Upper East Coast Road  466488, East Coast (D15-16)",
+    "displayText": "East Coast Residences",
+    "displayType": "Condominium",
+    "nanoId": "256ofj",
+    "objectId": "1257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "316 Upper East Coast Road  465520, East Coast (D15-16)",
+    "displayText": "Breeze By The East",
+    "displayType": "Apartment",
+    "nanoId": "zvkw25",
+    "objectId": "1285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "420 Upper Paya Lebar Road  534049, Serangoon / Thomson (D19-20)",
+    "displayText": "Suites @ Paya Lebar",
+    "displayType": "Condominium",
+    "nanoId": "b2zmgk",
+    "objectId": "20732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311 Upper Thomson Road  574409, Serangoon / Thomson (D19-20)",
+    "displayText": "Three 11",
+    "displayType": "Apartment",
+    "nanoId": "89xg9d",
+    "objectId": "21667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "800 Upper Bukit Timah Road  678139, West (D22-24)",
+    "displayText": "The Myst",
+    "displayType": "Condominium",
+    "nanoId": "ysq84i",
+    "objectId": "25503",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Changi Road East  486000, East Coast (D15-16)",
+    "displayText": "Summer Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "d3dxi0",
+    "objectId": "729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "1 Upper Bukit Timah View  588132, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Bukit Regency",
+    "displayType": "Condominium",
+    "nanoId": "cp96t5",
+    "objectId": "806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Upper Circular Road  058416, City & South West (D01-08)",
+    "displayText": "Riverwalk Apartments",
+    "displayType": "Apartment",
+    "nanoId": "jhutbb",
+    "objectId": "817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Upper Serangoon Crescent",
+    "displayType": "Street",
+    "objectId": "28527",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "568 Upper East Coast Road  466584, East Coast (D15-16)",
+    "displayText": "The Daffodil",
+    "displayType": "Apartment",
+    "nanoId": "hc6q8u",
+    "objectId": "1001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "332 Upper East Coast Road  466456, East Coast (D15-16)",
+    "displayText": "The Tropic Gardens",
+    "displayType": "Condominium",
+    "nanoId": "94c46r",
+    "objectId": "1056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "571 Upper Serangoon Road  534798, Serangoon / Thomson (D19-20)",
+    "displayText": "The Yardley",
+    "displayType": "Condominium",
+    "nanoId": "eigt4j",
+    "objectId": "1259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Upper Thomson Road  574424, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Imperial Court",
+    "displayType": "Condominium",
+    "nanoId": "snyroc",
+    "objectId": "1393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "171 Upper East Coast Road  455273, East Coast (D15-16)",
+    "displayText": "Suites @ East Coast",
+    "displayType": "Condominium",
+    "nanoId": "gxiu7y",
+    "objectId": "20604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "430 Upper Changi Road  487048, East Coast (D15-16)",
+    "displayText": "East Village",
+    "displayType": "Condominium",
+    "nanoId": "ysqmwn",
+    "objectId": "21180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "767 Upper Serangoon Road  534635, Serangoon / Thomson (D19-20)",
+    "displayText": "Spazio @ Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ggjikb",
+    "objectId": "21465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Upper Cross Street  058357, City & South West (D01-08)",
+    "displayText": "People's Park Centre",
+    "displayType": "Apartment",
+    "nanoId": "up0cc8",
+    "objectId": "2297",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "730 Upper Changi Road East  486858, East Coast (D15-16)",
+    "displayText": "Cascadale",
+    "displayType": "Condominium",
+    "nanoId": "1d1hxp",
+    "objectId": "719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14A Upper Boon Keng Road  381014, Balestier / Geylang (D12-14)",
+    "displayText": "14A Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "u090li",
+    "objectId": "11666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

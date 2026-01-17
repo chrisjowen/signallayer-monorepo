@@ -1,0 +1,1377 @@
+[
+  {
+    "displayText": "Kampong Kayu Road",
+    "displayType": "Street",
+    "objectId": "11483",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Kampong Kayu Road  431001, East Coast (D15-16)",
+    "displayText": "1 Kampong Kayu Road",
+    "displayType": "HDB",
+    "nanoId": "8a39kz",
+    "objectId": "8023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "100 Kampong Java Road  228867, Orchard / Holland (D09-10)",
+    "displayText": "Parc Centennial",
+    "displayType": "Condominium",
+    "nanoId": "mnrzls",
+    "objectId": "1468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "522 KAMPONG BAHRU ROAD  099454, City & South West (D01-08)",
+    "displayText": "Harbour Suites @ Kampong Bahru",
+    "displayType": "Condominium",
+    "nanoId": "vuk953",
+    "objectId": "20618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "524 Kampong Bahru Road  099455, City & South West (D01-08)",
+    "displayText": "Permai Residences",
+    "displayType": "Condominium",
+    "nanoId": "wev125",
+    "objectId": "22502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "524 Kampong Bahru Road  099455, City & South West (D01-08)",
+    "displayText": "Permai Court",
+    "displayType": "Condominium",
+    "nanoId": "8cg5hu",
+    "objectId": "2316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Kampong Arang Road  431012, East Coast (D15-16)",
+    "displayText": "12 Kampong Arang Road",
+    "displayType": "HDB",
+    "nanoId": "lqhpme",
+    "objectId": "8013",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Kampong Arang Road  431014, East Coast (D15-16)",
+    "displayText": "14 Kampong Arang Road",
+    "displayType": "HDB",
+    "nanoId": "1w9jkw",
+    "objectId": "8014",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Kampong Bahru Road  161020, City & South West (D01-08)",
+    "displayText": "20 Kampong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "l3px3j",
+    "objectId": "8021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5",
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kampong Java Road",
+    "displayType": "Street",
+    "objectId": "10341",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kampong Bahru Road",
+    "displayType": "Street",
+    "objectId": "10886",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kampong Arang Road",
+    "displayType": "Street",
+    "objectId": "11757",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Kampong Bahru Road  160021, City & South West (D01-08)",
+    "displayText": "21 Kampong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "7u2ivg",
+    "objectId": "8022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5",
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "447A Jalan Kayu  791447, North (D25-28)",
+    "displayText": "447A Jalan Kayu",
+    "displayType": "HDB",
+    "nanoId": "4p5zw2",
+    "objectId": "22067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "446C Jalan Kayu  793446, North (D25-28)",
+    "displayText": "446C Jalan Kayu",
+    "displayType": "HDB",
+    "nanoId": "3lylhu",
+    "objectId": "22233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "446A Jalan Kayu  791446, North (D25-28)",
+    "displayText": "446A Jalan Kayu",
+    "displayType": "HDB",
+    "nanoId": "t15rp2",
+    "objectId": "22684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "446B Jalan Kayu  792446, North (D25-28)",
+    "displayText": "446B Jalan Kayu",
+    "displayType": "HDB",
+    "nanoId": "bfyhhj",
+    "objectId": "22685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "447B Jalan Kayu  792447, North (D25-28)",
+    "displayText": "447B Jalan Kayu",
+    "displayType": "HDB",
+    "nanoId": "p49qm1",
+    "objectId": "22686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Kayu Manis  228900, Orchard / Holland (D09-10)",
+    "displayText": "Kimsia Park",
+    "displayType": "Terraced House",
+    "nanoId": "s80kvq",
+    "objectId": "25273",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Jln Kayu",
+    "displayType": "Street",
+    "objectId": "10642",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Kayu",
+    "displayType": "Street",
+    "objectId": "1315",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Kayu Manis",
+    "displayType": "Street",
+    "objectId": "1568",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Kayu Estate",
+    "displayType": "Street",
+    "objectId": "7808",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Jalan Tari Piring  000000, North (D25-28)",
+    "displayText": "Jalan Kayu Estate",
+    "displayType": "Terraced House",
+    "nanoId": "bkge1h",
+    "objectId": "25987",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Jln Tari Piring (jln Kayu)",
+    "displayType": "Street",
+    "objectId": "10900",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "552 Kampong Bahru Roa  099454, City & South West (D01-08)",
+    "displayText": "Harbourside Apartments",
+    "displayType": "Condominium",
+    "nanoId": "jgtksk",
+    "objectId": "24898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Kampung Bahru Road",
+    "displayType": "Street",
+    "objectId": "9922",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "51 Kampong Bugis  338986, Balestier / Geylang (D12-14)",
+    "displayText": "Kallang Riverside",
+    "displayType": "Condominium",
+    "nanoId": "udtwu1",
+    "objectId": "20165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "319 Jalan Kampong Chantek  587868, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Binjai Crest",
+    "displayType": "Terraced House",
+    "nanoId": "v5upbs",
+    "objectId": "569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "30 Kampong Eunos  417777, Balestier / Geylang (D12-14)",
+    "displayText": "Deng Fu Ville",
+    "displayType": "Condominium",
+    "nanoId": "j79br9",
+    "objectId": "1867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Kampong Eunos  417778, Balestier / Geylang (D12-14)",
+    "displayText": "Le Reve",
+    "displayType": "Condominium",
+    "nanoId": "1kzg77",
+    "objectId": "208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Kampong Eunos  417771, Balestier / Geylang (D12-14)",
+    "displayText": "Eunos Park",
+    "displayType": "Condominium",
+    "nanoId": "cx4diy",
+    "objectId": "736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "22 Kampong Bahru Hill  163022, City & South West (D01-08)",
+    "displayText": "22 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "7g7au2",
+    "objectId": "8018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Kampong Bahru Hill  160023, City & South West (D01-08)",
+    "displayText": "23 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "ozmdb6",
+    "objectId": "8019",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kampong Bahru Hill",
+    "displayType": "Street",
+    "objectId": "10314",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kampong Eunos",
+    "displayType": "Street",
+    "objectId": "10352",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Kampong Chantek",
+    "displayType": "Street",
+    "objectId": "10363",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jln Kampong Chantek",
+    "displayType": "Street",
+    "objectId": "10664",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "18 Kampong Bahru Hill  160018, City & South West (D01-08)",
+    "displayText": "18 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "t4exbl",
+    "objectId": "8016",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Kampong Bahru Hill  160019, City & South West (D01-08)",
+    "displayText": "19 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "o2kuyl",
+    "objectId": "8017",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Kampong Bahru Hill  162024, City & South West (D01-08)",
+    "displayText": "24 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "3iijfn",
+    "objectId": "8020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Kay Poh Road  248973, Orchard / Holland (D09-10)",
+    "displayText": "The Aston",
+    "displayType": "Condominium",
+    "nanoId": "tn0rwa",
+    "objectId": "702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Kay Poh Road  248969, Orchard / Holland (D09-10)",
+    "displayText": "Kasturina Lodge",
+    "displayType": "Apartment",
+    "nanoId": "5xk6st",
+    "objectId": "1053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Kay Siang Road  240006, Orchard / Holland (D09-10)",
+    "displayText": "6 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "hlzkg9",
+    "objectId": "8041",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Kay Siang Road  248925, Orchard / Holland (D09-10)",
+    "displayText": "8 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "1dz5qj",
+    "objectId": "8042",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Kay Siang Road  240014, Orchard / Holland (D09-10)",
+    "displayText": "14 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "7z41xh",
+    "objectId": "8046",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Kay Siang Road  240017, Orchard / Holland (D09-10)",
+    "displayText": "17 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "pgwrek",
+    "objectId": "8049",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Kay Siang Road  240020, Orchard / Holland (D09-10)",
+    "displayText": "20 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "1k0jle",
+    "objectId": "8052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Kay Siang Road  248938, Orchard / Holland (D09-10)",
+    "displayText": "24 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "5qrl6k",
+    "objectId": "8054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10A Kay Siang Road  241010, Orchard / Holland (D09-10)",
+    "displayText": "10A Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "gca3ma",
+    "objectId": "8055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kay Poh Road",
+    "displayType": "Street",
+    "objectId": "1785",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Kay Siang Road  240010, Orchard / Holland (D09-10)",
+    "displayText": "10 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "f9lj5l",
+    "objectId": "8043",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Kay Siang Road  248928, Orchard / Holland (D09-10)",
+    "displayText": "11 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "41il63",
+    "objectId": "8044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Kay Siang Road  248929, Orchard / Holland (D09-10)",
+    "displayText": "12 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "7monfc",
+    "objectId": "8045",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Kay Siang Road  248931, Orchard / Holland (D09-10)",
+    "displayText": "15 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "qm773b",
+    "objectId": "8047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Kay Siang Road  240016, Orchard / Holland (D09-10)",
+    "displayText": "16 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "lqlcgy",
+    "objectId": "8048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Kay Siang Road  240018, Orchard / Holland (D09-10)",
+    "displayText": "18 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "8ugcx8",
+    "objectId": "8050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Kay Siang Road  240019, Orchard / Holland (D09-10)",
+    "displayText": "19 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "tsnotl",
+    "objectId": "8051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Kay Siang Road  240022, Orchard / Holland (D09-10)",
+    "displayText": "22 Kay Siang Road",
+    "displayType": "HDB",
+    "nanoId": "908ke9",
+    "objectId": "8053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kay Siang Road",
+    "displayType": "Street",
+    "objectId": "1786",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "15 Tanjong Katong Road  436950, East Coast (D15-16)",
+    "displayText": "Katong Regency",
+    "displayType": "Condominium",
+    "nanoId": "eiiaa5",
+    "objectId": "21220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "437 Tanjong Katong Road  437147, East Coast (D15-16)",
+    "displayText": "King's Mansion",
+    "displayType": "Condominium",
+    "nanoId": "9m3xgo",
+    "objectId": "1068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "263 Tanjong Katong Road  437050, East Coast (D15-16)",
+    "displayText": "Suites @ Katong",
+    "displayType": "Condominium",
+    "nanoId": "j42fo0",
+    "objectId": "20537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "235 Tembeling Road  423720, East Coast (D15-16)",
+    "displayText": "Katong Gardens",
+    "displayType": "Condominium",
+    "nanoId": "xgdmtq",
+    "objectId": "588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "300 Tanjong Katong Road  437083, East Coast (D15-16)",
+    "displayText": "Chelsea Lodge",
+    "displayType": "Condominium",
+    "nanoId": "l5nws0",
+    "objectId": "632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "440 Tanjong Katong Road  437149, East Coast (D15-16)",
+    "displayText": "Seaview Park",
+    "displayType": "Condominium",
+    "nanoId": "v769ho",
+    "objectId": "2398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Ceylon Road  429748, East Coast (D15-16)",
+    "displayText": "Spring @ Katong",
+    "displayType": "Apartment",
+    "nanoId": "smuu7h",
+    "objectId": "561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "357 East Coast Road  428974, East Coast (D15-16)",
+    "displayText": "Katong Omega Apartment",
+    "displayType": "Apartment",
+    "nanoId": "cjmscc",
+    "objectId": "1084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "150 Tanjong Katong Road  437154, East Coast (D15-16)",
+    "displayText": "Eastside Loft",
+    "displayType": "Condominium",
+    "nanoId": "lyglxj",
+    "objectId": "1892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Mangis Road  424965, East Coast (D15-16)",
+    "displayText": "Katong Apartments",
+    "displayType": "Apartment",
+    "nanoId": "ww6wht",
+    "objectId": "2076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "306 Telok Kurau Road  423857, East Coast (D15-16)",
+    "displayText": "Katong Mansions",
+    "displayType": "Apartment",
+    "nanoId": "zw7ohv",
+    "objectId": "2077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "86 - 88 Tanjong Katong Road  436958, East Coast (D15-16)",
+    "displayText": "Katong Ville",
+    "displayType": "Condominium",
+    "nanoId": "1a0pra",
+    "objectId": "2078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "114A Arthur Road  439826, East Coast (D15-16)",
+    "displayText": "Katong Towers enbloc",
+    "displayType": "Condominium",
+    "nanoId": "pcklwv",
+    "objectId": "24628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 East Coast Road  428722, East Coast (D15-16)",
+    "displayText": "Odeon Katong Shopping Complex",
+    "displayType": "Apartment",
+    "nanoId": "632mnw",
+    "objectId": "25023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Tanjong Katong Road  439998, East Coast (D15-16)",
+    "displayText": "Nine Degrees",
+    "displayType": "Apartment",
+    "nanoId": "ziwd02",
+    "objectId": "25201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 East Coast Road  428722, East Coast (D15-16)",
+    "displayText": "The Odeon Katong",
+    "displayType": "Apartment",
+    "nanoId": "2gaf4v",
+    "objectId": "692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Ceylon Road  420000, East Coast (D15-16)",
+    "displayText": "Bellezza @ Katong",
+    "displayType": "Apartment",
+    "nanoId": "bzhz2t",
+    "objectId": "771",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tanjong Katong Road",
+    "displayType": "Street",
+    "objectId": "10430",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Katong Road",
+    "displayType": "Street",
+    "objectId": "12867",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "289 Tanjong Katong Road  437072, East Coast (D15-16)",
+    "displayText": "289 Tanjong Katong Road",
+    "displayType": "Walk-up",
+    "nanoId": "ypqv52",
+    "objectId": "25903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jalan Tampang",
+    "displayType": "Street",
+    "objectId": "1492",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "Jalan Tembusu  438235, East Coast (D15-16)",
+    "displayText": "Emerald of Katong",
+    "displayType": "Condominium",
+    "nanoId": "rpw7n7",
+    "objectId": "25798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28-28C Jalan Ampang  268614, Orchard / Holland (D09-10)",
+    "displayText": "Astridville",
+    "displayType": "Condominium",
+    "nanoId": "vb15ae",
+    "objectId": "1762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jalan Ampang",
+    "displayType": "Street",
+    "objectId": "1203",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "276 Yio Chu Kang Road  544604, Serangoon / Thomson (D19-20)",
+    "displayText": "Hundred Palms Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "di3fnu",
+    "objectId": "23145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "511 Yio Chu Kang Road  787066, North (D25-28)",
+    "displayText": "The Calrose",
+    "displayType": "Condominium",
+    "nanoId": "fmwy5v",
+    "objectId": "116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Yio Chu Kang Road  544773, Serangoon / Thomson (D19-20)",
+    "displayText": "Terrasse",
+    "displayType": "Condominium",
+    "nanoId": "cx4kxe",
+    "objectId": "20654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "481 Yio Chu Kang Road  787056, North (D25-28)",
+    "displayText": "Castle Green",
+    "displayType": "Condominium",
+    "nanoId": "9thohf",
+    "objectId": "200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "491 Yio Chu Kang Road  787078, North (D25-28)",
+    "displayText": "Seasons Park",
+    "displayType": "Condominium",
+    "nanoId": "l0gqrg",
+    "objectId": "264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "398 Kallang Road  339098, Balestier / Geylang (D12-14)",
+    "displayText": "The Riverine By The Park",
+    "displayType": "Apartment",
+    "nanoId": "buu3nl",
+    "objectId": "968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Yio Chu Kang Road  780000, North (D25-28)",
+    "displayText": "Thomson Grove",
+    "displayType": "Condominium",
+    "nanoId": "qezgay",
+    "objectId": "813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Yio Chu Kang Road  545523, Serangoon / Thomson (D19-20)",
+    "displayText": "Space @ Kovan",
+    "displayType": "Apartment",
+    "nanoId": "hxsj5q",
+    "objectId": "20577",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 32 Yio Chu Kang Road  545550, Serangoon / Thomson (D19-20)",
+    "displayText": "Residences Botanique",
+    "displayType": "Condominium",
+    "nanoId": "0x43hm",
+    "objectId": "2591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11A Kang Choo Bin Road  548271, Serangoon / Thomson (D19-20)",
+    "displayText": "Summer Scent",
+    "displayType": "Condominium",
+    "nanoId": "uk6tpr",
+    "objectId": "21059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "208 Yio Chu Kang Road  545653, Serangoon / Thomson (D19-20)",
+    "displayText": "Parkwood Residences",
+    "displayType": "Condominium",
+    "nanoId": "vqhgl0",
+    "objectId": "23536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Yio Chu Kang Road  545678, Serangoon / Thomson (D19-20)",
+    "displayText": "Wembly Residences",
+    "displayType": "Apartment",
+    "nanoId": "rlzbh8",
+    "objectId": "2613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Choa Chu Kang Road  689388, West (D22-24)",
+    "displayText": "Nicon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "f5dy2q",
+    "objectId": "949",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Yio Chu Kang Road  545542, Serangoon / Thomson (D19-20)",
+    "displayText": "Stadia",
+    "displayType": "Condominium",
+    "nanoId": "nqli7o",
+    "objectId": "1273",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "371 Upper Paya Lebar Road  534969, Serangoon / Thomson (D19-20)",
+    "displayText": "Yi Kai Court",
+    "displayType": "Apartment",
+    "nanoId": "qv2st2",
+    "objectId": "1608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Yio Chu Kang Road  545523, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Centre",
+    "displayType": "Apartment",
+    "nanoId": "t8295y",
+    "objectId": "1637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

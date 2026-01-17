@@ -1,0 +1,1570 @@
+[
+  {
+    "displayText": "Sengkang Rivervale Drive",
+    "displayType": "Street",
+    "objectId": "16759",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "118 Rivervale Drive  540118, Serangoon / Thomson (D19-20)",
+    "displayText": "118 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "q447aj",
+    "objectId": "9637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Rivervale Drive  540119, Serangoon / Thomson (D19-20)",
+    "displayText": "119 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "dfzqxk",
+    "objectId": "9638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Rivervale Drive  540120, Serangoon / Thomson (D19-20)",
+    "displayText": "120 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "ewb8ig",
+    "objectId": "9639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Rivervale Drive  540121, Serangoon / Thomson (D19-20)",
+    "displayText": "121 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "oguv8c",
+    "objectId": "9640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Rivervale Drive  540123, Serangoon / Thomson (D19-20)",
+    "displayText": "123 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "srwsg8",
+    "objectId": "9641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Rivervale Drive  540124, Serangoon / Thomson (D19-20)",
+    "displayText": "124 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "rtxtw0",
+    "objectId": "9642",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Rivervale Drive  540143, Serangoon / Thomson (D19-20)",
+    "displayText": "143 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "wqs6ob",
+    "objectId": "9643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Rivervale Drive  540144, Serangoon / Thomson (D19-20)",
+    "displayText": "144 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "01nb2g",
+    "objectId": "9644",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Rivervale Drive  540145, Serangoon / Thomson (D19-20)",
+    "displayText": "145 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "c8fqoh",
+    "objectId": "9645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Rivervale Drive  540146, Serangoon / Thomson (D19-20)",
+    "displayText": "146 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "9gkzxq",
+    "objectId": "9646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188 Rivervale Drive  540188, Serangoon / Thomson (D19-20)",
+    "displayText": "188 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "a9wa7k",
+    "objectId": "9647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "192 Rivervale Drive  540192, Serangoon / Thomson (D19-20)",
+    "displayText": "192 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "uskn5j",
+    "objectId": "9648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "193 Rivervale Drive  540193, Serangoon / Thomson (D19-20)",
+    "displayText": "193 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "2n26mn",
+    "objectId": "9649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "194 Rivervale Drive  540194, Serangoon / Thomson (D19-20)",
+    "displayText": "194 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "qqfqva",
+    "objectId": "9650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "195 Rivervale Drive  540195, Serangoon / Thomson (D19-20)",
+    "displayText": "195 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "lifbrr",
+    "objectId": "9651",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196 Rivervale Drive  540196, Serangoon / Thomson (D19-20)",
+    "displayText": "196 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "5ko5yp",
+    "objectId": "9652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197 Rivervale Drive  540197, Serangoon / Thomson (D19-20)",
+    "displayText": "197 Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "e5i9zi",
+    "objectId": "9653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116A Rivervale Drive  541116, Serangoon / Thomson (D19-20)",
+    "displayText": "116A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "ggf3nz",
+    "objectId": "9654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116B Rivervale Drive  542116, Serangoon / Thomson (D19-20)",
+    "displayText": "116B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "umbagz",
+    "objectId": "9655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116C Rivervale Drive  543116, Serangoon / Thomson (D19-20)",
+    "displayText": "116C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "pfkrco",
+    "objectId": "9656",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116D Rivervale Drive  544116, Serangoon / Thomson (D19-20)",
+    "displayText": "116D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "iiqgoa",
+    "objectId": "9657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117A Rivervale Drive  541117, Serangoon / Thomson (D19-20)",
+    "displayText": "117A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "jtm2jo",
+    "objectId": "9658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117B Rivervale Drive  542117, Serangoon / Thomson (D19-20)",
+    "displayText": "117B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "ec363i",
+    "objectId": "9659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117C Rivervale Drive  543117, Serangoon / Thomson (D19-20)",
+    "displayText": "117C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "7bptan",
+    "objectId": "9660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117D Rivervale Drive  544117, Serangoon / Thomson (D19-20)",
+    "displayText": "117D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "939tqi",
+    "objectId": "9661",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119A Rivervale Drive  541119, Serangoon / Thomson (D19-20)",
+    "displayText": "119A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "fqzch6",
+    "objectId": "9662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119B Rivervale Drive  542119, Serangoon / Thomson (D19-20)",
+    "displayText": "119B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "z150r5",
+    "objectId": "9663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119C Rivervale Drive  543119, Serangoon / Thomson (D19-20)",
+    "displayText": "119C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "xbzm32",
+    "objectId": "9664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119D Rivervale Drive  544119, Serangoon / Thomson (D19-20)",
+    "displayText": "119D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "qjsl35",
+    "objectId": "9665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120A Rivervale Drive  541120, Serangoon / Thomson (D19-20)",
+    "displayText": "120A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "ro0180",
+    "objectId": "9666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120B Rivervale Drive  542120, Serangoon / Thomson (D19-20)",
+    "displayText": "120B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "xv87vp",
+    "objectId": "9667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120C Rivervale Drive  543120, Serangoon / Thomson (D19-20)",
+    "displayText": "120C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "nxpbdh",
+    "objectId": "9668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120D Rivervale Drive  544120, Serangoon / Thomson (D19-20)",
+    "displayText": "120D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "g4fvpo",
+    "objectId": "9669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121A Rivervale Drive  541121, Serangoon / Thomson (D19-20)",
+    "displayText": "121A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "dii6rs",
+    "objectId": "9670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121B Rivervale Drive  542121, Serangoon / Thomson (D19-20)",
+    "displayText": "121B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "qwubvs",
+    "objectId": "9671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122D Rivervale Drive  544122, Serangoon / Thomson (D19-20)",
+    "displayText": "122D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "wwzd0d",
+    "objectId": "9672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122E Rivervale Drive  545122, Serangoon / Thomson (D19-20)",
+    "displayText": "122E Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "pmby7j",
+    "objectId": "9673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122F Rivervale Drive  546122, Serangoon / Thomson (D19-20)",
+    "displayText": "122F Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "d0dv4q",
+    "objectId": "9674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123A Rivervale Drive  541123, Serangoon / Thomson (D19-20)",
+    "displayText": "123A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "5vidoa",
+    "objectId": "9675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123B Rivervale Drive  542123, Serangoon / Thomson (D19-20)",
+    "displayText": "123B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "5dnfmy",
+    "objectId": "9676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123C Rivervale Drive  543123, Serangoon / Thomson (D19-20)",
+    "displayText": "123C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "4jq2zy",
+    "objectId": "9677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123D Rivervale Drive  544123, Serangoon / Thomson (D19-20)",
+    "displayText": "123D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "18wi3w",
+    "objectId": "9678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123E Rivervale Drive  545123, Serangoon / Thomson (D19-20)",
+    "displayText": "123E Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "9hk6k6",
+    "objectId": "9679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124A Rivervale Drive  541124, Serangoon / Thomson (D19-20)",
+    "displayText": "124A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "q8uavm",
+    "objectId": "9680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124B Rivervale Drive  542124, Serangoon / Thomson (D19-20)",
+    "displayText": "124B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "y3250h",
+    "objectId": "9681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124C Rivervale Drive  543124, Serangoon / Thomson (D19-20)",
+    "displayText": "124C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "u9ohlq",
+    "objectId": "9682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124D Rivervale Drive  544124, Serangoon / Thomson (D19-20)",
+    "displayText": "124D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "adgyn5",
+    "objectId": "9683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124E Rivervale Drive  545124, Serangoon / Thomson (D19-20)",
+    "displayText": "124E Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "zxzqgd",
+    "objectId": "9684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142A Rivervale Drive  541142, Serangoon / Thomson (D19-20)",
+    "displayText": "142A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "jak9rf",
+    "objectId": "9685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143A Rivervale Drive  541143, Serangoon / Thomson (D19-20)",
+    "displayText": "143A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "igesv7",
+    "objectId": "9686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "186A Rivervale Drive  541186, Serangoon / Thomson (D19-20)",
+    "displayText": "186A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "zwdnnj",
+    "objectId": "9687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "186B Rivervale Drive  542186, Serangoon / Thomson (D19-20)",
+    "displayText": "186B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "htt5bl",
+    "objectId": "9688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "186C Rivervale Drive  543186, Serangoon / Thomson (D19-20)",
+    "displayText": "186C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "8b0d38",
+    "objectId": "9689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "186D Rivervale Drive  544186, Serangoon / Thomson (D19-20)",
+    "displayText": "186D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "t53g2o",
+    "objectId": "9690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "187A Rivervale Drive  541187, Serangoon / Thomson (D19-20)",
+    "displayText": "187A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "kg87uc",
+    "objectId": "9691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "187B Rivervale Drive  542187, Serangoon / Thomson (D19-20)",
+    "displayText": "187B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "ou57pa",
+    "objectId": "9692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188A Rivervale Drive  541188, Serangoon / Thomson (D19-20)",
+    "displayText": "188A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "l4d4lg",
+    "objectId": "9693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188B Rivervale Drive  542188, Serangoon / Thomson (D19-20)",
+    "displayText": "188B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "dw54bx",
+    "objectId": "9694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188C Rivervale Drive  543188, Serangoon / Thomson (D19-20)",
+    "displayText": "188C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "ky1eu1",
+    "objectId": "9695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188D Rivervale Drive  544188, Serangoon / Thomson (D19-20)",
+    "displayText": "188D Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "i9ulo6",
+    "objectId": "9696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188E Rivervale Drive  545188, Serangoon / Thomson (D19-20)",
+    "displayText": "188E Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "gjoiua",
+    "objectId": "9697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "189A Rivervale Drive  541189, Serangoon / Thomson (D19-20)",
+    "displayText": "189A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "iy4ek5",
+    "objectId": "9698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "189B Rivervale Drive  542189, Serangoon / Thomson (D19-20)",
+    "displayText": "189B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "tqfj0o",
+    "objectId": "9699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "189C Rivervale Drive  543189, Serangoon / Thomson (D19-20)",
+    "displayText": "189C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "tdjowm",
+    "objectId": "9700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "190A Rivervale Drive  541190, Serangoon / Thomson (D19-20)",
+    "displayText": "190A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "04rv37",
+    "objectId": "9701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "190B Rivervale Drive  542190, Serangoon / Thomson (D19-20)",
+    "displayText": "190B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "jil984",
+    "objectId": "9702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "190C Rivervale Drive  543190, Serangoon / Thomson (D19-20)",
+    "displayText": "190C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "6q04e2",
+    "objectId": "9703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "191A Rivervale Drive  541191, Serangoon / Thomson (D19-20)",
+    "displayText": "191A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "ajz09j",
+    "objectId": "9704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "191B Rivervale Drive  542191, Serangoon / Thomson (D19-20)",
+    "displayText": "191B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "rbp15l",
+    "objectId": "9705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "191C Rivervale Drive  543191, Serangoon / Thomson (D19-20)",
+    "displayText": "191C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "u8s85r",
+    "objectId": "9706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "192A Rivervale Drive  541192, Serangoon / Thomson (D19-20)",
+    "displayText": "192A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "aoxng2",
+    "objectId": "9707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22",
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "192B Rivervale Drive  542192, Serangoon / Thomson (D19-20)",
+    "displayText": "192B Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "gieco9",
+    "objectId": "9708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "192C Rivervale Drive  543192, Serangoon / Thomson (D19-20)",
+    "displayText": "192C Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "tx7xx9",
+    "objectId": "9709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "194A Rivervale Drive  511194, Changi / Pasir Ris (D17-18)",
+    "displayText": "194A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "4obnlj",
+    "objectId": "9710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "195A Rivervale Drive  541195, Serangoon / Thomson (D19-20)",
+    "displayText": "195A Rivervale Drive",
+    "displayType": "HDB",
+    "nanoId": "j7d4o0",
+    "objectId": "9711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Rivervale Link  545118, Serangoon / Thomson (D19-20)",
+    "displayText": "The Rivervale",
+    "displayType": "Condominium",
+    "nanoId": "v1lhij",
+    "objectId": "194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Rivervale Link  545040, Serangoon / Thomson (D19-20)",
+    "displayText": "Park Green",
+    "displayType": "Condominium",
+    "nanoId": "ri89tt",
+    "objectId": "1514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Rivervale Crescent  545084, Serangoon / Thomson (D19-20)",
+    "displayText": "Rivervale Crest",
+    "displayType": "Condominium",
+    "nanoId": "4vn9ls",
+    "objectId": "289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Rivervale Crescent",
+    "displayType": "Street",
+    "objectId": "4841",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Rivervale Walk",
+    "displayType": "Street",
+    "objectId": "5250",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "178A Rivervale Crescent  541178, Serangoon / Thomson (D19-20)",
+    "displayText": "178A Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "rqb0z2",
+    "objectId": "21795",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178B Rivervale Crescent  542178, Serangoon / Thomson (D19-20)",
+    "displayText": "178B Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "1utr9l",
+    "objectId": "21796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178C Rivervale Crescent  543178, Serangoon / Thomson (D19-20)",
+    "displayText": "178C Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "eorb7f",
+    "objectId": "21797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178D Rivervale Crescent  544178, Serangoon / Thomson (D19-20)",
+    "displayText": "178D Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "g67gn7",
+    "objectId": "21798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178 Rivervale Crescent  540178, Serangoon / Thomson (D19-20)",
+    "displayText": "178 Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "tr0jzl",
+    "objectId": "21799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180C Rivervale Crescent  543180, Serangoon / Thomson (D19-20)",
+    "displayText": "180C Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "mbkg83",
+    "objectId": "21864",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180D Rivervale Crescent  544180, Serangoon / Thomson (D19-20)",
+    "displayText": "180D Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "jjpr5m",
+    "objectId": "22148",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180B Rivervale Crescent  542180, Serangoon / Thomson (D19-20)",
+    "displayText": "180B Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "7ysjuo",
+    "objectId": "22211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180A Rivervale Crescent  541180, Serangoon / Thomson (D19-20)",
+    "displayText": "180A Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "nu45by",
+    "objectId": "23074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162B Rivervale Crescent  542162, Serangoon / Thomson (D19-20)",
+    "displayText": "162B Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "dfx2tj",
+    "objectId": "23094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162A Rivervale Crescent  541162, Serangoon / Thomson (D19-20)",
+    "displayText": "162A Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "14aqr7",
+    "objectId": "23096",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162C Rivervale Crescent  543162, Serangoon / Thomson (D19-20)",
+    "displayText": "162C Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "ali652",
+    "objectId": "23097",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163A Rivervale Crescent  541163, Serangoon / Thomson (D19-20)",
+    "displayText": "163A Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "aobit7",
+    "objectId": "23098",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163B Rivervale Crescent  542163, Serangoon / Thomson (D19-20)",
+    "displayText": "163B Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "zior42",
+    "objectId": "23099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163C Rivervale Crescent  543163, Serangoon / Thomson (D19-20)",
+    "displayText": "163C Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "015jxb",
+    "objectId": "23100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164A Rivervale Crescent  541164, Serangoon / Thomson (D19-20)",
+    "displayText": "164A Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "mfoi6f",
+    "objectId": "23101",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164B Rivervale Crescent  542164, Serangoon / Thomson (D19-20)",
+    "displayText": "164B Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "xn7jrq",
+    "objectId": "23102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164C Rivervale Crescent  543164, Serangoon / Thomson (D19-20)",
+    "displayText": "164C Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "3lmzpw",
+    "objectId": "23103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Rivervale Crescent  540142, Serangoon / Thomson (D19-20)",
+    "displayText": "142 Rivervale Crescent",
+    "displayType": "HDB",
+    "nanoId": "l8iu55",
+    "objectId": "9595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

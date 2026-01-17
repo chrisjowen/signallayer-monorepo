@@ -1,0 +1,1448 @@
+[
+  {
+    "displayText": "Lengkong Tiga",
+    "displayType": "Street",
+    "objectId": "10564",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "60 Lengkong Tiga  417454, Balestier / Geylang (D12-14)",
+    "displayText": "Starville",
+    "displayType": "Condominium",
+    "nanoId": "o58zte",
+    "objectId": "381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Lengkong Tiga  417000, Balestier / Geylang (D12-14)",
+    "displayText": "Kembangan Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "w6vum3",
+    "objectId": "2083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "101 Lengkong Tiga  410101, Balestier / Geylang (D12-14)",
+    "displayText": "101 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "i3nvig",
+    "objectId": "8164",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Lengkong Tiga  410102, Balestier / Geylang (D12-14)",
+    "displayText": "102 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "klmtqh",
+    "objectId": "8165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Lengkong Tiga  410103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "wko3pp",
+    "objectId": "8166",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Lengkong Tiga  410104, Balestier / Geylang (D12-14)",
+    "displayText": "104 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "qb1h7d",
+    "objectId": "8167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Lengkong Tiga  410105, Balestier / Geylang (D12-14)",
+    "displayText": "105 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "fu25a5",
+    "objectId": "8168",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Lengkong Tiga  410106, Balestier / Geylang (D12-14)",
+    "displayText": "106 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "d82zkv",
+    "objectId": "8169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Lengkong Tiga  410107, Balestier / Geylang (D12-14)",
+    "displayText": "107 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "gua8es",
+    "objectId": "8170",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Lengkong Tiga  410108, Balestier / Geylang (D12-14)",
+    "displayText": "108 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "12pw3a",
+    "objectId": "8171",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Lengkong Tiga  410109, Balestier / Geylang (D12-14)",
+    "displayText": "109 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "1bzz8v",
+    "objectId": "8172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Lengkong Tiga  410110, Balestier / Geylang (D12-14)",
+    "displayText": "110 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "8kd72q",
+    "objectId": "8173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Lengkong Tiga  410111, Balestier / Geylang (D12-14)",
+    "displayText": "111 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "tju3cr",
+    "objectId": "8174",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Lengkong Tiga  410112, Balestier / Geylang (D12-14)",
+    "displayText": "112 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "92j9cu",
+    "objectId": "8175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Lengkong Tiga  410113, Balestier / Geylang (D12-14)",
+    "displayText": "113 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "1v0i9j",
+    "objectId": "8176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Lengkong Tiga  410114, Balestier / Geylang (D12-14)",
+    "displayText": "114 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "os46zm",
+    "objectId": "8177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Lengkong Tiga  410115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "2vx8mz",
+    "objectId": "8178",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Lengkong Tiga  410116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Lengkong Tiga",
+    "displayType": "HDB",
+    "nanoId": "dl9pnz",
+    "objectId": "8179",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Lengkong Tiga",
+    "displayType": "Street",
+    "objectId": "12612",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lengkong Lima",
+    "displayType": "Street",
+    "objectId": "14750",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Jalan Tiga Ratus  488067, East Coast (D15-16)",
+    "displayText": "Tropicana Condominium",
+    "displayType": "Condominium",
+    "nanoId": "vm3a6i",
+    "objectId": "940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Jalan Tiga  390039, Balestier / Geylang (D12-14)",
+    "displayText": "39 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "o9fldf",
+    "objectId": "7113",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "41 Jalan Tiga  390041, Balestier / Geylang (D12-14)",
+    "displayText": "41 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "1g4bf8",
+    "objectId": "7114",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Jalan Tiga  390043, Balestier / Geylang (D12-14)",
+    "displayText": "43 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "0rx1h0",
+    "objectId": "7115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Jalan Tiga  390045, Balestier / Geylang (D12-14)",
+    "displayText": "45 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "klbjy7",
+    "objectId": "7116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Jalan Tiga  390047, Balestier / Geylang (D12-14)",
+    "displayText": "47 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "kfv0cv",
+    "objectId": "7117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Jalan Tiga  390049, Balestier / Geylang (D12-14)",
+    "displayText": "49 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "33k8an",
+    "objectId": "7118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43A Jalan Tiga  391043, Balestier / Geylang (D12-14)",
+    "displayText": "43A Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "6bigud",
+    "objectId": "7119",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49A Jalan Tiga  391049, Balestier / Geylang (D12-14)",
+    "displayText": "49A Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "98347c",
+    "objectId": "7120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Tiga",
+    "displayType": "Street",
+    "objectId": "1516",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Bintang Tiga",
+    "displayType": "Street",
+    "objectId": "1539",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Tiga Ratus",
+    "displayType": "Street",
+    "objectId": "1641",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "36 Lengkong Tujoh  417391, Balestier / Geylang (D12-14)",
+    "displayText": "Vacanza @ East",
+    "displayType": "Condominium",
+    "nanoId": "izl9p5",
+    "objectId": "2672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "53 Lengkong Empat  417657, Balestier / Geylang (D12-14)",
+    "displayText": "Escada View",
+    "displayType": "Condominium",
+    "nanoId": "3752tn",
+    "objectId": "882",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Lengkong Empat  417609, Balestier / Geylang (D12-14)",
+    "displayText": "Grosvenor View",
+    "displayType": "Condominium",
+    "nanoId": "1hfdwo",
+    "objectId": "250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "43 Lengkong Empat  417659, Balestier / Geylang (D12-14)",
+    "displayText": "D'Heritage Castle",
+    "displayType": "Apartment",
+    "nanoId": "khbqp3",
+    "objectId": "1857",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "75 Lengkong Empat  417654, Balestier / Geylang (D12-14)",
+    "displayText": "Hua Yu Mansion",
+    "displayType": "Apartment",
+    "nanoId": "ekq8lw",
+    "objectId": "20938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Lengkong Empat  417645, Balestier / Geylang (D12-14)",
+    "displayText": "Lengkong Court",
+    "displayType": "Apartment",
+    "nanoId": "neaquk",
+    "objectId": "20957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 - 3 Lengkong Empat  417611, Balestier / Geylang (D12-14)",
+    "displayText": "Lengkong Apartment",
+    "displayType": "Apartment",
+    "nanoId": "j7lfvv",
+    "objectId": "2134",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 Lengkong Empat  417642, Balestier / Geylang (D12-14)",
+    "displayText": "Levenue",
+    "displayType": "Condominium",
+    "nanoId": "7qkntr",
+    "objectId": "21382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51C Lengkong Empat  417660, Balestier / Geylang (D12-14)",
+    "displayText": "Astor",
+    "displayType": "Apartment",
+    "nanoId": "lz5ve7",
+    "objectId": "55",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Lengkong Empat",
+    "displayType": "Street",
+    "objectId": "10313",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lengkong Enam",
+    "displayType": "Street",
+    "objectId": "10693",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lengkong Satu",
+    "displayType": "Street",
+    "objectId": "13469",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "188 Keng Lee Road  308414, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Rochelle At Newton",
+    "displayType": "Condominium",
+    "nanoId": "qb2zz0",
+    "objectId": "1394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "361 Bukit Timah Road  259725, Orchard / Holland (D09-10)",
+    "displayText": "The Legend",
+    "displayType": "Condominium",
+    "nanoId": "prc3d1",
+    "objectId": "442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Hindhede Drive  589318, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Le Wood",
+    "displayType": "Condominium",
+    "nanoId": "pqzp08",
+    "objectId": "859",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "455 Bukit Timah Road  259750, Orchard / Holland (D09-10)",
+    "displayText": "The Legacy",
+    "displayType": "Apartment",
+    "nanoId": "o1iskh",
+    "objectId": "1034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "437A-443A Bukit Timah Road  259743, Orchard / Holland (D09-10)",
+    "displayText": "Lewis Court",
+    "displayType": "Condominium",
+    "nanoId": "d4lm98",
+    "objectId": "25192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D19",
+    "displayText": "D19 Hougang / Punggol / Sengkang",
+    "displayType": "District",
+    "objectId": "D19",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D19"
+    }
+  },
+  {
+    "displayText": "Sengkang",
+    "displayType": "HDB Estate",
+    "objectId": "22",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "74 Compassvale Bow  544567, Serangoon / Thomson (D19-20)",
+    "displayText": "Sengkang Grand Residences",
+    "displayType": "Condominium",
+    "nanoId": "5jqtjv",
+    "objectId": "23825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "58 Sengkang Square  544699, Serangoon / Thomson (D19-20)",
+    "displayText": "La Fiesta",
+    "displayType": "Condominium",
+    "nanoId": "4zb5da",
+    "objectId": "21402",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Sengkang East Avenue  544804, Serangoon / Thomson (D19-20)",
+    "displayText": "Austville Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "6bern0",
+    "objectId": "20668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Sengkang Square  545075, Serangoon / Thomson (D19-20)",
+    "displayText": "Compass Heights",
+    "displayType": "Condominium",
+    "nanoId": "c3n4oa",
+    "objectId": "267",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sengkang West Way/Fernvale  793000, North (D25-28)",
+    "displayText": "Riverbank at Fernvale",
+    "displayType": "Condominium",
+    "nanoId": "mycbaw",
+    "objectId": "21835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Sengkang East Avenue  544740, Serangoon / Thomson (D19-20)",
+    "displayText": "Riversound Residence",
+    "displayType": "Condominium",
+    "nanoId": "cux0hd",
+    "objectId": "21119",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sengkang West Way/Fernvale  793000, North (D25-28)",
+    "displayText": "Lush Acres",
+    "displayType": "Executive Condominium",
+    "nanoId": "vsacyh",
+    "objectId": "21692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "458A Sengkang West Road  791458, North (D25-28)",
+    "displayText": "458A Sengkang West Road",
+    "displayType": "HDB",
+    "nanoId": "mrobko",
+    "objectId": "25704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "458C Sengkang West Road  793458, North (D25-28)",
+    "displayText": "458C Sengkang West Road",
+    "displayType": "HDB",
+    "nanoId": "8tw0p0",
+    "objectId": "25817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Sengkang Rivervale Drive",
+    "displayType": "Street",
+    "objectId": "16759",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sengkang East Avenue",
+    "displayType": "Street",
+    "objectId": "2919",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sengkang East Way",
+    "displayType": "Street",
+    "objectId": "2922",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "448A Sengkang West Way  791448, North (D25-28)",
+    "displayText": "448A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "ut1b09",
+    "objectId": "21617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "448B Sengkang West Way  792448, North (D25-28)",
+    "displayText": "448B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "2ix84l",
+    "objectId": "21618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "449 Sengkang West Way  790449, North (D25-28)",
+    "displayText": "449 Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "whaeov",
+    "objectId": "21619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450A Sengkang West Way  791450, North (D25-28)",
+    "displayText": "450A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "r8bfp5",
+    "objectId": "21621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450B Sengkang West Way  792450, North (D25-28)",
+    "displayText": "450B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "8f40mc",
+    "objectId": "21622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450C Sengkang West Way  793450, North (D25-28)",
+    "displayText": "450C Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "44fkpr",
+    "objectId": "21623",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271B Sengkang Central  542271, Serangoon / Thomson (D19-20)",
+    "displayText": "271B Sengkang Central",
+    "displayType": "HDB",
+    "nanoId": "1zjmkk",
+    "objectId": "21641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271C Sengkang Central  543271, Serangoon / Thomson (D19-20)",
+    "displayText": "271C Sengkang Central",
+    "displayType": "HDB",
+    "nanoId": "fkihm8",
+    "objectId": "21850",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "439A Sengkang West Avenue  791439, North (D25-28)",
+    "displayText": "439A Sengkang West Avenue",
+    "displayType": "HDB",
+    "nanoId": "qs6it7",
+    "objectId": "21995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433B Sengkang West Way  792433, North (D25-28)",
+    "displayText": "433B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "n5ywvf",
+    "objectId": "22511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469 Sengkang West Way  790469, North (D25-28)",
+    "displayText": "469 Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "4ed5tk",
+    "objectId": "22902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469A Sengkang West Way  791469, North (D25-28)",
+    "displayText": "469A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "y2xc9j",
+    "objectId": "22903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469C Sengkang West Way  793469, North (D25-28)",
+    "displayText": "469C Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "fit6dp",
+    "objectId": "22905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "432A Sengkang West Way  791432, North (D25-28)",
+    "displayText": "432A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "9pwwoj",
+    "objectId": "23105",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "432B Sengkang West Way  792432, North (D25-28)",
+    "displayText": "432B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "yafose",
+    "objectId": "23106",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433 Sengkang West Way  790433, North (D25-28)",
+    "displayText": "433 Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "aewuou",
+    "objectId": "23107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433A Sengkang West Way  791433, North (D25-28)",
+    "displayText": "433A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "euhllb",
+    "objectId": "23108",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279A Sengkang East Avenue  541279, Serangoon / Thomson (D19-20)",
+    "displayText": "279A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "fmjndi",
+    "objectId": "23171",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279B Sengkang East Avenue  542279, Serangoon / Thomson (D19-20)",
+    "displayText": "279B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "e3870a",
+    "objectId": "23172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279C Sengkang East Avenue  543279, Serangoon / Thomson (D19-20)",
+    "displayText": "279C Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "j9vfv8",
+    "objectId": "23173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280 Sengkang East Avenue  540280, Serangoon / Thomson (D19-20)",
+    "displayText": "280 Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "l001bm",
+    "objectId": "23174",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280A Sengkang East Avenue  541280, Serangoon / Thomson (D19-20)",
+    "displayText": "280A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "bmgjlz",
+    "objectId": "23175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280B Sengkang East Avenue  542280, Serangoon / Thomson (D19-20)",
+    "displayText": "280B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "8m7oqg",
+    "objectId": "23176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "281A Sengkang East Avenue  541281, Serangoon / Thomson (D19-20)",
+    "displayText": "281A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "z5og1r",
+    "objectId": "23177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "281B Sengkang East Avenue  542281, Serangoon / Thomson (D19-20)",
+    "displayText": "281B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "l92ejx",
+    "objectId": "23178",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282 Sengkang East Avenue  540282, Serangoon / Thomson (D19-20)",
+    "displayText": "282 Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "uoj5bh",
+    "objectId": "23179",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282A Sengkang East Avenue  541282, Serangoon / Thomson (D19-20)",
+    "displayText": "282A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "vi2p34",
+    "objectId": "23180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282B Sengkang East Avenue  542282, Serangoon / Thomson (D19-20)",
+    "displayText": "282B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "unrg9y",
+    "objectId": "23181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282C Sengkang East Avenue  543282, Serangoon / Thomson (D19-20)",
+    "displayText": "282C Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "ej7p8m",
+    "objectId": "23182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "451A Sengkang West Way  791451, North (D25-28)",
+    "displayText": "451A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "sftari",
+    "objectId": "23499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "451B Sengkang West Way  792451, North (D25-28)",
+    "displayText": "451B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "d4yb82",
+    "objectId": "23500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "452A Sengkang West Way  791452, North (D25-28)",
+    "displayText": "452A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "8yz7e8",
+    "objectId": "23501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "452B Sengkang West Way  792452, North (D25-28)",
+    "displayText": "452B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "w6j0qe",
+    "objectId": "23502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469B Sengkang West Way  792469, North (D25-28)",
+    "displayText": "469B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "hz5zu7",
+    "objectId": "23645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "460A Sengkang West Way  791460, North (D25-28)",
+    "displayText": "460A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "6go88g",
+    "objectId": "25300",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "455A Sengkang West Avenue  791455, North (D25-28)",
+    "displayText": "455A Sengkang West Avenue",
+    "displayType": "HDB",
+    "nanoId": "y1cbh8",
+    "objectId": "25399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

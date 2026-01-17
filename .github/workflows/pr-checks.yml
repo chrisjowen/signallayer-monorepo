@@ -1,0 +1,162 @@
+name: Pull Request Checks
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+env:
+  PYTHON_VERSION: "3.11"
+  UV_VERSION: "0.5.11"
+  NODE_VERSION: "20"
+
+jobs:
+  # ============================================
+  # Workflows Lint & Format
+  # ============================================
+  lint-workflows:
+    name: Lint Workflows
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/${{ env.UV_VERSION }}/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        working-directory: signallayer-workflows
+        run: uv sync
+
+      - name: Run Ruff linting
+        working-directory: signallayer-workflows
+        run: uv run ruff check . --output-format=github
+
+      - name: Run Ruff formatting check
+        working-directory: signallayer-workflows
+        run: uv run ruff format --check .
+
+  # ============================================
+  # Workflows Type Check
+  # ============================================
+  type-check-workflows:
+    name: Type Check Workflows
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/${{ env.UV_VERSION }}/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        working-directory: signallayer-workflows
+        run: uv sync
+
+      - name: Run mypy
+        working-directory: signallayer-workflows
+        run: uv run mypy src
+        continue-on-error: true
+
+  # ============================================
+  # UI Lint & Format
+  # ============================================
+  lint-ui:
+    name: Lint UI
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        working-directory: signallayer-ui
+        run: pnpm install
+
+      - name: Run Prettier check
+        working-directory: signallayer-ui
+        run: pnpm run format --check || true
+
+      - name: Run ESLint
+        working-directory: signallayer-ui
+        run: pnpm run lint || true
+
+  # ============================================
+  # UI Type Check
+  # ============================================
+  type-check-ui:
+    name: Type Check UI
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        working-directory: signallayer-ui
+        run: pnpm install
+
+      - name: Run Svelte check
+        working-directory: signallayer-ui
+        run: pnpm run check
+        continue-on-error: true
+
+  # ============================================
+  # Security Scan
+  # ============================================
+  security-scan:
+    name: Security Scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@master
+        with:
+          scan-type: 'fs'
+          scan-ref: '.'
+          format: 'sarif'
+          output: 'trivy-results.sarif'
+
+      - name: Upload Trivy results to GitHub Security
+        uses: github/codeql-action/upload-sarif@v3
+        if: always()
+        with:
+          sarif_file: 'trivy-results.sarif'

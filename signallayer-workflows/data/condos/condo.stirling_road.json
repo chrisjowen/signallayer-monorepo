@@ -1,0 +1,1439 @@
+[
+  {
+    "displayText": "Stirling Road",
+    "displayType": "Street",
+    "objectId": "3786",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Stirling Road  148960, City & South West (D01-08)",
+    "displayText": "Stirling Residences",
+    "displayType": "Condominium",
+    "nanoId": "hac43b",
+    "objectId": "23462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Stirling Road  148954, City & South West (D01-08)",
+    "displayText": "Queens",
+    "displayType": "Condominium",
+    "nanoId": "ib6110",
+    "objectId": "164",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Stirling Road  140041, City & South West (D01-08)",
+    "displayText": "41 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "rl0lg1",
+    "objectId": "10450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "42 Stirling Road  140042, City & South West (D01-08)",
+    "displayText": "42 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "ajk0sw",
+    "objectId": "10451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Stirling Road  141043, City & South West (D01-08)",
+    "displayText": "43 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "kku9jm",
+    "objectId": "10452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Stirling Road  141044, City & South West (D01-08)",
+    "displayText": "44 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "8dv70f",
+    "objectId": "10453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Stirling Road  140045, City & South West (D01-08)",
+    "displayText": "45 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "0hss9s",
+    "objectId": "10454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Stirling Road  140046, City & South West (D01-08)",
+    "displayText": "46 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "6a1bi0",
+    "objectId": "10455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Stirling Road  140047, City & South West (D01-08)",
+    "displayText": "47 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "te61ml",
+    "objectId": "10456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Stirling Road  141048, City & South West (D01-08)",
+    "displayText": "48 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "a6kuuq",
+    "objectId": "10457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Stirling Road  141049, City & South West (D01-08)",
+    "displayText": "49 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "lbrsrs",
+    "objectId": "10458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20",
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Stirling Road  141050, City & South West (D01-08)",
+    "displayText": "50 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "hqxy8r",
+    "objectId": "10459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Stirling Road  140052, City & South West (D01-08)",
+    "displayText": "52 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "cyscmi",
+    "objectId": "10460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Stirling Road  141053, City & South West (D01-08)",
+    "displayText": "53 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "w3qhvx",
+    "objectId": "10461",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Stirling Road  142055, City & South West (D01-08)",
+    "displayText": "55 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "1j9sa6",
+    "objectId": "10462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Stirling Road  142056, City & South West (D01-08)",
+    "displayText": "56 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "hzwnw1",
+    "objectId": "10463",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Stirling Road  141057, City & South West (D01-08)",
+    "displayText": "57 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "m6g6x7",
+    "objectId": "10464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Stirling Road  141058, City & South West (D01-08)",
+    "displayText": "58 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "h3nvuh",
+    "objectId": "10465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Stirling Road  140163, City & South West (D01-08)",
+    "displayText": "163 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "rwtigt",
+    "objectId": "10467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164 Stirling Road  140164, City & South West (D01-08)",
+    "displayText": "164 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "ocz1of",
+    "objectId": "10468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Stirling Road  140165, City & South West (D01-08)",
+    "displayText": "165 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "d0g6pw",
+    "objectId": "10469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Stirling Road  140166, City & South West (D01-08)",
+    "displayText": "166 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "owzowg",
+    "objectId": "10470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167 Stirling Road  140167, City & South West (D01-08)",
+    "displayText": "167 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "0f8w6s",
+    "objectId": "10471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168 Stirling Road  141168, City & South West (D01-08)",
+    "displayText": "168 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "u4a0nb",
+    "objectId": "10472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169 Stirling Road  140169, City & South West (D01-08)",
+    "displayText": "169 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "eqi1vx",
+    "objectId": "10473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170 Stirling Road  140170, City & South West (D01-08)",
+    "displayText": "170 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "qp28gx",
+    "objectId": "10474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171 Stirling Road  140171, City & South West (D01-08)",
+    "displayText": "171 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "s498cn",
+    "objectId": "10475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "181 Stirling Road  140181, City & South West (D01-08)",
+    "displayText": "181 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "5bychz",
+    "objectId": "10476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182 Stirling Road  140182, City & South West (D01-08)",
+    "displayText": "182 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "51e64m",
+    "objectId": "10477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183 Stirling Road  140183, City & South West (D01-08)",
+    "displayText": "183 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "2jo3s9",
+    "objectId": "10478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "184 Stirling Road  140184, City & South West (D01-08)",
+    "displayText": "184 Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "v6abe6",
+    "objectId": "10479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169A Stirling Road  141169, City & South West (D01-08)",
+    "displayText": "169A Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "2r8ez6",
+    "objectId": "10480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171A Stirling Road  141171, City & South West (D01-08)",
+    "displayText": "171A Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "c785wh",
+    "objectId": "10481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182A Stirling Road  141182, City & South West (D01-08)",
+    "displayText": "182A Stirling Road",
+    "displayType": "HDB",
+    "nanoId": "4rdygf",
+    "objectId": "10482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Stirling Road  148959, City & South West (D01-08)",
+    "displayText": "MDIS Residences@Stirling",
+    "displayType": "Condominium",
+    "nanoId": "ke6wp5",
+    "objectId": "23555",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Striling Road",
+    "displayType": "Street",
+    "objectId": "5343",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sterling Road",
+    "displayType": "Street",
+    "objectId": "5761",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1001 Bukit Timah Road  596288, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Sterling",
+    "displayType": "Condominium",
+    "nanoId": "zh2ff7",
+    "objectId": "507",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Stirling",
+    "displayType": "Street",
+    "objectId": "3117",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "984 Upper Serangoon Road  533854, Serangoon / Thomson (D19-20)",
+    "displayText": "Stars of Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ohgzu6",
+    "objectId": "22474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Sturdee Road  207852, City & South West (D01-08)",
+    "displayText": "Kerrisdale",
+    "displayType": "Condominium",
+    "nanoId": "m51xpm",
+    "objectId": "68",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Rodyk Street  238212, Orchard / Holland (D09-10)",
+    "displayText": "Watermark Robertson Quay",
+    "displayType": "Apartment",
+    "nanoId": "whrhwu",
+    "objectId": "160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Beatty Road  209955, City & South West (D01-08)",
+    "displayText": "Sturdee Residences",
+    "displayType": "Condominium",
+    "nanoId": "ld5lwa",
+    "objectId": "22476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "126 Saint Patrick's Road  424203, East Coast (D15-16)",
+    "displayText": "Grand Duchess at St Patrick's",
+    "displayType": "Condominium",
+    "nanoId": "oxbyeo",
+    "objectId": "139",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Elias Road  519945, Changi / Pasir Ris (D17-18)",
+    "displayText": "Stratum",
+    "displayType": "Condominium",
+    "nanoId": "npiwrq",
+    "objectId": "21593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Tanglin Road  247912, Orchard / Holland (D09-10)",
+    "displayText": "St. Regis Residences Singapore",
+    "displayType": "Apartment",
+    "nanoId": "r9prmd",
+    "objectId": "100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Saint Patrick's Road  424175, East Coast (D15-16)",
+    "displayText": "Seventy St Patrick's",
+    "displayType": "Condominium",
+    "nanoId": "xvds1s",
+    "objectId": "1540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "151 Stevens Road  257872, Orchard / Holland (D09-10)",
+    "displayText": "The Equatorial",
+    "displayType": "Condominium",
+    "nanoId": "4flsua",
+    "objectId": "473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 St. Patrick'S Road  423467, East Coast (D15-16)",
+    "displayText": "St Patrick's Residences",
+    "displayType": "Apartment",
+    "nanoId": "aoqw4y",
+    "objectId": "2438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Still Road South  423936, East Coast (D15-16)",
+    "displayText": "D'Ecosia",
+    "displayType": "Condominium",
+    "nanoId": "jbsrgz",
+    "objectId": "639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20A West Coast Road  126820, City & South West (D01-08)",
+    "displayText": "The Stellar",
+    "displayType": "Condominium",
+    "nanoId": "3hoxwt",
+    "objectId": "96",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Rodyk Street  238216, Orchard / Holland (D09-10)",
+    "displayText": "8 Rodyk",
+    "displayType": "Condominium",
+    "nanoId": "augvga",
+    "objectId": "1296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Stamford Road  178884, City & South West (D01-08)",
+    "displayText": "Eden Residences Capitol",
+    "displayType": "Condominium",
+    "nanoId": "zx97k1",
+    "objectId": "19220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D06",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Saint Michael's Road  328006, Balestier / Geylang (D12-14)",
+    "displayText": "One St Michael's",
+    "displayType": "Condominium",
+    "nanoId": "3tq9ak",
+    "objectId": "1091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Stevens Road  257844, Orchard / Holland (D09-10)",
+    "displayText": "The Orange Grove",
+    "displayType": "Condominium",
+    "nanoId": "bk3frp",
+    "objectId": "1140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 St Michael's Road  327994, Balestier / Geylang (D12-14)",
+    "displayText": "Airstream",
+    "displayType": "Condominium",
+    "nanoId": "16da0a",
+    "objectId": "1653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "408 River Valley Road  248306, Orchard / Holland (D09-10)",
+    "displayText": "Stellar RV",
+    "displayType": "Condominium",
+    "nanoId": "by48o5",
+    "objectId": "21247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Still Road  424012, East Coast (D15-16)",
+    "displayText": "Creston Residence",
+    "displayType": "Condominium",
+    "nanoId": "jbchro",
+    "objectId": "25672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Saint Francis Road  328071, Balestier / Geylang (D12-14)",
+    "displayText": "St Francis Court",
+    "displayType": "Apartment",
+    "nanoId": "9y4wdc",
+    "objectId": "633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "72 Stevens Road  257873, Orchard / Holland (D09-10)",
+    "displayText": "The Element @ Stevens",
+    "displayType": "Apartment",
+    "nanoId": "z4sktv",
+    "objectId": "1218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Essex Road  309329, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Strata",
+    "displayType": "Apartment",
+    "nanoId": "wh2twm",
+    "objectId": "341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "86 Wilkie Road  228096, Orchard / Holland (D09-10)",
+    "displayText": "Wilkie Studio",
+    "displayType": "Condominium",
+    "nanoId": "08zh3k",
+    "objectId": "1198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Marne Road  208393, City & South West (D01-08)",
+    "displayText": "Studios @ Marne",
+    "displayType": "Apartment",
+    "nanoId": "wx7f5s",
+    "objectId": "1334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "67 Stevens Road  257855, Orchard / Holland (D09-10)",
+    "displayText": "White House Residence",
+    "displayType": "Condominium",
+    "nanoId": "lkbqej",
+    "objectId": "1555",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 North Bridge Road  179094, City & South West (D01-08)",
+    "displayText": "High Street Centre",
+    "displayType": "Apartment",
+    "nanoId": "bfctnx",
+    "objectId": "2013",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D06",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "49 St. Patrick's Road  424167, East Coast (D15-16)",
+    "displayText": "St. Patrick's Green",
+    "displayType": "Condominium",
+    "nanoId": "exfm9t",
+    "objectId": "20499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "233 Tembeling Road  423718, East Coast (D15-16)",
+    "displayText": "Studios@Tembeling",
+    "displayType": "Condominium",
+    "nanoId": "b0xzrk",
+    "objectId": "20527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Stevens Road  257856, Orchard / Holland (D09-10)",
+    "displayText": "Loft @ Stevens",
+    "displayType": "Condominium",
+    "nanoId": "wwys8g",
+    "objectId": "20608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 St. Michael Road  328008, Balestier / Geylang (D12-14)",
+    "displayText": "St Michael Regency",
+    "displayType": "Condominium",
+    "nanoId": "q4ddp0",
+    "objectId": "2375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "97 Still Road  423988, East Coast (D15-16)",
+    "displayText": "Claydence",
+    "displayType": "Apartment",
+    "nanoId": "tm74oo",
+    "objectId": "25517",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "52 Stevens Road  257848, Orchard / Holland (D09-10)",
+    "displayText": "52 Stevens",
+    "displayType": "Apartment",
+    "nanoId": "pdr3ix",
+    "objectId": "2627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Shanghai Road  248196, Orchard / Holland (D09-10)",
+    "displayText": "Studio 3",
+    "displayType": "Apartment",
+    "nanoId": "vdlp7h",
+    "objectId": "386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Saint Michael's Road  327978, Balestier / Geylang (D12-14)",
+    "displayText": "St Michael's Condo",
+    "displayType": "Condominium",
+    "nanoId": "ejlngd",
+    "objectId": "631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "98 Saint Francis Road  328074, Balestier / Geylang (D12-14)",
+    "displayText": "St Francis Lodge",
+    "displayType": "Apartment",
+    "nanoId": "zgwpm6",
+    "objectId": "1233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Yio Chu Kang Road  545542, Serangoon / Thomson (D19-20)",
+    "displayText": "Stadia",
+    "displayType": "Condominium",
+    "nanoId": "nqli7o",
+    "objectId": "1273",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "78 Stevens Road  257864, Orchard / Holland (D09-10)",
+    "displayText": "The Capri",
+    "displayType": "Apartment",
+    "nanoId": "9wy2di",
+    "objectId": "1389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Still Road  423953, East Coast (D15-16)",
+    "displayText": "Maya",
+    "displayType": "Condominium",
+    "nanoId": "liyy2v",
+    "objectId": "1409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Stevens Road  257845, Orchard / Holland (D09-10)",
+    "displayText": "38 Stevens Road",
+    "displayType": "Condominium",
+    "nanoId": "wkwrux",
+    "objectId": "1750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "319 Pasir Panjang Road  118653, City & South West (D01-08)",
+    "displayText": "Starpoint",
+    "displayType": "Condominium",
+    "nanoId": "6x3lh8",
+    "objectId": "20768",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "281 River Valley Road  238322, Orchard / Holland (D09-10)",
+    "displayText": "Two8one Studio",
+    "displayType": "Condominium",
+    "nanoId": "l1hk4g",
+    "objectId": "20777",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "283 River Valley Road  238324, Orchard / Holland (D09-10)",
+    "displayText": "283 Studio",
+    "displayType": "Apartment",
+    "nanoId": "kri3y0",
+    "objectId": "20825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "155 - 155B Still Road  423992, East Coast (D15-16)",
+    "displayText": "Boon Court",
+    "displayType": "Walk-up",
+    "nanoId": "x511vq",
+    "objectId": "20835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Telok Kurau Road  423000, East Coast (D15-16)",
+    "displayText": "St Patrick's Row",
+    "displayType": "Terraced House",
+    "nanoId": "bdncjh",
+    "objectId": "21052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "77 Sophia Road  228157, Orchard / Holland (D09-10)",
+    "displayText": "Starfire @ Sophia",
+    "displayType": "Apartment",
+    "nanoId": "y9smbp",
+    "objectId": "21671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Sturdee Road North  207851, City & South West (D01-08)",
+    "displayText": "Sturdee View",
+    "displayType": "Condominium",
+    "nanoId": "nj6mlz",
+    "objectId": "2180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "147 Moulmein Road  308090, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Moulmein Studios",
+    "displayType": "Apartment",
+    "nanoId": "pexyp0",
+    "objectId": "2215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Still Road  423950, East Coast (D15-16)",
+    "displayText": "Still Mansion",
+    "displayType": "Condominium",
+    "nanoId": "10eltt",
+    "objectId": "2362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21A St Patrick's Road  424143, East Coast (D15-16)",
+    "displayText": "St Patrick's Court",
+    "displayType": "Apartment",
+    "nanoId": "7u5xig",
+    "objectId": "2436",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Stevens Road  257845, Orchard / Holland (D09-10)",
+    "displayText": "Stevens Court",
+    "displayType": "Apartment",
+    "nanoId": "ueyzc9",
+    "objectId": "2439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Unity Street  237995, Orchard / Holland (D09-10)",
+    "displayText": "Fraser Place Robertson Walk",
+    "displayType": "Apartment",
+    "nanoId": "p6n78n",
+    "objectId": "24748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Upp East Coast Road  424186, East Coast (D15-16)",
+    "displayText": "St. Patricks Garden",
+    "displayType": "Apartment",
+    "nanoId": "boiniu",
+    "objectId": "25051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 23 Saint Michael's Road  327980, Balestier / Geylang (D12-14)",
+    "displayText": "St. Michael's Court",
+    "displayType": "Apartment",
+    "nanoId": "tgobcx",
+    "objectId": "25208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 St. Michael's Road  327977, Balestier / Geylang (D12-14)",
+    "displayText": "St. Michael's Villa",
+    "displayType": "Apartment",
+    "nanoId": "ttj4mt",
+    "objectId": "25223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23A St. Michael's Road  327982, Balestier / Geylang (D12-14)",
+    "displayText": "The Elysia",
+    "displayType": "Condominium",
+    "nanoId": "5ulh6m",
+    "objectId": "456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Saint Patrick's Road  424164, East Coast (D15-16)",
+    "displayText": "St Patrick's Villa",
+    "displayType": "Apartment",
+    "nanoId": "feb381",
+    "objectId": "674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12B Still Road  423956, East Coast (D15-16)",
+    "displayText": "Stillingia Court",
+    "displayType": "Apartment",
+    "nanoId": "cuw1hx",
+    "objectId": "899",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Sturdee Road North",
+    "displayType": "Street",
+    "objectId": "10922",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Stratton Road",
+    "displayType": "Street",
+    "objectId": "11233",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Rodyk Street",
+    "displayType": "Street",
+    "objectId": "2820",
+    "objectType": "STREET",
+    "properties": {}
+  }
+]

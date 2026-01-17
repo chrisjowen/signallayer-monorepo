@@ -1,0 +1,1591 @@
+[
+  {
+    "displayText": "Pasir Ris Street 51",
+    "displayType": "Street",
+    "objectId": "2623",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "525C Pasir Ris Street 51  513525, Changi / Pasir Ris (D17-18)",
+    "displayText": "525C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "clyvah",
+    "objectId": "22103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524A Pasir Ris Street 51  511524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "raq99e",
+    "objectId": "22251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526A Pasir Ris Street 51  511526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "t0qv0w",
+    "objectId": "22571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526B Pasir Ris Street 51  512526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "o0cbkx",
+    "objectId": "22572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526C Pasir Ris Street 51  513526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "fmvadp",
+    "objectId": "22573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526D Pasir Ris Street 51  514526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526D Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "l8s2rb",
+    "objectId": "22575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Pasir Ris Street 51  510527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527 Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "zb3ar3",
+    "objectId": "22576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527A Pasir Ris Street 51  511527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "p5mbru",
+    "objectId": "22578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527B Pasir Ris Street 51  512527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "ipa5td",
+    "objectId": "22579",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527C Pasir Ris Street 51  513527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "pybwd7",
+    "objectId": "22580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527D Pasir Ris Street 51  514527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527D Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "tqqsc8",
+    "objectId": "22581",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524B Pasir Ris Street 51  512524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "wwzx8m",
+    "objectId": "22593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525A Pasir Ris Street 51  511525, Changi / Pasir Ris (D17-18)",
+    "displayText": "525A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "mfldnw",
+    "objectId": "23715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525B Pasir Ris Street 51  512525, Changi / Pasir Ris (D17-18)",
+    "displayText": "525B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "1kyykf",
+    "objectId": "23716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524C Pasir Ris Street 51  513524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "hkh6x9",
+    "objectId": "23717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Pasir Ris Street 51  510528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528 Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "fb7bb9",
+    "objectId": "23718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528A Pasir Ris Street 51  511528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "4nd4ej",
+    "objectId": "23719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528B Pasir Ris Street 51  512528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "8nhy88",
+    "objectId": "23720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528C Pasir Ris Street 51  513528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "ns7y2r",
+    "objectId": "23721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528D Pasir Ris Street 51  514528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528D Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "c0qw9y",
+    "objectId": "23722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "537 Pasir Ris Street 51  510537, Changi / Pasir Ris (D17-18)",
+    "displayText": "537 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "bm5wq5",
+    "objectId": "9053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "538 Pasir Ris Street 51  510538, Changi / Pasir Ris (D17-18)",
+    "displayText": "538 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "atvgwc",
+    "objectId": "9054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "539 Pasir Ris Street 51  510539, Changi / Pasir Ris (D17-18)",
+    "displayText": "539 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "7stcyv",
+    "objectId": "9055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "540 Pasir Ris Street 51  510540, Changi / Pasir Ris (D17-18)",
+    "displayText": "540 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "6lmare",
+    "objectId": "9056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "541 Pasir Ris Street 51  510541, Changi / Pasir Ris (D17-18)",
+    "displayText": "541 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "xtm5u6",
+    "objectId": "9057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "542 Pasir Ris Street 51  510542, Changi / Pasir Ris (D17-18)",
+    "displayText": "542 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "nthq1z",
+    "objectId": "9058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "543 Pasir Ris Street 51  510543, Changi / Pasir Ris (D17-18)",
+    "displayText": "543 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "x53zwz",
+    "objectId": "9059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "544 Pasir Ris Street 51  510544, Changi / Pasir Ris (D17-18)",
+    "displayText": "544 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "phd5ot",
+    "objectId": "9060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "545 Pasir Ris Street 51  510545, Changi / Pasir Ris (D17-18)",
+    "displayText": "545 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "4757on",
+    "objectId": "9061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "546 Pasir Ris Street 51  510546, Changi / Pasir Ris (D17-18)",
+    "displayText": "546 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "lznzay",
+    "objectId": "9062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "547 Pasir Ris Street 51  510547, Changi / Pasir Ris (D17-18)",
+    "displayText": "547 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "jfbex8",
+    "objectId": "9063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "548 Pasir Ris Street 51  510548, Changi / Pasir Ris (D17-18)",
+    "displayText": "548 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "ty1rkm",
+    "objectId": "9064",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "549 Pasir Ris Street 51  510549, Changi / Pasir Ris (D17-18)",
+    "displayText": "549 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "f0blgq",
+    "objectId": "9065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "550 Pasir Ris Street 51  510550, Changi / Pasir Ris (D17-18)",
+    "displayText": "550 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "rzbhe6",
+    "objectId": "9066",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "551 Pasir Ris Street 51  510551, Changi / Pasir Ris (D17-18)",
+    "displayText": "551 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "gtz309",
+    "objectId": "9067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "552 Pasir Ris Street 51  510552, Changi / Pasir Ris (D17-18)",
+    "displayText": "552 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "b1b8ze",
+    "objectId": "9068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "553 Pasir Ris Street 51  510553, Changi / Pasir Ris (D17-18)",
+    "displayText": "553 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "r0i2d8",
+    "objectId": "9069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "554 Pasir Ris Street 51  510554, Changi / Pasir Ris (D17-18)",
+    "displayText": "554 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "c4a7tg",
+    "objectId": "9070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "555 Pasir Ris Street 51  510555, Changi / Pasir Ris (D17-18)",
+    "displayText": "555 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "orr3db",
+    "objectId": "9071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "556 Pasir Ris Street 51  510556, Changi / Pasir Ris (D17-18)",
+    "displayText": "556 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "72c8i2",
+    "objectId": "9072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "557 Pasir Ris Street 51  510557, Changi / Pasir Ris (D17-18)",
+    "displayText": "557 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "ffklhn",
+    "objectId": "9073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "558 Pasir Ris Street 51  510558, Changi / Pasir Ris (D17-18)",
+    "displayText": "558 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "5og5b1",
+    "objectId": "9074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "559 Pasir Ris Street 51  510559, Changi / Pasir Ris (D17-18)",
+    "displayText": "559 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "gegghx",
+    "objectId": "9075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "560 Pasir Ris Street 51  510560, Changi / Pasir Ris (D17-18)",
+    "displayText": "560 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "byxzl5",
+    "objectId": "9076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "561 Pasir Ris Street 51  510561, Changi / Pasir Ris (D17-18)",
+    "displayText": "561 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "52q2s2",
+    "objectId": "9077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "562 Pasir Ris Street 51  510562, Changi / Pasir Ris (D17-18)",
+    "displayText": "562 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "g924si",
+    "objectId": "9078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "564 Pasir Ris Street 51  510564, Changi / Pasir Ris (D17-18)",
+    "displayText": "564 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "soqqc4",
+    "objectId": "9079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "565 Pasir Ris Street 51  510565, Changi / Pasir Ris (D17-18)",
+    "displayText": "565 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "hqi3hv",
+    "objectId": "9080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "566 Pasir Ris Street 51  510566, Changi / Pasir Ris (D17-18)",
+    "displayText": "566 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "2hqjkw",
+    "objectId": "9081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "567 Pasir Ris Street 51  510567, Changi / Pasir Ris (D17-18)",
+    "displayText": "567 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "cbvvee",
+    "objectId": "9082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "568 Pasir Ris Street 51  510568, Changi / Pasir Ris (D17-18)",
+    "displayText": "568 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "z3iry7",
+    "objectId": "9083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "569 Pasir Ris Street 51  510569, Changi / Pasir Ris (D17-18)",
+    "displayText": "569 Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "ib4hbv",
+    "objectId": "9084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "561A Pasir Ris Street 51  511561, Changi / Pasir Ris (D17-18)",
+    "displayText": "561A Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "hd3sl7",
+    "objectId": "9086",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "564A Pasir Ris Street 51  511564, Changi / Pasir Ris (D17-18)",
+    "displayText": "564A Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "vyv0re",
+    "objectId": "9087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "555A Pasir Ris Street 51  511555, Changi / Pasir Ris (D17-18)",
+    "displayText": "555A Pasir Ris Street 51",
+    "displayType": "HDB",
+    "nanoId": "ballq7",
+    "objectId": "9085",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Pasir Ris Street 72  518764, Changi / Pasir Ris (D17-18)",
+    "displayText": "Whitewater",
+    "displayType": "Executive Condominium",
+    "nanoId": "yocxte",
+    "objectId": "1557",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "212 Pasir Ris Street 21  510212, Changi / Pasir Ris (D17-18)",
+    "displayText": "212 Pasir Ris Street 21",
+    "displayType": "HDB",
+    "nanoId": "e196r2",
+    "objectId": "25850",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Pasir Ris Street 11  510109, Changi / Pasir Ris (D17-18)",
+    "displayText": "109 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "smm85s",
+    "objectId": "8890",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Pasir Ris Street 11  510110, Changi / Pasir Ris (D17-18)",
+    "displayText": "110 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "4onrj4",
+    "objectId": "8891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Pasir Ris Street 11  510111, Changi / Pasir Ris (D17-18)",
+    "displayText": "111 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "lwxhw5",
+    "objectId": "8892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Pasir Ris Street 11  510112, Changi / Pasir Ris (D17-18)",
+    "displayText": "112 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "3m9id0",
+    "objectId": "8893",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Pasir Ris Street 11  510113, Changi / Pasir Ris (D17-18)",
+    "displayText": "113 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "35ejie",
+    "objectId": "8894",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Pasir Ris Street 11  510114, Changi / Pasir Ris (D17-18)",
+    "displayText": "114 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "fsvig1",
+    "objectId": "8895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Pasir Ris Street 11  510115, Changi / Pasir Ris (D17-18)",
+    "displayText": "115 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "ct4l5n",
+    "objectId": "8896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Pasir Ris Street 11  510116, Changi / Pasir Ris (D17-18)",
+    "displayText": "116 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "n82zt7",
+    "objectId": "8897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Pasir Ris Street 11  510117, Changi / Pasir Ris (D17-18)",
+    "displayText": "117 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "d8j3vl",
+    "objectId": "8898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Pasir Ris Street 11  510119, Changi / Pasir Ris (D17-18)",
+    "displayText": "119 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "fg3t54",
+    "objectId": "8900",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Pasir Ris Street 11  510120, Changi / Pasir Ris (D17-18)",
+    "displayText": "120 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "64dqc8",
+    "objectId": "8901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Pasir Ris Street 11  510121, Changi / Pasir Ris (D17-18)",
+    "displayText": "121 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "lzeazt",
+    "objectId": "8902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Pasir Ris Street 11  510122, Changi / Pasir Ris (D17-18)",
+    "displayText": "122 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "v3yuf8",
+    "objectId": "8903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Pasir Ris Street 11  510123, Changi / Pasir Ris (D17-18)",
+    "displayText": "123 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "q4yi1a",
+    "objectId": "8904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Pasir Ris Street 11  510124, Changi / Pasir Ris (D17-18)",
+    "displayText": "124 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "f58f0s",
+    "objectId": "8905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Pasir Ris Street 11  510125, Changi / Pasir Ris (D17-18)",
+    "displayText": "125 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "gpcjn2",
+    "objectId": "8906",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Pasir Ris Street 11  510126, Changi / Pasir Ris (D17-18)",
+    "displayText": "126 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "wp6hby",
+    "objectId": "8907",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Pasir Ris Street 11  510128, Changi / Pasir Ris (D17-18)",
+    "displayText": "128 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "m13rqz",
+    "objectId": "8909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Pasir Ris Street 11  510129, Changi / Pasir Ris (D17-18)",
+    "displayText": "129 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "c07toy",
+    "objectId": "8910",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Pasir Ris Street 11  510130, Changi / Pasir Ris (D17-18)",
+    "displayText": "130 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "2t297h",
+    "objectId": "8911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Pasir Ris Street 11  510131, Changi / Pasir Ris (D17-18)",
+    "displayText": "131 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "ejeptp",
+    "objectId": "8912",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Pasir Ris Street 11  510132, Changi / Pasir Ris (D17-18)",
+    "displayText": "132 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "1sf3d5",
+    "objectId": "8913",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Pasir Ris Street 11  510133, Changi / Pasir Ris (D17-18)",
+    "displayText": "133 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "1sskr6",
+    "objectId": "8914",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Pasir Ris Street 11  510134, Changi / Pasir Ris (D17-18)",
+    "displayText": "134 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "1ommiv",
+    "objectId": "8915",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "135 Pasir Ris Street 11  510135, Changi / Pasir Ris (D17-18)",
+    "displayText": "135 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "nx68ab",
+    "objectId": "8916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Pasir Ris Street 11  510136, Changi / Pasir Ris (D17-18)",
+    "displayText": "136 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "be2lxc",
+    "objectId": "8917",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Pasir Ris Street 11  510137, Changi / Pasir Ris (D17-18)",
+    "displayText": "137 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "493nsk",
+    "objectId": "8918",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Pasir Ris Street 11  510138, Changi / Pasir Ris (D17-18)",
+    "displayText": "138 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "z2mg97",
+    "objectId": "8919",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Pasir Ris Street 11  510139, Changi / Pasir Ris (D17-18)",
+    "displayText": "139 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "9j8f7q",
+    "objectId": "8920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "140 Pasir Ris Street 11  510140, Changi / Pasir Ris (D17-18)",
+    "displayText": "140 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "c5n7vz",
+    "objectId": "8921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Pasir Ris Street 11  510141, Changi / Pasir Ris (D17-18)",
+    "displayText": "141 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "tmo6ml",
+    "objectId": "8922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Pasir Ris Street 11  510142, Changi / Pasir Ris (D17-18)",
+    "displayText": "142 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "6hl76z",
+    "objectId": "8923",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Pasir Ris Street 11  510143, Changi / Pasir Ris (D17-18)",
+    "displayText": "143 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "bix297",
+    "objectId": "8924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Pasir Ris Street 11  510144, Changi / Pasir Ris (D17-18)",
+    "displayText": "144 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "kt1lm3",
+    "objectId": "8925",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Pasir Ris Street 11  510145, Changi / Pasir Ris (D17-18)",
+    "displayText": "145 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "4xrrcs",
+    "objectId": "8926",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Pasir Ris Street 11  510146, Changi / Pasir Ris (D17-18)",
+    "displayText": "146 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "xc0evl",
+    "objectId": "8927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180 Pasir Ris Street 11  510180, Changi / Pasir Ris (D17-18)",
+    "displayText": "180 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "co34we",
+    "objectId": "8928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "181 Pasir Ris Street 11  510181, Changi / Pasir Ris (D17-18)",
+    "displayText": "181 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "whb85d",
+    "objectId": "8929",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182 Pasir Ris Street 11  510182, Changi / Pasir Ris (D17-18)",
+    "displayText": "182 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "ir9xes",
+    "objectId": "8930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183 Pasir Ris Street 11  510183, Changi / Pasir Ris (D17-18)",
+    "displayText": "183 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "a5lo06",
+    "objectId": "8931",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "184 Pasir Ris Street 11  510184, Changi / Pasir Ris (D17-18)",
+    "displayText": "184 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "n27jst",
+    "objectId": "8932",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "185 Pasir Ris Street 11  510185, Changi / Pasir Ris (D17-18)",
+    "displayText": "185 Pasir Ris Street 11",
+    "displayType": "HDB",
+    "nanoId": "dck22i",
+    "objectId": "8933",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

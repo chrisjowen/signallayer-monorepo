@@ -1,0 +1,1585 @@
+[
+  {
+    "displayText": "Serangoon Avenue 4",
+    "displayType": "Street",
+    "objectId": "10803",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Serangoon North Avenue 4",
+    "displayType": "Street",
+    "objectId": "10426",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "211 Serangoon Avenue 4  550211, Serangoon / Thomson (D19-20)",
+    "displayText": "211 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "8jaw0m",
+    "objectId": "10070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212 Serangoon Avenue 4  550212, Serangoon / Thomson (D19-20)",
+    "displayText": "212 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "l8u7bj",
+    "objectId": "10071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Serangoon Avenue 4  550213, Serangoon / Thomson (D19-20)",
+    "displayText": "213 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ltsz7t",
+    "objectId": "10072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214 Serangoon Avenue 4  550214, Serangoon / Thomson (D19-20)",
+    "displayText": "214 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x18j6o",
+    "objectId": "10073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215 Serangoon Avenue 4  550215, Serangoon / Thomson (D19-20)",
+    "displayText": "215 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "lzv8qn",
+    "objectId": "10074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216 Serangoon Avenue 4  550216, Serangoon / Thomson (D19-20)",
+    "displayText": "216 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "k4duqz",
+    "objectId": "10075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217 Serangoon Avenue 4  550217, Serangoon / Thomson (D19-20)",
+    "displayText": "217 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "p8rqc0",
+    "objectId": "10076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218 Serangoon Avenue 4  550218, Serangoon / Thomson (D19-20)",
+    "displayText": "218 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x4kktn",
+    "objectId": "10077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "219 Serangoon Avenue 4  550219, Serangoon / Thomson (D19-20)",
+    "displayText": "219 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "wyfc5w",
+    "objectId": "10078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220 Serangoon Avenue 4  550220, Serangoon / Thomson (D19-20)",
+    "displayText": "220 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "kxwq4q",
+    "objectId": "10079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221 Serangoon Avenue 4  550221, Serangoon / Thomson (D19-20)",
+    "displayText": "221 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "q78nl7",
+    "objectId": "10080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222 Serangoon Avenue 4  550222, Serangoon / Thomson (D19-20)",
+    "displayText": "222 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "qp4y4u",
+    "objectId": "10081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "223 Serangoon Avenue 4  550223, Serangoon / Thomson (D19-20)",
+    "displayText": "223 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "smi1j5",
+    "objectId": "10082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "224 Serangoon Avenue 4  550224, Serangoon / Thomson (D19-20)",
+    "displayText": "224 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "aqlo1n",
+    "objectId": "10083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "225 Serangoon Avenue 4  550225, Serangoon / Thomson (D19-20)",
+    "displayText": "225 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "o5sfe4",
+    "objectId": "10084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226 Serangoon Avenue 4  550226, Serangoon / Thomson (D19-20)",
+    "displayText": "226 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "spuxad",
+    "objectId": "10085",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "227 Serangoon Avenue 4  550227, Serangoon / Thomson (D19-20)",
+    "displayText": "227 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "za5ql2",
+    "objectId": "10086",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "228 Serangoon Avenue 4  550228, Serangoon / Thomson (D19-20)",
+    "displayText": "228 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "1eddvw",
+    "objectId": "10087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "229 Serangoon Avenue 4  550229, Serangoon / Thomson (D19-20)",
+    "displayText": "229 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t5wv7u",
+    "objectId": "10088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230 Serangoon Avenue 4  550230, Serangoon / Thomson (D19-20)",
+    "displayText": "230 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vbw7ms",
+    "objectId": "10089",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "500 Serangoon North Avenue 4  550500, Serangoon / Thomson (D19-20)",
+    "displayText": "500 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "e53urf",
+    "objectId": "10205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501 Serangoon North Avenue 4  550501, Serangoon / Thomson (D19-20)",
+    "displayText": "501 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "6tutit",
+    "objectId": "10206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Serangoon North Avenue 4  550502, Serangoon / Thomson (D19-20)",
+    "displayText": "502 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "eq38zf",
+    "objectId": "10207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Serangoon North Avenue 4  550503, Serangoon / Thomson (D19-20)",
+    "displayText": "503 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ujkbfr",
+    "objectId": "10208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23",
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Serangoon North Avenue 4  550504, Serangoon / Thomson (D19-20)",
+    "displayText": "504 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "baycs2",
+    "objectId": "10209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Serangoon North Avenue 4  550505, Serangoon / Thomson (D19-20)",
+    "displayText": "505 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "yl7uoa",
+    "objectId": "10210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Serangoon North Avenue 4  550506, Serangoon / Thomson (D19-20)",
+    "displayText": "506 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "pvt8vs",
+    "objectId": "10211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Serangoon North Avenue 4  550507, Serangoon / Thomson (D19-20)",
+    "displayText": "507 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "u0hkv7",
+    "objectId": "10212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Serangoon North Avenue 4  550508, Serangoon / Thomson (D19-20)",
+    "displayText": "508 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "i8klp7",
+    "objectId": "10213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Serangoon North Avenue 4  550510, Serangoon / Thomson (D19-20)",
+    "displayText": "510 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "r1nart",
+    "objectId": "10215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Serangoon North Avenue 4  550511, Serangoon / Thomson (D19-20)",
+    "displayText": "511 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "4eykn7",
+    "objectId": "10216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Serangoon North Avenue 4  550512, Serangoon / Thomson (D19-20)",
+    "displayText": "512 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "5a16lh",
+    "objectId": "10217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Serangoon North Avenue 4  550515, Serangoon / Thomson (D19-20)",
+    "displayText": "515 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "fmf4af",
+    "objectId": "10219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Serangoon North Avenue 4  550516, Serangoon / Thomson (D19-20)",
+    "displayText": "516 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "wnzvhb",
+    "objectId": "10220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Serangoon North Avenue 4  550517, Serangoon / Thomson (D19-20)",
+    "displayText": "517 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "cy8am4",
+    "objectId": "10221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Serangoon North Avenue 4  550518, Serangoon / Thomson (D19-20)",
+    "displayText": "518 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "omhmo8",
+    "objectId": "10222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519 Serangoon North Avenue 4  550519, Serangoon / Thomson (D19-20)",
+    "displayText": "519 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "riqnvj",
+    "objectId": "10223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "520 Serangoon North Avenue 4  550520, Serangoon / Thomson (D19-20)",
+    "displayText": "520 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "0wtvq2",
+    "objectId": "10224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "521 Serangoon North Avenue 4  550521, Serangoon / Thomson (D19-20)",
+    "displayText": "521 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "e52qp9",
+    "objectId": "10225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "522 Serangoon North Avenue 4  550522, Serangoon / Thomson (D19-20)",
+    "displayText": "522 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "k9hg3z",
+    "objectId": "10226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523 Serangoon North Avenue 4  550523, Serangoon / Thomson (D19-20)",
+    "displayText": "523 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "6sh2gs",
+    "objectId": "10227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524 Serangoon North Avenue 4  550524, Serangoon / Thomson (D19-20)",
+    "displayText": "524 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "snyw07",
+    "objectId": "10228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525 Serangoon North Avenue 4  550525, Serangoon / Thomson (D19-20)",
+    "displayText": "525 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ne7v64",
+    "objectId": "10229",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526 Serangoon North Avenue 4  550526, Serangoon / Thomson (D19-20)",
+    "displayText": "526 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "j7myzv",
+    "objectId": "10230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Serangoon North Avenue 4  550527, Serangoon / Thomson (D19-20)",
+    "displayText": "527 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "s6gjx6",
+    "objectId": "10231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Serangoon North Avenue 4  550528, Serangoon / Thomson (D19-20)",
+    "displayText": "528 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xa09qf",
+    "objectId": "10232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "529 Serangoon North Avenue 4  550529, Serangoon / Thomson (D19-20)",
+    "displayText": "529 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "fjzzoe",
+    "objectId": "10233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530 Serangoon North Avenue 4  550530, Serangoon / Thomson (D19-20)",
+    "displayText": "530 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "bzdu2e",
+    "objectId": "10234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "531 Serangoon North Avenue 4  550531, Serangoon / Thomson (D19-20)",
+    "displayText": "531 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "az541e",
+    "objectId": "10235",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "532 Serangoon North Avenue 4  550532, Serangoon / Thomson (D19-20)",
+    "displayText": "532 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "qw6yk9",
+    "objectId": "10236",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533 Serangoon North Avenue 4  550533, Serangoon / Thomson (D19-20)",
+    "displayText": "533 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x5tcm9",
+    "objectId": "10237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "534 Serangoon North Avenue 4  550534, Serangoon / Thomson (D19-20)",
+    "displayText": "534 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "4huqs0",
+    "objectId": "10238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "535 Serangoon North Avenue 4  550535, Serangoon / Thomson (D19-20)",
+    "displayText": "535 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "3dxmo2",
+    "objectId": "10239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "536 Serangoon North Avenue 4  550536, Serangoon / Thomson (D19-20)",
+    "displayText": "536 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "sylvip",
+    "objectId": "10240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "537 Serangoon North Avenue 4  550537, Serangoon / Thomson (D19-20)",
+    "displayText": "537 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "b5d4bv",
+    "objectId": "10241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "538 Serangoon North Avenue 4  550538, Serangoon / Thomson (D19-20)",
+    "displayText": "538 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xhbku5",
+    "objectId": "10242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "539 Serangoon North Avenue 4  550539, Serangoon / Thomson (D19-20)",
+    "displayText": "539 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "c9iolf",
+    "objectId": "10243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "540 Serangoon North Avenue 4  550540, Serangoon / Thomson (D19-20)",
+    "displayText": "540 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "nztewy",
+    "objectId": "10244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "541 Serangoon North Avenue 4  550541, Serangoon / Thomson (D19-20)",
+    "displayText": "541 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "m78f36",
+    "objectId": "10245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "542 Serangoon North Avenue 4  550542, Serangoon / Thomson (D19-20)",
+    "displayText": "542 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "9xaxy9",
+    "objectId": "10246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504A Serangoon North Avenue 4  551504, Serangoon / Thomson (D19-20)",
+    "displayText": "504A Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "140jn9",
+    "objectId": "10247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506A Serangoon North Avenue 4  551506, Serangoon / Thomson (D19-20)",
+    "displayText": "506A Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "6gah4a",
+    "objectId": "10248",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506B Serangoon North Avenue 4  552506, Serangoon / Thomson (D19-20)",
+    "displayText": "506B Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "qo9sw3",
+    "objectId": "10249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "535A Serangoon North Avenue 4  551535, Serangoon / Thomson (D19-20)",
+    "displayText": "535A Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "3o2xj2",
+    "objectId": "10251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "542A Serangoon North Avenue 4  551542, Serangoon / Thomson (D19-20)",
+    "displayText": "542A Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "7zs4tj",
+    "objectId": "10252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Ang Mo Kio Avenue 4  560105, Serangoon / Thomson (D19-20)",
+    "displayText": "105 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "34ml8v",
+    "objectId": "3094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Ang Mo Kio Avenue 4  560106, Serangoon / Thomson (D19-20)",
+    "displayText": "106 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "i8zf8b",
+    "objectId": "3095",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Ang Mo Kio Avenue 4  560107, Serangoon / Thomson (D19-20)",
+    "displayText": "107 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t8q8ra",
+    "objectId": "3096",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Ang Mo Kio Avenue 4  560108, Serangoon / Thomson (D19-20)",
+    "displayText": "108 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "inu50i",
+    "objectId": "3097",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Ang Mo Kio Avenue 4  560109, Serangoon / Thomson (D19-20)",
+    "displayText": "109 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "mre03y",
+    "objectId": "3098",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Ang Mo Kio Avenue 4  560110, Serangoon / Thomson (D19-20)",
+    "displayText": "110 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "wbz1w2",
+    "objectId": "3099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Ang Mo Kio Avenue 4  560111, Serangoon / Thomson (D19-20)",
+    "displayText": "111 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ml0aot",
+    "objectId": "3100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Ang Mo Kio Avenue 4  560112, Serangoon / Thomson (D19-20)",
+    "displayText": "112 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "cu1tg1",
+    "objectId": "3101",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Ang Mo Kio Avenue 4  560113, Serangoon / Thomson (D19-20)",
+    "displayText": "113 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "o03ada",
+    "objectId": "3102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Ang Mo Kio Avenue 4  560114, Serangoon / Thomson (D19-20)",
+    "displayText": "114 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "au98cz",
+    "objectId": "3103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Ang Mo Kio Avenue 4  560115, Serangoon / Thomson (D19-20)",
+    "displayText": "115 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "5bdo1z",
+    "objectId": "3104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Ang Mo Kio Avenue 4  560116, Serangoon / Thomson (D19-20)",
+    "displayText": "116 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "cb8gge",
+    "objectId": "3105",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Ang Mo Kio Avenue 4  560117, Serangoon / Thomson (D19-20)",
+    "displayText": "117 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "66rn5m",
+    "objectId": "3106",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Ang Mo Kio Avenue 4  560118, Serangoon / Thomson (D19-20)",
+    "displayText": "118 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vdlcfh",
+    "objectId": "3107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Ang Mo Kio Avenue 4  560155, Serangoon / Thomson (D19-20)",
+    "displayText": "155 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "urm31d",
+    "objectId": "3108",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Ang Mo Kio Avenue 4  560156, Serangoon / Thomson (D19-20)",
+    "displayText": "156 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "dasi0y",
+    "objectId": "3109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Ang Mo Kio Avenue 4  560157, Serangoon / Thomson (D19-20)",
+    "displayText": "157 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "6j8dj6",
+    "objectId": "3110",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Ang Mo Kio Avenue 4  560158, Serangoon / Thomson (D19-20)",
+    "displayText": "158 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "o9ygpp",
+    "objectId": "3111",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Ang Mo Kio Avenue 4  560159, Serangoon / Thomson (D19-20)",
+    "displayText": "159 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "4416qh",
+    "objectId": "3112",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Ang Mo Kio Avenue 4  560160, Serangoon / Thomson (D19-20)",
+    "displayText": "160 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x15jzz",
+    "objectId": "3113",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Ang Mo Kio Avenue 4  560161, Serangoon / Thomson (D19-20)",
+    "displayText": "161 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "khordk",
+    "objectId": "3114",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162 Ang Mo Kio Avenue 4  560162, Serangoon / Thomson (D19-20)",
+    "displayText": "162 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "yud123",
+    "objectId": "3115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Ang Mo Kio Avenue 4  560163, Serangoon / Thomson (D19-20)",
+    "displayText": "163 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "hjmwmh",
+    "objectId": "3116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170 Ang Mo Kio Avenue 4  560170, Serangoon / Thomson (D19-20)",
+    "displayText": "170 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "eblbg5",
+    "objectId": "3117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171 Ang Mo Kio Avenue 4  560171, Serangoon / Thomson (D19-20)",
+    "displayText": "171 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "kj0n0s",
+    "objectId": "3118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172 Ang Mo Kio Avenue 4  560172, Serangoon / Thomson (D19-20)",
+    "displayText": "172 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "aygqsf",
+    "objectId": "3119",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173 Ang Mo Kio Avenue 4  560173, Serangoon / Thomson (D19-20)",
+    "displayText": "173 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "mmyihj",
+    "objectId": "3120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "174 Ang Mo Kio Avenue 4  560174, Serangoon / Thomson (D19-20)",
+    "displayText": "174 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ipncgn",
+    "objectId": "3121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175 Ang Mo Kio Avenue 4  560175, Serangoon / Thomson (D19-20)",
+    "displayText": "175 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "a5nj99",
+    "objectId": "3122",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "176 Ang Mo Kio Avenue 4  560176, Serangoon / Thomson (D19-20)",
+    "displayText": "176 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "5r9fcw",
+    "objectId": "3123",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "177 Ang Mo Kio Avenue 4  560177, Serangoon / Thomson (D19-20)",
+    "displayText": "177 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "0r5ifj",
+    "objectId": "3124",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178 Ang Mo Kio Avenue 4  560178, Serangoon / Thomson (D19-20)",
+    "displayText": "178 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "522tqu",
+    "objectId": "3125",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "251 Ang Mo Kio Avenue 4  560251, Serangoon / Thomson (D19-20)",
+    "displayText": "251 Ang Mo Kio Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "qgys90",
+    "objectId": "3126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

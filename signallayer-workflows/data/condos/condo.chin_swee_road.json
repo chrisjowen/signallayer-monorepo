@@ -1,0 +1,1406 @@
+[
+  {
+    "displayText": "Chin Swee Road",
+    "displayType": "Street",
+    "objectId": "507",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "173 Chin Swee Road  169878, City & South West (D01-08)",
+    "displayText": "The Landmark",
+    "displayType": "Condominium",
+    "nanoId": "53tn0t",
+    "objectId": "498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "173 Chin Swee Road  169878, City & South West (D01-08)",
+    "displayText": "Landmark Tower",
+    "displayType": "Apartment",
+    "nanoId": "aqxeio",
+    "objectId": "25191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Chin Swee Road  050051, City & South West (D01-08)",
+    "displayText": "51 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "fay66o",
+    "objectId": "4789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Chin Swee Road  160052, City & South West (D01-08)",
+    "displayText": "52 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "7qyc3z",
+    "objectId": "4790",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Chin Swee Road  160053, City & South West (D01-08)",
+    "displayText": "53 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "71o04t",
+    "objectId": "4791",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Chin Swee Road  160054, City & South West (D01-08)",
+    "displayText": "54 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "wr1pps",
+    "objectId": "4792",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Chin Bee Road",
+    "displayType": "Street",
+    "objectId": "503",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "6 Keng Chin Road  258709, Orchard / Holland (D09-10)",
+    "displayText": "Cyan",
+    "displayType": "Condominium",
+    "nanoId": "hs6or5",
+    "objectId": "1590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Keng Chin Road  258711, Orchard / Holland (D09-10)",
+    "displayText": "Bellerive",
+    "displayType": "Condominium",
+    "nanoId": "uo1i41",
+    "objectId": "1496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Keng Chin Road  258707, Orchard / Holland (D09-10)",
+    "displayText": "Century Ville",
+    "displayType": "Condominium",
+    "nanoId": "1q6f1p",
+    "objectId": "1723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "344 East Coast Road  428963, East Coast (D15-16)",
+    "displayText": "Chung Chin Flats",
+    "displayType": "Apartment",
+    "nanoId": "pmxngz",
+    "objectId": "1828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "42 Cairnhill Road  229661, Orchard / Holland (D09-10)",
+    "displayText": "Tan Chin Tuan Mansion",
+    "displayType": "Condominium",
+    "nanoId": "zmxc45",
+    "objectId": "2465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8A Keng Chin Road  258710, Orchard / Holland (D09-10)",
+    "displayText": "Villa Margaux",
+    "displayType": "Apartment",
+    "nanoId": "6rtirk",
+    "objectId": "2518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Keng Chin Road  258709, Orchard / Holland (D09-10)",
+    "displayText": "Le Marque",
+    "displayType": "Condominium",
+    "nanoId": "mite41",
+    "objectId": "25220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "159 Mei Chin Road  140159, City & South West (D01-08)",
+    "displayText": "159 Mei Chin Road",
+    "displayType": "HDB",
+    "nanoId": "qvko42",
+    "objectId": "8645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "150A Mei Chin Road  140150, City & South West (D01-08)",
+    "displayText": "150A Mei Chin Road",
+    "displayType": "HDB",
+    "nanoId": "gb992j",
+    "objectId": "8646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Second Chin Bee Road",
+    "displayType": "Street",
+    "objectId": "12083",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Keng Chin Road",
+    "displayType": "Street",
+    "objectId": "1798",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Mei Chin Road",
+    "displayType": "Street",
+    "objectId": "2301",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Third Chin Bee Road",
+    "displayType": "Street",
+    "objectId": "3363",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Fourth Chin Bee Road",
+    "displayType": "Street",
+    "objectId": "907",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "301 Jalan Bukit Ho Swee  169568, City & South West (D01-08)",
+    "displayText": "Meraprime",
+    "displayType": "Condominium",
+    "nanoId": "sh3czj",
+    "objectId": "181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Begonia Terrace  809000, North (D25-28)",
+    "displayText": "Hock Swee Hill",
+    "displayType": "Semi-Detached House",
+    "nanoId": "heewkv",
+    "objectId": "1018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "12 Taman Ho Swee  162012, City & South West (D01-08)",
+    "displayText": "12 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "t8kdq9",
+    "objectId": "10520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Taman Ho Swee  161014, City & South West (D01-08)",
+    "displayText": "14 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "df94z6",
+    "objectId": "10521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Taman Ho Swee  163016, City & South West (D01-08)",
+    "displayText": "16 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "j6opfq",
+    "objectId": "10522",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Taman Ho Swee  162018, City & South West (D01-08)",
+    "displayText": "18 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "dgc6go",
+    "objectId": "10523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Taman Ho Swee  164031, City & South West (D01-08)",
+    "displayText": "31 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "symzul",
+    "objectId": "10524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Taman Ho Swee  161033, City & South West (D01-08)",
+    "displayText": "33 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "ijq277",
+    "objectId": "10525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Bukit Ho Swee  162002, City & South West (D01-08)",
+    "displayText": "2 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "wxmxq4",
+    "objectId": "6920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Jalan Bukit Ho Swee  162004, City & South West (D01-08)",
+    "displayText": "4 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "txaoww",
+    "objectId": "6921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Jalan Bukit Ho Swee  161006, City & South West (D01-08)",
+    "displayText": "6 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "j11lie",
+    "objectId": "6922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Jalan Bukit Ho Swee  161008, City & South West (D01-08)",
+    "displayText": "8 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "m6zd8f",
+    "objectId": "6923",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Jalan Bukit Ho Swee  161010, City & South West (D01-08)",
+    "displayText": "10 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "sr8ore",
+    "objectId": "6924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Jalan Bukit Ho Swee  160032, City & South West (D01-08)",
+    "displayText": "32 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "wpq5jk",
+    "objectId": "6925",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Jalan Bukit Ho Swee  160034, City & South West (D01-08)",
+    "displayText": "34 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "poi8zl",
+    "objectId": "6926",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Jalan Bukit Ho Swee  160046, City & South West (D01-08)",
+    "displayText": "46 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "w9hwvu",
+    "objectId": "6927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Bukit Ho Swee",
+    "displayType": "Street",
+    "objectId": "1541",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Taman Ho Swee",
+    "displayType": "Street",
+    "objectId": "3227",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Ho Swee Link",
+    "displayType": "Street",
+    "objectId": "339",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Ho Swee",
+    "displayType": "Street",
+    "objectId": "5169",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chin Bee Avenue",
+    "displayType": "Street",
+    "objectId": "500",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chin Bee Drive",
+    "displayType": "Street",
+    "objectId": "502",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eu Chin Street",
+    "displayType": "Street",
+    "objectId": "813",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chin Bee Crescent",
+    "displayType": "Street",
+    "objectId": "501",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chin Cheng Avenue",
+    "displayType": "Street",
+    "objectId": "504",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Lincoln Road  308342, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Park Infinia at Wee Nam",
+    "displayType": "Condominium",
+    "nanoId": "g3kn14",
+    "objectId": "67",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Wee Nam Road",
+    "displayType": "Street",
+    "objectId": "3581",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lim Tai See Road",
+    "displayType": "Street",
+    "objectId": "8642",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Tao Ching Road  618721, West (D22-24)",
+    "displayText": "Lake Life",
+    "displayType": "Executive Condominium",
+    "nanoId": "xeav3l",
+    "objectId": "21992",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73/74/76/78 Yuan Ching Road  619601, West (D22-24)",
+    "displayText": "Sora",
+    "displayType": "Condominium",
+    "nanoId": "prmy2j",
+    "objectId": "25655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Yuan Ching Road  618647, West (D22-24)",
+    "displayText": "The LakeGarden Residences",
+    "displayType": "Condominium",
+    "nanoId": "mkust0",
+    "objectId": "25516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9G Yuan Ching Road  618649, West (D22-24)",
+    "displayText": "Lakeside Tower",
+    "displayType": "Apartment",
+    "nanoId": "iwjyf8",
+    "objectId": "742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Chun Tin Road  599717, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Meadow Lodge",
+    "displayType": "Condominium",
+    "nanoId": "vfi1ax",
+    "objectId": "1026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Chwee Chian Road  119744, City & South West (D01-08)",
+    "displayText": "Banyan Condo",
+    "displayType": "Condominium",
+    "nanoId": "88mky1",
+    "objectId": "1358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138A Yuan Ching Road  611138, West (D22-24)",
+    "displayText": "138A Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "u9k2so",
+    "objectId": "20891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138B Yuan Ching Road  612138, West (D22-24)",
+    "displayText": "138B Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "x8ebc0",
+    "objectId": "22612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138D Yuan Ching Road  614138, West (D22-24)",
+    "displayText": "138D Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "rw0fey",
+    "objectId": "22615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tah Ching Road",
+    "displayType": "Street",
+    "objectId": "5119",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "136 Tah Ching Road  610136, West (D22-24)",
+    "displayText": "136 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "5o9j5x",
+    "objectId": "10503",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Tah Ching Road  610137, West (D22-24)",
+    "displayText": "137 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "58gn6i",
+    "objectId": "10504",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Tah Ching Road  610138, West (D22-24)",
+    "displayText": "138 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "xlbxsg",
+    "objectId": "10505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Tah Ching Road  610321, West (D22-24)",
+    "displayText": "321 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "0ron6t",
+    "objectId": "10506",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322 Tah Ching Road  610322, West (D22-24)",
+    "displayText": "322 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "wnpszr",
+    "objectId": "10507",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Tah Ching Road  610323, West (D22-24)",
+    "displayText": "323 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "bglgt9",
+    "objectId": "10508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Tah Ching Road  610324, West (D22-24)",
+    "displayText": "324 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "0bpvsp",
+    "objectId": "10509",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Tah Ching Road  610325, West (D22-24)",
+    "displayText": "325 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "m28x91",
+    "objectId": "10510",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Tah Ching Road  610326, West (D22-24)",
+    "displayText": "326 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "fk41un",
+    "objectId": "10511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327 Tah Ching Road  610327, West (D22-24)",
+    "displayText": "327 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "n1wta4",
+    "objectId": "10512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Tah Ching Road  610328, West (D22-24)",
+    "displayText": "328 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "vfxksx",
+    "objectId": "10513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Tah Ching Road  610329, West (D22-24)",
+    "displayText": "329 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "u6ev2a",
+    "objectId": "10514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Tah Ching Road  610330, West (D22-24)",
+    "displayText": "330 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "liqvqc",
+    "objectId": "10515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Tah Ching Road  611331, West (D22-24)",
+    "displayText": "331 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "9ukp3c",
+    "objectId": "10516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Tah Ching Road  610332, West (D22-24)",
+    "displayText": "332 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "svmawb",
+    "objectId": "10517",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336 Tah Ching Road  610336, West (D22-24)",
+    "displayText": "336 Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "epqbru",
+    "objectId": "10518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14",
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328A Tah Ching Road  611328, West (D22-24)",
+    "displayText": "328A Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "x3nlbb",
+    "objectId": "10519",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Tao Ching Road  610105, West (D22-24)",
+    "displayText": "105 Tao Ching Road",
+    "displayType": "HDB",
+    "nanoId": "inou1f",
+    "objectId": "11262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Tao Ching Road  610113, West (D22-24)",
+    "displayText": "113 Tao Ching Road",
+    "displayType": "HDB",
+    "nanoId": "9rtv80",
+    "objectId": "11263",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Yuan Ching Road  610121, West (D22-24)",
+    "displayText": "121 Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "jbjsyx",
+    "objectId": "12964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Yuan Ching Road  610122, West (D22-24)",
+    "displayText": "122 Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "j9u39z",
+    "objectId": "12965",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9B Yuan Ching Road  618644, West (D22-24)",
+    "displayText": "9B Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "cjry3h",
+    "objectId": "12966",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9D Yuan Ching Road  618646, West (D22-24)",
+    "displayText": "9D Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "3eyxe8",
+    "objectId": "12968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Chwee Chian Road  117637, City & South West (D01-08)",
+    "displayText": "Banyan Park",
+    "displayType": "Terraced House",
+    "nanoId": "qcy412",
+    "objectId": "20831",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "338A Kang Ching Road  611338, West (D22-24)",
+    "displayText": "338A Kang Ching Road",
+    "displayType": "HDB",
+    "nanoId": "zc5now",
+    "objectId": "21190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338B Kang Ching Road  612338, West (D22-24)",
+    "displayText": "338B Kang Ching Road",
+    "displayType": "HDB",
+    "nanoId": "qyb6h7",
+    "objectId": "21191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337B Tah Ching Road  610337, West (D22-24)",
+    "displayText": "337B Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "9h5q36",
+    "objectId": "21198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339A Kang Ching Road  611339, West (D22-24)",
+    "displayText": "339A Kang Ching Road",
+    "displayType": "HDB",
+    "nanoId": "0wisk5",
+    "objectId": "21323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337C Tah Ching Road  613337, West (D22-24)",
+    "displayText": "337C Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "vwu9fa",
+    "objectId": "21668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "00 Chun Tin Road  590000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mandarin Park",
+    "displayType": "Terraced House",
+    "nanoId": "w2r7rg",
+    "objectId": "2169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "338A Tah Ching Road  611338, West (D22-24)",
+    "displayText": "338A Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "hkdk5z",
+    "objectId": "21721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337D Tah Ching Road  614337, West (D22-24)",
+    "displayText": "337D Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "mm58hf",
+    "objectId": "22116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337A Tah Ching Road  611337, West (D22-24)",
+    "displayText": "337A Tah Ching Road",
+    "displayType": "HDB",
+    "nanoId": "7nffq0",
+    "objectId": "22127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339B Kang Ching Road  612339, West (D22-24)",
+    "displayText": "339B Kang Ching Road",
+    "displayType": "HDB",
+    "nanoId": "gdp2h4",
+    "objectId": "22186",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339C Kang Ching Road  613339, West (D22-24)",
+    "displayText": "339C Kang Ching Road",
+    "displayType": "HDB",
+    "nanoId": "mv93l1",
+    "objectId": "22187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339D Kang Ching Road  614339, West (D22-24)",
+    "displayText": "339D Kang Ching Road",
+    "displayType": "HDB",
+    "nanoId": "ojigre",
+    "objectId": "22188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138C Yuan Ching Road  613138, West (D22-24)",
+    "displayText": "138C Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "vglj2z",
+    "objectId": "22614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9A - 9D Yuan Ching Road  618643, West (D22-24)",
+    "displayText": "Parkview Mansions",
+    "displayType": "Apartment",
+    "nanoId": "s9i66f",
+    "objectId": "2278",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "139 Yuan Ching Road  610139, West (D22-24)",
+    "displayText": "139 Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "jiemps",
+    "objectId": "25284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9E Yuan Ching Road  618647, West (D22-24)",
+    "displayText": "Lakeside Apartments",
+    "displayType": "Apartment",
+    "nanoId": "9ilul8",
+    "objectId": "571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

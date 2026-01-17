@@ -1,0 +1,1719 @@
+[
+  {
+    "displayText": "Sembawang Crescent",
+    "displayType": "Street",
+    "objectId": "2902",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "29 Sembawang Crescent  756982, North (D25-28)",
+    "displayText": "Parc Life",
+    "displayType": "Executive Condominium",
+    "nanoId": "99vncu",
+    "objectId": "22505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "362C Sembawang Crescent  753362, North (D25-28)",
+    "displayText": "362C Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "pr0p4o",
+    "objectId": "23738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362A Sembawang Crescent  751362, North (D25-28)",
+    "displayText": "362A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "2eyuyd",
+    "objectId": "24672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365A Sembawang Crescent  751365, North (D25-28)",
+    "displayText": "365A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "dmnk4h",
+    "objectId": "23655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365B Sembawang Crescent  752365, North (D25-28)",
+    "displayText": "365B Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "zx8orn",
+    "objectId": "23656",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365C Sembawang Crescent  753365, North (D25-28)",
+    "displayText": "365C Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "bxiqtl",
+    "objectId": "23657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "366A Sembawang Crescent  751366, North (D25-28)",
+    "displayText": "366A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "96o1tz",
+    "objectId": "23658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "366B Sembawang Crescent  752366, North (D25-28)",
+    "displayText": "366B Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "8dv854",
+    "objectId": "23659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "363A  Sembawang Crescent  751363, North (D25-28)",
+    "displayText": "363A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "de564n",
+    "objectId": "24648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "363B Sembawang Crescent  752363, North (D25-28)",
+    "displayText": "363B Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "fahjxp",
+    "objectId": "25320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362B Sembawang Crescent  752362, North (D25-28)",
+    "displayText": "362B Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "a1xix7",
+    "objectId": "25468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Sembawang Crescent  750325, North (D25-28)",
+    "displayText": "325 Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "riods7",
+    "objectId": "9849",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Sembawang Crescent  750326, North (D25-28)",
+    "displayText": "326 Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "5hex9i",
+    "objectId": "9850",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327 Sembawang Crescent  750327, North (D25-28)",
+    "displayText": "327 Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "8iz2ef",
+    "objectId": "9851",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Sembawang Crescent  750328, North (D25-28)",
+    "displayText": "328 Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "y19657",
+    "objectId": "9852",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336 Sembawang Crescent  750336, North (D25-28)",
+    "displayText": "336 Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "v3xyg2",
+    "objectId": "9853",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337 Sembawang Crescent  750337, North (D25-28)",
+    "displayText": "337 Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "6jhotl",
+    "objectId": "9854",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338 Sembawang Crescent  750338, North (D25-28)",
+    "displayText": "338 Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "wrlgzi",
+    "objectId": "9855",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325A Sembawang Crescent  751325, North (D25-28)",
+    "displayText": "325A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "wm5uca",
+    "objectId": "9856",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336A Sembawang Crescent  751336, North (D25-28)",
+    "displayText": "336A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "qsrwle",
+    "objectId": "9857",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337A Sembawang Crescent  751337, North (D25-28)",
+    "displayText": "337A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "qtaan2",
+    "objectId": "9858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D27",
+    "displayText": "D27 Sembawang / Yishun",
+    "displayType": "District",
+    "objectId": "D27",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D27"
+    }
+  },
+  {
+    "displayText": "Sembawang",
+    "displayType": "HDB Estate",
+    "objectId": "21",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Sembawang Drive  750000, North (D25-28)",
+    "displayText": "SkyPark Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "ubfhgr",
+    "objectId": "21786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "501 Sembawang Road  757706, North (D25-28)",
+    "displayText": "Seletaris",
+    "displayType": "Condominium",
+    "nanoId": "9eoo19",
+    "objectId": "424",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sembawang Walk  757000, North (D25-28)",
+    "displayText": "Springhill",
+    "displayType": "Terraced House",
+    "nanoId": "usn8qa",
+    "objectId": "460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "00 Nemesu Avenue  000000, Serangoon / Thomson (D19-20)",
+    "displayText": "Sembawang Hills Estate",
+    "displayType": "Terraced House",
+    "nanoId": "zy518c",
+    "objectId": "192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Ulu Sembawang  758930, North (D25-28)",
+    "displayText": "The Sensoria",
+    "displayType": "Condominium",
+    "nanoId": "z8hmob",
+    "objectId": "368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Sembawang Drive  757713, North (D25-28)",
+    "displayText": "Sun Plaza",
+    "displayType": "Apartment",
+    "nanoId": "hmos1o",
+    "objectId": "829",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "369 Sembawang Road  758382, North (D25-28)",
+    "displayText": "Sembawang Cottage",
+    "displayType": "Apartment",
+    "nanoId": "k9y3ri",
+    "objectId": "1118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "54 Sembawang Road  779085, North (D25-28)",
+    "displayText": "Hong Heng Mansions",
+    "displayType": "Apartment",
+    "nanoId": "lxympt",
+    "objectId": "1443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sembawang Road  758000, North (D25-28)",
+    "displayText": "Goodlink Park",
+    "displayType": "Terraced House",
+    "nanoId": "w8qlbx",
+    "objectId": "1967",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "33 Sembawang Road  779084, North (D25-28)",
+    "displayText": "Hong Heng Garden",
+    "displayType": "Apartment",
+    "nanoId": "3nd4f2",
+    "objectId": "2035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "577C Sembawang Place  757766, North (D25-28)",
+    "displayText": "Countryview",
+    "displayType": "Condominium",
+    "nanoId": "cvzj36",
+    "objectId": "20867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Gelam  000000, North (D25-28)",
+    "displayText": "Sembawang Straits Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "5lqf6w",
+    "objectId": "21026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "463A Sembawang Drive  751463, North (D25-28)",
+    "displayText": "463A Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "99sjh2",
+    "objectId": "22076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463B Sembawang Drive  752463, North (D25-28)",
+    "displayText": "463B Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "090k50",
+    "objectId": "22077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463C Sembawang Drive  753463, North (D25-28)",
+    "displayText": "463C Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "b8y32x",
+    "objectId": "22078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "756967, North (D25-28)",
+    "displayText": "Sembawang Park",
+    "displayType": "Terraced House",
+    "nanoId": "9v79qo",
+    "objectId": "2403",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Sembawang Road  758000, North (D25-28)",
+    "displayText": "Sembawang Square Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "2z3dkb",
+    "objectId": "2404",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Salang  000000, North (D25-28)",
+    "displayText": "Sembawang Springs Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "xcjyji",
+    "objectId": "502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "319 Sembawang Close  750319, North (D25-28)",
+    "displayText": "319 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "p3348v",
+    "objectId": "9823",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320 Sembawang Close  750320, North (D25-28)",
+    "displayText": "320 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "i25a6j",
+    "objectId": "9824",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Sembawang Close  750321, North (D25-28)",
+    "displayText": "321 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "kebt6n",
+    "objectId": "9825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322 Sembawang Close  750322, North (D25-28)",
+    "displayText": "322 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "uojqgu",
+    "objectId": "9826",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Sembawang Close  750323, North (D25-28)",
+    "displayText": "323 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "bxdwip",
+    "objectId": "9827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Sembawang Close  750324, North (D25-28)",
+    "displayText": "324 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "qw5lz7",
+    "objectId": "9828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Sembawang Close  750329, North (D25-28)",
+    "displayText": "329 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "h03f11",
+    "objectId": "9829",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Sembawang Close  750330, North (D25-28)",
+    "displayText": "330 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "sksss0",
+    "objectId": "9830",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Sembawang Close  750331, North (D25-28)",
+    "displayText": "331 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "8wo1ac",
+    "objectId": "9831",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Sembawang Close  750332, North (D25-28)",
+    "displayText": "332 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "estlpa",
+    "objectId": "9832",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333 Sembawang Close  750333, North (D25-28)",
+    "displayText": "333 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "emrhyi",
+    "objectId": "9833",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334 Sembawang Close  750334, North (D25-28)",
+    "displayText": "334 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "acwwsm",
+    "objectId": "9834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Sembawang Close  750335, North (D25-28)",
+    "displayText": "335 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "lgy4pv",
+    "objectId": "9835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339 Sembawang Close  750339, North (D25-28)",
+    "displayText": "339 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "87hbek",
+    "objectId": "9836",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "340 Sembawang Close  750340, North (D25-28)",
+    "displayText": "340 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "0izlaq",
+    "objectId": "9837",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "341 Sembawang Close  750341, North (D25-28)",
+    "displayText": "341 Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "rgcqqf",
+    "objectId": "9838",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322A Sembawang Close  751322, North (D25-28)",
+    "displayText": "322A Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "y2ri7o",
+    "objectId": "9839",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330A Sembawang Close  751330, North (D25-28)",
+    "displayText": "330A Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "th8it9",
+    "objectId": "9841",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335A Sembawang Close  751335, North (D25-28)",
+    "displayText": "335A Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "v66fpi",
+    "objectId": "9842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339A Sembawang Close  751339, North (D25-28)",
+    "displayText": "339A Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "aedx1i",
+    "objectId": "9843",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339B Sembawang Close  752339, North (D25-28)",
+    "displayText": "339B Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "jx2dym",
+    "objectId": "9844",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "340A Sembawang Close  751340, North (D25-28)",
+    "displayText": "340A Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "jyd5k6",
+    "objectId": "9845",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "340B Sembawang Close  752340, North (D25-28)",
+    "displayText": "340B Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "gycg2s",
+    "objectId": "9846",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "341A Sembawang Close  751341, North (D25-28)",
+    "displayText": "341A Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "p856l8",
+    "objectId": "9847",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "341B Sembawang Close  752341, North (D25-28)",
+    "displayText": "341B Sembawang Close",
+    "displayType": "HDB",
+    "nanoId": "04zqq7",
+    "objectId": "9848",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312 Sembawang Drive  750312, North (D25-28)",
+    "displayText": "312 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "abpkr3",
+    "objectId": "9859",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313 Sembawang Drive  750313, North (D25-28)",
+    "displayText": "313 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "t0zze1",
+    "objectId": "9860",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Sembawang Drive  750314, North (D25-28)",
+    "displayText": "314 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "mva03g",
+    "objectId": "9861",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Sembawang Drive  750406, North (D25-28)",
+    "displayText": "406 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "ap40n2",
+    "objectId": "9862",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407 Sembawang Drive  750407, North (D25-28)",
+    "displayText": "407 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "6abeu6",
+    "objectId": "9863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Sembawang Drive  750408, North (D25-28)",
+    "displayText": "408 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "krbbdz",
+    "objectId": "9864",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Sembawang Drive  750409, North (D25-28)",
+    "displayText": "409 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "l3t7se",
+    "objectId": "9865",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Sembawang Drive  750410, North (D25-28)",
+    "displayText": "410 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "m14rzh",
+    "objectId": "9866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Sembawang Drive  750411, North (D25-28)",
+    "displayText": "411 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "w1ehro",
+    "objectId": "9867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Sembawang Drive  750412, North (D25-28)",
+    "displayText": "412 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "kuv1li",
+    "objectId": "9868",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Sembawang Drive  750413, North (D25-28)",
+    "displayText": "413 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "d4bua3",
+    "objectId": "9869",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Sembawang Drive  750414, North (D25-28)",
+    "displayText": "414 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "8yk1sc",
+    "objectId": "9870",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Sembawang Drive  750415, North (D25-28)",
+    "displayText": "415 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "44famb",
+    "objectId": "9871",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "464 Sembawang Drive  750464, North (D25-28)",
+    "displayText": "464 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "es5zoc",
+    "objectId": "9872",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466 Sembawang Drive  750466, North (D25-28)",
+    "displayText": "466 Spring Lodge",
+    "displayType": "HDB",
+    "nanoId": "se4r38",
+    "objectId": "9873",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470 Sembawang Drive  750470, North (D25-28)",
+    "displayText": "470 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "mxxjg6",
+    "objectId": "9874",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471 Sembawang Drive  750471, North (D25-28)",
+    "displayText": "471 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "yi5t8g",
+    "objectId": "9875",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "472 Sembawang Drive  750472, North (D25-28)",
+    "displayText": "472 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "0wnyju",
+    "objectId": "9876",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "473 Sembawang Drive  750473, North (D25-28)",
+    "displayText": "473 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "4h5bax",
+    "objectId": "9877",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "474 Sembawang Drive  750474, North (D25-28)",
+    "displayText": "474 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "lrxp7e",
+    "objectId": "9878",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "475 Sembawang Drive  750475, North (D25-28)",
+    "displayText": "475 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "26ki2d",
+    "objectId": "9879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "476 Sembawang Drive  750476, North (D25-28)",
+    "displayText": "476 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "vtbl7e",
+    "objectId": "9880",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "477 Sembawang Drive  750477, North (D25-28)",
+    "displayText": "477 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "cvy28t",
+    "objectId": "9881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "478 Sembawang Drive  750478, North (D25-28)",
+    "displayText": "478 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "bg78kx",
+    "objectId": "9882",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "479 Sembawang Drive  750479, North (D25-28)",
+    "displayText": "479 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "v32ufz",
+    "objectId": "9883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "480 Sembawang Drive  750480, North (D25-28)",
+    "displayText": "480 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "ir6zys",
+    "objectId": "9884",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "481 Sembawang Drive  750481, North (D25-28)",
+    "displayText": "481 Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "8huhoo",
+    "objectId": "9885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313A Sembawang Drive  751313, North (D25-28)",
+    "displayText": "313A Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "mjd2s6",
+    "objectId": "9886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406A Sembawang Drive  751406, North (D25-28)",
+    "displayText": "406A Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "iyybq2",
+    "objectId": "9887",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415A Sembawang Drive  751415, North (D25-28)",
+    "displayText": "415A Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "74lmpt",
+    "objectId": "9888",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466A Sembawang Drive  751466, North (D25-28)",
+    "displayText": "466A Spring Lodge",
+    "displayType": "HDB",
+    "nanoId": "6yeq6i",
+    "objectId": "9890",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466B Sembawang Drive  752466, North (D25-28)",
+    "displayText": "466b Sembawang Drive",
+    "displayType": "HDB",
+    "nanoId": "fniagv",
+    "objectId": "9891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466C Sembawang Drive  753466, North (D25-28)",
+    "displayText": "466C Spring Lodge",
+    "displayType": "HDB",
+    "nanoId": "p6gcoo",
+    "objectId": "9892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

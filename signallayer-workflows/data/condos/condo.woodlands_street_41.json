@@ -1,0 +1,1499 @@
+[
+  {
+    "displayText": "Woodlands Street 41",
+    "displayType": "Street",
+    "objectId": "3707",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "401 Woodlands Street 41  730401, North (D25-28)",
+    "displayText": "401 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "zk4tp4",
+    "objectId": "12322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402 Woodlands Street 41  730402, North (D25-28)",
+    "displayText": "402 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "9rvnbe",
+    "objectId": "12323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Woodlands Street 41  730403, North (D25-28)",
+    "displayText": "403 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "0shsqw",
+    "objectId": "12324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404 Woodlands Street 41  730404, North (D25-28)",
+    "displayText": "404 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "dlfjq1",
+    "objectId": "12325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405 Woodlands Street 41  730405, North (D25-28)",
+    "displayText": "405 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "fe0ltg",
+    "objectId": "12326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Woodlands Street 41  730406, North (D25-28)",
+    "displayText": "406 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "pkqlri",
+    "objectId": "12327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Woodlands Street 41  730408, North (D25-28)",
+    "displayText": "408 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "j5rls9",
+    "objectId": "12328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Woodlands Street 41  730409, North (D25-28)",
+    "displayText": "409 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "8khz4l",
+    "objectId": "12329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Woodlands Street 41  730410, North (D25-28)",
+    "displayText": "410 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "5jsjgh",
+    "objectId": "12330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Woodlands Street 41  730411, North (D25-28)",
+    "displayText": "411 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "695d4w",
+    "objectId": "12331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Woodlands Street 41  730412, North (D25-28)",
+    "displayText": "412 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "dp4pr0",
+    "objectId": "12332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Woodlands Street 41  730413, North (D25-28)",
+    "displayText": "413 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "z8vr52",
+    "objectId": "12333",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Woodlands Street 41  730414, North (D25-28)",
+    "displayText": "414 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "8om5et",
+    "objectId": "12334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Woodlands Street 41  730415, North (D25-28)",
+    "displayText": "415 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "tojono",
+    "objectId": "12335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416 Woodlands Street 41  730416, North (D25-28)",
+    "displayText": "416 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "t49w66",
+    "objectId": "12336",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Woodlands Street 41  730418, North (D25-28)",
+    "displayText": "418 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "w18s1b",
+    "objectId": "12338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419 Woodlands Street 41  730419, North (D25-28)",
+    "displayText": "419 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "e43on3",
+    "objectId": "12339",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420 Woodlands Street 41  730420, North (D25-28)",
+    "displayText": "420 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "kco75e",
+    "objectId": "12340",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "424 Woodlands Street 41  730424, North (D25-28)",
+    "displayText": "424 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "7r429o",
+    "objectId": "12342",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "425 Woodlands Street 41  730425, North (D25-28)",
+    "displayText": "425 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "wcqscg",
+    "objectId": "12343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "426 Woodlands Street 41  730426, North (D25-28)",
+    "displayText": "426 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "yhmg9o",
+    "objectId": "12344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "427 Woodlands Street 41  730427, North (D25-28)",
+    "displayText": "427 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "70xr1h",
+    "objectId": "12345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "428 Woodlands Street 41  730428, North (D25-28)",
+    "displayText": "428 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "r45ym5",
+    "objectId": "12346",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "429 Woodlands Street 41  730429, North (D25-28)",
+    "displayText": "429 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "nnzz0w",
+    "objectId": "12347",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "436 Woodlands Street 41  730436, North (D25-28)",
+    "displayText": "436 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "78y6jq",
+    "objectId": "12348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "437 Woodlands Street 41  730437, North (D25-28)",
+    "displayText": "437 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "snicmc",
+    "objectId": "12349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406A Woodlands Street 41  731406, North (D25-28)",
+    "displayText": "406A Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "1sukrh",
+    "objectId": "12350",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413A Woodlands Street 41  731413, North (D25-28)",
+    "displayText": "413A Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "2qv3e4",
+    "objectId": "12351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "421A Woodlands Street 41  731421, North (D25-28)",
+    "displayText": "421A Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "uityro",
+    "objectId": "12352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Woodlands Street 41  730417, North (D25-28)",
+    "displayText": "417 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "afa4aq",
+    "objectId": "12337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "421 Woodlands Street 41  730421, North (D25-28)",
+    "displayText": "421 Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "j4kia6",
+    "objectId": "12341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "426A Woodlands Street 41  731426, North (D25-28)",
+    "displayText": "426A Woodlands Street 41",
+    "displayType": "HDB",
+    "nanoId": "86c2fn",
+    "objectId": "12353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Woodlands Street 11",
+    "displayType": "Street",
+    "objectId": "3702",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 31",
+    "displayType": "Street",
+    "objectId": "3705",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 81",
+    "displayType": "Street",
+    "objectId": "3708",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 13",
+    "displayType": "Street",
+    "objectId": "3704",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 50",
+    "displayType": "Street",
+    "objectId": "10022",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 12",
+    "displayType": "Street",
+    "objectId": "3703",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 32",
+    "displayType": "Street",
+    "objectId": "3706",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 82",
+    "displayType": "Street",
+    "objectId": "3709",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 83",
+    "displayType": "Street",
+    "objectId": "3710",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "29 Jurong West Street 41  649411, West (D22-24)",
+    "displayText": "The Lakeshore",
+    "displayType": "Condominium",
+    "nanoId": "ncss25",
+    "objectId": "104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Bukit Batok Street 41  657977, West (D22-24)",
+    "displayText": "Le Quest",
+    "displayType": "Condominium",
+    "nanoId": "pf0x5q",
+    "objectId": "23163",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jurong West Street 41",
+    "displayType": "Street",
+    "objectId": "1715",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "401 Tampines Street 41  520401, Changi / Pasir Ris (D17-18)",
+    "displayText": "401 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "hd9ro5",
+    "objectId": "10891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402 Tampines Street 41  520402, Changi / Pasir Ris (D17-18)",
+    "displayText": "402 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "l6jtyv",
+    "objectId": "10892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Tampines Street 41  520403, Changi / Pasir Ris (D17-18)",
+    "displayText": "403 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "4uynhm",
+    "objectId": "10893",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405 Tampines Street 41  520405, Changi / Pasir Ris (D17-18)",
+    "displayText": "405 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "kvlfi8",
+    "objectId": "10895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Tampines Street 41  520406, Changi / Pasir Ris (D17-18)",
+    "displayText": "406 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "jvig74",
+    "objectId": "10896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407 Tampines Street 41  520407, Changi / Pasir Ris (D17-18)",
+    "displayText": "407 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "wmyl58",
+    "objectId": "10897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Tampines Street 41  520408, Changi / Pasir Ris (D17-18)",
+    "displayText": "408 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "osudz5",
+    "objectId": "10898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Tampines Street 41  520409, Changi / Pasir Ris (D17-18)",
+    "displayText": "409 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "ak08vo",
+    "objectId": "10899",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Tampines Street 41  520410, Changi / Pasir Ris (D17-18)",
+    "displayText": "410 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "3xbrz2",
+    "objectId": "10900",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Tampines Street 41  520411, Changi / Pasir Ris (D17-18)",
+    "displayText": "411 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "yslvgz",
+    "objectId": "10901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Tampines Street 41  520412, Changi / Pasir Ris (D17-18)",
+    "displayText": "412 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "teqifj",
+    "objectId": "10902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Tampines Street 41  520413, Changi / Pasir Ris (D17-18)",
+    "displayText": "413 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "j5iz65",
+    "objectId": "10903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Tampines Street 41  520414, Changi / Pasir Ris (D17-18)",
+    "displayText": "414 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "mvwjbp",
+    "objectId": "10904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Tampines Street 41  520415, Changi / Pasir Ris (D17-18)",
+    "displayText": "415 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "p4240v",
+    "objectId": "10905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416 Tampines Street 41  520416, Changi / Pasir Ris (D17-18)",
+    "displayText": "416 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "kvlvm2",
+    "objectId": "10906",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Tampines Street 41  520417, Changi / Pasir Ris (D17-18)",
+    "displayText": "417 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "1kic8y",
+    "objectId": "10907",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Tampines Street 41  520418, Changi / Pasir Ris (D17-18)",
+    "displayText": "418 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "xy7mb7",
+    "objectId": "10908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419 Tampines Street 41  520419, Changi / Pasir Ris (D17-18)",
+    "displayText": "419 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "f7qg6i",
+    "objectId": "10909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420 Tampines Street 41  520420, Changi / Pasir Ris (D17-18)",
+    "displayText": "420 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "qatuyh",
+    "objectId": "10910",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "421 Tampines Street 41  520421, Changi / Pasir Ris (D17-18)",
+    "displayText": "421 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "w4geqg",
+    "objectId": "10911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "422 Tampines Street 41  520422, Changi / Pasir Ris (D17-18)",
+    "displayText": "422 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "740l5o",
+    "objectId": "10912",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "423 Tampines Street 41  520423, Changi / Pasir Ris (D17-18)",
+    "displayText": "423 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "gturcf",
+    "objectId": "10913",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "424 Tampines Street 41  520424, Changi / Pasir Ris (D17-18)",
+    "displayText": "424 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "436km1",
+    "objectId": "10914",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "425 Tampines Street 41  520425, Changi / Pasir Ris (D17-18)",
+    "displayText": "425 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "3nwo1a",
+    "objectId": "10915",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "426 Tampines Street 41  520426, Changi / Pasir Ris (D17-18)",
+    "displayText": "426 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "rqbj9q",
+    "objectId": "10916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "427 Tampines Street 41  520427, Changi / Pasir Ris (D17-18)",
+    "displayText": "427 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "5g1ixe",
+    "objectId": "10917",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "428 Tampines Street 41  520428, Changi / Pasir Ris (D17-18)",
+    "displayText": "428 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "2p94vi",
+    "objectId": "10918",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "429 Tampines Street 41  520429, Changi / Pasir Ris (D17-18)",
+    "displayText": "429 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "dbnsln",
+    "objectId": "10919",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430 Tampines Street 41  520430, Changi / Pasir Ris (D17-18)",
+    "displayText": "430 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "v95719",
+    "objectId": "10920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "431 Tampines Street 41  520431, Changi / Pasir Ris (D17-18)",
+    "displayText": "431 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "kdustt",
+    "objectId": "10921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "432 Tampines Street 41  520432, Changi / Pasir Ris (D17-18)",
+    "displayText": "432 Tampines Street 41",
+    "displayType": "HDB",
+    "nanoId": "8hmt2b",
+    "objectId": "10922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "453 Yishun Street 41  760453, North (D25-28)",
+    "displayText": "453 Yishun Street 41",
+    "displayType": "HDB",
+    "nanoId": "b7s4m0",
+    "objectId": "22235",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "454 Yishun Street 41  760454, North (D25-28)",
+    "displayText": "454 Yishun Street 41",
+    "displayType": "HDB",
+    "nanoId": "n1ciu7",
+    "objectId": "22257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "455 Yishun Street 41  760455, North (D25-28)",
+    "displayText": "455 Yishun Street 41",
+    "displayType": "HDB",
+    "nanoId": "z3ns5j",
+    "objectId": "22258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "457 Yishun Street 41  760457, North (D25-28)",
+    "displayText": "457 Yishun Street 41",
+    "displayType": "HDB",
+    "nanoId": "56l0v5",
+    "objectId": "22259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "456 Yishun Street 41  760456, North (D25-28)",
+    "displayText": "456 Yishun Street 41",
+    "displayType": "HDB",
+    "nanoId": "iktomj",
+    "objectId": "22260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463B Bukit Batok Street 41  652463, West (D22-24)",
+    "displayText": "463B Bukit Batok Street 41",
+    "displayType": "HDB",
+    "nanoId": "df3zkg",
+    "objectId": "25529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463A Bukit Batok Street 41  651463, West (D22-24)",
+    "displayText": "463A Bukit Batok Street 41",
+    "displayType": "HDB",
+    "nanoId": "rcqplk",
+    "objectId": "25530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "41 Chai Chee Street  461041, East Coast (D15-16)",
+    "displayText": "41 Chai Chee Street",
+    "displayType": "HDB",
+    "nanoId": "blg1p2",
+    "objectId": "4769",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "456 Jurong West Street 41  640456, West (D22-24)",
+    "displayText": "456 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "1wvfnx",
+    "objectId": "7471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "457 Jurong West Street 41  640457, West (D22-24)",
+    "displayText": "457 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "5rzaxm",
+    "objectId": "7472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "458 Jurong West Street 41  640458, West (D22-24)",
+    "displayText": "458 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "o9gkmq",
+    "objectId": "7473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "459 Jurong West Street 41  640459, West (D22-24)",
+    "displayText": "459 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "s4gg27",
+    "objectId": "7474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "460 Jurong West Street 41  640460, West (D22-24)",
+    "displayText": "460 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "h2ybdp",
+    "objectId": "7475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461 Jurong West Street 41  640461, West (D22-24)",
+    "displayText": "461 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "3vmxdh",
+    "objectId": "7476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "462 Jurong West Street 41  640462, West (D22-24)",
+    "displayText": "462 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "zaj361",
+    "objectId": "7477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463 Jurong West Street 41  640463, West (D22-24)",
+    "displayText": "463 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "fx0jez",
+    "objectId": "7478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "464 Jurong West Street 41  640464, West (D22-24)",
+    "displayText": "464 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "zpx39f",
+    "objectId": "7479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "465 Jurong West Street 41  640465, West (D22-24)",
+    "displayText": "465 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "4xz5e1",
+    "objectId": "7480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466 Jurong West Street 41  640466, West (D22-24)",
+    "displayText": "466 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "dlxr32",
+    "objectId": "7481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467 Jurong West Street 41  640467, West (D22-24)",
+    "displayText": "467 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "6spmdi",
+    "objectId": "7482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468 Jurong West Street 41  640468, West (D22-24)",
+    "displayText": "468 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "05xhne",
+    "objectId": "7483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469 Jurong West Street 41  640469, West (D22-24)",
+    "displayText": "469 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "iw3dtk",
+    "objectId": "7484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470 Jurong West Street 41  640470, West (D22-24)",
+    "displayText": "470 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "fapwnd",
+    "objectId": "7485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471 Jurong West Street 41  640471, West (D22-24)",
+    "displayText": "471 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "mnty5d",
+    "objectId": "7486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

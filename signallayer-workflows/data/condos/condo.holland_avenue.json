@@ -1,0 +1,1503 @@
+[
+  {
+    "displayText": "Holland Avenue",
+    "displayType": "Street",
+    "objectId": "1109",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Holland Avenue  271002, Orchard / Holland (D09-10)",
+    "displayText": "2 Holland Avenue",
+    "displayType": "HDB",
+    "nanoId": "nhb1w1",
+    "objectId": "6294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Holland Avenue  271008, Orchard / Holland (D09-10)",
+    "displayText": "8 Holland Avenue",
+    "displayType": "HDB",
+    "nanoId": "722sxp",
+    "objectId": "6295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Holland Avenue  272009, Orchard / Holland (D09-10)",
+    "displayText": "9 Holland Avenue",
+    "displayType": "HDB",
+    "nanoId": "z774ze",
+    "objectId": "6296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Fourth Avenue  268660, Orchard / Holland (D09-10)",
+    "displayText": "Fourth Avenue Residences",
+    "displayType": "Condominium",
+    "nanoId": "x8apjd",
+    "objectId": "23566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Makeway Avenue  228605, Orchard / Holland (D09-10)",
+    "displayText": "Kopar At Newton",
+    "displayType": "Condominium",
+    "nanoId": "y1japb",
+    "objectId": "23902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Makeway Avenue  228599, Orchard / Holland (D09-10)",
+    "displayText": "The Atelier",
+    "displayType": "Condominium",
+    "nanoId": "7i2bfk",
+    "objectId": "24597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "160 Sixth Avenue  276537, Orchard / Holland (D09-10)",
+    "displayText": "The Sixth Avenue Residences",
+    "displayType": "Condominium",
+    "nanoId": "sifaq5",
+    "objectId": "118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Anamalai Avenue  279988, Orchard / Holland (D09-10)",
+    "displayText": "Royalgreen",
+    "displayType": "Condominium",
+    "nanoId": "vjpr69",
+    "objectId": "23808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Duchess Avenue  266474, Orchard / Holland (D09-10)",
+    "displayText": "Duchess Crest",
+    "displayType": "Condominium",
+    "nanoId": "lqt8cr",
+    "objectId": "370",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ford Avenue  268685, Orchard / Holland (D09-10)",
+    "displayText": "The Ford @ Holland",
+    "displayType": "Condominium",
+    "nanoId": "njlpgc",
+    "objectId": "183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "000 Laurel Wood Avenue  275000, Orchard / Holland (D09-10)",
+    "displayText": "The Teneriffe",
+    "displayType": "Cluster House",
+    "nanoId": "uqhrvt",
+    "objectId": "356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "102 Duchess Avenue  266310, Orchard / Holland (D09-10)",
+    "displayText": "Duchess Residences",
+    "displayType": "Condominium",
+    "nanoId": "3os7hz",
+    "objectId": "965",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Fifth Avenue  268800, Orchard / Holland (D09-10)",
+    "displayText": "Fifth Avenue Condominium",
+    "displayType": "Condominium",
+    "nanoId": "gl5mtg",
+    "objectId": "25210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00  Sixth Avenue  276679, Orchard / Holland (D09-10)",
+    "displayText": "Palms @ Sixth Avenue",
+    "displayType": "Cluster House",
+    "nanoId": "uzhc6r",
+    "objectId": "21467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Duchess Avenue  000000, Orchard / Holland (D09-10)",
+    "displayText": "Casabella",
+    "displayType": "Condominium",
+    "nanoId": "oh8ews",
+    "objectId": "372",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Clemenceau Avenue North  229491, Orchard / Holland (D09-10)",
+    "displayText": "Cavenagh House",
+    "displayType": "Apartment",
+    "nanoId": "0a5pjl",
+    "objectId": "597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Cherry Avenue  279871, Orchard / Holland (D09-10)",
+    "displayText": "Villa Azura",
+    "displayType": "Condominium",
+    "nanoId": "jdrxdb",
+    "objectId": "717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "43 Sixth Avenue  276484, Orchard / Holland (D09-10)",
+    "displayText": "Sixth Avenue Ville",
+    "displayType": "Condominium",
+    "nanoId": "flyfyc",
+    "objectId": "1448",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Holland Avenue  278965, Orchard / Holland (D09-10)",
+    "displayText": "Willyn Ville",
+    "displayType": "Condominium",
+    "nanoId": "abccb2",
+    "objectId": "1619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "265-265B Sixth Avenue  276559, Orchard / Holland (D09-10)",
+    "displayText": "Dynasty Lodge",
+    "displayType": "Condominium",
+    "nanoId": "6g3taj",
+    "objectId": "1886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "805 Bukit Timah Road  279883, Orchard / Holland (D09-10)",
+    "displayText": "Sixth Avenue Centre",
+    "displayType": "Apartment",
+    "nanoId": "fm317f",
+    "objectId": "20759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Ford Avenue  268686, Orchard / Holland (D09-10)",
+    "displayText": "Urban Edge @ Holland V",
+    "displayType": "Apartment",
+    "nanoId": "sjc135",
+    "objectId": "446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Fifth Avenue  268792, Orchard / Holland (D09-10)",
+    "displayText": "Avenue Villa",
+    "displayType": "Good Class Bungalow",
+    "nanoId": "z97i45",
+    "objectId": "1765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "BUNG",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Duchess Avenue  269000, Orchard / Holland (D09-10)",
+    "displayText": "Duchess Gardens",
+    "displayType": "Semi-Detached House",
+    "nanoId": "85qd0i",
+    "objectId": "1878",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "32 Duchess Avenue  269105, Orchard / Holland (D09-10)",
+    "displayText": "Duchess Royale",
+    "displayType": "Condominium",
+    "nanoId": "tcg1y5",
+    "objectId": "20621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Duchess Avenue  269000, Orchard / Holland (D09-10)",
+    "displayText": "Coronation Gardens",
+    "displayType": "Semi-Detached House",
+    "nanoId": "elej92",
+    "objectId": "20865",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "22 Duchess Avenue  269093, Orchard / Holland (D09-10)",
+    "displayText": "Duchess Park",
+    "displayType": "Apartment",
+    "nanoId": "hab7b4",
+    "objectId": "20880",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Redwood Avenue  276712, Orchard / Holland (D09-10)",
+    "displayText": "Eden Park",
+    "displayType": "Terraced House",
+    "nanoId": "ozj8iv",
+    "objectId": "20883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "108 Sixth Avenue  276501, Orchard / Holland (D09-10)",
+    "displayText": "Garlick Park",
+    "displayType": "Condominium",
+    "nanoId": "f0par4",
+    "objectId": "20909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Maple Avenue  277000, Orchard / Holland (D09-10)",
+    "displayText": "Oak Villas",
+    "displayType": "Detached House",
+    "nanoId": "b0yt8c",
+    "objectId": "20989",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "118 Garlick Avenue  275991, Orchard / Holland (D09-10)",
+    "displayText": "The Waterdale",
+    "displayType": "Condominium",
+    "nanoId": "ss03uu",
+    "objectId": "21083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "271 - 291 Sixth Avenue  276562, Orchard / Holland (D09-10)",
+    "displayText": "Dynasty Garden Court 2",
+    "displayType": "Condominium",
+    "nanoId": "0jb62f",
+    "objectId": "2114",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sixth Avenue  000009, Orchard / Holland (D09-10)",
+    "displayText": "Ming Teck Park",
+    "displayType": "Semi-Detached House",
+    "nanoId": "l93nab",
+    "objectId": "2206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "733 Bukit Timah Road  269748, Orchard / Holland (D09-10)",
+    "displayText": "Second Avenue Junction",
+    "displayType": "Apartment",
+    "nanoId": "o5x2t5",
+    "objectId": "2399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Duchess Avenue  266311, Orchard / Holland (D09-10)",
+    "displayText": "Duchess Walk",
+    "displayType": "Condominium",
+    "nanoId": "c3x6uk",
+    "objectId": "24947",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Holland Avenue  271010, Orchard / Holland (D09-10)",
+    "displayText": "10 Holland Avenue",
+    "displayType": "HDB",
+    "nanoId": "knznn3",
+    "objectId": "6297",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Holland Avenue  272012, Orchard / Holland (D09-10)",
+    "displayText": "12 Holland Avenue",
+    "displayType": "HDB",
+    "nanoId": "iqgy9o",
+    "objectId": "6298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Holland Avenue  271014, Orchard / Holland (D09-10)",
+    "displayText": "14 Holland Avenue",
+    "displayType": "HDB",
+    "nanoId": "k611hr",
+    "objectId": "6299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "251 Sixth Avenue  276553, Orchard / Holland (D09-10)",
+    "displayText": "Dynasty Garden",
+    "displayType": "Condominium",
+    "nanoId": "4jc7gu",
+    "objectId": "871",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Holland Grove Avenue",
+    "displayType": "Street",
+    "objectId": "1119",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "De Souza Avenue  598668, Orchard / Holland (D09-10)",
+    "displayText": "The Sen",
+    "displayType": "Condominium",
+    "nanoId": "yx2hqb",
+    "objectId": "26047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "114 Holland Road Singapore  278557, Orchard / Holland (D09-10)",
+    "displayText": "Chateau De Hollande",
+    "displayType": "Apartment",
+    "nanoId": "jh8b4m",
+    "objectId": "20851",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 Holland Road  258536, Orchard / Holland (D09-10)",
+    "displayText": "Hollandia",
+    "displayType": "Apartment",
+    "nanoId": "jwxqve",
+    "objectId": "1178",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 River Valley Close  238432, Orchard / Holland (D09-10)",
+    "displayText": "The Avenir",
+    "displayType": "Condominium",
+    "nanoId": "a4x245",
+    "objectId": "23843",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Clementi Avenue 1  120403, City & South West (D01-08)",
+    "displayText": "Clavon",
+    "displayType": "Condominium",
+    "nanoId": "umgr9u",
+    "objectId": "24518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Hougang Avenue 7   533813, Serangoon / Thomson (D19-20)",
+    "displayText": "Riverfront Residences",
+    "displayType": "Condominium",
+    "nanoId": "rr6vfd",
+    "objectId": "23460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Choa Chu Kang Avenue 5  688191, West (D22-24)",
+    "displayText": "iNz Residence",
+    "displayType": "Condominium",
+    "nanoId": "7w4d4y",
+    "objectId": "22916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Jurong East Avenue 1  609774, West (D22-24)",
+    "displayText": "Parc Oasis",
+    "displayType": "Condominium",
+    "nanoId": "bqjp2m",
+    "objectId": "141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "351 Choa Chu Kang Avenue 3  689879, West (D22-24)",
+    "displayText": "Wandervale",
+    "displayType": "Executive Condominium",
+    "nanoId": "1pefx6",
+    "objectId": "22383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 3  465461, East Coast (D15-16)",
+    "displayText": "Grandeur Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "1m24f7",
+    "objectId": "22879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Tampines Avenue 1  528684, Changi / Pasir Ris (D17-18)",
+    "displayText": "Waterview",
+    "displayType": "Condominium",
+    "nanoId": "z2w2y8",
+    "objectId": "20574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "331 Choa Chu Kang Avenue 3  689869, West (D22-24)",
+    "displayText": "The Rainforest",
+    "displayType": "Executive Condominium",
+    "nanoId": "t7hxw5",
+    "objectId": "21117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bedok South Avenue 3  000000, East Coast (D15-16)",
+    "displayText": "eCO",
+    "displayType": "Condominium",
+    "nanoId": "g3tfu0",
+    "objectId": "21324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Potong Pasir Avenue 1  358391, Balestier / Geylang (D12-14)",
+    "displayText": "The Tre Ver",
+    "displayType": "Condominium",
+    "nanoId": "5su0gv",
+    "objectId": "23476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138 Serangoon Avenue 3  554475, Serangoon / Thomson (D19-20)",
+    "displayText": "The Scala @ Lorong Chuan",
+    "displayType": "Condominium",
+    "nanoId": "2mdv7q",
+    "objectId": "2662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Tampines Avenue 8  520800, Changi / Pasir Ris (D17-18)",
+    "displayText": "Arc at Tampines",
+    "displayType": "Executive Condominium",
+    "nanoId": "wbatg7",
+    "objectId": "20739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Yishun Avenue 1  769130, North (D25-28)",
+    "displayText": "The Estuary @ Yishun",
+    "displayType": "Condominium",
+    "nanoId": "3770wm",
+    "objectId": "2636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Serangoon Avenue 2  556130, Serangoon / Thomson (D19-20)",
+    "displayText": "Sunglade",
+    "displayType": "Condominium",
+    "nanoId": "zel5nu",
+    "objectId": "277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "59 Ang Mo Kio Avenue 8  567752, Serangoon / Thomson (D19-20)",
+    "displayText": "Centro Residences",
+    "displayType": "Condominium",
+    "nanoId": "zx3tm4",
+    "objectId": "1550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Woodlands Avenue 6  738992, North (D25-28)",
+    "displayText": "Twin Fountains",
+    "displayType": "Executive Condominium",
+    "nanoId": "zpnmjt",
+    "objectId": "21588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Woodlands Avenue 5  739010, North (D25-28)",
+    "displayText": "Bellewoods",
+    "displayType": "Executive Condominium",
+    "nanoId": "hqajlm",
+    "objectId": "21960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Choa Chu Kang Avenue 3  680311, West (D22-24)",
+    "displayText": "Mi Casa",
+    "displayType": "Condominium",
+    "nanoId": "syszvp",
+    "objectId": "1487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Geylang East Avenue 2  389754, Balestier / Geylang (D12-14)",
+    "displayText": "Simsville",
+    "displayType": "Condominium",
+    "nanoId": "7fe744",
+    "objectId": "286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Bukit Batok East Avenue 2  659920, West (D22-24)",
+    "displayText": "Hillview Regency",
+    "displayType": "Condominium",
+    "nanoId": "kw2stx",
+    "objectId": "162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Geylang East Avenue 1  389782, Balestier / Geylang (D12-14)",
+    "displayText": "Tre Residences",
+    "displayType": "Condominium",
+    "nanoId": "6pci1q",
+    "objectId": "22023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Bukit Batok East Avenue 5  659801, West (D22-24)",
+    "displayText": "Regent Heights",
+    "displayType": "Condominium",
+    "nanoId": "q0l9o3",
+    "objectId": "187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131 Serangoon Avenue 3  556112, Serangoon / Thomson (D19-20)",
+    "displayText": "Chiltern Park",
+    "displayType": "Condominium",
+    "nanoId": "dop8c3",
+    "objectId": "308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Tampines Avenue 1  529771, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Tropica",
+    "displayType": "Condominium",
+    "nanoId": "7lqckd",
+    "objectId": "330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "139 Serangoon Avenue 3  556119, Serangoon / Thomson (D19-20)",
+    "displayText": "The Springbloom",
+    "displayType": "Condominium",
+    "nanoId": "6cea3p",
+    "objectId": "462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "78 Hougang Avenue 7  534260, Serangoon / Thomson (D19-20)",
+    "displayText": "The Florida",
+    "displayType": "Condominium",
+    "nanoId": "2rjw7k",
+    "objectId": "214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Ang Mo Kio Avenue 5  804605, North (D25-28)",
+    "displayText": "Belgravia Villas",
+    "displayType": "Cluster House",
+    "nanoId": "ojpqb1",
+    "objectId": "21665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Yishun Avenue 9  760000, North (D25-28)",
+    "displayText": "Nine Residences",
+    "displayType": "Apartment",
+    "nanoId": "haasb8",
+    "objectId": "21750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Bukit Batok East Avenue 6  659763, West (D22-24)",
+    "displayText": "Park Natura",
+    "displayType": "Condominium",
+    "nanoId": "yl2izh",
+    "objectId": "1144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Hougang Avenue 7  538800, Serangoon / Thomson (D19-20)",
+    "displayText": "Evergreen Park",
+    "displayType": "Condominium",
+    "nanoId": "t6a9yf",
+    "objectId": "188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ang Mo Kio Avenue 9  569758, Serangoon / Thomson (D19-20)",
+    "displayText": "Far Horizon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "8kb81y",
+    "objectId": "305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "118 Serangoon Avenue 3  554773, Serangoon / Thomson (D19-20)",
+    "displayText": "Amaranda Gardens",
+    "displayType": "Condominium",
+    "nanoId": "r9mkgr",
+    "objectId": "34",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "341 Ang Mo Kio Avenue 2  567826, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Gardens",
+    "displayType": "Cluster House",
+    "nanoId": "8h09ov",
+    "objectId": "627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Ang Mo Kio Avenue 9  569786, Serangoon / Thomson (D19-20)",
+    "displayText": "Nuovo",
+    "displayType": "Condominium",
+    "nanoId": "ogdjtn",
+    "objectId": "1407",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Ang Mo Kio Avenue 2  567000, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Green",
+    "displayType": "Terraced House",
+    "nanoId": "1bjq7s",
+    "objectId": "1071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "194A Bukit Batok West Avenue 6  651194, West (D22-24)",
+    "displayText": "194A Bukit Batok West Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "qswxei",
+    "objectId": "24524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310A Ang Mo Kio Avenue 1  561310, Serangoon / Thomson (D19-20)",
+    "displayText": "310A Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "99jmc6",
+    "objectId": "20743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310C Ang Mo Kio Avenue 1  563310, Serangoon / Thomson (D19-20)",
+    "displayText": "310C Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "koanwl",
+    "objectId": "20796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310B Ang Mo Kio Avenue 1  562310, Serangoon / Thomson (D19-20)",
+    "displayText": "310B Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "bp0e6t",
+    "objectId": "20797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311C Clementi Avenue 4  123311, City & South West (D01-08)",
+    "displayText": "311C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vpdjy7",
+    "objectId": "23490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "194B Bukit Batok West Avenue 6  652194, West (D22-24)",
+    "displayText": "194B Bukit Batok West Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "h023yg",
+    "objectId": "24572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Hougang Avenue 1",
+    "displayType": "Street",
+    "objectId": "1142",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok West Avenue 8",
+    "displayType": "Street",
+    "objectId": "8482",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok West Avenue 6",
+    "displayType": "Street",
+    "objectId": "8958",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "126 Serangoon Avenue 3  556126, Serangoon / Thomson (D19-20)",
+    "displayText": "Golden Heights",
+    "displayType": "Apartment",
+    "nanoId": "97tuo8",
+    "objectId": "1112",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Geylang East Avenue 2  389760, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Edge",
+    "displayType": "Condominium",
+    "nanoId": "ekbwcw",
+    "objectId": "20679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311A Clementi Avenue 4  121311, City & South West (D01-08)",
+    "displayText": "311A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x55i4m",
+    "objectId": "20894",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "441B Clementi Avenue 3  122441, City & South West (D01-08)",
+    "displayText": "441B Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "6k2v8g",
+    "objectId": "21135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "441A Clementi Avenue 3  121441, City & South West (D01-08)",
+    "displayText": "441A Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "het6cv",
+    "objectId": "21246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "425 Clementi Avenue 1  120425, City & South West (D01-08)",
+    "displayText": "425 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "m1e87l",
+    "objectId": "21904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312A Clementi Avenue 4  121312, City & South West (D01-08)",
+    "displayText": "312A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x1msjn",
+    "objectId": "22765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312C Clementi Avenue 4  123312, City & South West (D01-08)",
+    "displayText": "312C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xfdwml",
+    "objectId": "22766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "815C Choa Chu Kang Avenue 7  683815, West (D22-24)",
+    "displayText": "815C Choa Chu Kang Avenue 7",
+    "displayType": "HDB",
+    "nanoId": "u4txz2",
+    "objectId": "22909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312B Clementi Avenue 4  122312, City & South West (D01-08)",
+    "displayText": "312B Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t83d0f",
+    "objectId": "23201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "292B Bukit Batok East Avenue 6  652292, West (D22-24)",
+    "displayText": "292B Bukit Batok East Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "85dqj4",
+    "objectId": "23330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

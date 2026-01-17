@@ -1,0 +1,1429 @@
+[
+  {
+    "displayText": "Beach Road",
+    "displayType": "Street",
+    "objectId": "166",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D7",
+    "displayText": "D07 Beach Road / Bugis / Rochor",
+    "displayType": "District",
+    "objectId": "D07",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D07"
+    }
+  },
+  {
+    "displayDescription": "1 Beach Road  190001, City & South West (D01-08)",
+    "displayText": "1 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "ja2cmn",
+    "objectId": "3318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Beach Road  190002, City & South West (D01-08)",
+    "displayText": "2 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "1mt8gr",
+    "objectId": "3319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Beach Road  190003, City & South West (D01-08)",
+    "displayText": "3 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "2n865z",
+    "objectId": "3320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Beach Road  190004, City & South West (D01-08)",
+    "displayText": "4 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "oea2r9",
+    "objectId": "3321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Beach Road  190005, City & South West (D01-08)",
+    "displayText": "5 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "sed4rh",
+    "objectId": "3322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Beach Road  190006, City & South West (D01-08)",
+    "displayText": "6 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "2iuj5s",
+    "objectId": "3323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "298 Beach Road  199554, City & South West (D01-08)",
+    "displayText": "Concourse Skyline",
+    "displayType": "Condominium",
+    "nanoId": "sr0yao",
+    "objectId": "1383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "371 Beach Road  199597, City & South West (D01-08)",
+    "displayText": "City Gate",
+    "displayType": "Apartment",
+    "nanoId": "mu7huw",
+    "objectId": "21937",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "120 Beach Road  000000, City & South West (D01-08)",
+    "displayText": "Midtown Bay",
+    "displayType": "Condominium",
+    "nanoId": "4aqves",
+    "objectId": "23760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 South Beach Road  189762, City & South West (D01-08)",
+    "displayText": "South Beach Residences",
+    "displayType": "Condominium",
+    "nanoId": "nvar9u",
+    "objectId": "21346",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7500A Beach Road  199591, City & South West (D01-08)",
+    "displayText": "The Plaza",
+    "displayType": "Apartment",
+    "nanoId": "s2wyqg",
+    "objectId": "761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "802 Beach Road  199980, City & South West (D01-08)",
+    "displayText": "Aurea",
+    "displayType": "Condominium",
+    "nanoId": "w8ejea",
+    "objectId": "25825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Beach Road  189703, City & South West (D01-08)",
+    "displayText": "The 101",
+    "displayType": "Apartment",
+    "nanoId": "oce0v8",
+    "objectId": "1058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5001 Beach Road  199588, City & South West (D01-08)",
+    "displayText": "Golden Mile Complex",
+    "displayType": "Apartment",
+    "nanoId": "yozljf",
+    "objectId": "2562",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Beach Road  190014, City & South West (D01-08)",
+    "displayText": "14 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "lcn6pl",
+    "objectId": "3324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Beach Road  190015, City & South West (D01-08)",
+    "displayText": "15 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "71t3nd",
+    "objectId": "3325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Beach Road  190016, City & South West (D01-08)",
+    "displayText": "16 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "76psxv",
+    "objectId": "3326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Beach Road  190017, City & South West (D01-08)",
+    "displayText": "17 Beach Road",
+    "displayType": "HDB",
+    "nanoId": "u9jejh",
+    "objectId": "3327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Birch Road",
+    "displayType": "Street",
+    "objectId": "243",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Beach Rd",
+    "displayType": "Street",
+    "objectId": "5789",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Pasir Ris Avenue  000011, Changi / Pasir Ris (D17-18)",
+    "displayText": "Pasir Ris Beach Park",
+    "displayType": "Terraced House",
+    "nanoId": "azne63",
+    "objectId": "477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Beach View",
+    "displayType": "Street",
+    "objectId": "167",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pasir Ris Beach Park",
+    "displayType": "Street",
+    "objectId": "8744",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Peach Garden  437602, East Coast (D15-16)",
+    "displayText": "Peach Garden",
+    "displayType": "Apartment",
+    "nanoId": "2zapu7",
+    "objectId": "915",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Peach Garden",
+    "displayType": "Street",
+    "objectId": "2637",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Peach Gardens",
+    "displayType": "Street",
+    "objectId": "8059",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Peach Garden Singapore",
+    "displayType": "Street",
+    "objectId": "8140",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "758 Bedok Reservoir Road  479260, East Coast (D15-16)",
+    "displayText": "Waterfront Isle",
+    "displayType": "Condominium",
+    "nanoId": "iupwyz",
+    "objectId": "20703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bedok Reservoir Road  470700, East Coast (D15-16)",
+    "displayText": "Archipelago",
+    "displayType": "Condominium",
+    "nanoId": "guvu6t",
+    "objectId": "21115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2",
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "770 Bedok Reservoir Road  479250, East Coast (D15-16)",
+    "displayText": "Waterfront Key",
+    "displayType": "Condominium",
+    "nanoId": "syw55r",
+    "objectId": "1597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "760 Bedok Reservoir Road  479245, East Coast (D15-16)",
+    "displayText": "Waterfront Waves",
+    "displayType": "Condominium",
+    "nanoId": "7jme0o",
+    "objectId": "1261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Beatty Road  209955, City & South West (D01-08)",
+    "displayText": "Sturdee Residences",
+    "displayType": "Condominium",
+    "nanoId": "ld5lwa",
+    "objectId": "22476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "733 Bedok Reservoir Road  470733, East Coast (D15-16)",
+    "displayText": "Waterfront Gold",
+    "displayType": "Condominium",
+    "nanoId": "5f89z0",
+    "objectId": "2663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Meyer Road  437874, East Coast (D15-16)",
+    "displayText": "The Belvedere",
+    "displayType": "Condominium",
+    "nanoId": "lmmd1a",
+    "objectId": "155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "808 Bedok Reservoir Road  479240, East Coast (D15-16)",
+    "displayText": "Baywater",
+    "displayType": "Condominium",
+    "nanoId": "72xeko",
+    "objectId": "127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "118 Upper Bukit Timah Road  588173, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The LINQ @ Beauty World",
+    "displayType": "Condominium",
+    "nanoId": "dekho0",
+    "objectId": "23852",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Mar Thoma Road  328689, Balestier / Geylang (D12-14)",
+    "displayText": "Beacon Heights",
+    "displayType": "Condominium",
+    "nanoId": "jkjsw9",
+    "objectId": "1352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Balmoral Road  259801, Orchard / Holland (D09-10)",
+    "displayText": "Belmond Green",
+    "displayType": "Condominium",
+    "nanoId": "3jf6ql",
+    "objectId": "224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Bedok Road  469360, East Coast (D15-16)",
+    "displayText": "Country Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "8tyh6f",
+    "objectId": "592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "130 Cantonment Road  089775, City & South West (D01-08)",
+    "displayText": "The Beacon",
+    "displayType": "Apartment",
+    "nanoId": "eg5ktt",
+    "objectId": "134",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "45 Toh Tuck Road  596720, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Beverly",
+    "displayType": "Apartment",
+    "nanoId": "cyn0aq",
+    "objectId": "1495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Grange Road  249570, Orchard / Holland (D09-10)",
+    "displayText": "Beverly Hill",
+    "displayType": "Condominium",
+    "nanoId": "as2h3k",
+    "objectId": "511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "145 Devonshire Road  239893, Orchard / Holland (D09-10)",
+    "displayText": "The Beaumont",
+    "displayType": "Condominium",
+    "nanoId": "fx1apg",
+    "objectId": "908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Belmont Road  269854, Orchard / Holland (D09-10)",
+    "displayText": "YGK Gardens",
+    "displayType": "Condominium",
+    "nanoId": "mzkqoe",
+    "objectId": "23544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Nassim Road  258380, Orchard / Holland (D09-10)",
+    "displayText": "Beaufort on Nassim",
+    "displayType": "Condominium",
+    "nanoId": "hlvt58",
+    "objectId": "773",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bedok  Reservoir Road",
+    "displayType": "Street",
+    "objectId": "12670",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "250 Tembeling Road  423728, East Coast (D15-16)",
+    "displayText": "The Beacon Edge",
+    "displayType": "Apartment",
+    "nanoId": "6xit8w",
+    "objectId": "1147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Keng Chin Road  258711, Orchard / Holland (D09-10)",
+    "displayText": "Bellerive",
+    "displayType": "Condominium",
+    "nanoId": "uo1i41",
+    "objectId": "1496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "140 Upper Bukit Timah Road  588176, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Beauty World Plaza",
+    "displayType": "Condominium",
+    "nanoId": "ibyo8i",
+    "objectId": "1785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Kovan Road  544694, Serangoon / Thomson (D19-20)",
+    "displayText": "The Bently Residences@Kovan",
+    "displayType": "Apartment",
+    "nanoId": "o1tveo",
+    "objectId": "21724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10A Bendemeer Road  331010, Balestier / Geylang (D12-14)",
+    "displayText": "10A Bendemeer Light",
+    "displayType": "HDB",
+    "nanoId": "rya3j3",
+    "objectId": "22853",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10C Bendemeer Road  333010, Balestier / Geylang (D12-14)",
+    "displayText": "10C Bendemeer Light",
+    "displayType": "HDB",
+    "nanoId": "d8ey4m",
+    "objectId": "22855",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "726 726 - 738 Bedok Reservoir Road  470726, East Coast (D15-16)",
+    "displayText": "Waterfront View",
+    "displayType": "Condominium",
+    "nanoId": "5rlcfq",
+    "objectId": "25217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bedok North Road",
+    "displayType": "Street",
+    "objectId": "183",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bedok Reservoir Road",
+    "displayType": "Street",
+    "objectId": "193",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bendemeer Road",
+    "displayType": "Street",
+    "objectId": "219",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "4 Ah Hood Road  329973, Balestier / Geylang (D12-14)",
+    "displayText": "The Belleforte",
+    "displayType": "Apartment",
+    "nanoId": "jshk6h",
+    "objectId": "1095",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Sommerville Road  358227, Balestier / Geylang (D12-14)",
+    "displayText": "Bella Vista",
+    "displayType": "Apartment",
+    "nanoId": "38okma",
+    "objectId": "1381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6A Beatty Road  209946, City & South West (D01-08)",
+    "displayText": "Wu De Building",
+    "displayType": "Apartment",
+    "nanoId": "n4d125",
+    "objectId": "1613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Pegu Road  328369, Balestier / Geylang (D12-14)",
+    "displayText": "Belmondo View",
+    "displayType": "Condominium",
+    "nanoId": "xxn6g7",
+    "objectId": "1790",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Thong Bee Road  778000, North (D25-28)",
+    "displayText": "Hong Heng Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "6ieazd",
+    "objectId": "2036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "101 Kitchener Road  208511, City & South West (D01-08)",
+    "displayText": "Jalan Besar Plaza",
+    "displayType": "Apartment",
+    "nanoId": "9tszkw",
+    "objectId": "2057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "115 Koon Seng Road  427048, East Coast (D15-16)",
+    "displayText": "Bendigo Gardens",
+    "displayType": "Apartment",
+    "nanoId": "kf31q3",
+    "objectId": "20834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Bendemeer Road  330039, Balestier / Geylang (D12-14)",
+    "displayText": "39 Bendemeer Road",
+    "displayType": "HDB",
+    "nanoId": "7w23g3",
+    "objectId": "21325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9A Belmont Road  269857, Orchard / Holland (D09-10)",
+    "displayText": "Walk-up Apartment at Belmont Road",
+    "displayType": "Walk-up",
+    "nanoId": "o6hr9x",
+    "objectId": "21714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39A Bendemeer Road  331039, Balestier / Geylang (D12-14)",
+    "displayText": "39A Bendemeer Road",
+    "displayType": "HDB",
+    "nanoId": "o1yebq",
+    "objectId": "22106",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38D Bendemeer Road  334038, Balestier / Geylang (D12-14)",
+    "displayText": "38D Bendemeer Road",
+    "displayType": "HDB",
+    "nanoId": "5wu62g",
+    "objectId": "22449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38C Bendemeer Road  333038, Balestier / Geylang (D12-14)",
+    "displayText": "38C Bendemeer Road",
+    "displayType": "HDB",
+    "nanoId": "wtjn58",
+    "objectId": "22450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38B Bendemeer Road  332038, Balestier / Geylang (D12-14)",
+    "displayText": "38B Bendemeer Road",
+    "displayType": "HDB",
+    "nanoId": "bsfkr4",
+    "objectId": "22451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38A Bendemeer Road  331038, Balestier / Geylang (D12-14)",
+    "displayText": "38A Bendemeer Road",
+    "displayType": "HDB",
+    "nanoId": "m4nphh",
+    "objectId": "22452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10B Bendemeer Road  332010, Balestier / Geylang (D12-14)",
+    "displayText": "10B Bendemeer Light",
+    "displayType": "HDB",
+    "nanoId": "p9d6pe",
+    "objectId": "22854",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Bendemeer Road  330011, Balestier / Geylang (D12-14)",
+    "displayText": "11 Bendemeer Light",
+    "displayType": "HDB",
+    "nanoId": "ea6358",
+    "objectId": "22856",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "429 Bedok North Road  460429, East Coast (D15-16)",
+    "displayText": "429 Bedok North Woods",
+    "displayType": "HDB",
+    "nanoId": "2l217m",
+    "objectId": "24666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "429A Bedok North Road  461429, East Coast (D15-16)",
+    "displayText": "Bedok North Woods",
+    "displayType": "HDB",
+    "nanoId": "b6a3o6",
+    "objectId": "24667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "429B Bedok North Road  462429, East Coast (D15-16)",
+    "displayText": "429B Bedok North Woods",
+    "displayType": "HDB",
+    "nanoId": "wkmswz",
+    "objectId": "24668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430 Bedok North Road  460430, East Coast (D15-16)",
+    "displayText": "430 Bedok North Woods",
+    "displayType": "HDB",
+    "nanoId": "jpsd0t",
+    "objectId": "24669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430A Bedok North Road  461430, East Coast (D15-16)",
+    "displayText": "430A Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "t6zac0",
+    "objectId": "24670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "431A  Bedok North Road  461431, East Coast (D15-16)",
+    "displayText": "431A Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "ont49t",
+    "objectId": "24671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "151 Bedok South Road  460151, East Coast (D15-16)",
+    "displayText": "151 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "cl2bz2",
+    "objectId": "24730",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Bedok South Road  460152, East Coast (D15-16)",
+    "displayText": "152 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "i2gud1",
+    "objectId": "24731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152A Bedok South Road  461152, East Coast (D15-16)",
+    "displayText": "152A Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "ybbcd4",
+    "objectId": "24732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152C Bedok South Road  463152, East Coast (D15-16)",
+    "displayText": "152C Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "n6xnv1",
+    "objectId": "24733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153A Bedok South Road  461153, East Coast (D15-16)",
+    "displayText": "153A Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "13ftw3",
+    "objectId": "24735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153B Bedok South Road  462153, East Coast (D15-16)",
+    "displayText": "153B Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "q7jd7l",
+    "objectId": "24736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154A Bedok South Road  461154, East Coast (D15-16)",
+    "displayText": "154A Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "w4qrau",
+    "objectId": "24738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154B Bedok South Road  462154, East Coast (D15-16)",
+    "displayText": "154B Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "gkiwwn",
+    "objectId": "24739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Belmont Road  269852, Orchard / Holland (D09-10)",
+    "displayText": "The Belmont",
+    "displayType": "Condominium",
+    "nanoId": "3cd7qg",
+    "objectId": "2484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 100 – 104 Tanah Merah Besar Road  498839, East Coast (D15-16)",
+    "displayText": "Compass Green",
+    "displayType": "Condominium",
+    "nanoId": "tnz1n2",
+    "objectId": "25206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "371 371 - 389 Bedok Road  469549, East Coast (D15-16)",
+    "displayText": "Changi Complex (Enbloc)",
+    "displayType": "Apartment",
+    "nanoId": "oz0og3",
+    "objectId": "25211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "74 Bedok North Road  460074, East Coast (D15-16)",
+    "displayText": "74 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "7umkgn",
+    "objectId": "3405",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75 Bedok North Road  460075, East Coast (D15-16)",
+    "displayText": "75 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "3qlezp",
+    "objectId": "3406",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "76 Bedok North Road  460076, East Coast (D15-16)",
+    "displayText": "76 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "qitze9",
+    "objectId": "3407",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "77 Bedok North Road  460077, East Coast (D15-16)",
+    "displayText": "77 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "6k0ube",
+    "objectId": "3408",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "78 Bedok North Road  460078, East Coast (D15-16)",
+    "displayText": "78 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "urwzp5",
+    "objectId": "3409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "79 Bedok North Road  460079, East Coast (D15-16)",
+    "displayText": "79 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "6pkqry",
+    "objectId": "3410",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Bedok North Road  460080, East Coast (D15-16)",
+    "displayText": "80 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "4fxr3q",
+    "objectId": "3411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Bedok North Road  460081, East Coast (D15-16)",
+    "displayText": "81 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "cbit0k",
+    "objectId": "3412",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Bedok North Road  460082, East Coast (D15-16)",
+    "displayText": "82 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "jiv5a7",
+    "objectId": "3413",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

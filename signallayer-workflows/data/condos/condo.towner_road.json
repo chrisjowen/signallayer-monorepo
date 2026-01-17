@@ -1,0 +1,1408 @@
+[
+  {
+    "displayText": "Towner Road",
+    "displayType": "Street",
+    "objectId": "3423",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "101 Towner Road  322101, Balestier / Geylang (D12-14)",
+    "displayText": "101 Towner Road",
+    "displayType": "HDB",
+    "nanoId": "lizgtz",
+    "objectId": "11591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Towner Road  322102, Balestier / Geylang (D12-14)",
+    "displayText": "102 Towner Road",
+    "displayType": "HDB",
+    "nanoId": "rmklpb",
+    "objectId": "11592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Towner Road  322103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Towner Road",
+    "displayType": "HDB",
+    "nanoId": "xb25ly",
+    "objectId": "11593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Towner Road  322104, Balestier / Geylang (D12-14)",
+    "displayText": "104 Towner Road",
+    "displayType": "HDB",
+    "nanoId": "c6uu5p",
+    "objectId": "11594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Towner Road  321105, Balestier / Geylang (D12-14)",
+    "displayText": "105 Towner Road",
+    "displayType": "HDB",
+    "nanoId": "wzb2vr",
+    "objectId": "11595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Towner Road  322106, Balestier / Geylang (D12-14)",
+    "displayText": "106 Towner Road",
+    "displayType": "HDB",
+    "nanoId": "288wti",
+    "objectId": "11596",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Towner Road  321107, Balestier / Geylang (D12-14)",
+    "displayText": "107 Towner Road",
+    "displayType": "HDB",
+    "nanoId": "7le4yo",
+    "objectId": "11597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "149B Towner Road  322149, Balestier / Geylang (D12-14)",
+    "displayText": "149B Towner Road",
+    "displayType": "HDB",
+    "nanoId": "fps0dg",
+    "objectId": "25872",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "149A Towner Road  321149, Balestier / Geylang (D12-14)",
+    "displayText": "149A Towner Road",
+    "displayType": "HDB",
+    "nanoId": "4mb6c9",
+    "objectId": "25874",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tower Road",
+    "displayType": "Street",
+    "objectId": "6516",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Towner",
+    "displayType": "Street",
+    "objectId": "5641",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "80 Kim Seng Road  239426, Orchard / Holland (D09-10)",
+    "displayText": "Mirage Tower",
+    "displayType": "Condominium",
+    "nanoId": "1b7m0v",
+    "objectId": "287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Scotts Road  228240, Orchard / Holland (D09-10)",
+    "displayText": "The Scotts Tower",
+    "displayType": "Condominium",
+    "nanoId": "u8c90z",
+    "objectId": "21241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73 Meyer Road  437898, East Coast (D15-16)",
+    "displayText": "Hawaii Tower",
+    "displayType": "Condominium",
+    "nanoId": "kpy6bj",
+    "objectId": "457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "341 Bukit Timah Road  259719, Orchard / Holland (D09-10)",
+    "displayText": "Honolulu Tower",
+    "displayType": "Apartment",
+    "nanoId": "han0ev",
+    "objectId": "1179",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9G Yuan Ching Road  618649, West (D22-24)",
+    "displayText": "Lakeside Tower",
+    "displayType": "Apartment",
+    "nanoId": "iwjyf8",
+    "objectId": "742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "431 Bukit Timah Road  259738, Orchard / Holland (D09-10)",
+    "displayText": "Jaya Tower",
+    "displayType": "Apartment",
+    "nanoId": "keoz73",
+    "objectId": "1180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "370 Thomson Road  298128, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Tan Tong Meng Tower",
+    "displayType": "Condominium",
+    "nanoId": "t3s9r1",
+    "objectId": "2658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Balmoral Road  259808, Orchard / Holland (D09-10)",
+    "displayText": "Balmoral Tower",
+    "displayType": "Condominium",
+    "nanoId": "1rfbnv",
+    "objectId": "801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Meyer Road  437878, East Coast (D15-16)",
+    "displayText": "Meyer Tower",
+    "displayType": "Condominium",
+    "nanoId": "4vr2wo",
+    "objectId": "2201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Cairnhill Road  229681, Orchard / Holland (D09-10)",
+    "displayText": "Trendale Tower",
+    "displayType": "Condominium",
+    "nanoId": "gzykuq",
+    "objectId": "2384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Grange Road  249569, Orchard / Holland (D09-10)",
+    "displayText": "Lucky Tower",
+    "displayType": "Condominium",
+    "nanoId": "w5zi49",
+    "objectId": "25182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "173 Chin Swee Road  169878, City & South West (D01-08)",
+    "displayText": "Landmark Tower",
+    "displayType": "Apartment",
+    "nanoId": "aqxeio",
+    "objectId": "25191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Leonie Hill Road  239194, Orchard / Holland (D09-10)",
+    "displayText": "Horizon Towers",
+    "displayType": "Condominium",
+    "nanoId": "qsfawj",
+    "objectId": "304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113A Mcnair Road  322113, Balestier / Geylang (D12-14)",
+    "displayText": "113A McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "1d6fwf",
+    "objectId": "23051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113B Mcnair Road  323113, Balestier / Geylang (D12-14)",
+    "displayText": "113B McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "kj2bom",
+    "objectId": "23052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Ava Road  329949, Balestier / Geylang (D12-14)",
+    "displayText": "Ava Towers",
+    "displayType": "Apartment",
+    "nanoId": "ygq48a",
+    "objectId": "58",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Mandalay Road  308215, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mandalay Towers",
+    "displayType": "Condominium",
+    "nanoId": "ullxq5",
+    "objectId": "1029",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Onan Road  424482, East Coast (D15-16)",
+    "displayText": "Galaxy Towers",
+    "displayType": "Apartment",
+    "nanoId": "80maf1",
+    "objectId": "1130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Tan Kim Cheng Road  266621, Orchard / Holland (D09-10)",
+    "displayText": "Lutheran Towers",
+    "displayType": "Apartment",
+    "nanoId": "xl6vkr",
+    "objectId": "1480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "207 Balestier Road  329683, Balestier / Geylang (D12-14)",
+    "displayText": "Balestier Towers",
+    "displayType": "Condominium",
+    "nanoId": "tqoc74",
+    "objectId": "1021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Boon Teck Road  329608, Balestier / Geylang (D12-14)",
+    "displayText": "Boon Teck Towers",
+    "displayType": "Condominium",
+    "nanoId": "78f31z",
+    "objectId": "1027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "317 Bukit Timah Road  259711, Orchard / Holland (D09-10)",
+    "displayText": "City Towers",
+    "displayType": "Condominium",
+    "nanoId": "958a1v",
+    "objectId": "1390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Essex Road  309330, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Lion Towers",
+    "displayType": "Condominium",
+    "nanoId": "opu91j",
+    "objectId": "2146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113C Mcnair Road  324113, Balestier / Geylang (D12-14)",
+    "displayText": "113C McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "mnrbdg",
+    "objectId": "23053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113D Mcnair Road  325113, Balestier / Geylang (D12-14)",
+    "displayText": "113D McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "alzca4",
+    "objectId": "23054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Mcnair Road  321114, Balestier / Geylang (D12-14)",
+    "displayText": "114 McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "t31svw",
+    "objectId": "23055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Mcnair Road  321115, Balestier / Geylang (D12-14)",
+    "displayText": "115 McNair Towers",
+    "displayType": "HDB",
+    "nanoId": "1w6sqs",
+    "objectId": "23056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114A Arthur Road  439826, East Coast (D15-16)",
+    "displayText": "Katong Towers enbloc",
+    "displayType": "Condominium",
+    "nanoId": "pcklwv",
+    "objectId": "24628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "317 Bukit Timah Road  259711, Orchard / Holland (D09-10)",
+    "displayText": "City Towers enbloc (Perfect 10)",
+    "displayType": "Condominium",
+    "nanoId": "mo9zvv",
+    "objectId": "24629",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Lower Delta Road  090000, City & South West (D01-08)",
+    "displayText": "Teresa Ville",
+    "displayType": "Condominium",
+    "nanoId": "sam3h5",
+    "objectId": "459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Lower Delta Road  160048, City & South West (D01-08)",
+    "displayText": "48 Lower Delta Road",
+    "displayType": "HDB",
+    "nanoId": "du10p2",
+    "objectId": "8460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Lower Delta Road",
+    "displayType": "Street",
+    "objectId": "2165",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lower Kent Ridge Road",
+    "displayType": "Street",
+    "objectId": "2166",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "12 Mount Elizabeth  228511, Orchard / Holland (D09-10)",
+    "displayText": "Elizabeth Tower",
+    "displayType": "Condominium",
+    "nanoId": "v621z6",
+    "objectId": "740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Queensway  149053, City & South West (D01-08)",
+    "displayText": "Queensway Tower",
+    "displayType": "Apartment",
+    "nanoId": "a4x7mw",
+    "objectId": "821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Holland Heights  249510, Orchard / Holland (D09-10)",
+    "displayText": "Holland Tower",
+    "displayType": "Condominium",
+    "nanoId": "pnpt7x",
+    "objectId": "2031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Mount Sinai Rise  276955, Orchard / Holland (D09-10)",
+    "displayText": "Village Tower",
+    "displayType": "Condominium",
+    "nanoId": "31fdnf",
+    "objectId": "1745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Jalan Rajah  329137, Balestier / Geylang (D12-14)",
+    "displayText": "Diamond Tower",
+    "displayType": "Condominium",
+    "nanoId": "q7lb6y",
+    "objectId": "25162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Moulmein Rise  308140, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Grand Tower",
+    "displayType": "Apartment",
+    "nanoId": "a3ss8v",
+    "objectId": "25188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tan Tong Meng Tower",
+    "displayType": "Street",
+    "objectId": "26127",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Suntec Tower",
+    "displayType": "Street",
+    "objectId": "5283",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sim Lim Tower",
+    "displayType": "Street",
+    "objectId": "9679",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong Town Hall Road",
+    "displayType": "Street",
+    "objectId": "1706",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0  000000,",
+    "displayText": "Commonwealth Towers",
+    "displayType": "Condominium",
+    "nanoId": "yxdoh5",
+    "objectId": "21896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "700 Toa Payoh Lorong 1  319773, Balestier / Geylang (D12-14)",
+    "displayText": "Trellis Towers",
+    "displayType": "Condominium",
+    "nanoId": "rjxv2r",
+    "objectId": "432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Anak Bukit  588996, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Sherwood Towers",
+    "displayType": "Apartment",
+    "nanoId": "ydympx",
+    "objectId": "266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "911 Lorong 1 Toa Payoh  319771, Balestier / Geylang (D12-14)",
+    "displayText": "Oleander Towers",
+    "displayType": "Apartment",
+    "nanoId": "1fb3bk",
+    "objectId": "303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "22 Fernwood Terrace  458553, East Coast (D15-16)",
+    "displayText": "Fernwood Towers",
+    "displayType": "Condominium",
+    "nanoId": "imflbq",
+    "objectId": "455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Telok Blangah Drive  109258, City & South West (D01-08)",
+    "displayText": "Harbour View Towers",
+    "displayType": "Condominium",
+    "nanoId": "afjt9p",
+    "objectId": "439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Leonie Hill  239222, Orchard / Holland (D09-10)",
+    "displayText": "Leonie Towers",
+    "displayType": "Apartment",
+    "nanoId": "yyjbiv",
+    "objectId": "518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "32 Jalan Rajah  329141, Balestier / Geylang (D12-14)",
+    "displayText": "Rajah Towers",
+    "displayType": "Apartment",
+    "nanoId": "r9bb92",
+    "objectId": "618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Goldhill Avenue  309021, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Goldhill Towers",
+    "displayType": "Apartment",
+    "nanoId": "iua9to",
+    "objectId": "1966",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Claymore Drive  229594, Orchard / Holland (D09-10)",
+    "displayText": "Orchard Towers",
+    "displayType": "Apartment",
+    "nanoId": "49zysa",
+    "objectId": "564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Holland Park  249476, Orchard / Holland (D09-10)",
+    "displayText": "Lien Towers",
+    "displayType": "Apartment",
+    "nanoId": "clwgct",
+    "objectId": "775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8A Chancery Lane  309495, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Corner",
+    "displayType": "Condominium",
+    "nanoId": "zqtqzm",
+    "objectId": "1726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lew Lian Vale  537013, Serangoon / Thomson (D19-20)",
+    "displayText": "Jade Towers",
+    "displayType": "Condominium",
+    "nanoId": "dn2255",
+    "objectId": "2055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 St Thomas Walk  238097, Orchard / Holland (D09-10)",
+    "displayText": "Airview Towers",
+    "displayType": "Apartment",
+    "nanoId": "d23grd",
+    "objectId": "28",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Balestier Towers",
+    "displayType": "Street",
+    "objectId": "7822",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lower Delta",
+    "displayType": "Street",
+    "objectId": "9860",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D5",
+    "displayText": "D05 Buona Vista / West Coast / Clementi New Town",
+    "displayType": "District",
+    "objectId": "D05",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D05"
+    }
+  },
+  {
+    "displayDescription": "32A Toh Tuck Road  596110, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Forett at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "43hgva",
+    "objectId": "23957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "46 Toh Tuck Road  596721, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Signature Park",
+    "displayType": "Condominium",
+    "nanoId": "jae1ne",
+    "objectId": "210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11D Toh Tuck Road  596126, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Daintree Residence",
+    "displayType": "Condominium",
+    "nanoId": "gcc2m1",
+    "objectId": "23469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Toh Tuck Road  596677, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Terrene at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "0cw7dm",
+    "objectId": "20643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Toh Tuck Road  596155, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Creek @ Bukit",
+    "displayType": "Condominium",
+    "nanoId": "9rfgul",
+    "objectId": "21785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Lim Tua Tow Road  547726, Serangoon / Thomson (D19-20)",
+    "displayText": "Casa Cambio",
+    "displayType": "Condominium",
+    "nanoId": "g4t7na",
+    "objectId": "21154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Tong Watt Road  238002, Orchard / Holland (D09-10)",
+    "displayText": "The Wharf Residence",
+    "displayType": "Condominium",
+    "nanoId": "809d12",
+    "objectId": "1375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Toh Tuck Road  596290, Newton / Bt. Timah (D11, 21)",
+    "displayText": "High Oak Condo",
+    "displayType": "Condominium",
+    "nanoId": "3gzxo8",
+    "objectId": "396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Toh Tuck Road  596723, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Highgate",
+    "displayType": "Condominium",
+    "nanoId": "i468fd",
+    "objectId": "546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "45 Toh Tuck Road  596720, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Beverly",
+    "displayType": "Apartment",
+    "nanoId": "cyn0aq",
+    "objectId": "1495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29A Toh Tuck Road  596195, Newton / Bt. Timah (D11, 21)",
+    "displayText": "NottingHill Suites",
+    "displayType": "Apartment",
+    "nanoId": "pxpgg2",
+    "objectId": "20677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Tong Watt Road  238011, Orchard / Holland (D09-10)",
+    "displayText": "Vivace",
+    "displayType": "Apartment",
+    "nanoId": "eg75hb",
+    "objectId": "1385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Tong Watt Road  238010, Orchard / Holland (D09-10)",
+    "displayText": "Robertson Edge",
+    "displayType": "Apartment",
+    "nanoId": "matc8w",
+    "objectId": "168",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Tomlinson Road  247855, Orchard / Holland (D09-10)",
+    "displayText": "Tomlinson Heights",
+    "displayType": "Condominium",
+    "nanoId": "pcn1ft",
+    "objectId": "20767",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Tomlinson Road  247857, Orchard / Holland (D09-10)",
+    "displayText": "Hana",
+    "displayType": "Apartment",
+    "nanoId": "1wq48x",
+    "objectId": "21909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Cuscaden Road  249726, Orchard / Holland (D09-10)",
+    "displayText": "The Tomlinson",
+    "displayType": "Apartment",
+    "nanoId": "1m4xxh",
+    "objectId": "388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Tomlinson Road  247854, Orchard / Holland (D09-10)",
+    "displayText": "Kum Hing Court",
+    "displayType": "Apartment",
+    "nanoId": "iatibf",
+    "objectId": "1474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Topaz Road  327849, Balestier / Geylang (D12-14)",
+    "displayText": "Suites @ Topaz",
+    "displayType": "Condominium",
+    "nanoId": "u4xf3a",
+    "objectId": "20523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 McNair Road  000025, Balestier / Geylang (D12-14)",
+    "displayText": "Townerville",
+    "displayType": "Conservation House",
+    "nanoId": "yqqtfz",
+    "objectId": "20534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CON",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "28 Lim Tua Tow Road  547791, Serangoon / Thomson (D19-20)",
+    "displayText": "Cambio Suites",
+    "displayType": "Apartment",
+    "nanoId": "zns6si",
+    "objectId": "21638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Tomlinson Road  247857, Orchard / Holland (D09-10)",
+    "displayText": "Park Nova",
+    "displayType": "Condominium",
+    "nanoId": "0rjryr",
+    "objectId": "24608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "139 Cavenagh Road  229627, Orchard / Holland (D09-10)",
+    "displayText": "Townhouse Apartments",
+    "displayType": "Apartment",
+    "nanoId": "iazzuq",
+    "objectId": "654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Toh Guan Road",
+    "displayType": "Street",
+    "objectId": "3401",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "265 Toh Guan Road  600265, West (D22-24)",
+    "displayText": "265 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "2lceua",
+    "objectId": "11538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266 Toh Guan Road  600266, West (D22-24)",
+    "displayText": "266 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "41419e",
+    "objectId": "11539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267 Toh Guan Road  600267, West (D22-24)",
+    "displayText": "267 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "73cc8q",
+    "objectId": "11540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268 Toh Guan Road  600268, West (D22-24)",
+    "displayText": "268 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "7a16x7",
+    "objectId": "11541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269 Toh Guan Road  600269, West (D22-24)",
+    "displayText": "269 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "t3ipq1",
+    "objectId": "11542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

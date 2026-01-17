@@ -1,0 +1,1532 @@
+[
+  {
+    "displayText": "Compassvale Lane",
+    "displayType": "Street",
+    "objectId": "613",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "213B Compassvale Lane  542213, Serangoon / Thomson (D19-20)",
+    "displayText": "213B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "jp1zb0",
+    "objectId": "21816",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211C Compassvale Lane  543211, Serangoon / Thomson (D19-20)",
+    "displayText": "211C Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "otr29h",
+    "objectId": "21136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209C Compassvale Lane  543209, Serangoon / Thomson (D19-20)",
+    "displayText": "209C Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "rk1bz5",
+    "objectId": "21219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211B Compassvale Lane  542211, Serangoon / Thomson (D19-20)",
+    "displayText": "211B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "sz8v34",
+    "objectId": "21640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Compassvale Drive  540213, Serangoon / Thomson (D19-20)",
+    "displayText": "213 Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "ila3qj",
+    "objectId": "21814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213A Compassvale Drive  541213, Serangoon / Thomson (D19-20)",
+    "displayText": "213A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "xqxg9k",
+    "objectId": "21815",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214 Compassvale Drive  540214, Serangoon / Thomson (D19-20)",
+    "displayText": "214 Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "1kvalw",
+    "objectId": "21817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210C Compassvale Lane  543210, Serangoon / Thomson (D19-20)",
+    "displayText": "210C Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "c3ufpx",
+    "objectId": "21867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208B Compassvale Lane  542208, Serangoon / Thomson (D19-20)",
+    "displayText": "208B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "pxeui1",
+    "objectId": "21948",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208A Compassvale Lane  541208, Serangoon / Thomson (D19-20)",
+    "displayText": "208A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "0b3v69",
+    "objectId": "22088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210A Compassvale Lane  541210, Serangoon / Thomson (D19-20)",
+    "displayText": "210A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "akjfsl",
+    "objectId": "22102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209B Compassvale Lane  542209, Serangoon / Thomson (D19-20)",
+    "displayText": "209B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "68y4n1",
+    "objectId": "22279",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211 Compassvale Lane  540211, Serangoon / Thomson (D19-20)",
+    "displayText": "211 Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "bj2ikm",
+    "objectId": "22401",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211A Compassvale Lane  541211, Serangoon / Thomson (D19-20)",
+    "displayText": "211A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "b687g5",
+    "objectId": "22402",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211D Compassvale Lane  544211, Serangoon / Thomson (D19-20)",
+    "displayText": "211D Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "74exic",
+    "objectId": "22403",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210B Compassvale Lane  542210, Serangoon / Thomson (D19-20)",
+    "displayText": "210B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "rnok2o",
+    "objectId": "22548",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209A Compassvale Lane  541209, Serangoon / Thomson (D19-20)",
+    "displayText": "209A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "5pssqf",
+    "objectId": "22878",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213A Compassvale Lane  541213, Serangoon / Thomson (D19-20)",
+    "displayText": "213A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "9wm2u4",
+    "objectId": "22891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 Compassvale Lane  541207, Serangoon / Thomson (D19-20)",
+    "displayText": "207 Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "y1oenm",
+    "objectId": "5621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205A Compassvale Lane  541205, Serangoon / Thomson (D19-20)",
+    "displayText": "205A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "ya8mr7",
+    "objectId": "5623",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205B Compassvale Lane  542205, Serangoon / Thomson (D19-20)",
+    "displayText": "205B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "zr4ioi",
+    "objectId": "5624",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205C Compassvale Lane  543205, Serangoon / Thomson (D19-20)",
+    "displayText": "205C Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "xb73tb",
+    "objectId": "5625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205D Compassvale Lane  544205, Serangoon / Thomson (D19-20)",
+    "displayText": "205D Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "bln11l",
+    "objectId": "5626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206A Compassvale Lane  541206, Serangoon / Thomson (D19-20)",
+    "displayText": "206A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "g15jby",
+    "objectId": "5627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206B Compassvale Lane  542206, Serangoon / Thomson (D19-20)",
+    "displayText": "206B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "ngs47c",
+    "objectId": "5628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206C Compassvale Lane  543206, Serangoon / Thomson (D19-20)",
+    "displayText": "206C Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "xismrn",
+    "objectId": "5629",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206D Compassvale Lane  544206, Serangoon / Thomson (D19-20)",
+    "displayText": "206D Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "3safa0",
+    "objectId": "5630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206E Compassvale Lane  545206, Serangoon / Thomson (D19-20)",
+    "displayText": "206E Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "i2jivw",
+    "objectId": "5631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207A Compassvale Lane  542207, Serangoon / Thomson (D19-20)",
+    "displayText": "207A Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "z6wj2d",
+    "objectId": "5632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207B Compassvale Lane  543207, Serangoon / Thomson (D19-20)",
+    "displayText": "207B Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "vao2te",
+    "objectId": "5633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207C Compassvale Lane  544207, Serangoon / Thomson (D19-20)",
+    "displayText": "207C Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "cix229",
+    "objectId": "5634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207D Compassvale Lane  547207, Serangoon / Thomson (D19-20)",
+    "displayText": "207D Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "knqxn9",
+    "objectId": "5635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209 Compassvale Lane  540209, Serangoon / Thomson (D19-20)",
+    "displayText": "209 Compassvale Lane",
+    "displayType": "HDB",
+    "nanoId": "m3ycuh",
+    "objectId": "22877",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Compassvale Link",
+    "displayType": "Street",
+    "objectId": "4636",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "74 Compassvale Bow  544567, Serangoon / Thomson (D19-20)",
+    "displayText": "Sengkang Grand Residences",
+    "displayType": "Condominium",
+    "nanoId": "5jqtjv",
+    "objectId": "23825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113 Compassvale Bow  544814, Serangoon / Thomson (D19-20)",
+    "displayText": "Esparina Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "0w7z1r",
+    "objectId": "20522",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Compassvale Road  544749, Serangoon / Thomson (D19-20)",
+    "displayText": "The Luxurie",
+    "displayType": "Condominium",
+    "nanoId": "kjcgzi",
+    "objectId": "20766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Compassvale Bow  544984, Serangoon / Thomson (D19-20)",
+    "displayText": "The Quartz",
+    "displayType": "Condominium",
+    "nanoId": "joq0yy",
+    "objectId": "95",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Compassvale Bow",
+    "displayType": "Street",
+    "objectId": "4623",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Compassvale",
+    "displayType": "Street",
+    "objectId": "5109",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Compassvale Crescent",
+    "displayType": "Street",
+    "objectId": "611",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Compassvale Drive",
+    "displayType": "Street",
+    "objectId": "612",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "215A Compassvale Drive  541215, Serangoon / Thomson (D19-20)",
+    "displayText": "215A Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "ftc45d",
+    "objectId": "22530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216B Compassvale Drive  542216, Serangoon / Thomson (D19-20)",
+    "displayText": "216B Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "nwu1rk",
+    "objectId": "22535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "277C Compassvale Link  543277, Serangoon / Thomson (D19-20)",
+    "displayText": "277C Compassvale Link",
+    "displayType": "HDB",
+    "nanoId": "4stinm",
+    "objectId": "5664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203D Compassvale Road  544203, Serangoon / Thomson (D19-20)",
+    "displayText": "203D Compassvale Road",
+    "displayType": "HDB",
+    "nanoId": "rxrokz",
+    "objectId": "5682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Compassvale Road",
+    "displayType": "Street",
+    "objectId": "614",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Compassvale Walk",
+    "displayType": "Street",
+    "objectId": "616",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "266A Compassvale Bow  541266, Serangoon / Thomson (D19-20)",
+    "displayText": "266A Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "976btw",
+    "objectId": "20674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266B Compassvale Bow  542266, Serangoon / Thomson (D19-20)",
+    "displayText": "266B Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "m8cgcm",
+    "objectId": "20675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212A Compassvale Drive  541212, Serangoon / Thomson (D19-20)",
+    "displayText": "212A Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "wotehh",
+    "objectId": "21811",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212B Compassvale Drive  542212, Serangoon / Thomson (D19-20)",
+    "displayText": "212B Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "4voix5",
+    "objectId": "21812",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212C Compassvale Drive  543212, Serangoon / Thomson (D19-20)",
+    "displayText": "212C Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "9ri00r",
+    "objectId": "21813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215B Compassvale Drive  542215, Serangoon / Thomson (D19-20)",
+    "displayText": "215B Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "ihy4gm",
+    "objectId": "22531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215C Compassvale Drive  543215, Serangoon / Thomson (D19-20)",
+    "displayText": "215C Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "kryp6g",
+    "objectId": "22532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216 Compassvale Drive  540216, Serangoon / Thomson (D19-20)",
+    "displayText": "216 Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "gibg50",
+    "objectId": "22533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216A Compassvale Drive  541216, Serangoon / Thomson (D19-20)",
+    "displayText": "216A Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "0ffbu5",
+    "objectId": "22534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216C Compassvale Drive  543216, Serangoon / Thomson (D19-20)",
+    "displayText": "216C Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "c9fgkk",
+    "objectId": "22536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216D Compassvale Drive  544216, Serangoon / Thomson (D19-20)",
+    "displayText": "216D Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "b7h4s5",
+    "objectId": "22537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217A Compassvale Drive  541217, Serangoon / Thomson (D19-20)",
+    "displayText": "217A Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "kzbh9u",
+    "objectId": "22538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217B Compassvale Drive  542217, Serangoon / Thomson (D19-20)",
+    "displayText": "217B Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "htk4yn",
+    "objectId": "22539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "286A Compassvale Crescent  541286, Serangoon / Thomson (D19-20)",
+    "displayText": "286A Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "kmiviu",
+    "objectId": "22820",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "286B Compassvale Crescent  542286, Serangoon / Thomson (D19-20)",
+    "displayText": "286B Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "6midi9",
+    "objectId": "22821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "286C Compassvale Crescent  543286, Serangoon / Thomson (D19-20)",
+    "displayText": "286C Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "zlh7e0",
+    "objectId": "22822",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "287A Compassvale Crescent  541287, Serangoon / Thomson (D19-20)",
+    "displayText": "287A Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "cgk8tq",
+    "objectId": "22823",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "287B Compassvale Crescent  542287, Serangoon / Thomson (D19-20)",
+    "displayText": "287B Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "u8u3ty",
+    "objectId": "22824",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "287C Compassvale Crescent  543287, Serangoon / Thomson (D19-20)",
+    "displayText": "287C Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "12m52u",
+    "objectId": "22825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "288 Compassvale Crescent  540288, Serangoon / Thomson (D19-20)",
+    "displayText": "288 Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "h66czt",
+    "objectId": "22827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "288A Compassvale Crescent  541288, Serangoon / Thomson (D19-20)",
+    "displayText": "288A Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "8m9j70",
+    "objectId": "22828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "289A Compassvale Crescent  541289, Serangoon / Thomson (D19-20)",
+    "displayText": "289A Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "tftxt4",
+    "objectId": "22829",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "289B Compassvale Crescent  542289, Serangoon / Thomson (D19-20)",
+    "displayText": "289B Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "dieko3",
+    "objectId": "22830",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "289C Compassvale Crescent  543289, Serangoon / Thomson (D19-20)",
+    "displayText": "289C Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "8fprbz",
+    "objectId": "22831",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293A Compassvale Crescent  541293, Serangoon / Thomson (D19-20)",
+    "displayText": "293A Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "qzpyh5",
+    "objectId": "22832",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293B Compassvale Crescent  542293, Serangoon / Thomson (D19-20)",
+    "displayText": "293B Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "g9d8nx",
+    "objectId": "22833",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293C Compassvale Crescent  543293, Serangoon / Thomson (D19-20)",
+    "displayText": "293C Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "k1n374",
+    "objectId": "22834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293D Compassvale Crescent  544293, Serangoon / Thomson (D19-20)",
+    "displayText": "293D Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "46c24b",
+    "objectId": "22835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "294A Compassvale Crescent  541294, Serangoon / Thomson (D19-20)",
+    "displayText": "294A Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "p34qol",
+    "objectId": "22837",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274 Compassvale Bow  540274, Serangoon / Thomson (D19-20)",
+    "displayText": "274 Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "7g22y9",
+    "objectId": "22881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274A Compassvale Bow  541274, Serangoon / Thomson (D19-20)",
+    "displayText": "274A Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "l9aim3",
+    "objectId": "22882",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274B Compassvale Bow  542274, Serangoon / Thomson (D19-20)",
+    "displayText": "274B Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "2wn8hp",
+    "objectId": "22883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274C Compassvale Bow  543274, Serangoon / Thomson (D19-20)",
+    "displayText": "274C Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "bevtry",
+    "objectId": "22884",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274D Compassvale Bow  544274, Serangoon / Thomson (D19-20)",
+    "displayText": "274D Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "61bdug",
+    "objectId": "22885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278A Compassvale Bow  541278, Serangoon / Thomson (D19-20)",
+    "displayText": "278A Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "nzc42z",
+    "objectId": "22886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278B Compassvale Bow  542278, Serangoon / Thomson (D19-20)",
+    "displayText": "278B Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "29yyz7",
+    "objectId": "22887",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278C Compassvale Bow  543278, Serangoon / Thomson (D19-20)",
+    "displayText": "278C Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "so6ooi",
+    "objectId": "22888",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278D Compassvale Bow  544278, Serangoon / Thomson (D19-20)",
+    "displayText": "278D Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "f7s668",
+    "objectId": "22889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217C Compassvale Drive  543217, Serangoon / Thomson (D19-20)",
+    "displayText": "217C Compassvale Drive",
+    "displayType": "HDB",
+    "nanoId": "20iej2",
+    "objectId": "23141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "288B Compassvale Crescent  542288, Serangoon / Thomson (D19-20)",
+    "displayText": "288B Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "h63hqu",
+    "objectId": "23776",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "288C Compassvale Crescent  543288, Serangoon / Thomson (D19-20)",
+    "displayText": "288C Compassvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "shiave",
+    "objectId": "23777",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264A Compassvale Bow  541264, Serangoon / Thomson (D19-20)",
+    "displayText": "264A Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "ick2wz",
+    "objectId": "5582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264B Compassvale Bow  542264, Serangoon / Thomson (D19-20)",
+    "displayText": "264B Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "n8iqg0",
+    "objectId": "5583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264C Compassvale Bow  543264, Serangoon / Thomson (D19-20)",
+    "displayText": "264C Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "y0pyd8",
+    "objectId": "5584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264D Compassvale Bow  544264, Serangoon / Thomson (D19-20)",
+    "displayText": "264D Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "8f2y6m",
+    "objectId": "5585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264E Compassvale Bow  548264, Serangoon / Thomson (D19-20)",
+    "displayText": "264E Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "xf5znd",
+    "objectId": "5586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264F Compassvale Bow  540264, Serangoon / Thomson (D19-20)",
+    "displayText": "264F Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "y97xwq",
+    "objectId": "5587",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265D Compassvale Bow  544265, Serangoon / Thomson (D19-20)",
+    "displayText": "265D Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "kj1r14",
+    "objectId": "5588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265E Compassvale Bow  548265, Serangoon / Thomson (D19-20)",
+    "displayText": "265E Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "op9cd8",
+    "objectId": "5589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266C Compassvale Bow  543266, Serangoon / Thomson (D19-20)",
+    "displayText": "266C Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "vg53yn",
+    "objectId": "5591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266D Compassvale Bow  544266, Serangoon / Thomson (D19-20)",
+    "displayText": "266D Compassvale Bow",
+    "displayType": "HDB",
+    "nanoId": "ye9xto",
+    "objectId": "5592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

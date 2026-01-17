@@ -1,0 +1,1538 @@
+[
+  {
+    "displayDescription": "520C Tampines Central 8  523520, Changi / Pasir Ris (D17-18)",
+    "displayText": "520C Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "g6hczd",
+    "objectId": "23736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519A Tampines Central 8  521519, Changi / Pasir Ris (D17-18)",
+    "displayText": "519A Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "gaenll",
+    "objectId": "22306",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519B Tampines Central 8  522519, Changi / Pasir Ris (D17-18)",
+    "displayText": "519B Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "idbxey",
+    "objectId": "22307",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519C Tampines Central 8  523519, Changi / Pasir Ris (D17-18)",
+    "displayText": "519C Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "44k8vm",
+    "objectId": "22327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519D Tampines Central 8  524519, Changi / Pasir Ris (D17-18)",
+    "displayText": "519D Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "rhczo7",
+    "objectId": "22328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "520 Tampines Central 8  520520, Changi / Pasir Ris (D17-18)",
+    "displayText": "520 Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "792uh3",
+    "objectId": "22604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24",
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "520A Tampines Central 8   521520, Changi / Pasir Ris (D17-18)",
+    "displayText": "520A Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "l7sonb",
+    "objectId": "23734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "520B Tampines Central 8  522520, Changi / Pasir Ris (D17-18)",
+    "displayText": "520B Tampines Central 8",
+    "displayType": "HDB",
+    "nanoId": "51xuwd",
+    "objectId": "23735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Tampines Street 86  528446, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Central Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "7z71qp",
+    "objectId": "24569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tampines Central 7",
+    "displayType": "Street",
+    "objectId": "7719",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Central 1",
+    "displayType": "Street",
+    "objectId": "3243",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Central 2",
+    "displayType": "Street",
+    "objectId": "3244",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Central 3",
+    "displayType": "Street",
+    "objectId": "3245",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Central 4",
+    "displayType": "Street",
+    "objectId": "3246",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Central 5",
+    "displayType": "Street",
+    "objectId": "3247",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Central 6",
+    "displayType": "Street",
+    "objectId": "3248",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Ang Mo Kio Central 3  567741, Serangoon / Thomson (D19-20)",
+    "displayText": "Grandeur 8",
+    "displayType": "Condominium",
+    "nanoId": "h9na0n",
+    "objectId": "130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Lorong 7 Geylang  388792, Balestier / Geylang (D12-14)",
+    "displayText": "Centra Residence",
+    "displayType": "Condominium",
+    "nanoId": "od8ngu",
+    "objectId": "21145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Tampines Avenue 8  520800, Changi / Pasir Ris (D17-18)",
+    "displayText": "Arc at Tampines",
+    "displayType": "Executive Condominium",
+    "nanoId": "wbatg7",
+    "objectId": "20739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "878 Tampines Avenue 8  520878, Changi / Pasir Ris (D17-18)",
+    "displayText": "878 Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "shntwv",
+    "objectId": "10578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "879 Tampines Avenue 8  520879, Changi / Pasir Ris (D17-18)",
+    "displayText": "879 Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "n9q5i1",
+    "objectId": "10579",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "880 Tampines Avenue 8  520880, Changi / Pasir Ris (D17-18)",
+    "displayText": "880 Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "0clp1j",
+    "objectId": "10580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "891 Tampines Avenue 8  520891, Changi / Pasir Ris (D17-18)",
+    "displayText": "891 Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "p147cj",
+    "objectId": "10581",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "892 Tampines Avenue 8  520892, Changi / Pasir Ris (D17-18)",
+    "displayText": "892 Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "za4izq",
+    "objectId": "10582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "893 Tampines Avenue 8  520893, Changi / Pasir Ris (D17-18)",
+    "displayText": "893 Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "kxme41",
+    "objectId": "10583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "880A Tampines Avenue 8  521880, Changi / Pasir Ris (D17-18)",
+    "displayText": "880A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "dua4xi",
+    "objectId": "10584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "891A Tampines Avenue 8  521891, Changi / Pasir Ris (D17-18)",
+    "displayText": "891A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "x7j7qn",
+    "objectId": "10585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "891B Tampines Avenue 8  522891, Changi / Pasir Ris (D17-18)",
+    "displayText": "891B Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "b20oan",
+    "objectId": "10586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "892A Tampines Avenue 8  521892, Changi / Pasir Ris (D17-18)",
+    "displayText": "892A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "vdp7hv",
+    "objectId": "10587",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "893A Tampines Avenue 8  521893, Changi / Pasir Ris (D17-18)",
+    "displayText": "893A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "ploegl",
+    "objectId": "10588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "869B Tampines Avenue 8  522869, Changi / Pasir Ris (D17-18)",
+    "displayText": "869B Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "94axui",
+    "objectId": "22137",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "868A Tampines Avenue 8  521868, Changi / Pasir Ris (D17-18)",
+    "displayText": "868A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "l2qlab",
+    "objectId": "22540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "868B Tampines Avenue 8  522868, Changi / Pasir Ris (D17-18)",
+    "displayText": "868B Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "sz9mca",
+    "objectId": "22541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "868C Tampines Avenue 8  523868, Changi / Pasir Ris (D17-18)",
+    "displayText": "868C Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "0trp38",
+    "objectId": "22542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "868D Tampines Avenue 8  524868, Changi / Pasir Ris (D17-18)",
+    "displayText": "868D Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "fht1gp",
+    "objectId": "22543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "869A Tampines Avenue 8  521869, Changi / Pasir Ris (D17-18)",
+    "displayText": "869A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "0qtoky",
+    "objectId": "22544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "869C Tampines Avenue 8  523869, Changi / Pasir Ris (D17-18)",
+    "displayText": "869C Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "f0it01",
+    "objectId": "22545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "869D Tampines Avenue 8  524869, Changi / Pasir Ris (D17-18)",
+    "displayText": "869D Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "70sxyj",
+    "objectId": "22546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "879A Tampines Avenue 8  521879, Changi / Pasir Ris (D17-18)",
+    "displayText": "879A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "t29nz3",
+    "objectId": "22910",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "879B Tampines Avenue 8  522879, Changi / Pasir Ris (D17-18)",
+    "displayText": "879B Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "q9ir7u",
+    "objectId": "22911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "879D Tampines Avenue 8  524879, Changi / Pasir Ris (D17-18)",
+    "displayText": "879D Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "c47q8a",
+    "objectId": "22912",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "878B Tampines Avenue 8  522878, Changi / Pasir Ris (D17-18)",
+    "displayText": "878B Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "78jw42",
+    "objectId": "22913",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "878A Tampines Avenue 8  521878, Changi / Pasir Ris (D17-18)",
+    "displayText": "878A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "opnokm",
+    "objectId": "22914",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "878C Tampines Avenue 8  523878, Changi / Pasir Ris (D17-18)",
+    "displayText": "878C Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "81vhf0",
+    "objectId": "22915",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "876A Tampines Avenue 8  521876, Changi / Pasir Ris (D17-18)",
+    "displayText": "876A Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "uqtdji",
+    "objectId": "25770",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tampines Avenue 8",
+    "displayType": "Street",
+    "objectId": "3241",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "876C Tampines Avenue 8   523876, Changi / Pasir Ris (D17-18)",
+    "displayText": "876C Tampines Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "vhzk5m",
+    "objectId": "25887",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Tampines Central 7  528608, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Tampines Trilliant",
+    "displayType": "Executive Condominium",
+    "nanoId": "3h47c6",
+    "objectId": "21141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "501 Tampines Central 1  520501, Changi / Pasir Ris (D17-18)",
+    "displayText": "501 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "ps6ex8",
+    "objectId": "10604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Tampines Central 1  520502, Changi / Pasir Ris (D17-18)",
+    "displayText": "502 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "6iyczl",
+    "objectId": "10605",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Tampines Central 1  520503, Changi / Pasir Ris (D17-18)",
+    "displayText": "503 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "qb2awx",
+    "objectId": "10606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Tampines Central 1  520505, Changi / Pasir Ris (D17-18)",
+    "displayText": "505 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "vk71ni",
+    "objectId": "10608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Tampines Central 1  520506, Changi / Pasir Ris (D17-18)",
+    "displayText": "506 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "vni9nk",
+    "objectId": "10609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Tampines Central 1  520507, Changi / Pasir Ris (D17-18)",
+    "displayText": "507 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "ccr5sa",
+    "objectId": "10610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Tampines Central 1  520508, Changi / Pasir Ris (D17-18)",
+    "displayText": "508 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "c7sdcr",
+    "objectId": "10611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Tampines Central 1  520510, Changi / Pasir Ris (D17-18)",
+    "displayText": "510 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "5vj267",
+    "objectId": "10613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Tampines Central 1  520512, Changi / Pasir Ris (D17-18)",
+    "displayText": "512 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "paec41",
+    "objectId": "10614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Tampines Central 1  520513, Changi / Pasir Ris (D17-18)",
+    "displayText": "513 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "y8w5md",
+    "objectId": "10615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Tampines Central 7  520515, Changi / Pasir Ris (D17-18)",
+    "displayText": "515 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "xbks6b",
+    "objectId": "10616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Tampines Central 7  520516, Changi / Pasir Ris (D17-18)",
+    "displayText": "516 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "egk589",
+    "objectId": "10617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Tampines Central 7  520517, Changi / Pasir Ris (D17-18)",
+    "displayText": "517 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "8gqls8",
+    "objectId": "10618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Tampines Central 7  520518, Changi / Pasir Ris (D17-18)",
+    "displayText": "518 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "w99nfb",
+    "objectId": "10619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515A Tampines Central 7  521515, Changi / Pasir Ris (D17-18)",
+    "displayText": "515A Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "1duphp",
+    "objectId": "10620",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515B Tampines Central 7  522515, Changi / Pasir Ris (D17-18)",
+    "displayText": "515B Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "b2862c",
+    "objectId": "10621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515C Tampines Central 7  523515, Changi / Pasir Ris (D17-18)",
+    "displayText": "515C Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "q3oa30",
+    "objectId": "10622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515D Tampines Central 7  524515, Changi / Pasir Ris (D17-18)",
+    "displayText": "515D Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "v8qhjv",
+    "objectId": "10623",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518A Tampines Central 7  521518, Changi / Pasir Ris (D17-18)",
+    "displayText": "518A Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "hqzwf8",
+    "objectId": "10624",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518B Tampines Central 7  522518, Changi / Pasir Ris (D17-18)",
+    "displayText": "518B Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "vmt5sk",
+    "objectId": "10625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518C Tampines Central 7  523518, Changi / Pasir Ris (D17-18)",
+    "displayText": "518C Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "uofs7a",
+    "objectId": "10626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518D Tampines Central 7  524518, Changi / Pasir Ris (D17-18)",
+    "displayText": "518D Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "sqz8g8",
+    "objectId": "10627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "522A Tampines Central 7  521522, Changi / Pasir Ris (D17-18)",
+    "displayText": "522A Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "5px1hz",
+    "objectId": "22465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "522C Tampines Central 7  523522, Changi / Pasir Ris (D17-18)",
+    "displayText": "522C Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "edcnpa",
+    "objectId": "22466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523A Tampines Central 7  521523, Changi / Pasir Ris (D17-18)",
+    "displayText": "523A Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "qmsof3",
+    "objectId": "22467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523C Tampines Central 7  523523, Changi / Pasir Ris (D17-18)",
+    "displayText": "523C Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "3hrvi7",
+    "objectId": "22468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523D Tampines Central 7  524523, Changi / Pasir Ris (D17-18)",
+    "displayText": "523D Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "1rs4x1",
+    "objectId": "22469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524 Tampines Central 7  520524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "54yala",
+    "objectId": "22470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524A Tampines Central 7  521524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524A Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "0x6nqc",
+    "objectId": "22471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524B Tampines Central 7  522524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524B Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "5iuppb",
+    "objectId": "22472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523B Tampines Central 7  522523, Changi / Pasir Ris (D17-18)",
+    "displayText": "523B Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "ouzwfy",
+    "objectId": "23468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "522B Tampines Central 7  522522, Changi / Pasir Ris (D17-18)",
+    "displayText": "522B Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "34uzqy",
+    "objectId": "23674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Tampines Central 7  528595, Changi / Pasir Ris (D17-18)",
+    "displayText": "61 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "sp26g3",
+    "objectId": "24494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Tampines Central 7  528596, Changi / Pasir Ris (D17-18)",
+    "displayText": "63 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "owx5re",
+    "objectId": "24495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Tampines Central 7  528598, Changi / Pasir Ris (D17-18)",
+    "displayText": "67 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "jyz7ee",
+    "objectId": "24496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Tampines Central 7  528615, Changi / Pasir Ris (D17-18)",
+    "displayText": "51 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "qqi6i4",
+    "objectId": "24498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Tampines Central 7  528616, Changi / Pasir Ris (D17-18)",
+    "displayText": "53 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "trzgun",
+    "objectId": "24499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Tampines Central 7  528617, Changi / Pasir Ris (D17-18)",
+    "displayText": "55 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "e8ynnl",
+    "objectId": "24500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Tampines Central 1  520504, Changi / Pasir Ris (D17-18)",
+    "displayText": "504 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "npxh9i",
+    "objectId": "10607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 Tampines Central 1  520509, Changi / Pasir Ris (D17-18)",
+    "displayText": "509 Tampines Central 1",
+    "displayType": "HDB",
+    "nanoId": "dow0o3",
+    "objectId": "10612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Tampines Central 7  528593, Changi / Pasir Ris (D17-18)",
+    "displayText": "57 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "iozzul",
+    "objectId": "24492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Tampines Central 7  528594, Changi / Pasir Ris (D17-18)",
+    "displayText": "59 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "2hyvpf",
+    "objectId": "24493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "69 Tampines Central 7  528599, Changi / Pasir Ris (D17-18)",
+    "displayText": "69 Tampines Central 7",
+    "displayType": "HDB",
+    "nanoId": "m1p0pu",
+    "objectId": "24497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Jurong West Central 3  648330, West (D22-24)",
+    "displayText": "The Centris",
+    "displayType": "Apartment",
+    "nanoId": "7h28tb",
+    "objectId": "63",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Punggol Central  828719, Serangoon / Thomson (D19-20)",
+    "displayText": "Parc Centros",
+    "displayType": "Condominium",
+    "nanoId": "25lym7",
+    "objectId": "21295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "59 Ang Mo Kio Avenue 8  567752, Serangoon / Thomson (D19-20)",
+    "displayText": "Centro Residences",
+    "displayType": "Condominium",
+    "nanoId": "zx3tm4",
+    "objectId": "1550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Choa Chu Kang Grove  688206, West (D22-24)",
+    "displayText": "Sol Acres",
+    "displayType": "Executive Condominium",
+    "nanoId": "dtdg9k",
+    "objectId": "22196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Ang Mo Kio Ave 2  567695, Serangoon / Thomson (D19-20)",
+    "displayText": "The Panorama",
+    "displayType": "Condominium",
+    "nanoId": "3pskzz",
+    "objectId": "21834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Jurong Lake Link  648130, West (D22-24)",
+    "displayText": "Lake Grande",
+    "displayType": "Condominium",
+    "nanoId": "06w3c2",
+    "objectId": "22592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Pasir Ris Heights  519000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Vue 8 Residence",
+    "displayType": "Condominium",
+    "nanoId": "82r8rs",
+    "objectId": "21674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Cuscaden Road  249732, Orchard / Holland (D09-10)",
+    "displayText": "Cuscaden Reserve",
+    "displayType": "Condominium",
+    "nanoId": "kgkj6o",
+    "objectId": "23805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Slim Barracks Rise  138492, City & South West (D01-08)",
+    "displayText": "One-North Eden",
+    "displayType": "Condominium",
+    "nanoId": "3hi564",
+    "objectId": "24564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

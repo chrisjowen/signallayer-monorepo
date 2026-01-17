@@ -1,0 +1,1501 @@
+[
+  {
+    "displayDescription": "7 Yishun Street 51  767969, North (D25-28)",
+    "displayText": "The Criterion",
+    "displayType": "Executive Condominium",
+    "nanoId": "p85t9t",
+    "objectId": "22281",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 Yishun Street 51  767989, North (D25-28)",
+    "displayText": "Signature At Yishun",
+    "displayType": "Executive Condominium",
+    "nanoId": "rfqle3",
+    "objectId": "22238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "504B Yishun Street 51  762504, North (D25-28)",
+    "displayText": "504B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "qj2u51",
+    "objectId": "22125",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504A Yishun Street 51  761504, North (D25-28)",
+    "displayText": "504A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "amvi2b",
+    "objectId": "22625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504C Yishun Street 51  763504, North (D25-28)",
+    "displayText": "504C Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "xbxbsu",
+    "objectId": "22626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504D Yishun Street 51  764504, North (D25-28)",
+    "displayText": "504D Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "0whtnc",
+    "objectId": "22627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505A Yishun Street 51  761505, North (D25-28)",
+    "displayText": "505A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "twkbhv",
+    "objectId": "22628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505B Yishun Street 51  762505, North (D25-28)",
+    "displayText": "505B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "7nqp9t",
+    "objectId": "22630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505C Yishun Street 51  763505, North (D25-28)",
+    "displayText": "505C Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "vzt9ny",
+    "objectId": "22632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505D Yishun Street 51  764505, North (D25-28)",
+    "displayText": "505D Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "bjgwnw",
+    "objectId": "22633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Yishun Street 51  760511, North (D25-28)",
+    "displayText": "511 Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "n0lv7u",
+    "objectId": "22940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511B Yishun Street 51  762511, North (D25-28)",
+    "displayText": "511B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "suu2jm",
+    "objectId": "22941",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511C Yishun Street 51  763511, North (D25-28)",
+    "displayText": "511C Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "i60zmy",
+    "objectId": "22942",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511D Yishun Street 51  764511, North (D25-28)",
+    "displayText": "511D Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "szzc1d",
+    "objectId": "22943",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512B Yishun Street 51  762512, North (D25-28)",
+    "displayText": "512B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "8y305w",
+    "objectId": "22944",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512C Yishun Street 51  763512, North (D25-28)",
+    "displayText": "512C Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "yf5t0z",
+    "objectId": "22945",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501A Yishun Street 51  761501, North (D25-28)",
+    "displayText": "501A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "7as6yz",
+    "objectId": "22968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501B Yishun Street 51  762501, North (D25-28)",
+    "displayText": "501B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "zv72m5",
+    "objectId": "22969",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Yishun Street 51  760502, North (D25-28)",
+    "displayText": "502 Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "iany9v",
+    "objectId": "22970",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502A Yishun Street 51  761502, North (D25-28)",
+    "displayText": "502A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "dolt7i",
+    "objectId": "22971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502B Yishun Street 51  762502, North (D25-28)",
+    "displayText": "502B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "3u8znm",
+    "objectId": "22972",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502C Yishun Street 51  763502, North (D25-28)",
+    "displayText": "502C Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "jfegtr",
+    "objectId": "22973",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502D Yishun Street 51  764502, North (D25-28)",
+    "displayText": "502D Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "abfhxm",
+    "objectId": "22974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513A Yishun Street 51  761513, North (D25-28)",
+    "displayText": "513A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "5lhhyo",
+    "objectId": "23222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513B Yishun Street 51  762513, North (D25-28)",
+    "displayText": "513B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "4csb5l",
+    "objectId": "23223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513C Yishun Street 51  763513, North (D25-28)",
+    "displayText": "513C Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "vjjkah",
+    "objectId": "23224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513D Yishun Street 51  764513, North (D25-28)",
+    "displayText": "513D Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "ypslhz",
+    "objectId": "23225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Yishun Street 51  760514, North (D25-28)",
+    "displayText": "514 Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "mn6xs2",
+    "objectId": "23226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511A Yishun Street 51  761511, North (D25-28)",
+    "displayText": "511A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "xu9i7c",
+    "objectId": "24447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Yishun Street 51  760510, North (D25-28)",
+    "displayText": "510 Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "jusd4w",
+    "objectId": "24649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510A Yishun Street 51  761510, North (D25-28)",
+    "displayText": "510A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "0nejj6",
+    "objectId": "24650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510B Yishun Street 51  762510, North (D25-28)",
+    "displayText": "510B Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "z1ao28",
+    "objectId": "24651",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512A Yishun Street 51  761512, North (D25-28)",
+    "displayText": "512A Yishun Street 51",
+    "displayType": "HDB",
+    "nanoId": "cutscq",
+    "objectId": "24652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Yishun Street 21",
+    "displayType": "Street",
+    "objectId": "3746",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 11",
+    "displayType": "Street",
+    "objectId": "3744",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 61",
+    "displayType": "Street",
+    "objectId": "3748",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 71",
+    "displayType": "Street",
+    "objectId": "3749",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 81",
+    "displayType": "Street",
+    "objectId": "3751",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 1",
+    "displayType": "Street",
+    "objectId": "10982",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 20",
+    "displayType": "Street",
+    "objectId": "3745",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 22",
+    "displayType": "Street",
+    "objectId": "3747",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 72",
+    "displayType": "Street",
+    "objectId": "3750",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 23",
+    "displayType": "Street",
+    "objectId": "6531",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "590A Ang Mo Kio Street 51  561590, Serangoon / Thomson (D19-20)",
+    "displayText": "590A Ang Mo Kio Street 51",
+    "displayType": "HDB",
+    "nanoId": "njkn7w",
+    "objectId": "23354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "591A Ang Mo Kio Street 51  561591, Serangoon / Thomson (D19-20)",
+    "displayText": "591A Ang Mo Kio Street 51",
+    "displayType": "HDB",
+    "nanoId": "g1kkpv",
+    "objectId": "23357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "590B Ang Mo Kio Street 51  562590, Serangoon / Thomson (D19-20)",
+    "displayText": "590B Ang Mo Kio Street 51",
+    "displayType": "HDB",
+    "nanoId": "uqf6bs",
+    "objectId": "23359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Pasir Ris Street 51",
+    "displayType": "Street",
+    "objectId": "2623",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "535 Choa Chu Kang Street 51  680535, West (D22-24)",
+    "displayText": "535 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "xrkxiw",
+    "objectId": "21974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525C Pasir Ris Street 51  513525, Changi / Pasir Ris (D17-18)",
+    "displayText": "525C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "clyvah",
+    "objectId": "22103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524A Pasir Ris Street 51  511524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "raq99e",
+    "objectId": "22251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526A Pasir Ris Street 51  511526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "t0qv0w",
+    "objectId": "22571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526B Pasir Ris Street 51  512526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "o0cbkx",
+    "objectId": "22572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526C Pasir Ris Street 51  513526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "fmvadp",
+    "objectId": "22573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526D Pasir Ris Street 51  514526, Changi / Pasir Ris (D17-18)",
+    "displayText": "526D Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "l8s2rb",
+    "objectId": "22575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Pasir Ris Street 51  510527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527 Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "zb3ar3",
+    "objectId": "22576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527A Pasir Ris Street 51  511527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "p5mbru",
+    "objectId": "22578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527B Pasir Ris Street 51  512527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "ipa5td",
+    "objectId": "22579",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527C Pasir Ris Street 51  513527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "pybwd7",
+    "objectId": "22580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527D Pasir Ris Street 51  514527, Changi / Pasir Ris (D17-18)",
+    "displayText": "527D Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "tqqsc8",
+    "objectId": "22581",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524B Pasir Ris Street 51  512524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "wwzx8m",
+    "objectId": "22593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "591 Ang Mo Kio Street 51  560591, Serangoon / Thomson (D19-20)",
+    "displayText": "591 Ang Mo Kio Street 51",
+    "displayType": "HDB",
+    "nanoId": "7f0sab",
+    "objectId": "23356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525A Pasir Ris Street 51  511525, Changi / Pasir Ris (D17-18)",
+    "displayText": "525A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "mfldnw",
+    "objectId": "23715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525B Pasir Ris Street 51  512525, Changi / Pasir Ris (D17-18)",
+    "displayText": "525B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "1kyykf",
+    "objectId": "23716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524C Pasir Ris Street 51  513524, Changi / Pasir Ris (D17-18)",
+    "displayText": "524C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "hkh6x9",
+    "objectId": "23717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Pasir Ris Street 51  510528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528 Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "fb7bb9",
+    "objectId": "23718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528A Pasir Ris Street 51  511528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528A Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "4nd4ej",
+    "objectId": "23719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528B Pasir Ris Street 51  512528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528B Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "8nhy88",
+    "objectId": "23720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528C Pasir Ris Street 51  513528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528C Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "ns7y2r",
+    "objectId": "23721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528D Pasir Ris Street 51  514528, Changi / Pasir Ris (D17-18)",
+    "displayText": "528D Costa Ris",
+    "displayType": "HDB",
+    "nanoId": "c0qw9y",
+    "objectId": "23722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526 Bukit Batok Street 51  650526, West (D22-24)",
+    "displayText": "526 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "x8y79t",
+    "objectId": "4391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Bukit Batok Street 51  650527, West (D22-24)",
+    "displayText": "527 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "wqi5h0",
+    "objectId": "4392",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Bukit Batok Street 51  650528, West (D22-24)",
+    "displayText": "528 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "r7o2vw",
+    "objectId": "4393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530 Bukit Batok Street 51  650530, West (D22-24)",
+    "displayText": "530 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "4we9g9",
+    "objectId": "4394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "531 Bukit Batok Street 51  650531, West (D22-24)",
+    "displayText": "531 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "no1t5j",
+    "objectId": "4395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "532 Bukit Batok Street 51  650532, West (D22-24)",
+    "displayText": "532 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "a0t1be",
+    "objectId": "4396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533 Bukit Batok Street 51  650533, West (D22-24)",
+    "displayText": "533 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "wscx24",
+    "objectId": "4397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "534 Bukit Batok Street 51  650534, West (D22-24)",
+    "displayText": "534 Bukit Batok Street 51",
+    "displayType": "HDB",
+    "nanoId": "az650m",
+    "objectId": "4398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Chai Chee Street  460051, East Coast (D15-16)",
+    "displayText": "51 Chai Chee Street",
+    "displayType": "HDB",
+    "nanoId": "w2krbx",
+    "objectId": "4775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501 Choa Chu Kang Street 51  680501, West (D22-24)",
+    "displayText": "501 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "bv3dpu",
+    "objectId": "5134",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Choa Chu Kang Street 51  680503, West (D22-24)",
+    "displayText": "503 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "y69dm3",
+    "objectId": "5136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Choa Chu Kang Street 51  680504, West (D22-24)",
+    "displayText": "504 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "bce8mo",
+    "objectId": "5137",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Choa Chu Kang Street 51  680505, West (D22-24)",
+    "displayText": "505 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "56m716",
+    "objectId": "5138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Choa Chu Kang Street 51  680506, West (D22-24)",
+    "displayText": "506 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "ljvcxp",
+    "objectId": "5139",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Choa Chu Kang Street 51  680508, West (D22-24)",
+    "displayText": "508 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "qnf3uw",
+    "objectId": "5141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 Choa Chu Kang Street 51  680509, West (D22-24)",
+    "displayText": "509 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "rau9ed",
+    "objectId": "5142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Choa Chu Kang Street 51  680510, West (D22-24)",
+    "displayText": "510 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "0x6xxf",
+    "objectId": "5143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Choa Chu Kang Street 51  680511, West (D22-24)",
+    "displayText": "511 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "jhmbm2",
+    "objectId": "5144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Choa Chu Kang Street 51  680512, West (D22-24)",
+    "displayText": "512 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "6c33ai",
+    "objectId": "5145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Choa Chu Kang Street 51  680513, West (D22-24)",
+    "displayText": "513 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "0ojmbo",
+    "objectId": "5146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Choa Chu Kang Street 51  680514, West (D22-24)",
+    "displayText": "514 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "la7or0",
+    "objectId": "5147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Choa Chu Kang Street 51  680515, West (D22-24)",
+    "displayText": "515 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "ie4ict",
+    "objectId": "5148",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Choa Chu Kang Street 51  680516, West (D22-24)",
+    "displayText": "516 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "efptmk",
+    "objectId": "5149",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Choa Chu Kang Street 51  680517, West (D22-24)",
+    "displayText": "517 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "y1cf0y",
+    "objectId": "5150",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Choa Chu Kang Street 51  680518, West (D22-24)",
+    "displayText": "518 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "e6pflg",
+    "objectId": "5151",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "523 Choa Chu Kang Street 51  680523, West (D22-24)",
+    "displayText": "523 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "qiazuq",
+    "objectId": "5152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524 Choa Chu Kang Street 51  680524, West (D22-24)",
+    "displayText": "524 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "k7ftgm",
+    "objectId": "5153",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "525 Choa Chu Kang Street 51  680525, West (D22-24)",
+    "displayText": "525 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "5f6ko1",
+    "objectId": "5154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "526 Choa Chu Kang Street 51  680526, West (D22-24)",
+    "displayText": "526 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "lah9k4",
+    "objectId": "5155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "527 Choa Chu Kang Street 51  680527, West (D22-24)",
+    "displayText": "527 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "8yl2zt",
+    "objectId": "5156",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "528 Choa Chu Kang Street 51  680528, West (D22-24)",
+    "displayText": "528 Choa Chu Kang Street 51",
+    "displayType": "HDB",
+    "nanoId": "wcbi29",
+    "objectId": "5157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

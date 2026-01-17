@@ -1,0 +1,1457 @@
+[
+  {
+    "displayText": "Henderson Crescent",
+    "displayType": "Street",
+    "objectId": "10662",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "101 Henderson Crescent  150101, City & South West (D01-08)",
+    "displayText": "101 Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "gis78o",
+    "objectId": "6270",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Henderson Crescent  150102, City & South West (D01-08)",
+    "displayText": "102 Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "yizdz5",
+    "objectId": "6271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Henderson Crescent  150103, City & South West (D01-08)",
+    "displayText": "103 Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "rh5cn7",
+    "objectId": "6272",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Henderson Crescent  150104, City & South West (D01-08)",
+    "displayText": "104 Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "j2twli",
+    "objectId": "6273",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Henderson Crescent  150105, City & South West (D01-08)",
+    "displayText": "105 Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "g5tt2i",
+    "objectId": "6274",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Henderson Crescent  150106, City & South West (D01-08)",
+    "displayText": "106 Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "yxa9rl",
+    "objectId": "6275",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104A Henderson Crescent  151104, City & South West (D01-08)",
+    "displayText": "104A Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "mnrhg3",
+    "objectId": "6276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106A Henderson Crescent  151106, City & South West (D01-08)",
+    "displayText": "106A Henderson Crescent",
+    "displayType": "HDB",
+    "nanoId": "4tg6r8",
+    "objectId": "6277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96A Henderson Road  151096, City & South West (D01-08)",
+    "displayText": "96A Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "ve7caz",
+    "objectId": "6283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Henderson Road",
+    "displayType": "Street",
+    "objectId": "10638",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "95C Henderson Road  153095, City & South West (D01-08)",
+    "displayText": "95C Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "juhjbl",
+    "objectId": "23571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95A Henderson Road  151095, City & South West (D01-08)",
+    "displayText": "95A Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "5kv77t",
+    "objectId": "23569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95B Henderson Road  152095, City & South West (D01-08)",
+    "displayText": "95B Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "1c20fs",
+    "objectId": "23570",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96B Henderson Road  152096, City & South West (D01-08)",
+    "displayText": "96B Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "hk4nuu",
+    "objectId": "23572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "91 Henderson Road  150091, City & South West (D01-08)",
+    "displayText": "91 Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "lbk136",
+    "objectId": "6278",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "92 Henderson Road  150092, City & South West (D01-08)",
+    "displayText": "92 Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "htr59u",
+    "objectId": "6279",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "93 Henderson Road  150093, City & South West (D01-08)",
+    "displayText": "93 Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "ukkedg",
+    "objectId": "6280",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94 Henderson Road  150094, City & South West (D01-08)",
+    "displayText": "94 Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "wu1ig7",
+    "objectId": "6281",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95 Henderson Road  150095, City & South West (D01-08)",
+    "displayText": "95 Henderson Road",
+    "displayType": "HDB",
+    "nanoId": "wjkgug",
+    "objectId": "6282",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Anderson Road  259977, Orchard / Holland (D09-10)",
+    "displayText": "Nouvel 18",
+    "displayType": "Condominium",
+    "nanoId": "nl15aw",
+    "objectId": "20748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23 Anderson Road  259985, Orchard / Holland (D09-10)",
+    "displayText": "Avalon",
+    "displayType": "Condominium",
+    "nanoId": "hnfmql",
+    "objectId": "8",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Anderson Road  259984, Orchard / Holland (D09-10)",
+    "displayText": "21 Anderson",
+    "displayType": "Condominium",
+    "nanoId": "4f5o8e",
+    "objectId": "21022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Anderson Road  259983, Orchard / Holland (D09-10)",
+    "displayText": "Shangri-La Apartments",
+    "displayType": "Apartment",
+    "nanoId": "9cahtg",
+    "objectId": "24727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Anderson Road",
+    "displayType": "Street",
+    "objectId": "10391",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "50 Faber Heights  129182, City & South West (D01-08)",
+    "displayText": "Faber Crest",
+    "displayType": "Condominium",
+    "nanoId": "r8mbon",
+    "objectId": "351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Balmoral Crescent  259928, Orchard / Holland (D09-10)",
+    "displayText": "Balmoral Heights",
+    "displayType": "Apartment",
+    "nanoId": "l6rzkx",
+    "objectId": "465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "75 Pasir Panjang Hill  118885, City & South West (D01-08)",
+    "displayText": "Crystal Heights",
+    "displayType": "Apartment",
+    "nanoId": "z3m2fp",
+    "objectId": "1304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 Prince Charles Crescent  159025, City & South West (D01-08)",
+    "displayText": "Principal Garden",
+    "displayType": "Condominium",
+    "nanoId": "zqxio0",
+    "objectId": "22255",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Dakota Crescent  390025, Balestier / Geylang (D12-14)",
+    "displayText": "Waterbank at Dakota",
+    "displayType": "Condominium",
+    "nanoId": "8ihh6z",
+    "objectId": "2642",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Anchorvale Crescent  544614, Serangoon / Thomson (D19-20)",
+    "displayText": "Treasure Crest",
+    "displayType": "Executive Condominium",
+    "nanoId": "yl1pbc",
+    "objectId": "22591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 Sembawang Crescent  756982, North (D25-28)",
+    "displayText": "Parc Life",
+    "displayType": "Executive Condominium",
+    "nanoId": "99vncu",
+    "objectId": "22505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Anchorvale Crescent  544649, Serangoon / Thomson (D19-20)",
+    "displayText": "Bellewaters",
+    "displayType": "Executive Condominium",
+    "nanoId": "yhjkpn",
+    "objectId": "22000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Anchorvale Crescent  544624, Serangoon / Thomson (D19-20)",
+    "displayText": "The Vales",
+    "displayType": "Condominium",
+    "nanoId": "zxij9z",
+    "objectId": "22100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "24 Upper Serangoon Crescent  534024, Serangoon / Thomson (D19-20)",
+    "displayText": "Riversails",
+    "displayType": "Condominium",
+    "nanoId": "lcxu3g",
+    "objectId": "21301",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Prince Charles Crescent  159017, City & South West (D01-08)",
+    "displayText": "The Crest",
+    "displayType": "Condominium",
+    "nanoId": "qs9juv",
+    "objectId": "21928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "34 Dakota Crescent  399936, Balestier / Geylang (D12-14)",
+    "displayText": "Dakota Residences",
+    "displayType": "Condominium",
+    "nanoId": "2p1awc",
+    "objectId": "1294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "150 Prince Charles Crescent  159012, City & South West (D01-08)",
+    "displayText": "Tanglin View",
+    "displayType": "Condominium",
+    "nanoId": "bs8yv6",
+    "objectId": "245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 West Coast Crescent  126000, City & South West (D01-08)",
+    "displayText": "Seahill",
+    "displayType": "Condominium",
+    "nanoId": "knya7s",
+    "objectId": "21244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 West Coast Crescent  128045, City & South West (D01-08)",
+    "displayText": "Blue Horizon",
+    "displayType": "Condominium",
+    "nanoId": "yfk7qi",
+    "objectId": "151",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Trevose Crescent  297722, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Glyndebourne",
+    "displayType": "Condominium",
+    "nanoId": "0t4wba",
+    "objectId": "20543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4   Tai Thong Crescent  347838, Balestier / Geylang (D12-14)",
+    "displayText": "The Venue Residences and Shoppes",
+    "displayType": "Apartment",
+    "nanoId": "3zke4r",
+    "objectId": "21762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73 West Coast Crescent  126790, City & South West (D01-08)",
+    "displayText": "The Vision",
+    "displayType": "Condominium",
+    "nanoId": "m1lsay",
+    "objectId": "2638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 West Coast Crescent  128035, City & South West (D01-08)",
+    "displayText": "West Bay Condo",
+    "displayType": "Condominium",
+    "nanoId": "coicwr",
+    "objectId": "252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Anchorvale Crescent  544558, Serangoon / Thomson (D19-20)",
+    "displayText": "OLA",
+    "displayType": "Executive Condominium",
+    "nanoId": "vtix9b",
+    "objectId": "23864",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Rivervale Crescent  545084, Serangoon / Thomson (D19-20)",
+    "displayText": "Rivervale Crest",
+    "displayType": "Condominium",
+    "nanoId": "4vn9ls",
+    "objectId": "289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 West Coast Crescent  128041, City & South West (D01-08)",
+    "displayText": "Westcove Condo",
+    "displayType": "Condominium",
+    "nanoId": "2bvllw",
+    "objectId": "352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Trevose Crescent  298088, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Trevose",
+    "displayType": "Condominium",
+    "nanoId": "gm9dia",
+    "objectId": "285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41A Bedok Ria Crescent  489929, East Coast (D15-16)",
+    "displayText": "Stratford Court",
+    "displayType": "Condominium",
+    "nanoId": "9os9ks",
+    "objectId": "506",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Guillemard Crescent  399915, Balestier / Geylang (D12-14)",
+    "displayText": "Arena Residences",
+    "displayType": "Condominium",
+    "nanoId": "xufnz6",
+    "objectId": "23550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Paya Lebar Crescent  534239, Serangoon / Thomson (D19-20)",
+    "displayText": "Tangerine Grove",
+    "displayType": "Condominium",
+    "nanoId": "lptvdf",
+    "objectId": "375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131A Canberra Crescent  751131, North (D25-28)",
+    "displayText": "131A Canberra Crescent",
+    "displayType": "HDB",
+    "nanoId": "k4676i",
+    "objectId": "25799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 Trevose Crescent  298063, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Trevose Park",
+    "displayType": "Condominium",
+    "nanoId": "ecq0wv",
+    "objectId": "466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Buangkok Crescent",
+    "displayType": "Street",
+    "objectId": "10349",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Serangoon Crescent",
+    "displayType": "Street",
+    "objectId": "28527",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Balmoral Crescent  259882, Orchard / Holland (D09-10)",
+    "displayText": "Balmoral Crest",
+    "displayType": "Apartment",
+    "nanoId": "pgk15i",
+    "objectId": "1175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Guillemard Crescent  399914, Balestier / Geylang (D12-14)",
+    "displayText": "Cosmo",
+    "displayType": "Condominium",
+    "nanoId": "qzq36w",
+    "objectId": "1348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Balmoral Crescent  259889, Orchard / Holland (D09-10)",
+    "displayText": "Goodwood Gardens",
+    "displayType": "Apartment",
+    "nanoId": "xra0mf",
+    "objectId": "1973",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Opal Crescent  328396, Balestier / Geylang (D12-14)",
+    "displayText": "Opal Suites",
+    "displayType": "Condominium",
+    "nanoId": "qtz1vg",
+    "objectId": "20995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Canberra Crescent  756929, North (D25-28)",
+    "displayText": "Provence Residence",
+    "displayType": "Executive Condominium",
+    "nanoId": "7svt3p",
+    "objectId": "24592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Kew Crescent  465000, East Coast (D15-16)",
+    "displayText": "Kew Residencia",
+    "displayType": "Terraced House",
+    "nanoId": "e1enb7",
+    "objectId": "897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Rivervale Crescent",
+    "displayType": "Street",
+    "objectId": "4841",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Choa Chu Kang Crescent",
+    "displayType": "Street",
+    "objectId": "515",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Compassvale Crescent",
+    "displayType": "Street",
+    "objectId": "611",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "9 Balmoral Crescent  259902, Orchard / Holland (D09-10)",
+    "displayText": "Sui Generis",
+    "displayType": "Condominium",
+    "nanoId": "orfdy8",
+    "objectId": "1382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "338A Anchorvale Crescent  541338, Serangoon / Thomson (D19-20)",
+    "displayText": "338A Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "qbm25o",
+    "objectId": "20612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "475A Upper Serangoon Crescent  531475, Serangoon / Thomson (D19-20)",
+    "displayText": "475A Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "9xz56q",
+    "objectId": "20890",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Robey Crescent  546256, Serangoon / Thomson (D19-20)",
+    "displayText": "One Robey",
+    "displayType": "Condominium",
+    "nanoId": "dvidyk",
+    "objectId": "21357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "748A Bedok Reservoir Crescent  471748, East Coast (D15-16)",
+    "displayText": "748A Bedok Reservoir Crescent",
+    "displayType": "HDB",
+    "nanoId": "df8yfq",
+    "objectId": "21629",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28C Dover Crescent  133028, City & South West (D01-08)",
+    "displayText": "28C Dover Crescent",
+    "displayType": "HDB",
+    "nanoId": "pbeg7j",
+    "objectId": "21643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "00 Crescent Road  439999, East Coast (D15-16)",
+    "displayText": "Seven Crescent",
+    "displayType": "Cluster House",
+    "nanoId": "7wf1hj",
+    "objectId": "21962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "334B Anchorvale Crescent  542334, Serangoon / Thomson (D19-20)",
+    "displayText": "334B Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "14febn",
+    "objectId": "22199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "475B Upper Serangoon Crescent  532475, Serangoon / Thomson (D19-20)",
+    "displayText": "475B Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "gmuzth",
+    "objectId": "23495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362C Sembawang Crescent  753362, North (D25-28)",
+    "displayText": "362C Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "pr0p4o",
+    "objectId": "23738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Seraya Crescent  575811, Serangoon / Thomson (D19-20)",
+    "displayText": "Lattice One",
+    "displayType": "Condominium",
+    "nanoId": "k08dfn",
+    "objectId": "23758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "997B Buangkok Crescent  532997, Serangoon / Thomson (D19-20)",
+    "displayText": "997B Buangkok Crescent",
+    "displayType": "HDB",
+    "nanoId": "wgcpfk",
+    "objectId": "24438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362A Sembawang Crescent  751362, North (D25-28)",
+    "displayText": "362A Sembawang Crescent",
+    "displayType": "HDB",
+    "nanoId": "2eyuyd",
+    "objectId": "24672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117A Canberra Crescent  751117, North (D25-28)",
+    "displayText": "117A Canberra Crescent",
+    "displayType": "HDB",
+    "nanoId": "pggpfc",
+    "objectId": "25686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117B Canberra Crescent  752117, North (D25-28)",
+    "displayText": "117B Canberra Crescent",
+    "displayType": "HDB",
+    "nanoId": "4o78tg",
+    "objectId": "25802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131C Canberra Crescent  753131, North (D25-28)",
+    "displayText": "131C Canberra Crescent",
+    "displayType": "HDB",
+    "nanoId": "lj69qv",
+    "objectId": "25830",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131B Canberra Crescent  752131, North (D25-28)",
+    "displayText": "131B Canberra Crescent",
+    "displayType": "HDB",
+    "nanoId": "28bveo",
+    "objectId": "25841",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "691A Choa Chu Kang Crescent  681691, West (D22-24)",
+    "displayText": "691A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "t9tw1r",
+    "objectId": "5060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Dover Crescent  130021, City & South West (D01-08)",
+    "displayText": "21 Dover Crescent",
+    "displayType": "HDB",
+    "nanoId": "7y75ah",
+    "objectId": "5842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Sembawang Crescent",
+    "displayType": "Street",
+    "objectId": "2902",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Telok Blangah Crescent",
+    "displayType": "Street",
+    "objectId": "3333",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Dover Crescent",
+    "displayType": "Street",
+    "objectId": "722",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Crescent",
+    "displayType": "Street",
+    "objectId": "815",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Telok Blangah Crescent  090001, City & South West (D01-08)",
+    "displayText": "1 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "8f8i3g",
+    "objectId": "11384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Telok Blangah Crescent  090003, City & South West (D01-08)",
+    "displayText": "3 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "yqdhmc",
+    "objectId": "11385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Telok Blangah Crescent  090004, City & South West (D01-08)",
+    "displayText": "4 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "qjz0tb",
+    "objectId": "11386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Telok Blangah Crescent  090005, City & South West (D01-08)",
+    "displayText": "5 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "ab62vt",
+    "objectId": "11387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Telok Blangah Crescent  090006, City & South West (D01-08)",
+    "displayText": "6 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "9ffha0",
+    "objectId": "11388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Telok Blangah Crescent  090007, City & South West (D01-08)",
+    "displayText": "7 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "c3hg7q",
+    "objectId": "11389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Telok Blangah Crescent  090008, City & South West (D01-08)",
+    "displayText": "8 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "4ywl38",
+    "objectId": "11390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Telok Blangah Crescent  090009, City & South West (D01-08)",
+    "displayText": "9 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "44f8mx",
+    "objectId": "11391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Telok Blangah Crescent  090010, City & South West (D01-08)",
+    "displayText": "10 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "vzmn2r",
+    "objectId": "11392",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Telok Blangah Crescent  090011, City & South West (D01-08)",
+    "displayText": "11 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "ln9gkf",
+    "objectId": "11393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Telok Blangah Crescent  090012, City & South West (D01-08)",
+    "displayText": "12 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "7ikll7",
+    "objectId": "11394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Telok Blangah Crescent  090013, City & South West (D01-08)",
+    "displayText": "13 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "mcdwf8",
+    "objectId": "11395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Telok Blangah Crescent  090014, City & South West (D01-08)",
+    "displayText": "14 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "n3y9tm",
+    "objectId": "11396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

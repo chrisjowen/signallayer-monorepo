@@ -1,0 +1,1446 @@
+[
+  {
+    "displayText": "Ubi Avenue 1",
+    "displayType": "Street",
+    "objectId": "3498",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "301 Ubi Avenue 1  400301, Balestier / Geylang (D12-14)",
+    "displayText": "301 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ig7cnc",
+    "objectId": "11598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302 Ubi Avenue 1  400302, Balestier / Geylang (D12-14)",
+    "displayText": "302 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "y07j2a",
+    "objectId": "11599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304 Ubi Avenue 1  400304, Balestier / Geylang (D12-14)",
+    "displayText": "304 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "cbvmsm",
+    "objectId": "11600",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305 Ubi Avenue 1  400305, Balestier / Geylang (D12-14)",
+    "displayText": "305 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "b0ubob",
+    "objectId": "11601",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311 Ubi Avenue 1  400311, Balestier / Geylang (D12-14)",
+    "displayText": "311 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "7u5vte",
+    "objectId": "11603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312 Ubi Avenue 1  400312, Balestier / Geylang (D12-14)",
+    "displayText": "312 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ofnvzb",
+    "objectId": "11604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313 Ubi Avenue 1  400313, Balestier / Geylang (D12-14)",
+    "displayText": "313 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "s317hd",
+    "objectId": "11605",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Ubi Avenue 1  400314, Balestier / Geylang (D12-14)",
+    "displayText": "314 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "f8o53l",
+    "objectId": "11606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "315 Ubi Avenue 1  400315, Balestier / Geylang (D12-14)",
+    "displayText": "315 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "0xtwwo",
+    "objectId": "11607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "316 Ubi Avenue 1  400316, Balestier / Geylang (D12-14)",
+    "displayText": "316 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "mi2fu7",
+    "objectId": "11608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "317 Ubi Avenue 1  400317, Balestier / Geylang (D12-14)",
+    "displayText": "317 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "gz3j0r",
+    "objectId": "11609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "318 Ubi Avenue 1  400318, Balestier / Geylang (D12-14)",
+    "displayText": "318 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "timnji",
+    "objectId": "11610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319 Ubi Avenue 1  400319, Balestier / Geylang (D12-14)",
+    "displayText": "319 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6lkj4k",
+    "objectId": "11611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320 Ubi Avenue 1  400320, Balestier / Geylang (D12-14)",
+    "displayText": "320 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "go32ft",
+    "objectId": "11612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Ubi Avenue 1  400321, Balestier / Geylang (D12-14)",
+    "displayText": "321 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "k6ti0x",
+    "objectId": "11613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322 Ubi Avenue 1  400322, Balestier / Geylang (D12-14)",
+    "displayText": "322 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "lx4g6r",
+    "objectId": "11614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Ubi Avenue 1  400323, Balestier / Geylang (D12-14)",
+    "displayText": "323 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "pmoimq",
+    "objectId": "11615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Ubi Avenue 1  400324, Balestier / Geylang (D12-14)",
+    "displayText": "324 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "e1rrfk",
+    "objectId": "11616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Ubi Avenue 1  400325, Balestier / Geylang (D12-14)",
+    "displayText": "325 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "r9jzsx",
+    "objectId": "11617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Ubi Avenue 1  400326, Balestier / Geylang (D12-14)",
+    "displayText": "326 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "wlc90a",
+    "objectId": "11618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327 Ubi Avenue 1  400327, Balestier / Geylang (D12-14)",
+    "displayText": "327 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "jbv80u",
+    "objectId": "11619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Ubi Avenue 1  400328, Balestier / Geylang (D12-14)",
+    "displayText": "328 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "jcz20j",
+    "objectId": "11620",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Ubi Avenue 1  400329, Balestier / Geylang (D12-14)",
+    "displayText": "329 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "wgaf9l",
+    "objectId": "11621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Ubi Avenue 1  400330, Balestier / Geylang (D12-14)",
+    "displayText": "330 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "a6d8ms",
+    "objectId": "11622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Ubi Avenue 1  400331, Balestier / Geylang (D12-14)",
+    "displayText": "331 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "15zfdp",
+    "objectId": "11623",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Ubi Avenue 1  400332, Balestier / Geylang (D12-14)",
+    "displayText": "332 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "kkv8ca",
+    "objectId": "11624",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333 Ubi Avenue 1  400333, Balestier / Geylang (D12-14)",
+    "displayText": "333 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "h1ak5w",
+    "objectId": "11625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334 Ubi Avenue 1  400334, Balestier / Geylang (D12-14)",
+    "displayText": "334 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "v7bl9c",
+    "objectId": "11626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Ubi Avenue 1  400335, Balestier / Geylang (D12-14)",
+    "displayText": "335 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "u8ba8n",
+    "objectId": "11627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336 Ubi Avenue 1  400336, Balestier / Geylang (D12-14)",
+    "displayText": "336 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "dj3xkx",
+    "objectId": "11628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337 Ubi Avenue 1  400337, Balestier / Geylang (D12-14)",
+    "displayText": "337 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "m5e3oq",
+    "objectId": "11629",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338 Ubi Avenue 1  400338, Balestier / Geylang (D12-14)",
+    "displayText": "338 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "xuzkya",
+    "objectId": "11630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339 Ubi Avenue 1  400339, Balestier / Geylang (D12-14)",
+    "displayText": "339 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ly4yo0",
+    "objectId": "11631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "340 Ubi Avenue 1  400340, Balestier / Geylang (D12-14)",
+    "displayText": "340 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "1qfeva",
+    "objectId": "11632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "341 Ubi Avenue 1  400341, Balestier / Geylang (D12-14)",
+    "displayText": "341 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "yvybpn",
+    "objectId": "11633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "342 Ubi Avenue 1  400342, Balestier / Geylang (D12-14)",
+    "displayText": "342 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "3bro1s",
+    "objectId": "11634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "343 Ubi Avenue 1  400343, Balestier / Geylang (D12-14)",
+    "displayText": "343 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ssi3kj",
+    "objectId": "11635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "344 Ubi Avenue 1  400344, Balestier / Geylang (D12-14)",
+    "displayText": "344 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "hei1x8",
+    "objectId": "11636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "345 Ubi Avenue 1  400345, Balestier / Geylang (D12-14)",
+    "displayText": "345 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "nj88sy",
+    "objectId": "11637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "346 Ubi Avenue 1  400346, Balestier / Geylang (D12-14)",
+    "displayText": "346 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "q1sm1d",
+    "objectId": "11638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "347 Ubi Avenue 1  400347, Balestier / Geylang (D12-14)",
+    "displayText": "347 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "asmvs6",
+    "objectId": "11639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "348 Ubi Avenue 1  400348, Balestier / Geylang (D12-14)",
+    "displayText": "348 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "hmz6rm",
+    "objectId": "11640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "349 Ubi Avenue 1  400349, Balestier / Geylang (D12-14)",
+    "displayText": "349 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ake6r7",
+    "objectId": "11641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "350 Ubi Avenue 1  400350, Balestier / Geylang (D12-14)",
+    "displayText": "350 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "c26bl2",
+    "objectId": "11642",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "351 Ubi Avenue 1  400351, Balestier / Geylang (D12-14)",
+    "displayText": "351 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "jcdfl7",
+    "objectId": "11643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "352 Ubi Avenue 1  400352, Balestier / Geylang (D12-14)",
+    "displayText": "352 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "nzcqpv",
+    "objectId": "11644",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306 Ubi Avenue 1  400306, Balestier / Geylang (D12-14)",
+    "displayText": "306 Ubi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "flv84u",
+    "objectId": "11602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Ubi Avenue 2",
+    "displayType": "Street",
+    "objectId": "3499",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Avenue 3",
+    "displayType": "Street",
+    "objectId": "3500",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Avenue 4",
+    "displayType": "Street",
+    "objectId": "3501",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Avenue",
+    "displayType": "Street",
+    "objectId": "6464",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Road 1",
+    "displayType": "Street",
+    "objectId": "3503",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "356C Ubi Road 3  403356, Balestier / Geylang (D12-14)",
+    "displayText": "356C Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "e6gpz2",
+    "objectId": "25514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357B Ubi Road 3  402357, Balestier / Geylang (D12-14)",
+    "displayText": "357B Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "telo4e",
+    "objectId": "25630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358D Ubi Road 3  404358, Balestier / Geylang (D12-14)",
+    "displayText": "358D Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "psenv8",
+    "objectId": "25657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358A Ubi Road 3  401358, Balestier / Geylang (D12-14)",
+    "displayText": "358A Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "kornge",
+    "objectId": "25678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356 Ubi Road 3  400356, Balestier / Geylang (D12-14)",
+    "displayText": "356 Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "fhbje3",
+    "objectId": "25717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356A Ubi Road 3  401356, Balestier / Geylang (D12-14)",
+    "displayText": "356A Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "y82fuk",
+    "objectId": "25718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356B Ubi Road 3  402356, Balestier / Geylang (D12-14)",
+    "displayText": "356B Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "g4wz2i",
+    "objectId": "25719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356D Ubi Road 3  404356, Balestier / Geylang (D12-14)",
+    "displayText": "356D Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "vx00ro",
+    "objectId": "25720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357A Ubi Road 3  401357, Balestier / Geylang (D12-14)",
+    "displayText": "357A Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "sdzilq",
+    "objectId": "25721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357C Ubi Road 3  403357, Balestier / Geylang (D12-14)",
+    "displayText": "357C Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "7lz4ck",
+    "objectId": "25722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357D Ubi Road 3  404357, Balestier / Geylang (D12-14)",
+    "displayText": "357D Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "rphllh",
+    "objectId": "25723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358 Ubi Road 3  400358, Balestier / Geylang (D12-14)",
+    "displayText": "358 Ubi Road 3",
+    "displayType": "HDB",
+    "nanoId": "wy7uj0",
+    "objectId": "25724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Ubi Crescent",
+    "displayType": "Street",
+    "objectId": "10574",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Road 2",
+    "displayType": "Street",
+    "objectId": "3504",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Road 3",
+    "displayType": "Street",
+    "objectId": "3505",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Rd",
+    "displayType": "Street",
+    "objectId": "5483",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Link",
+    "displayType": "Street",
+    "objectId": "8508",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Industrial Estate",
+    "displayType": "Street",
+    "objectId": "8930",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi Road 4",
+    "displayType": "Street",
+    "objectId": "3506",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ubi View",
+    "displayType": "Street",
+    "objectId": "4066",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "Clementi Avenue 1  120403, City & South West (D01-08)",
+    "displayText": "Clavon",
+    "displayType": "Condominium",
+    "nanoId": "umgr9u",
+    "objectId": "24518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Jurong East Avenue 1  609774, West (D22-24)",
+    "displayText": "Parc Oasis",
+    "displayType": "Condominium",
+    "nanoId": "bqjp2m",
+    "objectId": "141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Silat Avenue  168872, City & South West (D01-08)",
+    "displayText": "Avenue South Residence",
+    "displayType": "Condominium",
+    "nanoId": "bm65k6",
+    "objectId": "23798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 3  465461, East Coast (D15-16)",
+    "displayText": "Grandeur Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "1m24f7",
+    "objectId": "22879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Tampines Avenue 1  528684, Changi / Pasir Ris (D17-18)",
+    "displayText": "Waterview",
+    "displayType": "Condominium",
+    "nanoId": "z2w2y8",
+    "objectId": "20574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Potong Pasir Avenue 1  358391, Balestier / Geylang (D12-14)",
+    "displayText": "The Tre Ver",
+    "displayType": "Condominium",
+    "nanoId": "5su0gv",
+    "objectId": "23476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Yishun Avenue 1  769130, North (D25-28)",
+    "displayText": "The Estuary @ Yishun",
+    "displayType": "Condominium",
+    "nanoId": "3770wm",
+    "objectId": "2636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Serangoon Avenue 2  556130, Serangoon / Thomson (D19-20)",
+    "displayText": "Sunglade",
+    "displayType": "Condominium",
+    "nanoId": "zel5nu",
+    "objectId": "277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Pheng Geck Avenue  348196, Balestier / Geylang (D12-14)",
+    "displayText": "Sant Ritz",
+    "displayType": "Condominium",
+    "nanoId": "1q7b93",
+    "objectId": "21464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Geylang East Avenue 1  389782, Balestier / Geylang (D12-14)",
+    "displayText": "Tre Residences",
+    "displayType": "Condominium",
+    "nanoId": "6pci1q",
+    "objectId": "22023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1-8 Thiam Siew Avenue  436838, East Coast (D15-16)",
+    "displayText": "The Continuum",
+    "displayType": "Condominium",
+    "nanoId": "suxrz4",
+    "objectId": "25427",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Khiang Guan Avenue  308380, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Lincoln Suites",
+    "displayType": "Condominium",
+    "nanoId": "2rult9",
+    "objectId": "2145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Tampines Avenue 1  529771, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Tropica",
+    "displayType": "Condominium",
+    "nanoId": "7lqckd",
+    "objectId": "330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ontario Avenue  576189, Serangoon / Thomson (D19-20)",
+    "displayText": "The Windsor",
+    "displayType": "Condominium",
+    "nanoId": "eaeqy3",
+    "objectId": "471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Hume Avenue  598718, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Hume Park I",
+    "displayType": "Condominium",
+    "nanoId": "5f2h2p",
+    "objectId": "552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ford Avenue  268685, Orchard / Holland (D09-10)",
+    "displayText": "The Ford @ Holland",
+    "displayType": "Condominium",
+    "nanoId": "njlpgc",
+    "objectId": "183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ang Mo Kio Avenue 9  569758, Serangoon / Thomson (D19-20)",
+    "displayText": "Far Horizon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "8kb81y",
+    "objectId": "305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Sin Ming Avenue  575728, Serangoon / Thomson (D19-20)",
+    "displayText": "Flame Tree Park",
+    "displayType": "Condominium",
+    "nanoId": "94ubcl",
+    "objectId": "549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "310A Ang Mo Kio Avenue 1  561310, Serangoon / Thomson (D19-20)",
+    "displayText": "310A Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "99jmc6",
+    "objectId": "20743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310C Ang Mo Kio Avenue 1  563310, Serangoon / Thomson (D19-20)",
+    "displayText": "310C Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "koanwl",
+    "objectId": "20796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310B Ang Mo Kio Avenue 1  562310, Serangoon / Thomson (D19-20)",
+    "displayText": "310B Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "bp0e6t",
+    "objectId": "20797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Cherry Avenue  279871, Orchard / Holland (D09-10)",
+    "displayText": "Villa Azura",
+    "displayType": "Condominium",
+    "nanoId": "jdrxdb",
+    "objectId": "717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Hougang Avenue 1",
+    "displayType": "Street",
+    "objectId": "1142",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Holland Avenue  278965, Orchard / Holland (D09-10)",
+    "displayText": "Willyn Ville",
+    "displayType": "Condominium",
+    "nanoId": "abccb2",
+    "objectId": "1619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Geylang East Avenue 2  389760, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Edge",
+    "displayType": "Condominium",
+    "nanoId": "ekbwcw",
+    "objectId": "20679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "425 Clementi Avenue 1  120425, City & South West (D01-08)",
+    "displayText": "425 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "m1e87l",
+    "objectId": "21904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240A Jurong East Avenue 1  601240, West (D22-24)",
+    "displayText": "240A Jurong East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "rceyi8",
+    "objectId": "24712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

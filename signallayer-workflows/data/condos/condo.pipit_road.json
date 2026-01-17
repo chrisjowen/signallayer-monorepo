@@ -1,0 +1,1370 @@
+[
+  {
+    "displayText": "Pipit Road",
+    "displayType": "Street",
+    "objectId": "2701",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "53 Pipit Road  370053, Balestier / Geylang (D12-14)",
+    "displayText": "53 Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "8e28az",
+    "objectId": "9286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Pipit Road  370054, Balestier / Geylang (D12-14)",
+    "displayText": "54 Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "uokaxm",
+    "objectId": "9287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Pipit Road  370055, Balestier / Geylang (D12-14)",
+    "displayText": "55 Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "fwmhua",
+    "objectId": "9288",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Pipit Road  370056, Balestier / Geylang (D12-14)",
+    "displayText": "56 Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "150fvp",
+    "objectId": "9289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "90 Pipit Road  370090, Balestier / Geylang (D12-14)",
+    "displayText": "90 Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "foqnmy",
+    "objectId": "9290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "92 Pipit Road  370092, Balestier / Geylang (D12-14)",
+    "displayText": "92 Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "zhde7d",
+    "objectId": "9291",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94 Pipit Road  370094, Balestier / Geylang (D12-14)",
+    "displayText": "94 Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "v8itj7",
+    "objectId": "9292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "92A Pipit Road  371092, Balestier / Geylang (D12-14)",
+    "displayText": "92A Pipit Road",
+    "displayType": "HDB",
+    "nanoId": "dbip3y",
+    "objectId": "9293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Cantonment Road  080001, City & South West (D01-08)",
+    "displayText": "Pinnacle @ Duxton",
+    "displayType": "HDB",
+    "nanoId": "sp7hrw",
+    "objectId": "20538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Mohamed Sultan Road  239013, Orchard / Holland (D09-10)",
+    "displayText": "The Pier at Robertson",
+    "displayType": "Apartment",
+    "nanoId": "qrjqht",
+    "objectId": "99",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "177 River Valley Road  179030, City & South West (D01-08)",
+    "displayText": "CanningHill Piers",
+    "displayType": "Condominium",
+    "nanoId": "j3wxqp",
+    "objectId": "24663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D06",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Northumberland Road  218985, City & South West (D01-08)",
+    "displayText": "Piccadilly Grand",
+    "displayType": "Condominium",
+    "nanoId": "leuj71",
+    "objectId": "25298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        null,
+        "",
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Shan Road  328107, Balestier / Geylang (D12-14)",
+    "displayText": "Pinnacle 16",
+    "displayType": "Condominium",
+    "nanoId": "y9gypm",
+    "objectId": "785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Keng Cheow Road  059608, City & South West (D01-08)",
+    "displayText": "The Riverside Piazza",
+    "displayType": "Condominium",
+    "nanoId": "4t3cim",
+    "objectId": "1212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Yung Ping Road  610005, West (D22-24)",
+    "displayText": "5 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "dgvw3b",
+    "objectId": "12995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Yung Ping Road  610159, West (D22-24)",
+    "displayText": "159 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "w4rysm",
+    "objectId": "12997",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Yung Ping Road  610160, West (D22-24)",
+    "displayText": "160 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "a6lltf",
+    "objectId": "12998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Yung Ping Road  610161, West (D22-24)",
+    "displayText": "161 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "q5ddci",
+    "objectId": "12999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162 Yung Ping Road  610162, West (D22-24)",
+    "displayText": "162 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "c34t1k",
+    "objectId": "13000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Yung Ping Road  610163, West (D22-24)",
+    "displayText": "163 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "tf4cld",
+    "objectId": "13001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163A Yung Ping Road  611163, West (D22-24)",
+    "displayText": "163A Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "1uem2x",
+    "objectId": "13002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Charlton Road  539557, Serangoon / Thomson (D19-20)",
+    "displayText": "Foh Pin Mansion",
+    "displayType": "Condominium",
+    "nanoId": "crscgf",
+    "objectId": "20903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "- Lim Ah Pin Road  547819, Serangoon / Thomson (D19-20)",
+    "displayText": "Jazz Residences",
+    "displayType": "Cluster House",
+    "nanoId": "ljj6bh",
+    "objectId": "22817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "LCLUS",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "18 Lim Ah Pin Road  547837, Serangoon / Thomson (D19-20)",
+    "displayText": "Pin Mansions",
+    "displayType": "Apartment",
+    "nanoId": "0p7jej",
+    "objectId": "2302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7B Balmoral Road  259788, Orchard / Holland (D09-10)",
+    "displayText": "Pine Springs",
+    "displayType": "Condominium",
+    "nanoId": "li7zgl",
+    "objectId": "2305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Lim Ah Pin Road  547822, Serangoon / Thomson (D19-20)",
+    "displayText": "The Courtyard",
+    "displayType": "Apartment",
+    "nanoId": "ao6zhg",
+    "objectId": "2493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Pioneer Road",
+    "displayType": "Street",
+    "objectId": "11096",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jurong Pier Road",
+    "displayType": "Street",
+    "objectId": "1699",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lim Ah Pin Road",
+    "displayType": "Street",
+    "objectId": "1957",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pillai Road",
+    "displayType": "Street",
+    "objectId": "2686",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chia Ping Road",
+    "displayType": "Street",
+    "objectId": "496",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pierce Road",
+    "displayType": "Street",
+    "objectId": "4999",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pine Grove Road",
+    "displayType": "Street",
+    "objectId": "5254",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "6 Yung Ping Road  610006, West (D22-24)",
+    "displayText": "6 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "8i2sdf",
+    "objectId": "12996",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1A Pine Grove  590001, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Pine Grove",
+    "displayType": "Condominium",
+    "nanoId": "u81ih4",
+    "objectId": "443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Pine Grove  597593, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Cavendish Park",
+    "displayType": "Condominium",
+    "nanoId": "tn131w",
+    "objectId": "238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Pine Grove  598441, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Pinetree Hill",
+    "displayType": "Condominium",
+    "nanoId": "849jjk",
+    "objectId": "25497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Tampines Street 73  528823, Changi / Pasir Ris (D17-18)",
+    "displayText": "Pinevale",
+    "displayType": "Condominium",
+    "nanoId": "wwr30e",
+    "objectId": "327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Balmoral Park  259850, Orchard / Holland (D09-10)",
+    "displayText": "Pinewood Gardens",
+    "displayType": "Condominium",
+    "nanoId": "16hlbg",
+    "objectId": "616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Sumang Walk  828618, Serangoon / Thomson (D19-20)",
+    "displayText": "Piermont Grand",
+    "displayType": "Executive Condominium",
+    "nanoId": "ktaoka",
+    "objectId": "23762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Balmoral park  259856, Orchard / Holland (D09-10)",
+    "displayText": "Pinetree Condo",
+    "displayType": "Condominium",
+    "nanoId": "pltbav",
+    "objectId": "1123",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Pine Grove  597590, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Astor Green",
+    "displayType": "Condominium",
+    "nanoId": "bdu37l",
+    "objectId": "5",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Pari Burong  488600, East Coast (D15-16)",
+    "displayText": "Picardy Gardens",
+    "displayType": "Semi-Detached House",
+    "nanoId": "pz8e6i",
+    "objectId": "1104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Charlton Lane  539000, Serangoon / Thomson (D19-20)",
+    "displayText": "Foh Pin Garden",
+    "displayType": "Terraced House",
+    "nanoId": "8am89x",
+    "objectId": "1933",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Pinewood Grove  738000, North (D25-28)",
+    "displayText": "Pinewood Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "szii93",
+    "objectId": "21010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "28 - 28A Lorong L Telok Kurau  425440, East Coast (D15-16)",
+    "displayText": "Pine Court",
+    "displayType": "Apartment",
+    "nanoId": "tfrh18",
+    "objectId": "2304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Aradmore Park  259954, Orchard / Holland (D09-10)",
+    "displayText": "Pin Tjoe Court",
+    "displayType": "Condominium",
+    "nanoId": "1wdr45",
+    "objectId": "25084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38A Pine Lane  391038, Balestier / Geylang (D12-14)",
+    "displayText": "38A Pine Lane",
+    "displayType": "HDB",
+    "nanoId": "ki39sc",
+    "objectId": "25560",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37A Pine Lane  391037, Serangoon / Thomson (D19-20)",
+    "displayText": "37A Pine Lane",
+    "displayType": "HDB",
+    "nanoId": "33ba1i",
+    "objectId": "25783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38 Pine Grove  597774, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Nava Grove",
+    "displayType": "Condominium",
+    "nanoId": "zt7q2z",
+    "objectId": "25845",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Lorong Pisang Raja  000000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Hoover Park",
+    "displayType": "Terraced House",
+    "nanoId": "4b5tkg",
+    "objectId": "572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        "",
+        null,
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "132 Lorong L Telok Kurau  425569, East Coast (D15-16)",
+    "displayText": "Pinehurst Condo",
+    "displayType": "Condominium",
+    "nanoId": "iikuwz",
+    "objectId": "720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Pine Close  390001, Balestier / Geylang (D12-14)",
+    "displayText": "1 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "ubmurz",
+    "objectId": "9276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Pine Close  392003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "5ngw11",
+    "objectId": "9277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Pine Close  391005, Balestier / Geylang (D12-14)",
+    "displayText": "5 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "69qwf5",
+    "objectId": "9278",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Pine Close  391007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "287hde",
+    "objectId": "9279",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Pine Close  390009, Balestier / Geylang (D12-14)",
+    "displayText": "9 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "4mi8ec",
+    "objectId": "9280",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Pine Close  391010, Balestier / Geylang (D12-14)",
+    "displayText": "10 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "pgb0fx",
+    "objectId": "9281",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Pine Close  391011, Balestier / Geylang (D12-14)",
+    "displayText": "11 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "pvfp4f",
+    "objectId": "9282",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Pine Close  391012, Balestier / Geylang (D12-14)",
+    "displayText": "12 Pine Close",
+    "displayType": "HDB",
+    "nanoId": "6bb87j",
+    "objectId": "9283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11A Pine Close  392011, Balestier / Geylang (D12-14)",
+    "displayText": "11A Pine Close",
+    "displayType": "HDB",
+    "nanoId": "nr35zp",
+    "objectId": "9284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3A Pine Close  393003, Balestier / Geylang (D12-14)",
+    "displayText": "3A Pine Close",
+    "displayType": "HDB",
+    "nanoId": "uqy553",
+    "objectId": "9285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Pinewood Grove",
+    "displayType": "Street",
+    "objectId": "10610",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pine Close",
+    "displayType": "Street",
+    "objectId": "11046",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pioneer Sector 2",
+    "displayType": "Street",
+    "objectId": "11320",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong Pisang Rajah",
+    "displayType": "Street",
+    "objectId": "12788",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Pintau",
+    "displayType": "Street",
+    "objectId": "1418",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Pisang",
+    "displayType": "Street",
+    "objectId": "1420",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Tari Piring",
+    "displayType": "Street",
+    "objectId": "1635",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan  Tari Piring",
+    "displayType": "Street",
+    "objectId": "16482",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong Pisang Batu",
+    "displayType": "Street",
+    "objectId": "17221",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong Pisang Hijau",
+    "displayType": "Street",
+    "objectId": "17991",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pickering Street",
+    "displayType": "Street",
+    "objectId": "2685",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pine Grove",
+    "displayType": "Street",
+    "objectId": "2688",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pine Lane",
+    "displayType": "Street",
+    "objectId": "2689",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yung Ping",
+    "displayType": "Street",
+    "objectId": "3763",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chia Ping",
+    "displayType": "Street",
+    "objectId": "5197",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Jalan Tari Piring  000000, North (D25-28)",
+    "displayText": "Jalan Kayu Estate",
+    "displayType": "Terraced House",
+    "nanoId": "bkge1h",
+    "objectId": "25987",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Jln Tari Piring (jln Kayu)",
+    "displayType": "Street",
+    "objectId": "10900",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Pinang",
+    "displayType": "Street",
+    "objectId": "1417",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Pickering Street",
+    "displayType": "Street",
+    "objectId": "3530",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D7",
+    "displayText": "D07 Beach Road / Bugis / Rochor",
+    "displayType": "District",
+    "objectId": "D07",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D07"
+    }
+  },
+  {
+    "displayDescription": "314 Shunfu Road  570314, Serangoon / Thomson (D19-20)",
+    "displayText": "JadeScape",
+    "displayType": "Condominium",
+    "nanoId": "9dt6ad",
+    "objectId": "23491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "180 Depot Road  109684, City & South West (D01-08)",
+    "displayText": "The Interlace",
+    "displayType": "Condominium",
+    "nanoId": "csd4hr",
+    "objectId": "1574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Stirling Road  148960, City & South West (D01-08)",
+    "displayText": "Stirling Residences",
+    "displayType": "Condominium",
+    "nanoId": "hac43b",
+    "objectId": "23462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "32A Toh Tuck Road  596110, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Forett at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "43hgva",
+    "objectId": "23957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Bayshore Road  469986, East Coast (D15-16)",
+    "displayText": "Costa Del Sol",
+    "displayType": "Condominium",
+    "nanoId": "tdtdcs",
+    "objectId": "61",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Fernvale Road  797415, North (D25-28)",
+    "displayText": "High Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "e4880m",
+    "objectId": "22181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "276 Yio Chu Kang Road  544604, Serangoon / Thomson (D19-20)",
+    "displayText": "Hundred Palms Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "di3fnu",
+    "objectId": "23145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "239 Upper Paya Lebar Road  533866, Serangoon / Thomson (D19-20)",
+    "displayText": "Botanique at Bartley",
+    "displayType": "Condominium",
+    "nanoId": "1ukoq7",
+    "objectId": "22082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Meyappa Chettiar Road  358453, Balestier / Geylang (D12-14)",
+    "displayText": "The Poiz Residences",
+    "displayType": "Condominium",
+    "nanoId": "mtmehz",
+    "objectId": "22276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "22 Bayshore Road  469970, East Coast (D15-16)",
+    "displayText": "The Bayshore",
+    "displayType": "Condominium",
+    "nanoId": "bszddd",
+    "objectId": "114",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "473 River Valley Road  248358, Orchard / Holland (D09-10)",
+    "displayText": "Valley Park",
+    "displayType": "Condominium",
+    "nanoId": "omeu32",
+    "objectId": "132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "130 Tanjong Rhu Road  436918, East Coast (D15-16)",
+    "displayText": "Pebble Bay",
+    "displayType": "Condominium",
+    "nanoId": "s2tehh",
+    "objectId": "143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Siglap Road  448906, East Coast (D15-16)",
+    "displayText": "Mandarin Gardens",
+    "displayType": "Condominium",
+    "nanoId": "zn29zw",
+    "objectId": "107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "370 Alexandra Road  159953, City & South West (D01-08)",
+    "displayText": "The Anchorage",
+    "displayType": "Condominium",
+    "nanoId": "7qskjl",
+    "objectId": "195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Compassvale Road  544749, Serangoon / Thomson (D19-20)",
+    "displayText": "The Luxurie",
+    "displayType": "Condominium",
+    "nanoId": "kjcgzi",
+    "objectId": "20766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 Amber Road  439942, East Coast (D15-16)",
+    "displayText": "The Sea View",
+    "displayType": "Condominium",
+    "nanoId": "685qz3",
+    "objectId": "66",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Bayshore Road  469977, East Coast (D15-16)",
+    "displayText": "Bayshore Park",
+    "displayType": "Condominium",
+    "nanoId": "oz4cju",
+    "objectId": "92",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

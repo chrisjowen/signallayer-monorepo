@@ -1,0 +1,1547 @@
+[
+  {
+    "displayText": "Boon Lay Place",
+    "displayType": "Street",
+    "objectId": "10481",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "221 Boon Lay Place  640221, West (D22-24)",
+    "displayText": "221 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "2odp7k",
+    "objectId": "23548",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 Boon Lay Place  640207, West (D22-24)",
+    "displayText": "207 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "fjp8q3",
+    "objectId": "4051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208 Boon Lay Place  640208, West (D22-24)",
+    "displayText": "208 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "y1rprm",
+    "objectId": "4052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209 Boon Lay Place  640209, West (D22-24)",
+    "displayText": "209 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "mmq25t",
+    "objectId": "4053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210 Boon Lay Place  640210, West (D22-24)",
+    "displayText": "210 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "55dhak",
+    "objectId": "4054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211 Boon Lay Place  640211, West (D22-24)",
+    "displayText": "211 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "3nr11z",
+    "objectId": "4055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212 Boon Lay Place  640212, West (D22-24)",
+    "displayText": "212 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "aiggce",
+    "objectId": "4056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Boon Lay Place  640213, West (D22-24)",
+    "displayText": "213 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "dou3s6",
+    "objectId": "4057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214 Boon Lay Place  640214, West (D22-24)",
+    "displayText": "214 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "gg4lnr",
+    "objectId": "4058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215 Boon Lay Place  640215, West (D22-24)",
+    "displayText": "215 Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "x2zlaw",
+    "objectId": "4059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207A Boon Lay Place  641207, West (D22-24)",
+    "displayText": "207A Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "2atl1e",
+    "objectId": "4060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208A Boon Lay Place  641208, West (D22-24)",
+    "displayText": "208A Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "i23y96",
+    "objectId": "4061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209A Boon Lay Place  641209, West (D22-24)",
+    "displayText": "209A Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "szwe6l",
+    "objectId": "4062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210A Boon Lay Place  641210, West (D22-24)",
+    "displayText": "210A Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "6uhsq6",
+    "objectId": "4063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221A Boon Lay Place  641221, West (D22-24)",
+    "displayText": "221A Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "m1c7yq",
+    "objectId": "4065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221B Boon Lay Place  642221, West (D22-24)",
+    "displayText": "221B Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "syao8p",
+    "objectId": "4066",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212A Boon Lay Place  641212, West (D22-24)",
+    "displayText": "212A Boon Lay Place",
+    "displayType": "HDB",
+    "nanoId": "g2lnu5",
+    "objectId": "4064",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Boon Lay Way",
+    "displayType": "Street",
+    "objectId": "11260",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D22",
+    "displayText": "D22 Boon Lay / Jurong / Tuas",
+    "displayType": "District",
+    "objectId": "D22",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D22"
+    }
+  },
+  {
+    "displayDescription": "0 Boon Lay Drive  649000, West (D22-24)",
+    "displayText": "Summerdale",
+    "displayType": "Condominium",
+    "nanoId": "fnwnpp",
+    "objectId": "228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Boon Lay Drive",
+    "displayType": "Street",
+    "objectId": "10260",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Boon Lay Avenue",
+    "displayType": "Street",
+    "objectId": "10673",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "180C Boon Lay Drive  643180, West (D22-24)",
+    "displayText": "180C Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "k7kws0",
+    "objectId": "21898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196A Boon Lay Drive  641196, West (D22-24)",
+    "displayText": "196A Boon Lay Fields",
+    "displayType": "HDB",
+    "nanoId": "88lw3t",
+    "objectId": "21975",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196B Boon Lay Drive  642196, West (D22-24)",
+    "displayText": "196B Boon Lay Fields",
+    "displayType": "HDB",
+    "nanoId": "g9hqz4",
+    "objectId": "21978",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197C Boon Lay Drive  643197, West (D22-24)",
+    "displayText": "197C Boon Lay Fields",
+    "displayType": "HDB",
+    "nanoId": "fspgvf",
+    "objectId": "21979",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183A Boon Lay Avenue  641183, West (D22-24)",
+    "displayText": "183A Boon Lay Avenue",
+    "displayType": "HDB",
+    "nanoId": "b5q143",
+    "objectId": "22209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197A Boon Lay Drive  641197, West (D22-24)",
+    "displayText": "197A Boon Lay Fields",
+    "displayType": "HDB",
+    "nanoId": "qnu7hl",
+    "objectId": "22597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197B Boon Lay Drive  642197, West (D22-24)",
+    "displayText": "197B Boon Lay Fields",
+    "displayType": "HDB",
+    "nanoId": "mllrcq",
+    "objectId": "22598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197D Boon Lay Drive  644197, West (D22-24)",
+    "displayText": "197D Boon Lay Fields",
+    "displayType": "HDB",
+    "nanoId": "9aqjff",
+    "objectId": "22599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180A Boon Lay Drive  641180, West (D22-24)",
+    "displayText": "180A Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "iypuks",
+    "objectId": "22959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180B Boon Lay Drive  642180, West (D22-24)",
+    "displayText": "180B Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "n2irrt",
+    "objectId": "22960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "181A Boon Lay Drive  641181, West (D22-24)",
+    "displayText": "181A Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "3r0qp0",
+    "objectId": "22961",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "181B Boon Lay Drive  642181, West (D22-24)",
+    "displayText": "181B Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "bq254g",
+    "objectId": "22962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216A Boon Lay Avenue  641216, West (D22-24)",
+    "displayText": "216A Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "ad6eia",
+    "objectId": "23058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216B Boon Lay Avenue  642216, West (D22-24)",
+    "displayText": "216B Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "xmd7cb",
+    "objectId": "23059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217A Boon Lay Avenue  641217, West (D22-24)",
+    "displayText": "217A Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "ue8yx5",
+    "objectId": "23060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217B Boon Lay Avenue  642217, West (D22-24)",
+    "displayText": "217B Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "wqsis6",
+    "objectId": "23061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218A Boon Lay Avenue  641218, West (D22-24)",
+    "displayText": "218A Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "5aofnm",
+    "objectId": "23062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218B Boon Lay Avenue  642218, West (D22-24)",
+    "displayText": "218B Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "b16pz0",
+    "objectId": "23063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218C Boon Lay Avenue  643218, West (D22-24)",
+    "displayText": "218C Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "fgty57",
+    "objectId": "23064",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218D Boon Lay Avenue  644218, West (D22-24)",
+    "displayText": "218D Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "crdzgx",
+    "objectId": "23065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183B Boon Lay Avenue  642183, West (D22-24)",
+    "displayText": "183B Boon Lay Avenue",
+    "displayType": "HDB",
+    "nanoId": "ls3bas",
+    "objectId": "23198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183C Boon Lay Avenue  643183, West (D22-24)",
+    "displayText": "183C Boon Lay Avenue",
+    "displayType": "HDB",
+    "nanoId": "djo78e",
+    "objectId": "23199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183D Boon Lay Avenue  644183, West (D22-24)",
+    "displayText": "183D Boon Lay Avenue",
+    "displayType": "HDB",
+    "nanoId": "fs36z7",
+    "objectId": "23200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31  Boon Lay Dr  649934, West (D22-24)",
+    "displayText": "85 SOHO @ Boon Lay",
+    "displayType": "Apartment",
+    "nanoId": "idtj7l",
+    "objectId": "24751",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "218A Jurong West Avenue 2  641218, West (D22-24)",
+    "displayText": "Boon Lay View",
+    "displayType": "Condominium",
+    "nanoId": "j79o21",
+    "objectId": "25155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "185 Boon Lay Avenue  640185, West (D22-24)",
+    "displayText": "185 Boon Lay Avenue",
+    "displayType": "HDB",
+    "nanoId": "b5kihc",
+    "objectId": "3996",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "186 Boon Lay Avenue  640186, West (D22-24)",
+    "displayText": "186 Boon Lay Avenue",
+    "displayType": "HDB",
+    "nanoId": "n3ghfe",
+    "objectId": "3997",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "187 Boon Lay Avenue  640187, West (D22-24)",
+    "displayText": "187 Boon Lay Avenue",
+    "displayType": "HDB",
+    "nanoId": "9c16fs",
+    "objectId": "3998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216 Boon Lay Avenue  640216, West (D22-24)",
+    "displayText": "216 Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "kbfikm",
+    "objectId": "3999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217 Boon Lay Avenue  640217, West (D22-24)",
+    "displayText": "217 Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "lq77d0",
+    "objectId": "4000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218 Boon Lay Avenue  640218, West (D22-24)",
+    "displayText": "218 Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "i10xbf",
+    "objectId": "4001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "219 Boon Lay Avenue  640219, West (D22-24)",
+    "displayText": "219 Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "vsh0qf",
+    "objectId": "4002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220 Boon Lay Avenue  640220, West (D22-24)",
+    "displayText": "220 Boon Lay View",
+    "displayType": "HDB",
+    "nanoId": "ayrmnt",
+    "objectId": "4003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "174 Boon Lay Drive  640174, West (D22-24)",
+    "displayText": "174 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "94lcz3",
+    "objectId": "4010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175 Boon Lay Drive  640175, West (D22-24)",
+    "displayText": "175 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "u7vc4f",
+    "objectId": "4011",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "176 Boon Lay Drive  640176, West (D22-24)",
+    "displayText": "176 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "21ntax",
+    "objectId": "4012",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "177 Boon Lay Drive  640177, West (D22-24)",
+    "displayText": "177 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "awdlqv",
+    "objectId": "4013",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "179 Boon Lay Drive  640179, West (D22-24)",
+    "displayText": "179 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "f6i6e4",
+    "objectId": "4015",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "181 Boon Lay Drive  640181, West (D22-24)",
+    "displayText": "181 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "vffnkh",
+    "objectId": "4017",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182 Boon Lay Drive  640182, West (D22-24)",
+    "displayText": "182 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "h2246m",
+    "objectId": "4018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183 Boon Lay Drive  640183, West (D22-24)",
+    "displayText": "183 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "bc2hrl",
+    "objectId": "4019",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188 Boon Lay Drive  640188, West (D22-24)",
+    "displayText": "188 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "q0mqnd",
+    "objectId": "4021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "189 Boon Lay Drive  640189, West (D22-24)",
+    "displayText": "189 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "gc5uae",
+    "objectId": "4022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "190 Boon Lay Drive  640190, West (D22-24)",
+    "displayText": "190 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "9tdwic",
+    "objectId": "4023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "191 Boon Lay Drive  640191, West (D22-24)",
+    "displayText": "191 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "6jur2p",
+    "objectId": "4024",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "198 Boon Lay Drive  640198, West (D22-24)",
+    "displayText": "198 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "72jh8v",
+    "objectId": "4025",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "199 Boon Lay Drive  640199, West (D22-24)",
+    "displayText": "199 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "yp72d4",
+    "objectId": "4026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200 Boon Lay Drive  640200, West (D22-24)",
+    "displayText": "200 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "dg5d34",
+    "objectId": "4027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201 Boon Lay Drive  640201, West (D22-24)",
+    "displayText": "201 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "mk9i59",
+    "objectId": "4028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202 Boon Lay Drive  640202, West (D22-24)",
+    "displayText": "202 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "r9nqpt",
+    "objectId": "4029",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203 Boon Lay Drive  640203, West (D22-24)",
+    "displayText": "203 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "mj7jgm",
+    "objectId": "4030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "204 Boon Lay Drive  640204, West (D22-24)",
+    "displayText": "204 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "xsmsv1",
+    "objectId": "4031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205 Boon Lay Drive  640205, West (D22-24)",
+    "displayText": "205 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "hpte4j",
+    "objectId": "4032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206 Boon Lay Drive  640206, West (D22-24)",
+    "displayText": "206 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "0howgo",
+    "objectId": "4033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "257 Boon Lay Drive  640257, West (D22-24)",
+    "displayText": "257 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "ygirrt",
+    "objectId": "4034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258 Boon Lay Drive  640258, West (D22-24)",
+    "displayText": "258 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "4774yp",
+    "objectId": "4035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Boon Lay Drive  640260, West (D22-24)",
+    "displayText": "260 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "54ir1q",
+    "objectId": "4037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261 Boon Lay Drive  640261, West (D22-24)",
+    "displayText": "261 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "kkwmy0",
+    "objectId": "4038",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "262 Boon Lay Drive  640262, West (D22-24)",
+    "displayText": "262 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "x8jq6s",
+    "objectId": "4039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "263 Boon Lay Drive  640263, West (D22-24)",
+    "displayText": "263 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "v5b775",
+    "objectId": "4040",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264 Boon Lay Drive  640264, West (D22-24)",
+    "displayText": "264 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "eo25hh",
+    "objectId": "4041",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265 Boon Lay Drive  640265, West (D22-24)",
+    "displayText": "265 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "gbuzeq",
+    "objectId": "4042",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266 Boon Lay Drive  640266, West (D22-24)",
+    "displayText": "266 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "s3vv73",
+    "objectId": "4043",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267 Boon Lay Drive  640267, West (D22-24)",
+    "displayText": "267 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "lcu906",
+    "objectId": "4044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268 Boon Lay Drive  640268, West (D22-24)",
+    "displayText": "268 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "mq1cec",
+    "objectId": "4045",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "257A Boon Lay Drive  641257, West (D22-24)",
+    "displayText": "257A Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "f2hamh",
+    "objectId": "4047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268A Boon Lay Drive  641268, West (D22-24)",
+    "displayText": "268A Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "xc932o",
+    "objectId": "4048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268B Boon Lay Drive  642268, West (D22-24)",
+    "displayText": "268B Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "n13o6m",
+    "objectId": "4049",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268C Boon Lay Drive  643268, West (D22-24)",
+    "displayText": "268C Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "dd8wzu",
+    "objectId": "4050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Boon Lay",
+    "displayType": "Street",
+    "objectId": "11779",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "239B Boon Lay Drive  642239, West (D22-24)",
+    "displayText": "239B Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "gjitya",
+    "objectId": "25733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238A Boon Lay Drive   641238, West (D22-24)",
+    "displayText": "238A Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "2ohh4t",
+    "objectId": "25736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167 Boon Lay Drive  640167, West (D22-24)",
+    "displayText": "167 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "j4wld2",
+    "objectId": "4004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168 Boon Lay Drive  640168, West (D22-24)",
+    "displayText": "168 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "ppxxo7",
+    "objectId": "4005",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169 Boon Lay Drive  640169, West (D22-24)",
+    "displayText": "169 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "vbh9k0",
+    "objectId": "4006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170 Boon Lay Drive  640170, West (D22-24)",
+    "displayText": "170 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "sjitxv",
+    "objectId": "4007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171 Boon Lay Drive  640171, West (D22-24)",
+    "displayText": "171 Boon Lay Drive",
+    "displayType": "HDB",
+    "nanoId": "hxf8ij",
+    "objectId": "4008",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

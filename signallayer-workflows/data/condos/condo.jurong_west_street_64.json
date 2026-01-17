@@ -1,0 +1,1591 @@
+[
+  {
+    "displayText": "Jurong West Street 64",
+    "displayType": "Street",
+    "objectId": "1721",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "660 Jurong West Street 64  640660, West (D22-24)",
+    "displayText": "660 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "cs10aw",
+    "objectId": "7664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661 Jurong West Street 64  640661, West (D22-24)",
+    "displayText": "661 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "73tw6u",
+    "objectId": "7665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662 Jurong West Street 64  640662, West (D22-24)",
+    "displayText": "662 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "skcgiw",
+    "objectId": "7666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664 Jurong West Street 64  640664, West (D22-24)",
+    "displayText": "664 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "2wh443",
+    "objectId": "7667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675 Jurong West Street 64  640675, West (D22-24)",
+    "displayText": "675 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "5xgqrw",
+    "objectId": "7669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "676 Jurong West Street 64  640676, West (D22-24)",
+    "displayText": "676 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "6lwmns",
+    "objectId": "7670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "677 Jurong West Street 64  640677, West (D22-24)",
+    "displayText": "677 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "5pkf0z",
+    "objectId": "7671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678 Jurong West Street 64  640678, West (D22-24)",
+    "displayText": "678 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "so761t",
+    "objectId": "7672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685 Jurong West Street 64  640685, West (D22-24)",
+    "displayText": "685 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "z15z7z",
+    "objectId": "7674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660A Jurong West Street 64  641660, West (D22-24)",
+    "displayText": "660A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "63xxxj",
+    "objectId": "7675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660B Jurong West Street 64  642660, West (D22-24)",
+    "displayText": "660B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "0um5d7",
+    "objectId": "7676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660C Jurong West Street 64  643660, West (D22-24)",
+    "displayText": "660C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "whbk98",
+    "objectId": "7677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660D Jurong West Street 64  644660, West (D22-24)",
+    "displayText": "660D Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "m36w12",
+    "objectId": "7678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661A Jurong West Street 64  641661, West (D22-24)",
+    "displayText": "661A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "ageim0",
+    "objectId": "7680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661B Jurong West Street 64  642661, West (D22-24)",
+    "displayText": "661B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "mcw6j1",
+    "objectId": "7681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661C Jurong West Street 64  643661, West (D22-24)",
+    "displayText": "661C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "japbn9",
+    "objectId": "7682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661D Jurong West Street 64  644661, West (D22-24)",
+    "displayText": "661D Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "bz4zea",
+    "objectId": "7683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662A Jurong West Street 64  641662, West (D22-24)",
+    "displayText": "662A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "7sm771",
+    "objectId": "7684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662B Jurong West Street 64  642662, West (D22-24)",
+    "displayText": "662B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "nk7z03",
+    "objectId": "7685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662C Jurong West Street 64  643662, West (D22-24)",
+    "displayText": "662C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "0y759f",
+    "objectId": "7686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662D Jurong West Street 64  644662, West (D22-24)",
+    "displayText": "662D Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "17965v",
+    "objectId": "7687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "663E Jurong West Street 64  645663, West (D22-24)",
+    "displayText": "663E Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "r7ehyf",
+    "objectId": "7688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664A Jurong West Street 64  641664, West (D22-24)",
+    "displayText": "664A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "r50sfd",
+    "objectId": "7689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664B Jurong West Street 64  642664, West (D22-24)",
+    "displayText": "664B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "fur45f",
+    "objectId": "7690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664C Jurong West Street 64  643664, West (D22-24)",
+    "displayText": "664C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "y1m1en",
+    "objectId": "7691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664D Jurong West Street 64  644664, West (D22-24)",
+    "displayText": "664D Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "y08zf9",
+    "objectId": "7692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664E Jurong West Street 64  645664, West (D22-24)",
+    "displayText": "664E Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "n4cqkf",
+    "objectId": "7693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "665A Jurong West Street 64  641665, West (D22-24)",
+    "displayText": "665A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "0xc2wn",
+    "objectId": "7694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "665B Jurong West Street 64  642665, West (D22-24)",
+    "displayText": "665B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "ebikll",
+    "objectId": "7695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668A Jurong West Street 64  641668, West (D22-24)",
+    "displayText": "668A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "k0ooym",
+    "objectId": "7696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668B Jurong West Street 64  642668, West (D22-24)",
+    "displayText": "668B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "hlw6sk",
+    "objectId": "7697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668C Jurong West Street 64  643668, West (D22-24)",
+    "displayText": "668C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "6bkh9r",
+    "objectId": "7698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668D Jurong West Street 64  644668, West (D22-24)",
+    "displayText": "668D Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "y8tkbx",
+    "objectId": "7699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669A Jurong West Street 64  641669, West (D22-24)",
+    "displayText": "669A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "57obgg",
+    "objectId": "7701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669B Jurong West Street 64  642669, West (D22-24)",
+    "displayText": "669B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "a6rihg",
+    "objectId": "7702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669C Jurong West Street 64  643669, West (D22-24)",
+    "displayText": "669C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "orb78o",
+    "objectId": "7703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669D Jurong West Street 64  644669, West (D22-24)",
+    "displayText": "669D Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "9gdk7i",
+    "objectId": "7704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675A Jurong West Street 64  641675, West (D22-24)",
+    "displayText": "675A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "z8c9e1",
+    "objectId": "7705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675B Jurong West Street 64  642675, West (D22-24)",
+    "displayText": "675B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "pxi0r5",
+    "objectId": "7706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "676A Jurong West Street 64  641676, West (D22-24)",
+    "displayText": "676A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "u3uf3c",
+    "objectId": "7707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "676B Jurong West Street 64  642676, West (D22-24)",
+    "displayText": "676B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "6adm4x",
+    "objectId": "7708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "677A Jurong West Street 64  641677, West (D22-24)",
+    "displayText": "677A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "l7wweh",
+    "objectId": "7709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "677B Jurong West Street 64  642677, West (D22-24)",
+    "displayText": "677B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "1f3ady",
+    "objectId": "7710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "677C Jurong West Street 64  643677, West (D22-24)",
+    "displayText": "677C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "83smn0",
+    "objectId": "7711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678A Jurong West Street 64  641678, West (D22-24)",
+    "displayText": "678A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "89200w",
+    "objectId": "7712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678B Jurong West Street 64  642678, West (D22-24)",
+    "displayText": "678B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "5ovpqv",
+    "objectId": "7713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678C Jurong West Street 64  643678, West (D22-24)",
+    "displayText": "678C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "1t6bg8",
+    "objectId": "7714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678D Jurong West Street 64  644678, West (D22-24)",
+    "displayText": "678D Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "sjp72v",
+    "objectId": "7715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "683C Jurong West Street 64  643683, West (D22-24)",
+    "displayText": "683C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "kas3yn",
+    "objectId": "7716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684A Jurong West Street 64  641684, West (D22-24)",
+    "displayText": "684A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "nmjffa",
+    "objectId": "7717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684B Jurong West Street 64  642684, West (D22-24)",
+    "displayText": "684B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "ivub4m",
+    "objectId": "7718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684C Jurong West Street 64  643684, West (D22-24)",
+    "displayText": "684C Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "422x1x",
+    "objectId": "7719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685A Jurong West Street 64  641685, West (D22-24)",
+    "displayText": "685A Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "9sqm51",
+    "objectId": "7720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685B Jurong West Street 64  642685, West (D22-24)",
+    "displayText": "685B Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "kfmph7",
+    "objectId": "7721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669 Jurong West Street 64  640669, West (D22-24)",
+    "displayText": "669 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "9q8owc",
+    "objectId": "7668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684 Jurong West Street 64  640684, West (D22-24)",
+    "displayText": "684 Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "j2ie2b",
+    "objectId": "7673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660E Jurong West Street 64  646660, West (D22-24)",
+    "displayText": "660E Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "srclba",
+    "objectId": "7679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668E Jurong West Street 64  645668, West (D22-24)",
+    "displayText": "668E Jurong West Street 64",
+    "displayType": "HDB",
+    "nanoId": "cv7ngs",
+    "objectId": "7700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Jurong West Street 41  649411, West (D22-24)",
+    "displayText": "The Lakeshore",
+    "displayType": "Condominium",
+    "nanoId": "ncss25",
+    "objectId": "104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "561 Jurong West Street 42  640561, West (D22-24)",
+    "displayText": "561 Jurong West Street 42",
+    "displayType": "HDB",
+    "nanoId": "b4fqpc",
+    "objectId": "23266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "561A Jurong West Street 42  641561, West (D22-24)",
+    "displayText": "561A Jurong West Street 42",
+    "displayType": "HDB",
+    "nanoId": "6624f4",
+    "objectId": "23267",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "561B Jurong West Street 42  642561, West (D22-24)",
+    "displayText": "561B Jurong West Street 42",
+    "displayType": "HDB",
+    "nanoId": "9cnsij",
+    "objectId": "23268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "562 Jurong West Street 42  640562, West (D22-24)",
+    "displayText": "562 Jurong West Street 42",
+    "displayType": "HDB",
+    "nanoId": "ci1du4",
+    "objectId": "23269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "560A Jurong West Street 42  641560, West (D22-24)",
+    "displayText": "560A Spring Haven @ Jurong",
+    "displayType": "HDB",
+    "nanoId": "2drtep",
+    "objectId": "7234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271 Jurong West Street 24  640271, West (D22-24)",
+    "displayText": "271 Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "2wc7o8",
+    "objectId": "7449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271A Jurong West Street 24  641271, West (D22-24)",
+    "displayText": "271A Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "2y8ti0",
+    "objectId": "7451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271B Jurong West Street 24  642271, West (D22-24)",
+    "displayText": "271B Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "9x7npj",
+    "objectId": "7452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271C Jurong West Street 24  643271, West (D22-24)",
+    "displayText": "271C Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "txy5i2",
+    "objectId": "7453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271D Jurong West Street 24  644271, West (D22-24)",
+    "displayText": "271D Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "xe2rgo",
+    "objectId": "7454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272A Jurong West Street 24  641272, West (D22-24)",
+    "displayText": "272A Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "61cvki",
+    "objectId": "7455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272B Jurong West Street 24  642272, West (D22-24)",
+    "displayText": "272B Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "0tynl2",
+    "objectId": "7456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272C Jurong West Street 24  643272, West (D22-24)",
+    "displayText": "272C Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "ainhq8",
+    "objectId": "7457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272D Jurong West Street 24  644272, West (D22-24)",
+    "displayText": "272D Jurong West Street 24",
+    "displayType": "HDB",
+    "nanoId": "8834gz",
+    "objectId": "7458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274 Jurong West Street 25  640274, West (D22-24)",
+    "displayText": "274 Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "i3jaq2",
+    "objectId": "7459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275 Jurong West Street 25  640275, West (D22-24)",
+    "displayText": "275 Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "8h318t",
+    "objectId": "7460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276 Jurong West Street 25  640276, West (D22-24)",
+    "displayText": "276 Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "7228qm",
+    "objectId": "7461",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274B Jurong West Street 25  642274, West (D22-24)",
+    "displayText": "274B Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "ze4uyz",
+    "objectId": "7462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274C Jurong West Street 25  643274, West (D22-24)",
+    "displayText": "274C Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "ff60vc",
+    "objectId": "7463",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275A Jurong West Street 25  641275, West (D22-24)",
+    "displayText": "275A Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "lmiaay",
+    "objectId": "7464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275B Jurong West Street 25  642275, West (D22-24)",
+    "displayText": "275B Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "0o5did",
+    "objectId": "7465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275C Jurong West Street 25  643275, West (D22-24)",
+    "displayText": "275C Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "wad2kz",
+    "objectId": "7466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275D Jurong West Street 25  644275, West (D22-24)",
+    "displayText": "275D Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "jg4yph",
+    "objectId": "7467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276A Jurong West Street 25  641276, West (D22-24)",
+    "displayText": "276A Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "1r96ew",
+    "objectId": "7468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276C Jurong West Street 25  643276, West (D22-24)",
+    "displayText": "276C Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "3ox5ft",
+    "objectId": "7469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276D Jurong West Street 25  644276, West (D22-24)",
+    "displayText": "276D Jurong West Street 25",
+    "displayType": "HDB",
+    "nanoId": "47izz4",
+    "objectId": "7470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "456 Jurong West Street 41  640456, West (D22-24)",
+    "displayText": "456 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "1wvfnx",
+    "objectId": "7471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "457 Jurong West Street 41  640457, West (D22-24)",
+    "displayText": "457 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "5rzaxm",
+    "objectId": "7472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "458 Jurong West Street 41  640458, West (D22-24)",
+    "displayText": "458 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "o9gkmq",
+    "objectId": "7473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "459 Jurong West Street 41  640459, West (D22-24)",
+    "displayText": "459 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "s4gg27",
+    "objectId": "7474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "460 Jurong West Street 41  640460, West (D22-24)",
+    "displayText": "460 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "h2ybdp",
+    "objectId": "7475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461 Jurong West Street 41  640461, West (D22-24)",
+    "displayText": "461 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "3vmxdh",
+    "objectId": "7476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "462 Jurong West Street 41  640462, West (D22-24)",
+    "displayText": "462 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "zaj361",
+    "objectId": "7477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463 Jurong West Street 41  640463, West (D22-24)",
+    "displayText": "463 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "fx0jez",
+    "objectId": "7478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "464 Jurong West Street 41  640464, West (D22-24)",
+    "displayText": "464 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "zpx39f",
+    "objectId": "7479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "465 Jurong West Street 41  640465, West (D22-24)",
+    "displayText": "465 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "4xz5e1",
+    "objectId": "7480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466 Jurong West Street 41  640466, West (D22-24)",
+    "displayText": "466 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "dlxr32",
+    "objectId": "7481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467 Jurong West Street 41  640467, West (D22-24)",
+    "displayText": "467 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "6spmdi",
+    "objectId": "7482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "468 Jurong West Street 41  640468, West (D22-24)",
+    "displayText": "468 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "05xhne",
+    "objectId": "7483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469 Jurong West Street 41  640469, West (D22-24)",
+    "displayText": "469 Jurong West Street 41",
+    "displayType": "HDB",
+    "nanoId": "iw3dtk",
+    "objectId": "7484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

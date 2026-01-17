@@ -1,0 +1,1583 @@
+[
+  {
+    "displayText": "Punggol Field Walk",
+    "displayType": "Street",
+    "objectId": "5087",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Punggol Field Walk  820000, Serangoon / Thomson (D19-20)",
+    "displayText": "Waterwoods",
+    "displayType": "Executive Condominium",
+    "nanoId": "lehltg",
+    "objectId": "21713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Punggol Field Walk  820000, Serangoon / Thomson (D19-20)",
+    "displayText": "FLO Residence",
+    "displayType": "Condominium",
+    "nanoId": "8pcfh6",
+    "objectId": "21232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "128 Punggol Field Walk  820128, Serangoon / Thomson (D19-20)",
+    "displayText": "128 Punggol Field Walk",
+    "displayType": "HDB",
+    "nanoId": "l0avco",
+    "objectId": "9491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128A Punggol Field Walk  821128, Serangoon / Thomson (D19-20)",
+    "displayText": "128A Punggol Field Walk",
+    "displayType": "HDB",
+    "nanoId": "bzwoyr",
+    "objectId": "9492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128B Punggol Field Walk  822128, Serangoon / Thomson (D19-20)",
+    "displayText": "128B Punggol Field Walk",
+    "displayType": "HDB",
+    "nanoId": "dh1ktf",
+    "objectId": "9493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128C Punggol Field Walk  823128, Serangoon / Thomson (D19-20)",
+    "displayText": "128C Punggol Field Walk",
+    "displayType": "HDB",
+    "nanoId": "av1fmn",
+    "objectId": "9494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128D Punggol Field Walk  824128, Serangoon / Thomson (D19-20)",
+    "displayText": "128D Punggol Field Walk",
+    "displayType": "HDB",
+    "nanoId": "dud4ro",
+    "objectId": "9495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19",
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Punggol Field Walk  820127, Serangoon / Thomson (D19-20)",
+    "displayText": "127 Punggol Field Walk",
+    "displayType": "HDB",
+    "nanoId": "rblzr9",
+    "objectId": "9490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39 Punggol Field  822810, Serangoon / Thomson (D19-20)",
+    "displayText": "Prive",
+    "displayType": "Executive Condominium",
+    "nanoId": "6r0vq7",
+    "objectId": "20580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Punggol Field",
+    "displayType": "Street",
+    "objectId": "4197",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "170A Punggol Field  821170, Serangoon / Thomson (D19-20)",
+    "displayText": "170A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "8yg3kf",
+    "objectId": "21800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "270B Punggol Field  822270, Serangoon / Thomson (D19-20)",
+    "displayText": "270B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "82kfui",
+    "objectId": "22682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267A Punggol Field  821267, Serangoon / Thomson (D19-20)",
+    "displayText": "267A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "q7iawv",
+    "objectId": "21230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267C Punggol Field  823267, Serangoon / Thomson (D19-20)",
+    "displayText": "267C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "t31ivx",
+    "objectId": "21486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268B Punggol Field  822268, Serangoon / Thomson (D19-20)",
+    "displayText": "268B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "mgb2jn",
+    "objectId": "21838",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269B Punggol Field  822269, Serangoon / Thomson (D19-20)",
+    "displayText": "269B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "iw4tfo",
+    "objectId": "22018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258B Punggol Field  822258, Serangoon / Thomson (D19-20)",
+    "displayText": "258B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "em8rlr",
+    "objectId": "22130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267B Punggol Field  822267, Serangoon / Thomson (D19-20)",
+    "displayText": "267B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "kbzzkg",
+    "objectId": "22265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269 Punggol Field  820269, Serangoon / Thomson (D19-20)",
+    "displayText": "269 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "pe6e7t",
+    "objectId": "22674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269A Punggol Field  821269, Serangoon / Thomson (D19-20)",
+    "displayText": "269A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "dkvg6a",
+    "objectId": "22675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269C Punggol Field  823269, Serangoon / Thomson (D19-20)",
+    "displayText": "269C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "pvc6a6",
+    "objectId": "22676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268 Punggol Field  820268, Serangoon / Thomson (D19-20)",
+    "displayText": "268 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "cps42u",
+    "objectId": "22677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268A Punggol Field  821268, Serangoon / Thomson (D19-20)",
+    "displayText": "268A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "1smu4x",
+    "objectId": "22678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268C Punggol Field  823268, Serangoon / Thomson (D19-20)",
+    "displayText": "268C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "hjsyf2",
+    "objectId": "22679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268D Punggol Field  824268, Serangoon / Thomson (D19-20)",
+    "displayText": "268D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "nj56it",
+    "objectId": "22680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "270A Punggol Field  821270, Serangoon / Thomson (D19-20)",
+    "displayText": "270A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "o2qiqu",
+    "objectId": "22681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "270C Punggol Field  823270, Serangoon / Thomson (D19-20)",
+    "displayText": "270C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "s4w6y7",
+    "objectId": "22683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169A Punggol Field  821169, Serangoon / Thomson (D19-20)",
+    "displayText": "169A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "qyccll",
+    "objectId": "22782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169B Punggol Field  822169, Serangoon / Thomson (D19-20)",
+    "displayText": "169B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "5d0882",
+    "objectId": "22783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169C Punggol Field  823169, Serangoon / Thomson (D19-20)",
+    "displayText": "169C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "uwk4uo",
+    "objectId": "22784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168C Punggol Field  823168, Serangoon / Thomson (D19-20)",
+    "displayText": "168C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "a84f0f",
+    "objectId": "22785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168D Punggol Field  824168, Serangoon / Thomson (D19-20)",
+    "displayText": "168D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "c7vnfi",
+    "objectId": "22786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170B Punggol Field  822170, Serangoon / Thomson (D19-20)",
+    "displayText": "170B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "r3er2s",
+    "objectId": "22787",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170C Punggol Field  823170, Serangoon / Thomson (D19-20)",
+    "displayText": "170C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "en2ciz",
+    "objectId": "22788",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "228A Punggol Field  821228, Serangoon / Thomson (D19-20)",
+    "displayText": "228A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "gftsu0",
+    "objectId": "23509",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "228B Punggol Field  822228, Serangoon / Thomson (D19-20)",
+    "displayText": "228B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "smempg",
+    "objectId": "23510",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259C Punggol Field  823259, Serangoon / Thomson (D19-20)",
+    "displayText": "259C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "0hjcn4",
+    "objectId": "23565",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258A Punggol Field  821258, Serangoon / Thomson (D19-20)",
+    "displayText": "258A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "0673yk",
+    "objectId": "23636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258C Punggol Field  823258, Serangoon / Thomson (D19-20)",
+    "displayText": "258C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "vpxl3f",
+    "objectId": "23637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259A Punggol Field  821259, Serangoon / Thomson (D19-20)",
+    "displayText": "259A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "8i7984",
+    "objectId": "23638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259B Punggol Field  822259, Serangoon / Thomson (D19-20)",
+    "displayText": "259B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "rghner",
+    "objectId": "23639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Punggol Field  820101, Serangoon / Thomson (D19-20)",
+    "displayText": "101 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "ds070y",
+    "objectId": "9425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Punggol Field  820102, Serangoon / Thomson (D19-20)",
+    "displayText": "102 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "9zkt6p",
+    "objectId": "9426",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Punggol Field  820107, Serangoon / Thomson (D19-20)",
+    "displayText": "107 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "h52cv3",
+    "objectId": "9428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Punggol Field  820108, Serangoon / Thomson (D19-20)",
+    "displayText": "108 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "g59grb",
+    "objectId": "9429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Punggol Field  820110, Serangoon / Thomson (D19-20)",
+    "displayText": "110 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "v97k0a",
+    "objectId": "9431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173 Punggol Field  820173, Serangoon / Thomson (D19-20)",
+    "displayText": "173 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "ztn3oo",
+    "objectId": "9432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "174 Punggol Field  820174, Serangoon / Thomson (D19-20)",
+    "displayText": "174 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "lafy8q",
+    "objectId": "9433",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175 Punggol Field  820175, Serangoon / Thomson (D19-20)",
+    "displayText": "175 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "dr9afk",
+    "objectId": "9434",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196 Punggol Field  820196, Serangoon / Thomson (D19-20)",
+    "displayText": "196 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "c53kff",
+    "objectId": "9435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197 Punggol Field  820197, Serangoon / Thomson (D19-20)",
+    "displayText": "197 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "bzxnay",
+    "objectId": "9436",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "198 Punggol Field  820198, Serangoon / Thomson (D19-20)",
+    "displayText": "198 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "49988t",
+    "objectId": "9437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "199 Punggol Field  820199, Serangoon / Thomson (D19-20)",
+    "displayText": "199 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "to8g9c",
+    "objectId": "9438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200 Punggol Field  820200, Serangoon / Thomson (D19-20)",
+    "displayText": "200 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "ow0obq",
+    "objectId": "9439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201 Punggol Field  820201, Serangoon / Thomson (D19-20)",
+    "displayText": "201 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "xszkyi",
+    "objectId": "9440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203 Punggol Field  820203, Serangoon / Thomson (D19-20)",
+    "displayText": "203 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "zo3qp1",
+    "objectId": "9441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "204 Punggol Field  820204, Serangoon / Thomson (D19-20)",
+    "displayText": "204 Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "kqj5og",
+    "objectId": "9442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101A Punggol Field  821101, Serangoon / Thomson (D19-20)",
+    "displayText": "101A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "fyiwhy",
+    "objectId": "9443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101B Punggol Field  822101, Serangoon / Thomson (D19-20)",
+    "displayText": "101B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "l8zd1e",
+    "objectId": "9444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101C Punggol Field  823101, Serangoon / Thomson (D19-20)",
+    "displayText": "101C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "1wllmi",
+    "objectId": "9445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101D Punggol Field  824101, Serangoon / Thomson (D19-20)",
+    "displayText": "101D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "i5qeec",
+    "objectId": "9446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102A Punggol Field  821102, Serangoon / Thomson (D19-20)",
+    "displayText": "102A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "k2e1ht",
+    "objectId": "9447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102B Punggol Field  822102, Serangoon / Thomson (D19-20)",
+    "displayText": "102B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "493bsk",
+    "objectId": "9448",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102C Punggol Field  823102, Serangoon / Thomson (D19-20)",
+    "displayText": "102C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "mkbfrm",
+    "objectId": "9449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102D Punggol Field  824102, Serangoon / Thomson (D19-20)",
+    "displayText": "102D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "lhfj3b",
+    "objectId": "9450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106A Punggol Field  821106, Serangoon / Thomson (D19-20)",
+    "displayText": "106A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "g9vgwu",
+    "objectId": "9451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106B Punggol Field  822106, Serangoon / Thomson (D19-20)",
+    "displayText": "106B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "49bpi6",
+    "objectId": "9452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106C Punggol Field  823106, Serangoon / Thomson (D19-20)",
+    "displayText": "106C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "pex1pf",
+    "objectId": "9453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106D Punggol Field  824106, Serangoon / Thomson (D19-20)",
+    "displayText": "106D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "yzepm1",
+    "objectId": "9454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110A Punggol Field  821110, Serangoon / Thomson (D19-20)",
+    "displayText": "110A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "146z3g",
+    "objectId": "9455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110B Punggol Field  822110, Serangoon / Thomson (D19-20)",
+    "displayText": "110B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "pmtmqr",
+    "objectId": "9456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110C Punggol Field  823110, Serangoon / Thomson (D19-20)",
+    "displayText": "110C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "anc14v",
+    "objectId": "9457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110D Punggol Field  824110, Serangoon / Thomson (D19-20)",
+    "displayText": "110D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "z95kfx",
+    "objectId": "9458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173A Punggol Field  821173, Serangoon / Thomson (D19-20)",
+    "displayText": "173A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "9tg5bb",
+    "objectId": "9459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173B Punggol Field  822173, Serangoon / Thomson (D19-20)",
+    "displayText": "173B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "ma9y4e",
+    "objectId": "9460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173C Punggol Field  823173, Serangoon / Thomson (D19-20)",
+    "displayText": "173C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "64lk4h",
+    "objectId": "9461",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173D Punggol Field  824173, Serangoon / Thomson (D19-20)",
+    "displayText": "173D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "rfcu5b",
+    "objectId": "9462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175A Punggol Field  821175, Serangoon / Thomson (D19-20)",
+    "displayText": "175A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "57trvx",
+    "objectId": "9463",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175B Punggol Field  822175, Serangoon / Thomson (D19-20)",
+    "displayText": "175B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "vpcxoc",
+    "objectId": "9464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175C Punggol Field  823175, Serangoon / Thomson (D19-20)",
+    "displayText": "175C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "tivkml",
+    "objectId": "9465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175D Punggol Field  824175, Serangoon / Thomson (D19-20)",
+    "displayText": "175D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "osw464",
+    "objectId": "9466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196A Punggol Field  821196, Serangoon / Thomson (D19-20)",
+    "displayText": "196A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "n34iwd",
+    "objectId": "9467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196B Punggol Field  822196, Serangoon / Thomson (D19-20)",
+    "displayText": "196B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "j6owmt",
+    "objectId": "9468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196C Punggol Field  823196, Serangoon / Thomson (D19-20)",
+    "displayText": "196C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "0szclr",
+    "objectId": "9469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "196D Punggol Field  824196, Serangoon / Thomson (D19-20)",
+    "displayText": "196D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "eq7bws",
+    "objectId": "9470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197A Punggol Field  821197, Serangoon / Thomson (D19-20)",
+    "displayText": "197A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "v5ure3",
+    "objectId": "9471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "197B Punggol Field  822197, Serangoon / Thomson (D19-20)",
+    "displayText": "197B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "9on5rz",
+    "objectId": "9472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "199A Punggol Field  821199, Serangoon / Thomson (D19-20)",
+    "displayText": "199A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "7pk26k",
+    "objectId": "9473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "199B Punggol Field  822199, Serangoon / Thomson (D19-20)",
+    "displayText": "199B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "jpx735",
+    "objectId": "9474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "199C Punggol Field  823199, Serangoon / Thomson (D19-20)",
+    "displayText": "199C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "qw28gv",
+    "objectId": "9475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "199D Punggol Field  824199, Serangoon / Thomson (D19-20)",
+    "displayText": "199D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "kmwmre",
+    "objectId": "9476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201A Punggol Field  821201, Serangoon / Thomson (D19-20)",
+    "displayText": "201A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "qmfzld",
+    "objectId": "9477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201B Punggol Field  822201, Serangoon / Thomson (D19-20)",
+    "displayText": "201B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "mzux1f",
+    "objectId": "9478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201C Punggol Field  823201, Serangoon / Thomson (D19-20)",
+    "displayText": "201C Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "5l54ma",
+    "objectId": "9479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201D Punggol Field  824201, Serangoon / Thomson (D19-20)",
+    "displayText": "201D Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "njw5a3",
+    "objectId": "9480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202A Punggol Field  821202, Serangoon / Thomson (D19-20)",
+    "displayText": "202A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "elw1vv",
+    "objectId": "9481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202B Punggol Field  822202, Serangoon / Thomson (D19-20)",
+    "displayText": "202B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "qcovwk",
+    "objectId": "9482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203A Punggol Field  821203, Serangoon / Thomson (D19-20)",
+    "displayText": "203A Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "q9ge0y",
+    "objectId": "9483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203B Punggol Field  822203, Serangoon / Thomson (D19-20)",
+    "displayText": "203B Punggol Field",
+    "displayType": "HDB",
+    "nanoId": "gl9kx7",
+    "objectId": "9484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

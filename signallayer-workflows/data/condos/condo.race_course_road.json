@@ -1,0 +1,1386 @@
+[
+  {
+    "displayText": "Race Course Road",
+    "displayType": "Street",
+    "objectId": "2750",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "138 Race Course Road  218591, City & South West (D01-08)",
+    "displayText": "Race Course 138",
+    "displayType": "Apartment",
+    "nanoId": "sa0iiz",
+    "objectId": "1069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "142 Race Course Road  218593, City & South West (D01-08)",
+    "displayText": "Ritz @ Farrer",
+    "displayType": "Apartment",
+    "nanoId": "sbl8am",
+    "objectId": "21784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "128 Race Course Road  218586, City & South West (D01-08)",
+    "displayText": "The Bliss",
+    "displayType": "Apartment",
+    "nanoId": "lswdwi",
+    "objectId": "21819",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "122 Race Course Road  218583, City & South West (D01-08)",
+    "displayText": "Race Course Mansion",
+    "displayType": "Apartment",
+    "nanoId": "daz1hq",
+    "objectId": "2318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "188 Race Course Road  210000, City & South West (D01-08)",
+    "displayText": "Soho 188",
+    "displayType": "Apartment",
+    "nanoId": "s9tujc",
+    "objectId": "253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "363 Race Course Road  218636, City & South West (D01-08)",
+    "displayText": "City Loft",
+    "displayType": "Apartment",
+    "nanoId": "ofwzb6",
+    "objectId": "2607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "172 Race Course Road  218605, City & South West (D01-08)",
+    "displayText": "Soho @ Farrer",
+    "displayType": "Apartment",
+    "nanoId": "vw8ze1",
+    "objectId": "803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "681 Race Course Road  210681, City & South West (D01-08)",
+    "displayText": "681 Race Course Road",
+    "displayType": "HDB",
+    "nanoId": "ub6o6d",
+    "objectId": "9529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "682 Race Course Road  210682, City & South West (D01-08)",
+    "displayText": "682 Race Course Road",
+    "displayType": "HDB",
+    "nanoId": "aduku9",
+    "objectId": "9530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684 Race Course Road  210684, City & South West (D01-08)",
+    "displayText": "684 Race Course Road",
+    "displayType": "HDB",
+    "nanoId": "u60wbm",
+    "objectId": "9531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685 Race Course Road  210685, City & South West (D01-08)",
+    "displayText": "685 Race Course Road",
+    "displayType": "HDB",
+    "nanoId": "ygjpbs",
+    "objectId": "9532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 Race Course Lane  218745, City & South West (D01-08)",
+    "displayText": "City Studios",
+    "displayType": "Apartment",
+    "nanoId": "5ya5t2",
+    "objectId": "2608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Race Course Lane  218746, City & South West (D01-08)",
+    "displayText": "28 RC Suites",
+    "displayType": "Apartment",
+    "nanoId": "ash4xa",
+    "objectId": "21716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Race Course Lane",
+    "displayType": "Street",
+    "objectId": "2749",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Race Course",
+    "displayType": "Street",
+    "objectId": "8764",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Race Course  Rd",
+    "displayType": "Street",
+    "objectId": "8898",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Woo Mon Chew Road  455059, East Coast (D15-16)",
+    "displayText": "Grace Court",
+    "displayType": "Condominium",
+    "nanoId": "ws39wo",
+    "objectId": "24881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "13 Mattar Road  387721, Balestier / Geylang (D12-14)",
+    "displayText": "Grace Apartments",
+    "displayType": "Apartment",
+    "nanoId": "md1xiv",
+    "objectId": "1974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113 Grace Walk  554480, Serangoon / Thomson (D19-20)",
+    "displayText": "Verdana Villas @ Serangoon Garden",
+    "displayType": "Cluster House",
+    "nanoId": "m5lwn5",
+    "objectId": "2592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Lorong Chuan  556000, Serangoon / Thomson (D19-20)",
+    "displayText": "Grace Park",
+    "displayType": "Semi-Detached House",
+    "nanoId": "5enggd",
+    "objectId": "1975",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Baiduri   420000, East Coast (D15-16)",
+    "displayText": "Grace Garden",
+    "displayType": "Terraced House",
+    "nanoId": "wthtuh",
+    "objectId": "20919",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Grace Park",
+    "displayType": "Street",
+    "objectId": "982",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Grace Walk",
+    "displayType": "Street",
+    "objectId": "983",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "100 Belgravia Drive  804238, North (D25-28)",
+    "displayText": "Belgravia Ace",
+    "displayType": "Semi-Detached House",
+    "nanoId": "blr9vs",
+    "objectId": "24655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "21 Rambai Road  424340, East Coast (D15-16)",
+    "displayText": "Cantiz @ Rambai",
+    "displayType": "Condominium",
+    "nanoId": "jxpva2",
+    "objectId": "1298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Jalan Rajawali  598436, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Royal Court Condo",
+    "displayType": "Condominium",
+    "nanoId": "t2vbge",
+    "objectId": "1315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "103 Rangoon Road  218386, City & South West (D01-08)",
+    "displayText": "Rangoon Court",
+    "displayType": "Condominium",
+    "nanoId": "ro509j",
+    "objectId": "20763",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Rambai Road  424334, East Coast (D15-16)",
+    "displayText": "Rambai Court",
+    "displayType": "Apartment",
+    "nanoId": "m39j4l",
+    "objectId": "2322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Rambai Road   424326, East Coast (D15-16)",
+    "displayText": "The Ramford",
+    "displayType": "Apartment",
+    "nanoId": "s86o1i",
+    "objectId": "23552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Jalan Rajawali  598436, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Royal Court",
+    "displayType": "Apartment",
+    "nanoId": "lnom1h",
+    "objectId": "25213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Rambai Road  424331, East Coast (D15-16)",
+    "displayText": "Sunshine Regency",
+    "displayType": "Apartment",
+    "nanoId": "v3klqh",
+    "objectId": "409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "698 Upper Changi Road East  486828, East Coast (D15-16)",
+    "displayText": "Changi Court",
+    "displayType": "Condominium",
+    "nanoId": "kgwxqa",
+    "objectId": "523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "152 Haig Road  438791, East Coast (D15-16)",
+    "displayText": "Haig Court",
+    "displayType": "Condominium",
+    "nanoId": "ug2g30",
+    "objectId": "206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "36A Dunearn Road  309426, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Court",
+    "displayType": "Condominium",
+    "nanoId": "j76xmo",
+    "objectId": "545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Shelford Road  288431, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Watten House",
+    "displayType": "Condominium",
+    "nanoId": "utldl9",
+    "objectId": "25549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Saint Francis Road  328071, Balestier / Geylang (D12-14)",
+    "displayText": "St Francis Court",
+    "displayType": "Apartment",
+    "nanoId": "9y4wdc",
+    "objectId": "633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "151 Cavenagh Road  229628, Orchard / Holland (D09-10)",
+    "displayText": "Cavenagh Court",
+    "displayType": "Apartment",
+    "nanoId": "rs0m2d",
+    "objectId": "677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Upper Thomson Road  574424, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Imperial Court",
+    "displayType": "Condominium",
+    "nanoId": "snyroc",
+    "objectId": "1393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Tomlinson Road  247854, Orchard / Holland (D09-10)",
+    "displayText": "Kum Hing Court",
+    "displayType": "Apartment",
+    "nanoId": "iatibf",
+    "objectId": "1474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "67 Stevens Road  257855, Orchard / Holland (D09-10)",
+    "displayText": "White House Residence",
+    "displayType": "Condominium",
+    "nanoId": "lkbqej",
+    "objectId": "1555",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "811 Upper East Coast Road  466608, East Coast (D15-16)",
+    "displayText": "Bagnall Court",
+    "displayType": "Condominium",
+    "nanoId": "oty64k",
+    "objectId": "1766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Gilstead Road  309094, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Gilstead Court",
+    "displayType": "Condominium",
+    "nanoId": "4wvz64",
+    "objectId": "1955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Keat Road  328827, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat House",
+    "displayType": "Apartment",
+    "nanoId": "ir4oy1",
+    "objectId": "2093",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "63 East Coast Road  428776, East Coast (D15-16)",
+    "displayText": "The Red House",
+    "displayType": "Apartment",
+    "nanoId": "rv1a09",
+    "objectId": "21634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Oxford Road  218816, City & South West (D01-08)",
+    "displayText": "Kentish Court",
+    "displayType": "Apartment",
+    "nanoId": "ayxxms",
+    "objectId": "653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Yam Road  239361, Orchard / Holland (D09-10)",
+    "displayText": "Gambier Court",
+    "displayType": "Apartment",
+    "nanoId": "8ba85c",
+    "objectId": "818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Oxley Road  238619, Orchard / Holland (D09-10)",
+    "displayText": "Orchard Court",
+    "displayType": "Apartment",
+    "nanoId": "qbds7v",
+    "objectId": "904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Kim Keat Road  328837, Balestier / Geylang (D12-14)",
+    "displayText": "Regal Court",
+    "displayType": "Apartment",
+    "nanoId": "wvjvy7",
+    "objectId": "1035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "456 River Valley Road  248342, Orchard / Holland (D09-10)",
+    "displayText": "Crystal Court",
+    "displayType": "Apartment",
+    "nanoId": "k17ywp",
+    "objectId": "1065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Yew Siang Road  117752, City & South West (D01-08)",
+    "displayText": "Fragrance Court",
+    "displayType": "Condominium",
+    "nanoId": "3raq4d",
+    "objectId": "1109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Fernhill Road  259117, Orchard / Holland (D09-10)",
+    "displayText": "Fernhill Court Condo",
+    "displayType": "Condominium",
+    "nanoId": "hk41pw",
+    "objectId": "1341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Kovan Road  548086, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Court",
+    "displayType": "Apartment",
+    "nanoId": "wi58nw",
+    "objectId": "1353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "40 Lloyd Road  239107, Orchard / Holland (D09-10)",
+    "displayText": "Lloyd Court",
+    "displayType": "Condominium",
+    "nanoId": "sxfe3x",
+    "objectId": "1405",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "54 Minbu Road  308184, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Minbu Court",
+    "displayType": "Condominium",
+    "nanoId": "8t1zob",
+    "objectId": "1530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "371 Upper Paya Lebar Road  534969, Serangoon / Thomson (D19-20)",
+    "displayText": "Yi Kai Court",
+    "displayType": "Apartment",
+    "nanoId": "qv2st2",
+    "objectId": "1608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "97 Wilkie Road  228089, Orchard / Holland (D09-10)",
+    "displayText": "Wilkie Court",
+    "displayType": "Apartment",
+    "nanoId": "jmbe6w",
+    "objectId": "1622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "105 Ceylon Road  429680, East Coast (D15-16)",
+    "displayText": "Ceylon Court",
+    "displayType": "Condominium",
+    "nanoId": "c317mk",
+    "objectId": "1725",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "207 Moulmein Road  308099, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Angel Court",
+    "displayType": "Apartment",
+    "nanoId": "y7y7ta",
+    "objectId": "1752",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Bassein Road  309836, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Bassein Court",
+    "displayType": "Condominium",
+    "nanoId": "kdlcni",
+    "objectId": "1783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Kovan Road  548036, Serangoon / Thomson (D19-20)",
+    "displayText": "Cheng Hoe House",
+    "displayType": "Apartment",
+    "nanoId": "hyvht3",
+    "objectId": "1810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "83 Dalvey Road  259495, Orchard / Holland (D09-10)",
+    "displayText": "Cree Court",
+    "displayType": "Condominium",
+    "nanoId": "pa069q",
+    "objectId": "1845",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Derbyshire Road  309461, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Derby Court",
+    "displayType": "Condominium",
+    "nanoId": "x2rcn7",
+    "objectId": "1868",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "386 Dunearn Road  289599, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Dunearn Court",
+    "displayType": "Condominium",
+    "nanoId": "21nwbu",
+    "objectId": "1883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 - 87 Upper East Coast Road  455219, East Coast (D15-16)",
+    "displayText": "Goodwill Court",
+    "displayType": "Apartment",
+    "nanoId": "g7aeav",
+    "objectId": "1971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23A Nallur Road  456644, East Coast (D15-16)",
+    "displayText": "Hua Xin Court",
+    "displayType": "Condominium",
+    "nanoId": "k8slxw",
+    "objectId": "2044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Hullet Road  229160, Orchard / Holland (D09-10)",
+    "displayText": "Hullet Court",
+    "displayType": "Apartment",
+    "nanoId": "olowmr",
+    "objectId": "2045",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "86 Tembeling Road  423596, East Coast (D15-16)",
+    "displayText": "Tembeling Court",
+    "displayType": "Condominium",
+    "nanoId": "fyuwh0",
+    "objectId": "20512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "163 - 169 Telok Kurau Road  423816, East Coast (D15-16)",
+    "displayText": "Ji Xiang Court",
+    "displayType": "Apartment",
+    "nanoId": "jezosc",
+    "objectId": "2065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "264 Joo Chiat Road  427518, East Coast (D15-16)",
+    "displayText": "Joo Chiat Court",
+    "displayType": "Apartment",
+    "nanoId": "b9mvkl",
+    "objectId": "2068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2A Wolskel Road  357958, Balestier / Geylang (D12-14)",
+    "displayText": "Seran Court",
+    "displayType": "Apartment",
+    "nanoId": "po6zht",
+    "objectId": "20681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "108A Owen Road  218195, City & South West (D01-08)",
+    "displayText": "Owen Court",
+    "displayType": "Apartment",
+    "nanoId": "gc09ti",
+    "objectId": "20687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23 Nathan Road  248744, Orchard / Holland (D09-10)",
+    "displayText": "Nathan Court",
+    "displayType": "Apartment",
+    "nanoId": "dutp7d",
+    "objectId": "20695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "150 Killiney Road  239570, Orchard / Holland (D09-10)",
+    "displayText": "Palazzo Court",
+    "displayType": "Apartment",
+    "nanoId": "xycc5k",
+    "objectId": "20723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "780 Upper Serangoon Road  534649, Serangoon / Thomson (D19-20)",
+    "displayText": "Choon Kim House",
+    "displayType": "Apartment",
+    "nanoId": "8je5mn",
+    "objectId": "20786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "155 - 155B Still Road  423992, East Coast (D15-16)",
+    "displayText": "Boon Court",
+    "displayType": "Walk-up",
+    "nanoId": "x511vq",
+    "objectId": "20835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "74 Keng Lee Road  219249, City & South West (D01-08)",
+    "displayText": "Keng Lee Court",
+    "displayType": "Condominium",
+    "nanoId": "9a1uvk",
+    "objectId": "2084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Tay Lian Teck Road  455620, East Coast (D15-16)",
+    "displayText": "Dong Xing Court",
+    "displayType": "Condominium",
+    "nanoId": "5fqwyl",
+    "objectId": "20875",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "109C Dorset Road  219497, City & South West (D01-08)",
+    "displayText": "Dorset Court",
+    "displayType": "Condominium",
+    "nanoId": "57f1qm",
+    "objectId": "20876",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "498-498B Geylang Road  389456, Balestier / Geylang (D12-14)",
+    "displayText": "Green Court",
+    "displayType": "Apartment",
+    "nanoId": "geawjv",
+    "objectId": "20921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "144 Holland Road  278576, Orchard / Holland (D09-10)",
+    "displayText": "Holland Court",
+    "displayType": "Apartment",
+    "nanoId": "oyq9k1",
+    "objectId": "20934",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "873A Upper Serangoon Road  534700, Serangoon / Thomson (D19-20)",
+    "displayText": "Lowland Court",
+    "displayType": "Apartment",
+    "nanoId": "00q3m0",
+    "objectId": "20962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11A Martia Road  424809, East Coast (D15-16)",
+    "displayText": "Martia Court",
+    "displayType": "Apartment",
+    "nanoId": "ld98z5",
+    "objectId": "20969",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Norfolk Road  219014, City & South West (D01-08)",
+    "displayText": "King's Court",
+    "displayType": "Condominium",
+    "nanoId": "qyccc5",
+    "objectId": "2097",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bukit Timah Road  269000, Orchard / Holland (D09-10)",
+    "displayText": "Namly Court",
+    "displayType": "Terraced House",
+    "nanoId": "w4ppz2",
+    "objectId": "20984",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "1 Toh Yi Road  596484, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Kismis Court",
+    "displayType": "Condominium",
+    "nanoId": "956hck",
+    "objectId": "2102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "133 Koon Seng Road  427063, East Coast (D15-16)",
+    "displayText": "Klassic Court",
+    "displayType": "Condominium",
+    "nanoId": "pd20ec",
+    "objectId": "2104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113B Koon Seng Road  427047, East Coast (D15-16)",
+    "displayText": "Koon Seng Court",
+    "displayType": "Apartment",
+    "nanoId": "migwk9",
+    "objectId": "2107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2E Woo Mon Chew Road  455056, East Coast (D15-16)",
+    "displayText": "Woo Mon Chew Court",
+    "displayType": "Apartment",
+    "nanoId": "6theda",
+    "objectId": "21103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Gallop Road  258961, Orchard / Holland (D09-10)",
+    "displayText": "Gallop Court",
+    "displayType": "Apartment",
+    "nanoId": "kbt4at",
+    "objectId": "21688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "83 Mergui Road  219059, City & South West (D01-08)",
+    "displayText": "Mergui Court",
+    "displayType": "Apartment",
+    "nanoId": "kvis0k",
+    "objectId": "2196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 Moulmein Road  308078, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Moulmein Court",
+    "displayType": "Apartment",
+    "nanoId": "53ubgb",
+    "objectId": "2214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "98A-E Upper East Coast Road  455237, East Coast (D15-16)",
+    "displayText": "Chiang's Court",
+    "displayType": "Walk-up",
+    "nanoId": "kcngxo",
+    "objectId": "22191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "338 River Valley Road  238367, Orchard / Holland (D09-10)",
+    "displayText": "Valley House",
+    "displayType": "Condominium",
+    "nanoId": "aien6q",
+    "objectId": "22764",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "110 Wishart Road  098729, City & South West (D01-08)",
+    "displayText": "Pender Court",
+    "displayType": "Condominium",
+    "nanoId": "62mzhy",
+    "objectId": "2294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "226 Tembeling Road  423714, East Coast (D15-16)",
+    "displayText": "Pengs Court",
+    "displayType": "Apartment",
+    "nanoId": "421mv6",
+    "objectId": "2295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Petain Road  208085, City & South West (D01-08)",
+    "displayText": "Petain Court",
+    "displayType": "Apartment",
+    "nanoId": "o84x77",
+    "objectId": "2298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1B Woo Mon Chew Road  455055, East Coast (D15-16)",
+    "displayText": "Poh Heng Court",
+    "displayType": "Apartment",
+    "nanoId": "uuw87i",
+    "objectId": "2308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "524 Kampong Bahru Road  099455, City & South West (D01-08)",
+    "displayText": "Permai Court",
+    "displayType": "Condominium",
+    "nanoId": "8cg5hu",
+    "objectId": "2316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "164A Yung Kuang Road  611164, West (D22-24)",
+    "displayText": "164A Yung Kuang Court",
+    "displayType": "HDB",
+    "nanoId": "cl3s6f",
+    "objectId": "23215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

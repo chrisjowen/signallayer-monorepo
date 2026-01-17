@@ -1,0 +1,1471 @@
+[
+  {
+    "displayText": "Bukit Panjang Ring Road",
+    "displayType": "Street",
+    "objectId": "7470",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "234 Bukit Panjang Ring Road  670234, West (D22-24)",
+    "displayText": "234 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "1wrka6",
+    "objectId": "4573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "235 Bukit Panjang Ring Road  670235, West (D22-24)",
+    "displayText": "235 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "d8xube",
+    "objectId": "4574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Bukit Panjang Ring Road  670236, West (D22-24)",
+    "displayText": "236 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cskdl0",
+    "objectId": "4575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Bukit Panjang Ring Road  670237, West (D22-24)",
+    "displayText": "237 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6mnrdf",
+    "objectId": "4576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238 Bukit Panjang Ring Road  670238, West (D22-24)",
+    "displayText": "238 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ont6h1",
+    "objectId": "4577",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "239 Bukit Panjang Ring Road  670239, West (D22-24)",
+    "displayText": "239 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "kaul0q",
+    "objectId": "4578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Bukit Panjang Ring Road  670240, West (D22-24)",
+    "displayText": "240 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "tmtmnr",
+    "objectId": "4579",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Bukit Panjang Ring Road  670241, West (D22-24)",
+    "displayText": "241 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "evdlvk",
+    "objectId": "4580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Bukit Panjang Ring Road  670243, West (D22-24)",
+    "displayText": "243 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "qa87af",
+    "objectId": "4582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Bukit Panjang Ring Road  670244, West (D22-24)",
+    "displayText": "244 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "35s7ne",
+    "objectId": "4583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259 Bukit Panjang Ring Road  671259, West (D22-24)",
+    "displayText": "259 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "svskas",
+    "objectId": "4586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "427 Bukit Panjang Ring Road  670427, West (D22-24)",
+    "displayText": "427 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "mvlwel",
+    "objectId": "4587",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "429 Bukit Panjang Ring Road  670429, West (D22-24)",
+    "displayText": "429 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "7tu33h",
+    "objectId": "4589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430 Bukit Panjang Ring Road  670430, West (D22-24)",
+    "displayText": "430 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "iyeum4",
+    "objectId": "4590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "431 Bukit Panjang Ring Road  670431, West (D22-24)",
+    "displayText": "431 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3yt5jl",
+    "objectId": "4591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "432 Bukit Panjang Ring Road  670432, West (D22-24)",
+    "displayText": "432 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "uoaaop",
+    "objectId": "4592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433 Bukit Panjang Ring Road  670433, West (D22-24)",
+    "displayText": "433 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6tc4wz",
+    "objectId": "4593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "434 Bukit Panjang Ring Road  670434, West (D22-24)",
+    "displayText": "434 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "e1foqt",
+    "objectId": "4594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "435 Bukit Panjang Ring Road  670435, West (D22-24)",
+    "displayText": "435 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "dvpk9e",
+    "objectId": "4595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "447 Bukit Panjang Ring Road  670447, West (D22-24)",
+    "displayText": "447 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "728alo",
+    "objectId": "4596",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "448 Bukit Panjang Ring Road  670448, West (D22-24)",
+    "displayText": "448 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cz9g8g",
+    "objectId": "4597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "449 Bukit Panjang Ring Road  670449, West (D22-24)",
+    "displayText": "449 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "7tgz7r",
+    "objectId": "4598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450 Bukit Panjang Ring Road  670450, West (D22-24)",
+    "displayText": "450 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "jd6cwn",
+    "objectId": "4599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533 Bukit Panjang Ring Road  670533, West (D22-24)",
+    "displayText": "533 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "s2eunk",
+    "objectId": "4600",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "535 Bukit Panjang Ring Road  670535, West (D22-24)",
+    "displayText": "535 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ifwnl5",
+    "objectId": "4601",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "537 Bukit Panjang Ring Road  670537, West (D22-24)",
+    "displayText": "537 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2pb89x",
+    "objectId": "4602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "539 Bukit Panjang Ring Road  670539, West (D22-24)",
+    "displayText": "539 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "v48fot",
+    "objectId": "4603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "541 Bukit Panjang Ring Road  670541, West (D22-24)",
+    "displayText": "541 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "tfcmd0",
+    "objectId": "4604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "545 Bukit Panjang Ring Road  670545, West (D22-24)",
+    "displayText": "545 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "100l09",
+    "objectId": "4605",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609 Bukit Panjang Ring Road  670609, West (D22-24)",
+    "displayText": "609 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "9bul67",
+    "objectId": "4606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "611 Bukit Panjang Ring Road  670611, West (D22-24)",
+    "displayText": "611 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "crp7sr",
+    "objectId": "4607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613 Bukit Panjang Ring Road  670613, West (D22-24)",
+    "displayText": "613 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ossmv1",
+    "objectId": "4608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "615 Bukit Panjang Ring Road  670615, West (D22-24)",
+    "displayText": "615 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "08r3dk",
+    "objectId": "4609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "617 Bukit Panjang Ring Road  670617, West (D22-24)",
+    "displayText": "617 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "5l1pfq",
+    "objectId": "4610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619 Bukit Panjang Ring Road  670619, West (D22-24)",
+    "displayText": "619 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "gj9oms",
+    "objectId": "4611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "620 Bukit Panjang Ring Road  670620, West (D22-24)",
+    "displayText": "620 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "jv25w3",
+    "objectId": "4612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "234A Bukit Panjang Ring Road  671234, West (D22-24)",
+    "displayText": "234A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "9odoce",
+    "objectId": "4613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "449A Bukit Panjang Ring Road  671449, West (D22-24)",
+    "displayText": "449A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "7ixs9t",
+    "objectId": "4614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "533A Bukit Panjang Ring Road  671533, West (D22-24)",
+    "displayText": "533A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "klmtug",
+    "objectId": "4615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "537A Bukit Panjang Ring Road  671537, West (D22-24)",
+    "displayText": "537A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "1vgfw5",
+    "objectId": "4616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "541A Bukit Panjang Ring Road  671541, West (D22-24)",
+    "displayText": "541A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "asmu8h",
+    "objectId": "4617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613A Bukit Panjang Ring Road  671613, West (D22-24)",
+    "displayText": "613A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "vkdjls",
+    "objectId": "4619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "615A Bukit Panjang Ring Road  671615, West (D22-24)",
+    "displayText": "615A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "5is1pl",
+    "objectId": "4620",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "617A Bukit Panjang Ring Road  671617, West (D22-24)",
+    "displayText": "617A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "irrcdi",
+    "objectId": "4621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Bukit Panjang Ring Road  670242, West (D22-24)",
+    "displayText": "242 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "tczv57",
+    "objectId": "4581",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Bukit Panjang Ring Road  670245, West (D22-24)",
+    "displayText": "245 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "c0t1lm",
+    "objectId": "4584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258 Bukit Panjang Ring Road  670258, West (D22-24)",
+    "displayText": "258 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3wzcpk",
+    "objectId": "4585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "428 Bukit Panjang Ring Road  670428, West (D22-24)",
+    "displayText": "428 Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "u0gzq1",
+    "objectId": "4588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "611A Bukit Panjang Ring Road  671611, West (D22-24)",
+    "displayText": "611A Bukit Panjang Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3tf2bp",
+    "objectId": "4618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bukit Panjang Ring",
+    "displayType": "Street",
+    "objectId": "348",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D23",
+    "displayText": "D23 Dairy Farm / Bukit Panjang / Choa Chu Kang",
+    "displayType": "District",
+    "objectId": "D23",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D23"
+    }
+  },
+  {
+    "displayText": "Bukit Panjang",
+    "displayType": "HDB Estate",
+    "objectId": "6",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Panjang Link",
+    "displayType": "Street",
+    "objectId": "347",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "335 Bukit Timah Road  259718, Orchard / Holland (D09-10)",
+    "displayText": "Wing on Life Garden",
+    "displayType": "Apartment",
+    "nanoId": "scewpl",
+    "objectId": "503",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Sing Ming",
+    "displayType": "Street",
+    "objectId": "9568",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "227 Pasir Panjang Road  117341, City & South West (D01-08)",
+    "displayText": "The Verandah Residences",
+    "displayType": "Condominium",
+    "nanoId": "aqo0a2",
+    "objectId": "23398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "417 Pasir Panjang Road  118758, City & South West (D01-08)",
+    "displayText": "Village @ Pasir Panjang",
+    "displayType": "Condominium",
+    "nanoId": "a6u9zw",
+    "objectId": "1411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "253A Pasir Panjang Road  117422, City & South West (D01-08)",
+    "displayText": "Parc Imperial",
+    "displayType": "Condominium",
+    "nanoId": "srfh2p",
+    "objectId": "1554",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "332A Pasir Panjang Road  117381, City & South West (D01-08)",
+    "displayText": "WhiteHaven",
+    "displayType": "Apartment",
+    "nanoId": "7oront",
+    "objectId": "21612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "294 Pasir Panjang Road  118635, City & South West (D01-08)",
+    "displayText": "Palisades",
+    "displayType": "Condominium",
+    "nanoId": "5bdiv7",
+    "objectId": "857",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "242K Pasir Panjang Road  117489, City & South West (D01-08)",
+    "displayText": "The Maylea",
+    "displayType": "Condominium",
+    "nanoId": "ncw6g4",
+    "objectId": "158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "221 Pasir Panjang Road  118574, City & South West (D01-08)",
+    "displayText": "Harbour View Gardens",
+    "displayType": "Apartment",
+    "nanoId": "qhho15",
+    "objectId": "2004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "252 Pasir Panjang Road  118617, City & South West (D01-08)",
+    "displayText": "SeaSuites",
+    "displayType": "Apartment",
+    "nanoId": "7q94sd",
+    "objectId": "21453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Pasir Panjang Road  117000, City & South West (D01-08)",
+    "displayText": "Barossa Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "tzhsi2",
+    "objectId": "1075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "360 Pasir Panjang Road  118699, City & South West (D01-08)",
+    "displayText": "Gold Coast Condo",
+    "displayType": "Condominium",
+    "nanoId": "i6dv8b",
+    "objectId": "1238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "385 Pasir Panjang Road  118719, City & South West (D01-08)",
+    "displayText": "Villa De West",
+    "displayType": "Condominium",
+    "nanoId": "4heu5e",
+    "objectId": "1419",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "218 Pasir Panjang Road  118579, City & South West (D01-08)",
+    "displayText": "Icon @ Pasir Panjang",
+    "displayType": "Apartment",
+    "nanoId": "r3d5a0",
+    "objectId": "21685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "251 Pasir Panjang Road  118610, City & South West (D01-08)",
+    "displayText": "The Orient",
+    "displayType": "Condominium",
+    "nanoId": "kj1e5y",
+    "objectId": "22037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "241 Pasir Panjang Road  118596, City & South West (D01-08)",
+    "displayText": "24 One Residences",
+    "displayType": "Condominium",
+    "nanoId": "2zhz7f",
+    "objectId": "23160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "132 Pasir Panjang Road  118549, City & South West (D01-08)",
+    "displayText": "The Cassandra",
+    "displayType": "Apartment",
+    "nanoId": "ay5c7u",
+    "objectId": "469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "202 Pasir Panjang Road  118572, City & South West (D01-08)",
+    "displayText": "Landridge Condo",
+    "displayType": "Condominium",
+    "nanoId": "x4shhy",
+    "objectId": "617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Pasir Panjang Road  118571, City & South West (D01-08)",
+    "displayText": "Pasir View Park",
+    "displayType": "Condominium",
+    "nanoId": "6i12pe",
+    "objectId": "891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Pasir Panjang Road",
+    "displayType": "Street",
+    "objectId": "3784",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "481 Pasir Panjang Road  117621, City & South West (D01-08)",
+    "displayText": "Palm Green",
+    "displayType": "Apartment",
+    "nanoId": "g36zhu",
+    "objectId": "1073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "198 Pasir Panjang Road  117526, City & South West (D01-08)",
+    "displayText": "Mendon Spring",
+    "displayType": "Condominium",
+    "nanoId": "106w2o",
+    "objectId": "1078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "315 Pasir Panjang Road  118652, City & South West (D01-08)",
+    "displayText": "Parc Regency",
+    "displayType": "Condominium",
+    "nanoId": "wzenzt",
+    "objectId": "1184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "353 Pasir Panjang Road  118695, City & South West (D01-08)",
+    "displayText": "Jubilee Residence",
+    "displayType": "Apartment",
+    "nanoId": "fq36tc",
+    "objectId": "1337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "346A Pasir Panjang Road  117665, City & South West (D01-08)",
+    "displayText": "Westpark Regency",
+    "displayType": "Condominium",
+    "nanoId": "mud5pa",
+    "objectId": "1413",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "370 Pasir Panjang Road  118707, City & South West (D01-08)",
+    "displayText": "The Foliage",
+    "displayType": "Condominium",
+    "nanoId": "qaqo9e",
+    "objectId": "145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Pasir Panjang Road  117000, City & South West (D01-08)",
+    "displayText": "Juluca",
+    "displayType": "Terraced House",
+    "nanoId": "hadt9s",
+    "objectId": "1505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "336 Pasir Panjang Road  118668, City & South West (D01-08)",
+    "displayText": "Luxe Ville",
+    "displayType": "Condominium",
+    "nanoId": "n9t5nb",
+    "objectId": "1583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "292 Pasir Panjang Road  118633, City & South West (D01-08)",
+    "displayText": "Gloria Mansion",
+    "displayType": "Condominium",
+    "nanoId": "1zdnhs",
+    "objectId": "1593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "293A Pasir Panjang Road  117522, City & South West (D01-08)",
+    "displayText": "WHITEVILLAS ROW",
+    "displayType": "Terraced House",
+    "nanoId": "cvd8sq",
+    "objectId": "1625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "346A Pasir Panjang Road  117665, City & South West (D01-08)",
+    "displayText": "WESTPARK APARTMENTS",
+    "displayType": "Apartment",
+    "nanoId": "rg15uw",
+    "objectId": "1630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "250 Pasir Panjang Road  117452, City & South West (D01-08)",
+    "displayText": "West-N",
+    "displayType": "Condominium",
+    "nanoId": "ugjnhn",
+    "objectId": "1631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "330 Pasir Panjang Road  118655, City & South West (D01-08)",
+    "displayText": "Royal Palm Mansions",
+    "displayType": "Condominium",
+    "nanoId": "cz0p0e",
+    "objectId": "1739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "372 Pasir Panjang Road  118709, City & South West (D01-08)",
+    "displayText": "Edenvale",
+    "displayType": "Condominium",
+    "nanoId": "fx1k9l",
+    "objectId": "1904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "348R Pasir Panjang Road  117679, City & South West (D01-08)",
+    "displayText": "Gryphon Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "w9ncw4",
+    "objectId": "1986",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "381 Pasir Panjang Road  118713, City & South West (D01-08)",
+    "displayText": "381 Pasir Panjang Road",
+    "displayType": "Apartment",
+    "nanoId": "talu7w",
+    "objectId": "20525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "319 Pasir Panjang Road  118653, City & South West (D01-08)",
+    "displayText": "Starpoint",
+    "displayType": "Condominium",
+    "nanoId": "6x3lh8",
+    "objectId": "20768",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Pasir Panjang Road  118000, City & South West (D01-08)",
+    "displayText": "Longbeach Townhouse",
+    "displayType": "Town House",
+    "nanoId": "100rhu",
+    "objectId": "20961",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TOWN",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Pasir Panjang Road  118000, City & South West (D01-08)",
+    "displayText": "Palm View Row",
+    "displayType": "Terraced House",
+    "nanoId": "p29a9n",
+    "objectId": "20999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "390 Pasir Panjang Road  118722, City & South West (D01-08)",
+    "displayText": "Pasir Panjang Lodge",
+    "displayType": "Walk-up",
+    "nanoId": "oqnjra",
+    "objectId": "21004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Pasir Panjang Road  118000, City & South West (D01-08)",
+    "displayText": "West Sea Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "yr9441",
+    "objectId": "21097",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "248 Pasir Panjang Road  118608, City & South West (D01-08)",
+    "displayText": "West Shore Residences",
+    "displayType": "Cluster House",
+    "nanoId": "21jslh",
+    "objectId": "21435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "214 Pasir Panjang Road  118596, City & South West (D01-08)",
+    "displayText": "Pebble Breeze",
+    "displayType": "Cluster House",
+    "nanoId": "7r2cxa",
+    "objectId": "22063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "339 Pasir Panjang Road  117368, City & South West (D01-08)",
+    "displayText": "Liiv Residences",
+    "displayType": "Apartment",
+    "nanoId": "38170a",
+    "objectId": "23493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "250N Pasir Panjang Road  117346, City & South West (D01-08)",
+    "displayText": "Sunstone Hill",
+    "displayType": "Apartment",
+    "nanoId": "d14caj",
+    "objectId": "23563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "349A Pasir Panjang Road  117484, City & South West (D01-08)",
+    "displayText": "Murano",
+    "displayType": "Condominium",
+    "nanoId": "dw3csd",
+    "objectId": "247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

@@ -1,0 +1,1525 @@
+[
+  {
+    "displayText": "Bedok South Road",
+    "displayType": "Street",
+    "objectId": "204",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "151 Bedok South Road  460151, East Coast (D15-16)",
+    "displayText": "151 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "cl2bz2",
+    "objectId": "24730",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Bedok South Road  460152, East Coast (D15-16)",
+    "displayText": "152 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "i2gud1",
+    "objectId": "24731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152A Bedok South Road  461152, East Coast (D15-16)",
+    "displayText": "152A Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "ybbcd4",
+    "objectId": "24732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152C Bedok South Road  463152, East Coast (D15-16)",
+    "displayText": "152C Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "n6xnv1",
+    "objectId": "24733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153A Bedok South Road  461153, East Coast (D15-16)",
+    "displayText": "153A Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "13ftw3",
+    "objectId": "24735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153B Bedok South Road  462153, East Coast (D15-16)",
+    "displayText": "153B Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "q7jd7l",
+    "objectId": "24736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154A Bedok South Road  461154, East Coast (D15-16)",
+    "displayText": "154A Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "w4qrau",
+    "objectId": "24738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154B Bedok South Road  462154, East Coast (D15-16)",
+    "displayText": "154B Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "gkiwwn",
+    "objectId": "24739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Bedok South Road  460013, East Coast (D15-16)",
+    "displayText": "13 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "sf4pb2",
+    "objectId": "3721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Bedok South Road  460015, East Coast (D15-16)",
+    "displayText": "15 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "beu4yu",
+    "objectId": "3722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Bedok South Road  460016, East Coast (D15-16)",
+    "displayText": "16 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "gg5n94",
+    "objectId": "3723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Bedok South Road  460017, East Coast (D15-16)",
+    "displayText": "17 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "9u0m2l",
+    "objectId": "3724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Bedok South Road  460018, East Coast (D15-16)",
+    "displayText": "18 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "sghnta",
+    "objectId": "3725",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Bedok South Road  460019, East Coast (D15-16)",
+    "displayText": "19 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "xz3ncc",
+    "objectId": "3726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Bedok South Road  460020, East Coast (D15-16)",
+    "displayText": "20 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "eax41h",
+    "objectId": "3727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Bedok South Road  460021, East Coast (D15-16)",
+    "displayText": "21 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "9rz03x",
+    "objectId": "3728",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38 Bedok South Road  460038, East Coast (D15-16)",
+    "displayText": "38 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "cv79l6",
+    "objectId": "3729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39 Bedok South Road  460039, East Coast (D15-16)",
+    "displayText": "39 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "h9l0i4",
+    "objectId": "3730",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40 Bedok South Road  460040, East Coast (D15-16)",
+    "displayText": "40 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "8hu8qp",
+    "objectId": "3731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "41 Bedok South Road  460041, East Coast (D15-16)",
+    "displayText": "41 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "bhzfcw",
+    "objectId": "3732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "42 Bedok South Road  460042, East Coast (D15-16)",
+    "displayText": "42 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "rnd7za",
+    "objectId": "3733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Bedok South Road  460043, East Coast (D15-16)",
+    "displayText": "43 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "vinu1i",
+    "objectId": "3734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Bedok South Road  460044, East Coast (D15-16)",
+    "displayText": "44 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "uuzll1",
+    "objectId": "3735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70 Bedok South Road  460070, East Coast (D15-16)",
+    "displayText": "70 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "p4x4jp",
+    "objectId": "3737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "71 Bedok South Road  460071, East Coast (D15-16)",
+    "displayText": "71 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "uynxyk",
+    "objectId": "3738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162 Bedok South Road  460162, East Coast (D15-16)",
+    "displayText": "162 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "y2uok1",
+    "objectId": "3739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Bedok South Road  460163, East Coast (D15-16)",
+    "displayText": "163 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "zvq7nf",
+    "objectId": "3740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164 Bedok South Road  460164, East Coast (D15-16)",
+    "displayText": "164 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "jds2a2",
+    "objectId": "3741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Bedok South Road  460165, East Coast (D15-16)",
+    "displayText": "165 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "xcqsjz",
+    "objectId": "3742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170 Bedok South Road  460170, East Coast (D15-16)",
+    "displayText": "170 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "386cuq",
+    "objectId": "3743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171 Bedok South Road  460171, East Coast (D15-16)",
+    "displayText": "171 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "0ylnto",
+    "objectId": "3744",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172 Bedok South Road  460172, East Coast (D15-16)",
+    "displayText": "172 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "iad78y",
+    "objectId": "3745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153 Bedok South Road  460153, East Coast (D15-16)",
+    "displayText": "153 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "ibudg2",
+    "objectId": "24734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153C Bedok South Road  463153, East Coast (D15-16)",
+    "displayText": "153C Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "9ykyyi",
+    "objectId": "24737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Bedok South Road  460045, East Coast (D15-16)",
+    "displayText": "45 Bedok South Road",
+    "displayType": "HDB",
+    "nanoId": "ikfmmg",
+    "objectId": "3736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bedok North Road",
+    "displayType": "Street",
+    "objectId": "183",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 3  465461, East Coast (D15-16)",
+    "displayText": "Grandeur Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "1m24f7",
+    "objectId": "22879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bedok South Avenue 3  000000, East Coast (D15-16)",
+    "displayText": "eCO",
+    "displayType": "Condominium",
+    "nanoId": "g3tfu0",
+    "objectId": "21324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "211 Bedok South Ave 1  469336, East Coast (D15-16)",
+    "displayText": "Casafina",
+    "displayType": "Condominium",
+    "nanoId": "6wp6j2",
+    "objectId": "500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bedok South",
+    "displayType": "Street",
+    "objectId": "3809",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 1  460001, East Coast (D15-16)",
+    "displayText": "1 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "y35z8x",
+    "objectId": "3674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Bedok South Avenue 1  460002, East Coast (D15-16)",
+    "displayText": "2 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6bcvyn",
+    "objectId": "3675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Bedok South Avenue 1  460003, East Coast (D15-16)",
+    "displayText": "3 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "cbpk8v",
+    "objectId": "3676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Bedok South Avenue 1  460004, East Coast (D15-16)",
+    "displayText": "4 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "gtihzs",
+    "objectId": "3677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Bedok South Avenue 1  460022, East Coast (D15-16)",
+    "displayText": "22 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "pgg2gv",
+    "objectId": "3678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Bedok South Avenue 1  460023, East Coast (D15-16)",
+    "displayText": "23 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6mzcec",
+    "objectId": "3679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Bedok South Avenue 2  460005, East Coast (D15-16)",
+    "displayText": "5 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "hjvmsa",
+    "objectId": "3680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Bedok South Avenue 2  460006, East Coast (D15-16)",
+    "displayText": "6 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "tgog2g",
+    "objectId": "3681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Bedok South Avenue 2  460007, East Coast (D15-16)",
+    "displayText": "7 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "c3b6tr",
+    "objectId": "3682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Bedok South Avenue 2  460008, East Coast (D15-16)",
+    "displayText": "8 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "6lqdce",
+    "objectId": "3683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Bedok South Avenue 2  460009, East Coast (D15-16)",
+    "displayText": "9 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "7ci1ge",
+    "objectId": "3684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Bedok South Avenue 2  460012, East Coast (D15-16)",
+    "displayText": "12 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "z6ue4j",
+    "objectId": "3685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Bedok South Avenue 2  460014, East Coast (D15-16)",
+    "displayText": "14 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "oxi0fv",
+    "objectId": "3686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Bedok South Avenue 2  460031, East Coast (D15-16)",
+    "displayText": "31 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ql3bqo",
+    "objectId": "3687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Bedok South Avenue 2  460032, East Coast (D15-16)",
+    "displayText": "32 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "jq821h",
+    "objectId": "3688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Bedok South Avenue 2  460033, East Coast (D15-16)",
+    "displayText": "33 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "3vdvbw",
+    "objectId": "3689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Bedok South Avenue 2  460034, East Coast (D15-16)",
+    "displayText": "34 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "g2bxie",
+    "objectId": "3690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Bedok South Avenue 2  460035, East Coast (D15-16)",
+    "displayText": "35 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "94zp00",
+    "objectId": "3691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Bedok South Avenue 2  460036, East Coast (D15-16)",
+    "displayText": "36 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "sc18ev",
+    "objectId": "3692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37 Bedok South Avenue 2  460037, East Coast (D15-16)",
+    "displayText": "37 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "qm6750",
+    "objectId": "3693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10B Bedok South Avenue 2  461010, East Coast (D15-16)",
+    "displayText": "10B Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "grjhit",
+    "objectId": "3694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10C Bedok South Avenue 2  462010, East Coast (D15-16)",
+    "displayText": "10C Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "bwzete",
+    "objectId": "3695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10D Bedok South Avenue 2  463010, East Coast (D15-16)",
+    "displayText": "10D Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l1aach",
+    "objectId": "3696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10E Bedok South Avenue 2  464010, East Coast (D15-16)",
+    "displayText": "10E Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0noiv9",
+    "objectId": "3697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10F Bedok South Avenue 2  465010, East Coast (D15-16)",
+    "displayText": "10F Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "opvs6c",
+    "objectId": "3698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Bedok South Avenue 3  460047, East Coast (D15-16)",
+    "displayText": "47 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "khugjw",
+    "objectId": "3700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Bedok South Avenue 3  460066, East Coast (D15-16)",
+    "displayText": "66 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "q3q0v0",
+    "objectId": "3704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Bedok South Avenue 3  460067, East Coast (D15-16)",
+    "displayText": "67 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "xefhpd",
+    "objectId": "3705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "68 Bedok South Avenue 3  460068, East Coast (D15-16)",
+    "displayText": "68 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "c8lrkp",
+    "objectId": "3706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "69 Bedok South Avenue 3  460069, East Coast (D15-16)",
+    "displayText": "69 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "gxg0is",
+    "objectId": "3707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Bedok South Avenue 3  460072, East Coast (D15-16)",
+    "displayText": "72 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "qj68h6",
+    "objectId": "3708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Bedok South Avenue 3  460156, East Coast (D15-16)",
+    "displayText": "156 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sfx9s2",
+    "objectId": "3711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Bedok South Avenue 3  460157, East Coast (D15-16)",
+    "displayText": "157 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "w0wty6",
+    "objectId": "3712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Bedok South Avenue 3  460158, East Coast (D15-16)",
+    "displayText": "158 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "9n709k",
+    "objectId": "3713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Bedok South Avenue 3  460159, East Coast (D15-16)",
+    "displayText": "159 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "zi45i0",
+    "objectId": "3714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Bedok South Avenue 3  460160, East Coast (D15-16)",
+    "displayText": "160 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "i5mk5x",
+    "objectId": "3715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Bedok South Avenue 3  460161, East Coast (D15-16)",
+    "displayText": "161 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ulkled",
+    "objectId": "3716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Bedok South Avenue 3  460166, East Coast (D15-16)",
+    "displayText": "166 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "5ht6t5",
+    "objectId": "3717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167 Bedok South Avenue 3  460167, East Coast (D15-16)",
+    "displayText": "167 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "tzjpgc",
+    "objectId": "3718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168 Bedok South Avenue 3  460168, East Coast (D15-16)",
+    "displayText": "168 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "bh00mi",
+    "objectId": "3719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169 Bedok South Avenue 3  460169, East Coast (D15-16)",
+    "displayText": "169 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "t8bb9w",
+    "objectId": "3720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bedok South Avenue 1",
+    "displayType": "Street",
+    "objectId": "201",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bedok South Avenue 2",
+    "displayType": "Street",
+    "objectId": "202",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bedok South Avenue 3",
+    "displayType": "Street",
+    "objectId": "6310",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "46 Bedok South Avenue 3  460046, East Coast (D15-16)",
+    "displayText": "46 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "q8qh8l",
+    "objectId": "3699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Bedok South Avenue 3  460048, East Coast (D15-16)",
+    "displayText": "48 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "my153d",
+    "objectId": "3701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Bedok South Avenue 3  460049, East Coast (D15-16)",
+    "displayText": "49 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "nbt4ha",
+    "objectId": "3702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Bedok South Avenue 3  460050, East Coast (D15-16)",
+    "displayText": "50 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "wxauph",
+    "objectId": "3703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73 Bedok South Avenue 3  460073, East Coast (D15-16)",
+    "displayText": "73 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "09u2lr",
+    "objectId": "3709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Bedok South Avenue 3  460155, East Coast (D15-16)",
+    "displayText": "155 Bedok South Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "zwgxm1",
+    "objectId": "3710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "295 Bedok South Avenue 3  469296, East Coast (D15-16)",
+    "displayText": "Bedok Court",
+    "displayType": "Condominium",
+    "nanoId": "t21lbo",
+    "objectId": "377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "758 Bedok Reservoir Road  479260, East Coast (D15-16)",
+    "displayText": "Waterfront Isle",
+    "displayType": "Condominium",
+    "nanoId": "iupwyz",
+    "objectId": "20703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bedok Reservoir Road  470700, East Coast (D15-16)",
+    "displayText": "Archipelago",
+    "displayType": "Condominium",
+    "nanoId": "guvu6t",
+    "objectId": "21115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2",
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "770 Bedok Reservoir Road  479250, East Coast (D15-16)",
+    "displayText": "Waterfront Key",
+    "displayType": "Condominium",
+    "nanoId": "syw55r",
+    "objectId": "1597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "760 Bedok Reservoir Road  479245, East Coast (D15-16)",
+    "displayText": "Waterfront Waves",
+    "displayType": "Condominium",
+    "nanoId": "7jme0o",
+    "objectId": "1261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "733 Bedok Reservoir Road  470733, East Coast (D15-16)",
+    "displayText": "Waterfront Gold",
+    "displayType": "Condominium",
+    "nanoId": "5f89z0",
+    "objectId": "2663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "808 Bedok Reservoir Road  479240, East Coast (D15-16)",
+    "displayText": "Baywater",
+    "displayType": "Condominium",
+    "nanoId": "72xeko",
+    "objectId": "127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Bedok Road  469360, East Coast (D15-16)",
+    "displayText": "Country Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "8tyh6f",
+    "objectId": "592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bedok  Reservoir Road",
+    "displayType": "Street",
+    "objectId": "12670",
+    "objectType": "STREET",
+    "properties": {}
+  }
+]

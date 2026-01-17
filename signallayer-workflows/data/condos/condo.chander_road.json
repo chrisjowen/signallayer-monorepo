@@ -1,0 +1,1345 @@
+[
+  {
+    "displayText": "Chander Road",
+    "displayType": "Street",
+    "objectId": "6432",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "668 Chander Road  210668, City & South West (D01-08)",
+    "displayText": "668 Chander Road",
+    "displayType": "HDB",
+    "nanoId": "ih6msr",
+    "objectId": "4779",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "672 Chander Road  219557, City & South West (D01-08)",
+    "displayText": "672 Chander Road",
+    "displayType": "HDB",
+    "nanoId": "490wap",
+    "objectId": "4780",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Chancery Road",
+    "displayType": "Street",
+    "objectId": "445",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "36A Dunearn Road  309426, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Court",
+    "displayType": "Condominium",
+    "nanoId": "j76xmo",
+    "objectId": "545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Chancery Hill Road  309655, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Garden",
+    "displayType": "Condominium",
+    "nanoId": "1b2fs4",
+    "objectId": "1727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "22 Chancery Hill Road  309660, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Lodge",
+    "displayType": "Condominium",
+    "nanoId": "z1ki1z",
+    "objectId": "1728",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Chancery Hill Road  307000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Hill Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "lq83em",
+    "objectId": "22152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "6U Chancery Hill Road  307512, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Compass At Chancery",
+    "displayType": "Apartment",
+    "nanoId": "vyi8ay",
+    "objectId": "2492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Chancery Hill Road  309657, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Villa Chancerita",
+    "displayType": "Condominium",
+    "nanoId": "e96geo",
+    "objectId": "788",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Chancery Hill Road",
+    "displayType": "Street",
+    "objectId": "446",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "319 Jalan Kampong Chantek  587868, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Binjai Crest",
+    "displayType": "Terraced House",
+    "nanoId": "v5upbs",
+    "objectId": "569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "25 Chancery Lane  309513, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Grove",
+    "displayType": "Cluster House",
+    "nanoId": "duj98w",
+    "objectId": "1724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Chancery Lane  309494, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Esquire",
+    "displayType": "Condominium",
+    "nanoId": "lj0gw4",
+    "objectId": "881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Chancery Lane  309568, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Villa Chancery",
+    "displayType": "Condominium",
+    "nanoId": "s89b9f",
+    "objectId": "948",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8A Chancery Lane  309495, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Corner",
+    "displayType": "Condominium",
+    "nanoId": "zqtqzm",
+    "objectId": "1726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Chancery Lane  309499, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Park",
+    "displayType": "Condominium",
+    "nanoId": "ph9jmu",
+    "objectId": "1729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5J Chancery Lane  307437, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Five Chancery",
+    "displayType": "Cluster House",
+    "nanoId": "2p7jy0",
+    "objectId": "20901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Chancery Lane  309000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Chancery Residence",
+    "displayType": "Cluster House",
+    "nanoId": "6b6n6h",
+    "objectId": "389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jalan Kampong Chantek",
+    "displayType": "Street",
+    "objectId": "10363",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jln Kampong Chantek",
+    "displayType": "Street",
+    "objectId": "10664",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Padang Chancery",
+    "displayType": "Street",
+    "objectId": "2522",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chancery Lane",
+    "displayType": "Street",
+    "objectId": "444",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chancery Hill Walk",
+    "displayType": "Street",
+    "objectId": "447",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chancery Hill",
+    "displayType": "Street",
+    "objectId": "4490",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chancery  Lane",
+    "displayType": "Street",
+    "objectId": "6974",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Five Chancery",
+    "displayType": "Street",
+    "objectId": "7213",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chancery Grove",
+    "displayType": "Street",
+    "objectId": "4981",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "276 Yio Chu Kang Road  544604, Serangoon / Thomson (D19-20)",
+    "displayText": "Hundred Palms Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "di3fnu",
+    "objectId": "23145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Meyappa Chettiar Road  358453, Balestier / Geylang (D12-14)",
+    "displayText": "The Poiz Residences",
+    "displayType": "Condominium",
+    "nanoId": "mtmehz",
+    "objectId": "22276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "511 Yio Chu Kang Road  787066, North (D25-28)",
+    "displayText": "The Calrose",
+    "displayType": "Condominium",
+    "nanoId": "fmwy5v",
+    "objectId": "116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Keng Chin Road  258709, Orchard / Holland (D09-10)",
+    "displayText": "Cyan",
+    "displayType": "Condominium",
+    "nanoId": "hs6or5",
+    "objectId": "1590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "532 Joo Chiat Road  427711, East Coast (D15-16)",
+    "displayText": "Parc Seabreeze",
+    "displayType": "Condominium",
+    "nanoId": "m4bj7i",
+    "objectId": "1299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "959 Upper Changi Road North  506787, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Komo",
+    "displayType": "Condominium",
+    "nanoId": "y8b7j9",
+    "objectId": "23712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "",
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Yio Chu Kang Road  544773, Serangoon / Thomson (D19-20)",
+    "displayText": "Terrasse",
+    "displayType": "Condominium",
+    "nanoId": "cx4kxe",
+    "objectId": "20654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 - 72 Elias Road  510623, Changi / Pasir Ris (D17-18)",
+    "displayText": "Oasis @ Elias",
+    "displayType": "Condominium",
+    "nanoId": "9y69yu",
+    "objectId": "2253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Elias Road  519929, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ris Grandeur",
+    "displayType": "Condominium",
+    "nanoId": "5uy0sn",
+    "objectId": "97",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Flora Road  506999, Changi / Pasir Ris (D17-18)",
+    "displayText": "Edelweiss Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "1k54qu",
+    "objectId": "140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "64 Flora Road  506911, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Gale",
+    "displayType": "Condominium",
+    "nanoId": "6b4q7c",
+    "objectId": "1526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "481 Yio Chu Kang Road  787056, North (D25-28)",
+    "displayText": "Castle Green",
+    "displayType": "Condominium",
+    "nanoId": "9thohf",
+    "objectId": "200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Elias Road  519945, Changi / Pasir Ris (D17-18)",
+    "displayText": "Stratum",
+    "displayType": "Condominium",
+    "nanoId": "npiwrq",
+    "objectId": "21593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Tao Ching Road  618721, West (D22-24)",
+    "displayText": "Lake Life",
+    "displayType": "Executive Condominium",
+    "nanoId": "xeav3l",
+    "objectId": "21992",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "698 Upper Changi Road East  486828, East Coast (D15-16)",
+    "displayText": "Changi Court",
+    "displayType": "Condominium",
+    "nanoId": "kgwxqa",
+    "objectId": "523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "491 Yio Chu Kang Road  787078, North (D25-28)",
+    "displayText": "Seasons Park",
+    "displayType": "Condominium",
+    "nanoId": "l0gqrg",
+    "objectId": "264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "781 Upper Changi Road East  486069, East Coast (D15-16)",
+    "displayText": "Sunhaven",
+    "displayType": "Condominium",
+    "nanoId": "lvj82e",
+    "objectId": "441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "712 Upper Changi Road East  486842, East Coast (D15-16)",
+    "displayText": "Changi Green",
+    "displayType": "Condominium",
+    "nanoId": "55o7v6",
+    "objectId": "655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "530 Joo Chiat Road  427710, East Coast (D15-16)",
+    "displayText": "Coralis",
+    "displayType": "Condominium",
+    "nanoId": "d7583t",
+    "objectId": "2603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 - 27 Flora Road  509738, Changi / Pasir Ris (D17-18)",
+    "displayText": "Estella Gardens",
+    "displayType": "Condominium",
+    "nanoId": "aaa0jh",
+    "objectId": "416",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Meyappa Chettiar Road  358456, Balestier / Geylang (D12-14)",
+    "displayText": "Myra",
+    "displayType": "Condominium",
+    "nanoId": "98zi8b",
+    "objectId": "24502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Bangkit Road  679973, West (D22-24)",
+    "displayText": "Chestervale",
+    "displayType": "Condominium",
+    "nanoId": "nhtuvw",
+    "objectId": "390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Road  509725, Changi / Pasir Ris (D17-18)",
+    "displayText": "Azalea Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cxsdu3",
+    "objectId": "539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Flora Road  509732, Changi / Pasir Ris (D17-18)",
+    "displayText": "Avila Gardens",
+    "displayType": "Condominium",
+    "nanoId": "gpwz7t",
+    "objectId": "9",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Arnasalam Chetty Road  239949, Orchard / Holland (D09-10)",
+    "displayText": "The Inspira",
+    "displayType": "Condominium",
+    "nanoId": "ptdrpz",
+    "objectId": "159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Yio Chu Kang Road  780000, North (D25-28)",
+    "displayText": "Thomson Grove",
+    "displayType": "Condominium",
+    "nanoId": "qezgay",
+    "objectId": "813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Yio Chu Kang Road  545523, Serangoon / Thomson (D19-20)",
+    "displayText": "Space @ Kovan",
+    "displayType": "Apartment",
+    "nanoId": "hxsj5q",
+    "objectId": "20577",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73/74/76/78 Yuan Ching Road  619601, West (D22-24)",
+    "displayText": "Sora",
+    "displayType": "Condominium",
+    "nanoId": "prmy2j",
+    "objectId": "25655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "173 Chin Swee Road  169878, City & South West (D01-08)",
+    "displayText": "The Landmark",
+    "displayType": "Condominium",
+    "nanoId": "53tn0t",
+    "objectId": "498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Changi Road East  486000, East Coast (D15-16)",
+    "displayText": "Summer Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "d3dxi0",
+    "objectId": "729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "430 Upper Changi Road  487048, East Coast (D15-16)",
+    "displayText": "East Village",
+    "displayType": "Condominium",
+    "nanoId": "ysqmwn",
+    "objectId": "21180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Yuan Ching Road  618647, West (D22-24)",
+    "displayText": "The LakeGarden Residences",
+    "displayType": "Condominium",
+    "nanoId": "mkust0",
+    "objectId": "25516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 32 Yio Chu Kang Road  545550, Serangoon / Thomson (D19-20)",
+    "displayText": "Residences Botanique",
+    "displayType": "Condominium",
+    "nanoId": "0x43hm",
+    "objectId": "2591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "300 Tanjong Katong Road  437083, East Coast (D15-16)",
+    "displayText": "Chelsea Lodge",
+    "displayType": "Condominium",
+    "nanoId": "l5nws0",
+    "objectId": "632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "730 Upper Changi Road East  486858, East Coast (D15-16)",
+    "displayText": "Cascadale",
+    "displayType": "Condominium",
+    "nanoId": "1d1hxp",
+    "objectId": "719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9G Yuan Ching Road  618649, West (D22-24)",
+    "displayText": "Lakeside Tower",
+    "displayType": "Apartment",
+    "nanoId": "iwjyf8",
+    "objectId": "742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Walshe Road  257650, Orchard / Holland (D09-10)",
+    "displayText": "Chelsea Gardens",
+    "displayType": "Condominium",
+    "nanoId": "3ybah7",
+    "objectId": "784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Chatsworth Road  249745, Orchard / Holland (D09-10)",
+    "displayText": "One Chatsworth",
+    "displayType": "Apartment",
+    "nanoId": "4ygqds",
+    "objectId": "851",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Chun Tin Road  599717, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Meadow Lodge",
+    "displayType": "Condominium",
+    "nanoId": "vfi1ax",
+    "objectId": "1026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Meyappa Chettiar Road  358464, Balestier / Geylang (D12-14)",
+    "displayText": "Casa Meya",
+    "displayType": "Apartment",
+    "nanoId": "gl26gv",
+    "objectId": "1284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Chwee Chian Road  119744, City & South West (D01-08)",
+    "displayText": "Banyan Condo",
+    "displayType": "Condominium",
+    "nanoId": "88mky1",
+    "objectId": "1358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Tan Kim Cheng Road  266621, Orchard / Holland (D09-10)",
+    "displayText": "Lutheran Towers",
+    "displayType": "Apartment",
+    "nanoId": "xl6vkr",
+    "objectId": "1480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Keng Chin Road  258711, Orchard / Holland (D09-10)",
+    "displayText": "Bellerive",
+    "displayType": "Condominium",
+    "nanoId": "uo1i41",
+    "objectId": "1496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "507 Joo Chiat Road  427693, East Coast (D15-16)",
+    "displayText": "The Eastside",
+    "displayType": "Condominium",
+    "nanoId": "exji6b",
+    "objectId": "1569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Shelford Road  288415, Newton / Bt. Timah (D11, 21)",
+    "displayText": "D' Chateau @ Shelford",
+    "displayType": "Condominium",
+    "nanoId": "0p73xu",
+    "objectId": "1855",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "293 Onan Road  424681, East Coast (D15-16)",
+    "displayText": "Joo Chiat Apartments",
+    "displayType": "Apartment",
+    "nanoId": "ysyt36",
+    "objectId": "2067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138A Yuan Ching Road  611138, West (D22-24)",
+    "displayText": "138A Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "u9k2so",
+    "objectId": "20891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226 Changi Road  419740, Balestier / Geylang (D12-14)",
+    "displayText": "Suites@Changi",
+    "displayType": "Apartment",
+    "nanoId": "azub9f",
+    "objectId": "21058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11A Kang Choo Bin Road  548271, Serangoon / Thomson (D19-20)",
+    "displayText": "Summer Scent",
+    "displayType": "Condominium",
+    "nanoId": "uk6tpr",
+    "objectId": "21059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 Changi Road  419709, Balestier / Geylang (D12-14)",
+    "displayText": "Millage",
+    "displayType": "Condominium",
+    "nanoId": "syw4pt",
+    "objectId": "21177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Tan Kim Cheng Road  266631, Orchard / Holland (D09-10)",
+    "displayText": "The Siena",
+    "displayType": "Apartment",
+    "nanoId": "lvjbz6",
+    "objectId": "21828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138B Yuan Ching Road  612138, West (D22-24)",
+    "displayText": "138B Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "x8ebc0",
+    "objectId": "22612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138D Yuan Ching Road  614138, West (D22-24)",
+    "displayText": "138D Yuan Ching Road",
+    "displayType": "HDB",
+    "nanoId": "rw0fey",
+    "objectId": "22615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "807C Chai Chee Road  463807, East Coast (D15-16)",
+    "displayText": "807C Chai Chee Road",
+    "displayType": "HDB",
+    "nanoId": "xlteym",
+    "objectId": "22846",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Meyappa Chettiar Road   358461, Balestier / Geylang (D12-14)",
+    "displayText": "The Addition",
+    "displayType": "Condominium",
+    "nanoId": "rimmiz",
+    "objectId": "23527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "208 Yio Chu Kang Road  545653, Serangoon / Thomson (D19-20)",
+    "displayText": "Parkwood Residences",
+    "displayType": "Condominium",
+    "nanoId": "vqhgl0",
+    "objectId": "23536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Lorong 101 Changi Road  426657, East Coast (D15-16)",
+    "displayText": "Olloi",
+    "displayType": "Condominium",
+    "nanoId": "r9ecdt",
+    "objectId": "23711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Chong Kuo Road  779830, North (D25-28)",
+    "displayText": "The Essence",
+    "displayType": "Condominium",
+    "nanoId": "ufhjyj",
+    "objectId": "23775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "326 Changi Road  419801, Balestier / Geylang (D12-14)",
+    "displayText": "Tedge",
+    "displayType": "Condominium",
+    "nanoId": "v9o2h6",
+    "objectId": "23889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "396 Changi Road  415899, Balestier / Geylang (D12-14)",
+    "displayText": "The Lenox",
+    "displayType": "Apartment",
+    "nanoId": "xdzj3d",
+    "objectId": "2611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Yio Chu Kang Road  545678, Serangoon / Thomson (D19-20)",
+    "displayText": "Wembly Residences",
+    "displayType": "Apartment",
+    "nanoId": "rlzbh8",
+    "objectId": "2613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "581A Upper Changi Road  486993, East Coast (D15-16)",
+    "displayText": "Apollo Gardens",
+    "displayType": "Apartment",
+    "nanoId": "mwbwiq",
+    "objectId": "44",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Margoliouth Road  258539, Orchard / Holland (D09-10)",
+    "displayText": "The Chatelet",
+    "displayType": "Condominium",
+    "nanoId": "ifh36k",
+    "objectId": "628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "450 Upper Changi Road  487040, East Coast (D15-16)",
+    "displayText": "Palmwoods",
+    "displayType": "Condominium",
+    "nanoId": "ypdjm2",
+    "objectId": "634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Ewe Boon Road  259345, Orchard / Holland (D09-10)",
+    "displayText": "Chateau Le Fame",
+    "displayType": "Apartment",
+    "nanoId": "ohnlw0",
+    "objectId": "945",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Choa Chu Kang Road  689388, West (D22-24)",
+    "displayText": "Nicon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "f5dy2q",
+    "objectId": "949",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Joo Chiat Road",
+    "displayType": "Street",
+    "objectId": "10416",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chai Chee Road",
+    "displayType": "Street",
+    "objectId": "442",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tah Ching Road",
+    "displayType": "Street",
+    "objectId": "5119",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "155 Simei Road  520155, Changi / Pasir Ris (D17-18)",
+    "displayText": "155 Simei Road",
+    "displayType": "HDB",
+    "nanoId": "m4ep79",
+    "objectId": "10284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Simei Road  520156, Changi / Pasir Ris (D17-18)",
+    "displayText": "156 Simei Road",
+    "displayType": "HDB",
+    "nanoId": "fi6gjj",
+    "objectId": "10285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Simei Road  520157, Changi / Pasir Ris (D17-18)",
+    "displayText": "157 Simei Road",
+    "displayType": "HDB",
+    "nanoId": "uwyjpo",
+    "objectId": "10286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

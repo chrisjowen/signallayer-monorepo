@@ -1,0 +1,1524 @@
+[
+  {
+    "displayText": "Teck Whye Avenue",
+    "displayType": "Street",
+    "objectId": "3328",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Teck Whye Avenue  680001, West (D22-24)",
+    "displayText": "1 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "jzlard",
+    "objectId": "11325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Teck Whye Avenue  680002, West (D22-24)",
+    "displayText": "2 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "7i66ha",
+    "objectId": "11326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Teck Whye Avenue  680003, West (D22-24)",
+    "displayText": "3 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "xpsk23",
+    "objectId": "11327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Teck Whye Avenue  680004, West (D22-24)",
+    "displayText": "4 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "bvdte4",
+    "objectId": "11328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Teck Whye Avenue  680005, West (D22-24)",
+    "displayText": "5 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "iq7q3q",
+    "objectId": "11329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Teck Whye Avenue  680006, West (D22-24)",
+    "displayText": "6 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "y2wqy9",
+    "objectId": "11330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Teck Whye Avenue  680007, West (D22-24)",
+    "displayText": "7 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "ge6sw1",
+    "objectId": "11331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Teck Whye Avenue  680008, West (D22-24)",
+    "displayText": "8 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "uhstna",
+    "objectId": "11332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Teck Whye Avenue  680010, West (D22-24)",
+    "displayText": "10 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "kpzla3",
+    "objectId": "11333",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Teck Whye Avenue  680145, West (D22-24)",
+    "displayText": "145 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "afvlzi",
+    "objectId": "11334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Teck Whye Avenue  680146, West (D22-24)",
+    "displayText": "146 Teck Whye Avenue",
+    "displayType": "HDB",
+    "nanoId": "vsnzk1",
+    "objectId": "11335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Teck Whye Lane",
+    "displayType": "Street",
+    "objectId": "3330",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "9 Teck Whye Lane  680009, West (D22-24)",
+    "displayText": "9 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "lmmtah",
+    "objectId": "11336",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Teck Whye Lane  680011, West (D22-24)",
+    "displayText": "11 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "0gdfk7",
+    "objectId": "11337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Teck Whye Lane  680012, West (D22-24)",
+    "displayText": "12 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "azi95w",
+    "objectId": "11338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Teck Whye Lane  680013, West (D22-24)",
+    "displayText": "13 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "v2s0km",
+    "objectId": "11339",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Teck Whye Lane  680014, West (D22-24)",
+    "displayText": "14 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "hp90v2",
+    "objectId": "11340",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Teck Whye Lane  680016, West (D22-24)",
+    "displayText": "16 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "2sr0t1",
+    "objectId": "11342",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Teck Whye Lane  680017, West (D22-24)",
+    "displayText": "17 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "nx1el4",
+    "objectId": "11343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Teck Whye Lane  680018, West (D22-24)",
+    "displayText": "18 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "ogawt0",
+    "objectId": "11344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Teck Whye Lane  680019, West (D22-24)",
+    "displayText": "19 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "iflrc3",
+    "objectId": "11345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Teck Whye Lane  680020, West (D22-24)",
+    "displayText": "20 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "b7u2so",
+    "objectId": "11346",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Teck Whye Lane  680025, West (D22-24)",
+    "displayText": "25 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "kzfvcr",
+    "objectId": "11347",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Teck Whye Lane  680026, West (D22-24)",
+    "displayText": "26 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "8wi071",
+    "objectId": "11348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Teck Whye Lane  680101, West (D22-24)",
+    "displayText": "101 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "f5kbra",
+    "objectId": "11349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Teck Whye Lane  680102, West (D22-24)",
+    "displayText": "102 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "y3nrw3",
+    "objectId": "11350",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Teck Whye Lane  680103, West (D22-24)",
+    "displayText": "103 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "l03grz",
+    "objectId": "11351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Teck Whye Lane  680104, West (D22-24)",
+    "displayText": "104 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "y8u7ss",
+    "objectId": "11352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Teck Whye Lane  680105, West (D22-24)",
+    "displayText": "105 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "97dgqd",
+    "objectId": "11353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Teck Whye Lane  680106, West (D22-24)",
+    "displayText": "106 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "zaf4ij",
+    "objectId": "11354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Teck Whye Lane  680107, West (D22-24)",
+    "displayText": "107 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "16twk0",
+    "objectId": "11355",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Teck Whye Lane  680108, West (D22-24)",
+    "displayText": "108 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "rmap9z",
+    "objectId": "11356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Teck Whye Lane  680109, West (D22-24)",
+    "displayText": "109 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "5bluix",
+    "objectId": "11357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Teck Whye Lane  680110, West (D22-24)",
+    "displayText": "110 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "92vj9c",
+    "objectId": "11358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Teck Whye Lane  680111, West (D22-24)",
+    "displayText": "111 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "xo82nx",
+    "objectId": "11359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Teck Whye Lane  680112, West (D22-24)",
+    "displayText": "112 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "sbq8dr",
+    "objectId": "11360",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Teck Whye Lane  680113, West (D22-24)",
+    "displayText": "113 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "hbtc7j",
+    "objectId": "11361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Teck Whye Lane  680114, West (D22-24)",
+    "displayText": "114 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "a6h0pn",
+    "objectId": "11362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Teck Whye Lane  680115, West (D22-24)",
+    "displayText": "115 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "cpl0ru",
+    "objectId": "11363",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Teck Whye Lane  680116, West (D22-24)",
+    "displayText": "116 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "5q185w",
+    "objectId": "11364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Teck Whye Lane  680117, West (D22-24)",
+    "displayText": "117 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "py7cw8",
+    "objectId": "11365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Teck Whye Lane  680118, West (D22-24)",
+    "displayText": "118 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "w1ey1n",
+    "objectId": "11366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Teck Whye Lane  680119, West (D22-24)",
+    "displayText": "119 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "x8srk0",
+    "objectId": "11367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Teck Whye Lane  680120, West (D22-24)",
+    "displayText": "120 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "8dl8px",
+    "objectId": "11368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Teck Whye Lane  680121, West (D22-24)",
+    "displayText": "121 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "w2mwkk",
+    "objectId": "11369",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Teck Whye Lane  680122, West (D22-24)",
+    "displayText": "122 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "6nq6c1",
+    "objectId": "11370",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Teck Whye Lane  680123, West (D22-24)",
+    "displayText": "123 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "d5wy5n",
+    "objectId": "11371",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Teck Whye Lane  680124, West (D22-24)",
+    "displayText": "124 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "6ws6sb",
+    "objectId": "11372",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Teck Whye Lane  680133, West (D22-24)",
+    "displayText": "133 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "67b2sl",
+    "objectId": "11373",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Teck Whye Lane  680134, West (D22-24)",
+    "displayText": "134 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "9qb1m2",
+    "objectId": "11374",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Teck Whye Lane  680136, West (D22-24)",
+    "displayText": "136 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "mftock",
+    "objectId": "11376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Teck Whye Lane  680137, West (D22-24)",
+    "displayText": "137 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "4ef0z3",
+    "objectId": "11377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "140 Teck Whye Lane  680140, West (D22-24)",
+    "displayText": "140 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "6j2bpb",
+    "objectId": "11378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Teck Whye Lane  680141, West (D22-24)",
+    "displayText": "141 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "ifdy2t",
+    "objectId": "11379",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Teck Whye Lane  680142, West (D22-24)",
+    "displayText": "142 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "x93mzo",
+    "objectId": "11380",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Teck Whye Lane  680143, West (D22-24)",
+    "displayText": "143 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "ecrpcj",
+    "objectId": "11381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Teck Whye Lane  680144, West (D22-24)",
+    "displayText": "144 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "s5cqcc",
+    "objectId": "11382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "135A Teck Whye Lane  681135, West (D22-24)",
+    "displayText": "135A Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "0pnton",
+    "objectId": "11383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165A Teck Whye Crescent  681165, West (D22-24)",
+    "displayText": "165A Teck Whye Crescent",
+    "displayType": "HDB",
+    "nanoId": "cezmvh",
+    "objectId": "23392",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166A Teck Whye Crescent  681166, West (D22-24)",
+    "displayText": "166A Teck Whye Crescent",
+    "displayType": "HDB",
+    "nanoId": "x0jvxi",
+    "objectId": "23393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166B Teck Whye Crescent  682166, West (D22-24)",
+    "displayText": "166B Teck Whye Crescent",
+    "displayType": "HDB",
+    "nanoId": "xg4wa9",
+    "objectId": "23394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Teck Whye Crescent  680166, West (D22-24)",
+    "displayText": "166 Teck Whye Crescent",
+    "displayType": "HDB",
+    "nanoId": "t4bm4f",
+    "objectId": "23507",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161C Jalan Teck Whye   683161, West (D22-24)",
+    "displayText": "161C Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "psrpge",
+    "objectId": "25693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161A Jalan Teck Whye  681161, West (D22-24)",
+    "displayText": "161A Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "shuobo",
+    "objectId": "25694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161B Jalan Teck Whye  682161, West (D22-24)",
+    "displayText": "161B Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "gonsge",
+    "objectId": "25695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Jalan Teck Whye  680161, West (D22-24)",
+    "displayText": "161 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "edycpe",
+    "objectId": "25696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "150 Jalan Teck Whye  680150, West (D22-24)",
+    "displayText": "150 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "ofqxkx",
+    "objectId": "7069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "151 Jalan Teck Whye  680151, West (D22-24)",
+    "displayText": "151 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "ldc0so",
+    "objectId": "7070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Jalan Teck Whye  680152, West (D22-24)",
+    "displayText": "152 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "xko93i",
+    "objectId": "7071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154 Jalan Teck Whye  680154, West (D22-24)",
+    "displayText": "154 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "ymuv6o",
+    "objectId": "7072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Jalan Teck Whye  680155, West (D22-24)",
+    "displayText": "155 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "uov1w9",
+    "objectId": "7073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Jalan Teck Whye  680156, West (D22-24)",
+    "displayText": "156 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "e1zg3h",
+    "objectId": "7074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Jalan Teck Whye  680157, West (D22-24)",
+    "displayText": "157 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "cetq77",
+    "objectId": "7075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Jalan Teck Whye  680158, West (D22-24)",
+    "displayText": "158 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "fqws0p",
+    "objectId": "7076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Jalan Teck Whye  680159, West (D22-24)",
+    "displayText": "159 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "39i2zy",
+    "objectId": "7077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Jalan Teck Whye  680160, West (D22-24)",
+    "displayText": "160 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "wodcur",
+    "objectId": "7078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162 Jalan Teck Whye  680162, West (D22-24)",
+    "displayText": "162 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "zi1rgz",
+    "objectId": "7079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Jalan Teck Whye  680163, West (D22-24)",
+    "displayText": "163 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "5owp60",
+    "objectId": "7080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164 Jalan Teck Whye  680164, West (D22-24)",
+    "displayText": "164 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "dxtdb7",
+    "objectId": "7081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154A Jalan Teck Whye  681154, West (D22-24)",
+    "displayText": "154A Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "n2kh8b",
+    "objectId": "7082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158A Jalan Teck Whye  681158, West (D22-24)",
+    "displayText": "158A Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "uwe9jt",
+    "objectId": "7083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160A Jalan Teck Whye  681160, West (D22-24)",
+    "displayText": "160A Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "0lsoqr",
+    "objectId": "7084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Teck Whye",
+    "displayType": "Street",
+    "objectId": "1639",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Teck Whye Crescent",
+    "displayType": "Street",
+    "objectId": "3329",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "15 Teck Whye Lane  680015, West (D22-24)",
+    "displayText": "15 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "71x45m",
+    "objectId": "11341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "135 Teck Whye Lane  680135, West (D22-24)",
+    "displayText": "135 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "p0deoz",
+    "objectId": "11375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Teck Whye Lane  680139, West (D22-24)",
+    "displayText": "139 Teck Whye Lane",
+    "displayType": "HDB",
+    "nanoId": "ha6ifh",
+    "objectId": "21438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Teck Whye Crescent  680165, West (D22-24)",
+    "displayText": "165 Teck Whye Crescent",
+    "displayType": "HDB",
+    "nanoId": "kmzzbq",
+    "objectId": "23506",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153 Jln Teck Whye  680153, West (D22-24)",
+    "displayText": "153 Jalan Teck Whye",
+    "displayType": "HDB",
+    "nanoId": "hfzqe6",
+    "objectId": "26104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Toh Tuck Road  596000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Teck Hiang Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "dk1bu4",
+    "objectId": "21409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Teck Wye Lane",
+    "displayType": "Street",
+    "objectId": "5102",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Sixth Avenue  000009, Orchard / Holland (D09-10)",
+    "displayText": "Ming Teck Park",
+    "displayType": "Semi-Detached House",
+    "nanoId": "l93nab",
+    "objectId": "2206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Kian Teck Avenue",
+    "displayType": "Street",
+    "objectId": "1825",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "31 Pheng Geck Avenue  348226, Balestier / Geylang (D12-14)",
+    "displayText": "Sennett Residence",
+    "displayType": "Condominium",
+    "nanoId": "mh37wn",
+    "objectId": "21367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Pheng Geck Avenue  348196, Balestier / Geylang (D12-14)",
+    "displayText": "Sant Ritz",
+    "displayType": "Condominium",
+    "nanoId": "1q7b93",
+    "objectId": "21464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "83 Pheng Geck Avenue  348270, Balestier / Geylang (D12-14)",
+    "displayText": "Nin Residence",
+    "displayType": "Condominium",
+    "nanoId": "wyua1y",
+    "objectId": "20586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Pheng Geck Avenue",
+    "displayType": "Street",
+    "objectId": "2674",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Toh Tuck Avenue",
+    "displayType": "Street",
+    "objectId": "3404",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "455B Ang Mo Kio Street 44  562455, Serangoon / Thomson (D19-20)",
+    "displayText": "455B Teck Ghee Parkview",
+    "displayType": "HDB",
+    "nanoId": "6tkooh",
+    "objectId": "24532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

@@ -1,0 +1,1564 @@
+[
+  {
+    "displayText": "Ghim Moh Road",
+    "displayType": "Street",
+    "objectId": "959",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Ghim Moh Road  270007, Orchard / Holland (D09-10)",
+    "displayText": "7 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "elp2nr",
+    "objectId": "6220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Ghim Moh Road  270015, Orchard / Holland (D09-10)",
+    "displayText": "15 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "6b17vu",
+    "objectId": "6228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Ghim Moh Road  270001, Orchard / Holland (D09-10)",
+    "displayText": "1 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "ht19q8",
+    "objectId": "6214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Ghim Moh Road  270002, Orchard / Holland (D09-10)",
+    "displayText": "2 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "hyau0u",
+    "objectId": "6215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Ghim Moh Road  270003, Orchard / Holland (D09-10)",
+    "displayText": "3 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "cg34ih",
+    "objectId": "6216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Ghim Moh Road  270004, Orchard / Holland (D09-10)",
+    "displayText": "4 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "wrbcwa",
+    "objectId": "6217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Ghim Moh Road  270005, Orchard / Holland (D09-10)",
+    "displayText": "5 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "rkoban",
+    "objectId": "6218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Ghim Moh Road  270006, Orchard / Holland (D09-10)",
+    "displayText": "6 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "4ndvv9",
+    "objectId": "6219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Ghim Moh Road  270008, Orchard / Holland (D09-10)",
+    "displayText": "8 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "g7boav",
+    "objectId": "6221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Ghim Moh Road  270013, Orchard / Holland (D09-10)",
+    "displayText": "13 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "3zxdkv",
+    "objectId": "6226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Ghim Moh Road  270014, Orchard / Holland (D09-10)",
+    "displayText": "14 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "ukoiyy",
+    "objectId": "6227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Ghim Moh Road  270016, Orchard / Holland (D09-10)",
+    "displayText": "16 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "e3wpfa",
+    "objectId": "6229",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Ghim Moh Road  270017, Orchard / Holland (D09-10)",
+    "displayText": "17 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "4ep6bp",
+    "objectId": "6230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Ghim Moh Road  270018, Orchard / Holland (D09-10)",
+    "displayText": "18 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "wwxf67",
+    "objectId": "6231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Ghim Moh Road  270019, Orchard / Holland (D09-10)",
+    "displayText": "19 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "ucaval",
+    "objectId": "6232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Ghim Moh Road  270021, Orchard / Holland (D09-10)",
+    "displayText": "21 Ghim Moh Road",
+    "displayType": "HDB",
+    "nanoId": "j4i4nf",
+    "objectId": "6234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Ghim  Moh Link",
+    "displayType": "Street",
+    "objectId": "27368",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "32 Ghim Moh Link  271032, Orchard / Holland (D09-10)",
+    "displayText": "32 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "z7f05f",
+    "objectId": "23249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Ghim Moh Link  270033, Orchard / Holland (D09-10)",
+    "displayText": "33 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "kbzd8z",
+    "objectId": "23250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Ghim Moh",
+    "displayType": "Street",
+    "objectId": "3894",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "23 Ghim Moh Link  271023, Orchard / Holland (D09-10)",
+    "displayText": "23 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "91fvhf",
+    "objectId": "22030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Ghim Moh Link  270026, Orchard / Holland (D09-10)",
+    "displayText": "26 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "rdtocr",
+    "objectId": "22033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 Ghim Moh Link  270027, Orchard / Holland (D09-10)",
+    "displayText": "27 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "l7g3q6",
+    "objectId": "22034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Ghim Moh Link  270029, Orchard / Holland (D09-10)",
+    "displayText": "29 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "61tmwv",
+    "objectId": "23244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Ghim Moh Link  270028, Orchard / Holland (D09-10)",
+    "displayText": "28 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "liwulw",
+    "objectId": "21905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20",
+        "20",
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Ghim Moh Link  271022, Orchard / Holland (D09-10)",
+    "displayText": "22 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "sech2y",
+    "objectId": "22028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23A Ghim Moh Link  272023, Orchard / Holland (D09-10)",
+    "displayText": "23A Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "nt2jhr",
+    "objectId": "22031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Ghim Moh Link  270025, Orchard / Holland (D09-10)",
+    "displayText": "25 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "44a5zu",
+    "objectId": "22032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Ghim Moh Link  270024, Orchard / Holland (D09-10)",
+    "displayText": "24 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "ys8edy",
+    "objectId": "22920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29A Ghim Moh Link  271029, Orchard / Holland (D09-10)",
+    "displayText": "29A Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "xwbnz5",
+    "objectId": "23245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 Ghim Moh Link  272030, Orchard / Holland (D09-10)",
+    "displayText": "30 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "af7uud",
+    "objectId": "23246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Ghim Moh Link  271031, Orchard / Holland (D09-10)",
+    "displayText": "31 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "lyebu2",
+    "objectId": "23247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31B Ghim Moh Link  273031, Orchard / Holland (D09-10)",
+    "displayText": "31B Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "rc0lsl",
+    "objectId": "23248",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33A Ghim Moh Link  271033, Orchard / Holland (D09-10)",
+    "displayText": "33A Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "rgrvpi",
+    "objectId": "23251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33B Ghim Moh Link  272033, Orchard / Holland (D09-10)",
+    "displayText": "33B Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "2el4lu",
+    "objectId": "23252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1B Woo Mon Chew Road  455055, East Coast (D15-16)",
+    "displayText": "Poh Heng Court",
+    "displayType": "Apartment",
+    "nanoId": "uuw87i",
+    "objectId": "2308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "78 Moh Guan Terrace  162078, City & South West (D01-08)",
+    "displayText": "78 Moh Guan Terrace",
+    "displayType": "Apartment",
+    "nanoId": "bjmv5m",
+    "objectId": "21133",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "36 Moh Guan Terrace  161036, City & South West (D01-08)",
+    "displayText": "36 Moh Guan Terrace",
+    "displayType": "HDB",
+    "nanoId": "bjnqp5",
+    "objectId": "8670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Moh Guan Terrace  160043, City & South West (D01-08)",
+    "displayText": "43 Moh Guan Terrace",
+    "displayType": "HDB",
+    "nanoId": "ngpmab",
+    "objectId": "8671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Moh Guan Terrace  161044, City & South West (D01-08)",
+    "displayText": "44 Moh Guan Terrace",
+    "displayType": "HDB",
+    "nanoId": "47jheb",
+    "objectId": "8672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Moh Guan Terrace  160047, City & South West (D01-08)",
+    "displayText": "47 Moh Guan Terrace",
+    "displayType": "HDB",
+    "nanoId": "hueypi",
+    "objectId": "8673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Moh Guan Terrace  161048, City & South West (D01-08)",
+    "displayText": "48 Moh Guan Terrace",
+    "displayType": "HDB",
+    "nanoId": "5atkhh",
+    "objectId": "8674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Moh Guan Terrace  161050, City & South West (D01-08)",
+    "displayText": "50 Moh Guan Terrace",
+    "displayType": "HDB",
+    "nanoId": "cjin02",
+    "objectId": "8675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Moh Guan Terrace",
+    "displayType": "Street",
+    "objectId": "10269",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "455B Ang Mo Kio Street 44  562455, Serangoon / Thomson (D19-20)",
+    "displayText": "455B Teck Ghee Parkview",
+    "displayType": "HDB",
+    "nanoId": "6tkooh",
+    "objectId": "24532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "455A Ang Mo Kio Street 44  561455, Serangoon / Thomson (D19-20)",
+    "displayText": "455A Teck Ghee Parkview",
+    "displayType": "HDB",
+    "nanoId": "tbzugz",
+    "objectId": "2946",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1",
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "455C Ang Mo Kio Street 44  563455, Serangoon / Thomson (D19-20)",
+    "displayText": "455C Teck Ghee Parkview",
+    "displayType": "HDB",
+    "nanoId": "zunojw",
+    "objectId": "24535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32A Toh Tuck Road  596110, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Forett at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "43hgva",
+    "objectId": "23957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "46 Toh Tuck Road  596721, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Signature Park",
+    "displayType": "Condominium",
+    "nanoId": "jae1ne",
+    "objectId": "210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11D Toh Tuck Road  596126, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Daintree Residence",
+    "displayType": "Condominium",
+    "nanoId": "gcc2m1",
+    "objectId": "23469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Toh Tuck Road  596677, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Terrene at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "0cw7dm",
+    "objectId": "20643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Toh Tuck Road  596155, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Creek @ Bukit",
+    "displayType": "Condominium",
+    "nanoId": "9rfgul",
+    "objectId": "21785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "161 Poh Huat Road West  546692, Serangoon / Thomson (D19-20)",
+    "displayText": "The Waterline",
+    "displayType": "Condominium",
+    "nanoId": "137xj6",
+    "objectId": "20602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Toh Tuck Road  596290, Newton / Bt. Timah (D11, 21)",
+    "displayText": "High Oak Condo",
+    "displayType": "Condominium",
+    "nanoId": "3gzxo8",
+    "objectId": "396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Toh Tuck Road  596723, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Highgate",
+    "displayType": "Condominium",
+    "nanoId": "i468fd",
+    "objectId": "546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "45 Toh Tuck Road  596720, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Beverly",
+    "displayType": "Apartment",
+    "nanoId": "cyn0aq",
+    "objectId": "1495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29A Toh Tuck Road  596195, Newton / Bt. Timah (D11, 21)",
+    "displayText": "NottingHill Suites",
+    "displayType": "Apartment",
+    "nanoId": "pxpgg2",
+    "objectId": "20677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "47 Jervois Road  247656, Orchard / Holland (D09-10)",
+    "displayText": "Mon Jervois",
+    "displayType": "Condominium",
+    "nanoId": "r9vrts",
+    "objectId": "21582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Kay Poh Road  248973, Orchard / Holland (D09-10)",
+    "displayText": "The Aston",
+    "displayType": "Condominium",
+    "nanoId": "tn0rwa",
+    "objectId": "702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131 Poh Huat Road West  546684, Serangoon / Thomson (D19-20)",
+    "displayText": "Nouvelle Park",
+    "displayType": "Condominium",
+    "nanoId": "uf3ue1",
+    "objectId": "905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Poh Huat Road West  540000, Serangoon / Thomson (D19-20)",
+    "displayText": "Fontaine Parry",
+    "displayType": "Condominium",
+    "nanoId": "9i1cq2",
+    "objectId": "971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "58 Seng Poh Road  160058, City & South West (D01-08)",
+    "displayText": "Tiong Bahru Estate",
+    "displayType": "Apartment",
+    "nanoId": "jvqgqa",
+    "objectId": "2532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        "5"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Toh Guan Road",
+    "displayType": "Street",
+    "objectId": "3401",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "20 Kay Poh Road  248969, Orchard / Holland (D09-10)",
+    "displayText": "Kasturina Lodge",
+    "displayType": "Apartment",
+    "nanoId": "5xk6st",
+    "objectId": "1053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "64 Tiong Poh Road  160064, City & South West (D01-08)",
+    "displayText": "64 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "6d6o3x",
+    "objectId": "11497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Tiong Poh Road  160065, City & South West (D01-08)",
+    "displayText": "65 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "ixkawc",
+    "objectId": "11498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74 Tiong Poh Road  160074, City & South West (D01-08)",
+    "displayText": "74 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "nbosws",
+    "objectId": "11499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75 Tiong Poh Road  160075, City & South West (D01-08)",
+    "displayText": "75 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "yejnej",
+    "objectId": "11500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Tiong Poh Road  160081, City & South West (D01-08)",
+    "displayText": "81 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "8nk8cy",
+    "objectId": "11501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Tiong Poh Road  160082, City & South West (D01-08)",
+    "displayText": "82 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "8yk8p8",
+    "objectId": "11502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265 Toh Guan Road  600265, West (D22-24)",
+    "displayText": "265 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "2lceua",
+    "objectId": "11538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266 Toh Guan Road  600266, West (D22-24)",
+    "displayText": "266 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "41419e",
+    "objectId": "11539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267 Toh Guan Road  600267, West (D22-24)",
+    "displayText": "267 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "73cc8q",
+    "objectId": "11540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268 Toh Guan Road  600268, West (D22-24)",
+    "displayText": "268 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "7a16x7",
+    "objectId": "11541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269 Toh Guan Road  600269, West (D22-24)",
+    "displayText": "269 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "t3ipq1",
+    "objectId": "11542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "270 Toh Guan Road  600270, West (D22-24)",
+    "displayText": "270 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "tes469",
+    "objectId": "11543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271 Toh Guan Road  600271, West (D22-24)",
+    "displayText": "271 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "94i0ac",
+    "objectId": "11544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272 Toh Guan Road  600272, West (D22-24)",
+    "displayText": "272 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "rgwlvy",
+    "objectId": "11545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "273 Toh Guan Road  600273, West (D22-24)",
+    "displayText": "273 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "junpp6",
+    "objectId": "11546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274 Toh Guan Road  600274, West (D22-24)",
+    "displayText": "274 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "1dilkm",
+    "objectId": "11547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275 Toh Guan Road  600275, West (D22-24)",
+    "displayText": "275 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "kyk73f",
+    "objectId": "11548",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276 Toh Guan Road  600276, West (D22-24)",
+    "displayText": "276 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "jrlzh5",
+    "objectId": "11549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "277 Toh Guan Road  600277, West (D22-24)",
+    "displayText": "277 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "dt2e8e",
+    "objectId": "11550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278 Toh Guan Road  600278, West (D22-24)",
+    "displayText": "278 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "8ydi53",
+    "objectId": "11551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279 Toh Guan Road  600279, West (D22-24)",
+    "displayText": "279 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "oveupt",
+    "objectId": "11552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280 Toh Guan Road  600280, West (D22-24)",
+    "displayText": "280 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "fvbp1v",
+    "objectId": "11553",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "281 Toh Guan Road  600281, West (D22-24)",
+    "displayText": "281 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "36p1lh",
+    "objectId": "11554",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282 Toh Guan Road  600282, West (D22-24)",
+    "displayText": "282 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "4urxvj",
+    "objectId": "11555",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "283 Toh Guan Road  600283, West (D22-24)",
+    "displayText": "283 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "t4tlzo",
+    "objectId": "11556",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "284 Toh Guan Road  600284, West (D22-24)",
+    "displayText": "284 Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "mw33v3",
+    "objectId": "11557",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267A Toh Guan Road  601267, West (D22-24)",
+    "displayText": "267A Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "2jvdw3",
+    "objectId": "11558",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274A Toh Guan Road  601274, West (D22-24)",
+    "displayText": "274A Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "2qoy5k",
+    "objectId": "11560",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282A Toh Guan Road  601282, West (D22-24)",
+    "displayText": "282A Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "hvs5c4",
+    "objectId": "11561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285A Toh Guan Road  601285, West (D22-24)",
+    "displayText": "285A Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "7n56mx",
+    "objectId": "11562",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285B Toh Guan Road  602285, West (D22-24)",
+    "displayText": "285B Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "sjysyd",
+    "objectId": "11563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285C Toh Guan Road  603285, West (D22-24)",
+    "displayText": "285C Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "t6f84j",
+    "objectId": "11564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285D Toh Guan Road  604285, West (D22-24)",
+    "displayText": "285D Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "zuuvzt",
+    "objectId": "11565",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285E Toh Guan Road  605285, West (D22-24)",
+    "displayText": "285E Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "sh2mq3",
+    "objectId": "11566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "286A Toh Guan Road  601286, West (D22-24)",
+    "displayText": "286A Toh Guan Road",
+    "displayType": "HDB",
+    "nanoId": "3ir4sm",
+    "objectId": "11567",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

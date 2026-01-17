@@ -1,0 +1,1526 @@
+[
+  {
+    "displayText": "Holland Drive",
+    "displayType": "Street",
+    "objectId": "1111",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "17 Holland Drive  271017, Orchard / Holland (D09-10)",
+    "displayText": "Holland Drive Residences",
+    "displayType": "Condominium",
+    "nanoId": "8bb4l9",
+    "objectId": "25977",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Robin Drive  258261, Orchard / Holland (D09-10)",
+    "displayText": "Robin Residences",
+    "displayType": "Condominium",
+    "nanoId": "sfclnc",
+    "objectId": "25218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Farrer Drive  259296, Orchard / Holland (D09-10)",
+    "displayText": "Pollen & Bleu",
+    "displayType": "Condominium",
+    "nanoId": "rv1mdn",
+    "objectId": "21778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Saint Martin's Drive  257989, Orchard / Holland (D09-10)",
+    "displayText": "St. Martin Residence",
+    "displayType": "Condominium",
+    "nanoId": "2xuhl8",
+    "objectId": "492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Farrer Drive  259275, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Grandeur",
+    "displayType": "Condominium",
+    "nanoId": "1l7p37",
+    "objectId": "786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Draycott Drive  259420, Orchard / Holland (D09-10)",
+    "displayText": "The Arc at Draycott",
+    "displayType": "Apartment",
+    "nanoId": "lybi7p",
+    "objectId": "225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "63 Mount Sinai Drive  277116, Orchard / Holland (D09-10)",
+    "displayText": "Montview",
+    "displayType": "Condominium",
+    "nanoId": "xclvdq",
+    "objectId": "172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18A Holland Drive  272018, Orchard / Holland (D09-10)",
+    "displayText": "18A Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "qejy4b",
+    "objectId": "20789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 St Martin's Drive  258004, Orchard / Holland (D09-10)",
+    "displayText": "Tanglin Residences",
+    "displayType": "Condominium",
+    "nanoId": "9p9q5i",
+    "objectId": "484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Stevens Drive  257902, Orchard / Holland (D09-10)",
+    "displayText": "Stevens Loft",
+    "displayType": "Apartment",
+    "nanoId": "mcfnut",
+    "objectId": "1019",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Mount Sinai Drive  277125, Orchard / Holland (D09-10)",
+    "displayText": "The Sierra",
+    "displayType": "Apartment",
+    "nanoId": "pex7dx",
+    "objectId": "1187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Draycott Drive  259428, Orchard / Holland (D09-10)",
+    "displayText": "38 Draycott Drive",
+    "displayType": "Apartment",
+    "nanoId": "x6a26i",
+    "objectId": "1208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Draycott Drive  259421, Orchard / Holland (D09-10)",
+    "displayText": "7 Draycott Drive",
+    "displayType": "Condominium",
+    "nanoId": "xxy3ct",
+    "objectId": "1219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18B Holland Drive  273018, Orchard / Holland (D09-10)",
+    "displayText": "18B Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "a7w99i",
+    "objectId": "20790",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18C Holland Drive  274018, Orchard / Holland (D09-10)",
+    "displayText": "18C Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "rezf8o",
+    "objectId": "20791",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18D Holland Drive  275018, Orchard / Holland (D09-10)",
+    "displayText": "18D Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "8zxvah",
+    "objectId": "20792",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Claymore Drive  229594, Orchard / Holland (D09-10)",
+    "displayText": "Orchard Towers",
+    "displayType": "Apartment",
+    "nanoId": "49zysa",
+    "objectId": "564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "34 Draycott Drive  259426, Orchard / Holland (D09-10)",
+    "displayText": "J C Draycott",
+    "displayType": "Apartment",
+    "nanoId": "css1ae",
+    "objectId": "906",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Stevens Drive  257913, Orchard / Holland (D09-10)",
+    "displayText": "Parc Stevens",
+    "displayType": "Condominium",
+    "nanoId": "uz0mqx",
+    "objectId": "982",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 King's Drive  260000, Orchard / Holland (D09-10)",
+    "displayText": "King's Garden",
+    "displayType": "Detached House",
+    "nanoId": "e6tb7k",
+    "objectId": "2098",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "6A - 6C Robin Drive  258264, Orchard / Holland (D09-10)",
+    "displayText": "Lew's Mansion",
+    "displayType": "Condominium",
+    "nanoId": "bps8ov",
+    "objectId": "2138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 St Martin's Drive  257988, Orchard / Holland (D09-10)",
+    "displayText": "St Martin's Apartment",
+    "displayType": "Apartment",
+    "nanoId": "eg6gtk",
+    "objectId": "2360",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10C Rochalie Drive  248245, Orchard / Holland (D09-10)",
+    "displayText": "Rose Garden",
+    "displayType": "Apartment",
+    "nanoId": "p6muxh",
+    "objectId": "2366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6B - 6D Rochalie Drive  248237, Orchard / Holland (D09-10)",
+    "displayText": "Rochalie Residences",
+    "displayType": "Condominium",
+    "nanoId": "yyb0z7",
+    "objectId": "24766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Robin Drive  000011, Orchard / Holland (D09-10)",
+    "displayText": "The Giverny Residences",
+    "displayType": "Condominium",
+    "nanoId": "8y42yz",
+    "objectId": "25478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Holland Drive  271011, Orchard / Holland (D09-10)",
+    "displayText": "11 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "0up7y2",
+    "objectId": "6311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Holland Drive  271013, Orchard / Holland (D09-10)",
+    "displayText": "13 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "gc4fk2",
+    "objectId": "6312",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Holland Drive  271015, Orchard / Holland (D09-10)",
+    "displayText": "15 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "4l28xp",
+    "objectId": "6313",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Holland Drive  271016, Orchard / Holland (D09-10)",
+    "displayText": "16 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "dofx9c",
+    "objectId": "6314",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Holland Drive  271017, Orchard / Holland (D09-10)",
+    "displayText": "17 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "wztfer",
+    "objectId": "6315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Holland Drive  271020, Orchard / Holland (D09-10)",
+    "displayText": "20 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "ou48oh",
+    "objectId": "6316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Holland Drive  271021, Orchard / Holland (D09-10)",
+    "displayText": "21 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "fh6wr1",
+    "objectId": "6317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Holland Drive  270022, Orchard / Holland (D09-10)",
+    "displayText": "22 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "qekgby",
+    "objectId": "6318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Holland Drive  270023, Orchard / Holland (D09-10)",
+    "displayText": "23 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "rmoeai",
+    "objectId": "6319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40 Holland Drive  270040, Orchard / Holland (D09-10)",
+    "displayText": "40 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "fivkk7",
+    "objectId": "6320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "41 Holland Drive  270041, Orchard / Holland (D09-10)",
+    "displayText": "41 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "eol74x",
+    "objectId": "6321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "42 Holland Drive  270042, Orchard / Holland (D09-10)",
+    "displayText": "42 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "jar72o",
+    "objectId": "6322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Holland Drive  270043, Orchard / Holland (D09-10)",
+    "displayText": "43 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "7at7fl",
+    "objectId": "6323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Holland Drive  270044, Orchard / Holland (D09-10)",
+    "displayText": "44 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "ez0ubw",
+    "objectId": "6324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Holland Drive  270045, Orchard / Holland (D09-10)",
+    "displayText": "45 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "h3seal",
+    "objectId": "6325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Holland Drive  270046, Orchard / Holland (D09-10)",
+    "displayText": "46 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "2zevfh",
+    "objectId": "6326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Holland Drive  270047, Orchard / Holland (D09-10)",
+    "displayText": "47 Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "mio0tp",
+    "objectId": "6327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10A Holland Drive  272010, Orchard / Holland (D09-10)",
+    "displayText": "10A Holland Drive",
+    "displayType": "HDB",
+    "nanoId": "v9ego9",
+    "objectId": "6328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Holland Grove Drive",
+    "displayType": "Street",
+    "objectId": "1120",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Holland Grove View   276000, Orchard / Holland (D09-10)",
+    "displayText": "Holland Grove",
+    "displayType": "Detached House",
+    "nanoId": "xcqm61",
+    "objectId": "582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Holland Grove",
+    "displayType": "Street",
+    "objectId": "4832",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Holland Rise",
+    "displayType": "Street",
+    "objectId": "1117",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "114 Holland Road Singapore  278557, Orchard / Holland (D09-10)",
+    "displayText": "Chateau De Hollande",
+    "displayType": "Apartment",
+    "nanoId": "jh8b4m",
+    "objectId": "20851",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 Holland Road  258536, Orchard / Holland (D09-10)",
+    "displayText": "Hollandia",
+    "displayType": "Apartment",
+    "nanoId": "jwxqve",
+    "objectId": "1178",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100A Jervois Road  249057, Orchard / Holland (D09-10)",
+    "displayText": "Jervois Prive",
+    "displayType": "Condominium",
+    "nanoId": "y217fp",
+    "objectId": "23710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D10",
+    "displayText": "D10 Tanglin / Holland / Bukit Timah",
+    "displayType": "District",
+    "objectId": "D10",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D10"
+    }
+  },
+  {
+    "displayDescription": "13 Leedon Heights  266224, Orchard / Holland (D09-10)",
+    "displayText": "d'Leedon (Former Farrer Court)",
+    "displayType": "Condominium",
+    "nanoId": "z8wtmf",
+    "objectId": "20575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "93 Robertson Quay  238255, Orchard / Holland (D09-10)",
+    "displayText": "Rivergate",
+    "displayType": "Condominium",
+    "nanoId": "b0t2mm",
+    "objectId": "78",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "32 Leedon Heights  266075, Orchard / Holland (D09-10)",
+    "displayText": "Leedon Green",
+    "displayType": "Condominium",
+    "nanoId": "x4fi1v",
+    "objectId": "23848",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "473 River Valley Road  248358, Orchard / Holland (D09-10)",
+    "displayText": "Valley Park",
+    "displayType": "Condominium",
+    "nanoId": "omeu32",
+    "objectId": "132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Leonie Hill Road  239197, Orchard / Holland (D09-10)",
+    "displayText": "OUE Twin Peaks",
+    "displayType": "Condominium",
+    "nanoId": "i00njf",
+    "objectId": "2655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "261 River Valley Road  238307, Orchard / Holland (D09-10)",
+    "displayText": "Aspen Heights",
+    "displayType": "Condominium",
+    "nanoId": "80ou32",
+    "objectId": "4",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Leedon Heights  266215, Orchard / Holland (D09-10)",
+    "displayText": "Leedon Residence",
+    "displayType": "Condominium",
+    "nanoId": "ev1x0a",
+    "objectId": "21334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Martin Place  237963, Orchard / Holland (D09-10)",
+    "displayText": "Martin Modern",
+    "displayType": "Apartment",
+    "nanoId": "x6otb0",
+    "objectId": "23122",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "89 Holland Road  275750, Orchard / Holland (D09-10)",
+    "displayText": "Hyll on Holland",
+    "displayType": "Condominium",
+    "nanoId": "q7hn9b",
+    "objectId": "24515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "112 Kim Seng Road  239432, Orchard / Holland (D09-10)",
+    "displayText": "The Trillium",
+    "displayType": "Condominium",
+    "nanoId": "ck22xu",
+    "objectId": "746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sophia Road  228152, Orchard / Holland (D09-10)",
+    "displayText": "Sophia Residence",
+    "displayType": "Condominium",
+    "nanoId": "uy5ued",
+    "objectId": "1533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Fourth Avenue  268660, Orchard / Holland (D09-10)",
+    "displayText": "Fourth Avenue Residences",
+    "displayType": "Condominium",
+    "nanoId": "x8apjd",
+    "objectId": "23566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Makeway Avenue  228605, Orchard / Holland (D09-10)",
+    "displayText": "Kopar At Newton",
+    "displayType": "Condominium",
+    "nanoId": "y1japb",
+    "objectId": "23902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Mount Sophia  228453, Orchard / Holland (D09-10)",
+    "displayText": "Sophia Hills",
+    "displayType": "Condominium",
+    "nanoId": "s9re2u",
+    "objectId": "22017",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Cuscaden Road  249732, Orchard / Holland (D09-10)",
+    "displayText": "Cuscaden Reserve",
+    "displayType": "Condominium",
+    "nanoId": "kgkj6o",
+    "objectId": "23805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sommerville Estate Road  258000, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Park",
+    "displayType": "Condominium",
+    "nanoId": "uxlnxl",
+    "objectId": "203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Holland Village Way  275752, Orchard / Holland (D09-10)",
+    "displayText": "One Holland Village Residences",
+    "displayType": "Condominium",
+    "nanoId": "m5pruq",
+    "objectId": "23836",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Ridgewood Close  276693, Orchard / Holland (D09-10)",
+    "displayText": "The Trizon",
+    "displayType": "Condominium",
+    "nanoId": "klkrho",
+    "objectId": "1365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Mount Sophia  228457, Orchard / Holland (D09-10)",
+    "displayText": "8 @ Mount Sophia",
+    "displayType": "Condominium",
+    "nanoId": "07ahia",
+    "objectId": "18",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 River Valley Close  238432, Orchard / Holland (D09-10)",
+    "displayText": "The Avenir",
+    "displayType": "Condominium",
+    "nanoId": "a4x245",
+    "objectId": "23843",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "325 River Valley Road  238357, Orchard / Holland (D09-10)",
+    "displayText": "Yong An Park",
+    "displayType": "Condominium",
+    "nanoId": "3xhocw",
+    "objectId": "260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Kim Seng Road  239471, Orchard / Holland (D09-10)",
+    "displayText": "The Cosmopolitan",
+    "displayType": "Condominium",
+    "nanoId": "u6mgp2",
+    "objectId": "81",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Kim Seng Walk  239403, Orchard / Holland (D09-10)",
+    "displayText": "Tiara",
+    "displayType": "Apartment",
+    "nanoId": "d9etj6",
+    "objectId": "1209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Keng Chin Road  258709, Orchard / Holland (D09-10)",
+    "displayText": "Cyan",
+    "displayType": "Condominium",
+    "nanoId": "hs6or5",
+    "objectId": "1590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "205 River Valley Road  238274, Orchard / Holland (D09-10)",
+    "displayText": "UE Square",
+    "displayType": "Apartment",
+    "nanoId": "n8gv0n",
+    "objectId": "265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Wilby Road  276305, Orchard / Holland (D09-10)",
+    "displayText": "The Tessarina",
+    "displayType": "Condominium",
+    "nanoId": "taykhq",
+    "objectId": "169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Nathan Road  248726, Orchard / Holland (D09-10)",
+    "displayText": "Regency Park",
+    "displayType": "Condominium",
+    "nanoId": "bpckrx",
+    "objectId": "222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Mount Emily Road  228490, Orchard / Holland (D09-10)",
+    "displayText": "Parc Emily",
+    "displayType": "Condominium",
+    "nanoId": "rw6pdh",
+    "objectId": "120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "261 Bukit Timah Road  259703, Orchard / Holland (D09-10)",
+    "displayText": "Goodwood Residence",
+    "displayType": "Condominium",
+    "nanoId": "16rgwd",
+    "objectId": "1244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Martin Place  237988, Orchard / Holland (D09-10)",
+    "displayText": "Martin Place Residences",
+    "displayType": "Condominium",
+    "nanoId": "odl6y8",
+    "objectId": "1349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "53 Grange Road  249565, Orchard / Holland (D09-10)",
+    "displayText": "Spring Grove",
+    "displayType": "Condominium",
+    "nanoId": "eaw7dw",
+    "objectId": "157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Rodyk Street  238212, Orchard / Holland (D09-10)",
+    "displayText": "Watermark Robertson Quay",
+    "displayType": "Apartment",
+    "nanoId": "whrhwu",
+    "objectId": "160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Cuscaden Road  249722, Orchard / Holland (D09-10)",
+    "displayText": "Cuscaden Residences",
+    "displayType": "Condominium",
+    "nanoId": "plf836",
+    "objectId": "185",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Draycott Park  259388, Orchard / Holland (D09-10)",
+    "displayText": "The Draycott",
+    "displayType": "Condominium",
+    "nanoId": "jfdgyp",
+    "objectId": "513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "99 Cairnhill Circle  229808, Orchard / Holland (D09-10)",
+    "displayText": "Hilltops",
+    "displayType": "Condominium",
+    "nanoId": "bbgloj",
+    "objectId": "1142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Makeway Avenue  228599, Orchard / Holland (D09-10)",
+    "displayText": "The Atelier",
+    "displayType": "Condominium",
+    "nanoId": "7i2bfk",
+    "objectId": "24597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "65 Cavenagh Road  229619, Orchard / Holland (D09-10)",
+    "displayText": "WaterScape @ Cavenagh",
+    "displayType": "Apartment",
+    "nanoId": "5u5u2e",
+    "objectId": "2604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "247 Tanglin Road  247935, Orchard / Holland (D09-10)",
+    "displayText": "Grange Residences",
+    "displayType": "Condominium",
+    "nanoId": "p9wadv",
+    "objectId": "329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ridgewood Close  276692, Orchard / Holland (D09-10)",
+    "displayText": "Ridgewood Condominium",
+    "displayType": "Condominium",
+    "nanoId": "4dh39z",
+    "objectId": "425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Farrer Road  268844, Orchard / Holland (D09-10)",
+    "displayText": "Spanish Village",
+    "displayType": "Condominium",
+    "nanoId": "cgp3iz",
+    "objectId": "1327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Oxley Rise  238710, Orchard / Holland (D09-10)",
+    "displayText": "Visioncrest",
+    "displayType": "Condominium",
+    "nanoId": "7k5tml",
+    "objectId": "198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "186 Holland Road  278583, Orchard / Holland (D09-10)",
+    "displayText": "Van Holland",
+    "displayType": "Condominium",
+    "nanoId": "m6bh6m",
+    "objectId": "23842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Kim Seng Road  239426, Orchard / Holland (D09-10)",
+    "displayText": "Mirage Tower",
+    "displayType": "Condominium",
+    "nanoId": "1b7m0v",
+    "objectId": "287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ridley Park  248466, Orchard / Holland (D09-10)",
+    "displayText": "Tanglin Park",
+    "displayType": "Condominium",
+    "nanoId": "mjzvmx",
+    "objectId": "292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Farrer Road  268850, Orchard / Holland (D09-10)",
+    "displayText": "Gallop Gables",
+    "displayType": "Condominium",
+    "nanoId": "zdu6vv",
+    "objectId": "309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "381 Tanglin Road  247965, Orchard / Holland (D09-10)",
+    "displayText": "Tanglin Regency",
+    "displayType": "Condominium",
+    "nanoId": "sy8pkq",
+    "objectId": "311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 Mount Sinai Rise  276952, Orchard / Holland (D09-10)",
+    "displayText": "The Marbella",
+    "displayType": "Condominium",
+    "nanoId": "m6d0am",
+    "objectId": "404",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Jervois Close  249099, Orchard / Holland (D09-10)",
+    "displayText": "One Jervois",
+    "displayType": "Condominium",
+    "nanoId": "v4d1qz",
+    "objectId": "77",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

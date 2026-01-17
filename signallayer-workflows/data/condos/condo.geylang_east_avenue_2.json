@@ -1,0 +1,1523 @@
+[
+  {
+    "displayText": "Geylang East Avenue 2",
+    "displayType": "Street",
+    "objectId": "955",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Geylang East Avenue 2  389754, Balestier / Geylang (D12-14)",
+    "displayText": "Simsville",
+    "displayType": "Condominium",
+    "nanoId": "7fe744",
+    "objectId": "286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Geylang East Avenue 2  389760, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Edge",
+    "displayType": "Condominium",
+    "nanoId": "ekbwcw",
+    "objectId": "20679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "129 Geylang East Avenue 2  380129, Balestier / Geylang (D12-14)",
+    "displayText": "129 Geylang East Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "85jhia",
+    "objectId": "6201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20A Sims Avenue East  416537, Balestier / Geylang (D12-14)",
+    "displayText": "Eunos Garden",
+    "displayType": "Apartment",
+    "nanoId": "7uo2y6",
+    "objectId": "20889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Geylang East Avenue 1",
+    "displayType": "Street",
+    "objectId": "954",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Geylang East Avenue 3",
+    "displayType": "Street",
+    "objectId": "956",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Whampoa East  338517, Balestier / Geylang (D12-14)",
+    "displayText": "Eight Riversuites",
+    "displayType": "Condominium",
+    "nanoId": "l0tbsk",
+    "objectId": "21204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Bukit Batok East Avenue 2  659920, West (D22-24)",
+    "displayText": "Hillview Regency",
+    "displayType": "Condominium",
+    "nanoId": "kw2stx",
+    "objectId": "162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Haig Avenue  438840, East Coast (D15-16)",
+    "displayText": "Haig Grove (SCK Ville)",
+    "displayType": "Apartment",
+    "nanoId": "ivjl0o",
+    "objectId": "2394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "408 Bedok North Avenue 2  460408, East Coast (D15-16)",
+    "displayText": "408 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l2jdun",
+    "objectId": "3352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Bedok North Avenue 2  460409, East Coast (D15-16)",
+    "displayText": "409 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "e9ie8a",
+    "objectId": "3353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Bedok North Avenue 2  460410, East Coast (D15-16)",
+    "displayText": "410 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "htnglh",
+    "objectId": "3354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Bedok North Avenue 2  460411, East Coast (D15-16)",
+    "displayText": "411 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pjh1pe",
+    "objectId": "3355",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Bedok North Avenue 2  460412, East Coast (D15-16)",
+    "displayText": "412 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zrwoc6",
+    "objectId": "3356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Bedok North Avenue 2  460413, East Coast (D15-16)",
+    "displayText": "413 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "q8ipbj",
+    "objectId": "3357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Bedok North Avenue 2  460414, East Coast (D15-16)",
+    "displayText": "414 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "vtg6eh",
+    "objectId": "3358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Bedok North Avenue 2  460415, East Coast (D15-16)",
+    "displayText": "415 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "gt4fs5",
+    "objectId": "3359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416 Bedok North Avenue 2  460416, East Coast (D15-16)",
+    "displayText": "416 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ut50pn",
+    "objectId": "3360",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Bedok North Avenue 2  460417, East Coast (D15-16)",
+    "displayText": "417 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ey46kg",
+    "objectId": "3361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Bedok North Avenue 2  460418, East Coast (D15-16)",
+    "displayText": "418 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "wyi8k2",
+    "objectId": "3362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Bedok North Avenue 2  460512, East Coast (D15-16)",
+    "displayText": "512 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "7n334i",
+    "objectId": "3363",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Bedok North Avenue 2  460513, East Coast (D15-16)",
+    "displayText": "513 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pso9md",
+    "objectId": "3364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Bedok North Avenue 2  460514, East Coast (D15-16)",
+    "displayText": "514 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l5vjev",
+    "objectId": "3365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Bedok North Avenue 2  460515, East Coast (D15-16)",
+    "displayText": "515 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "vo8xi4",
+    "objectId": "3366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Bedok North Avenue 2  460516, East Coast (D15-16)",
+    "displayText": "516 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "n195oc",
+    "objectId": "3367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Bedok North Avenue 2  460517, East Coast (D15-16)",
+    "displayText": "517 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0lb6ys",
+    "objectId": "3368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Bedok North Avenue 2  460518, East Coast (D15-16)",
+    "displayText": "518 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "du8b06",
+    "objectId": "3369",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Bedok South Avenue 1  460002, East Coast (D15-16)",
+    "displayText": "2 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6bcvyn",
+    "objectId": "3675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Bedok South Avenue 2  460005, East Coast (D15-16)",
+    "displayText": "5 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "hjvmsa",
+    "objectId": "3680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Bedok South Avenue 2  460006, East Coast (D15-16)",
+    "displayText": "6 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "tgog2g",
+    "objectId": "3681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Bedok South Avenue 2  460007, East Coast (D15-16)",
+    "displayText": "7 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "c3b6tr",
+    "objectId": "3682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Bedok South Avenue 2  460008, East Coast (D15-16)",
+    "displayText": "8 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "6lqdce",
+    "objectId": "3683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Bedok South Avenue 2  460009, East Coast (D15-16)",
+    "displayText": "9 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "7ci1ge",
+    "objectId": "3684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Bedok South Avenue 2  460012, East Coast (D15-16)",
+    "displayText": "12 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "z6ue4j",
+    "objectId": "3685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Bedok South Avenue 2  460014, East Coast (D15-16)",
+    "displayText": "14 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "oxi0fv",
+    "objectId": "3686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Bedok South Avenue 2  460031, East Coast (D15-16)",
+    "displayText": "31 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ql3bqo",
+    "objectId": "3687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Bedok South Avenue 2  460032, East Coast (D15-16)",
+    "displayText": "32 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "jq821h",
+    "objectId": "3688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Bedok South Avenue 2  460033, East Coast (D15-16)",
+    "displayText": "33 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "3vdvbw",
+    "objectId": "3689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Bedok South Avenue 2  460034, East Coast (D15-16)",
+    "displayText": "34 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "g2bxie",
+    "objectId": "3690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Bedok South Avenue 2  460035, East Coast (D15-16)",
+    "displayText": "35 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "94zp00",
+    "objectId": "3691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Bedok South Avenue 2  460036, East Coast (D15-16)",
+    "displayText": "36 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "sc18ev",
+    "objectId": "3692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37 Bedok South Avenue 2  460037, East Coast (D15-16)",
+    "displayText": "37 Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "qm6750",
+    "objectId": "3693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10B Bedok South Avenue 2  461010, East Coast (D15-16)",
+    "displayText": "10B Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "grjhit",
+    "objectId": "3694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10C Bedok South Avenue 2  462010, East Coast (D15-16)",
+    "displayText": "10C Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "bwzete",
+    "objectId": "3695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10D Bedok South Avenue 2  463010, East Coast (D15-16)",
+    "displayText": "10D Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l1aach",
+    "objectId": "3696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10E Bedok South Avenue 2  464010, East Coast (D15-16)",
+    "displayText": "10E Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0noiv9",
+    "objectId": "3697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10F Bedok South Avenue 2  465010, East Coast (D15-16)",
+    "displayText": "10F Bedok South Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "opvs6c",
+    "objectId": "3698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bukit Batok East Avenue 2",
+    "displayType": "Street",
+    "objectId": "7956",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "113 Aljunied Avenue 2  380113, Balestier / Geylang (D12-14)",
+    "displayText": "113 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "5dnjtm",
+    "objectId": "2734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Aljunied Avenue 2  380115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "4j6tnm",
+    "objectId": "2736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Aljunied Avenue 2  380117, Balestier / Geylang (D12-14)",
+    "displayText": "117 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "jy2xao",
+    "objectId": "2738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Aljunied Avenue 2  380118, Balestier / Geylang (D12-14)",
+    "displayText": "118 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0am36c",
+    "objectId": "2739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Aljunied Avenue 2  380119, Balestier / Geylang (D12-14)",
+    "displayText": "119 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "79hg28",
+    "objectId": "2740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Potong Pasir Avenue 2  350143, Balestier / Geylang (D12-14)",
+    "displayText": "143 Potong Pasir Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "bp0jh5",
+    "objectId": "9330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Potong Pasir Avenue 2  350144, Balestier / Geylang (D12-14)",
+    "displayText": "144 Potong Pasir Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "8rprts",
+    "objectId": "9331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Potong Pasir Avenue 2  350145, Balestier / Geylang (D12-14)",
+    "displayText": "145 Potong Pasir Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "xif9z0",
+    "objectId": "9332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Aljunied Avenue 2  380114, Balestier / Geylang (D12-14)",
+    "displayText": "114 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zlme08",
+    "objectId": "2735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Aljunied Avenue 2  380116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "2u0wx1",
+    "objectId": "2737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Geylang East Avenue 1  389782, Balestier / Geylang (D12-14)",
+    "displayText": "Tre Residences",
+    "displayType": "Condominium",
+    "nanoId": "6pci1q",
+    "objectId": "22023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Geylang East Avenue 1  389781, Balestier / Geylang (D12-14)",
+    "displayText": "Crystal Dew",
+    "displayType": "Condominium",
+    "nanoId": "8hzms0",
+    "objectId": "1847",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Sims Avenue East  416558, Balestier / Geylang (D12-14)",
+    "displayText": "Eunos Green",
+    "displayType": "Condominium",
+    "nanoId": "20tg7w",
+    "objectId": "1916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Sims Avenue East  416553, Balestier / Geylang (D12-14)",
+    "displayText": "Serenity Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "xq4s9t",
+    "objectId": "21031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "124 Geylang East Avenue 1  380124, Balestier / Geylang (D12-14)",
+    "displayText": "124 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "0oby9u",
+    "objectId": "6191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Geylang East Avenue 1  381125, Balestier / Geylang (D12-14)",
+    "displayText": "125 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "pf0osr",
+    "objectId": "6192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Geylang East Avenue 1  381126, Balestier / Geylang (D12-14)",
+    "displayText": "126 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "zn5zs4",
+    "objectId": "6193",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Geylang East Avenue 1  380127, Balestier / Geylang (D12-14)",
+    "displayText": "127 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "oyrgay",
+    "objectId": "6194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Geylang East Avenue 1  380128, Balestier / Geylang (D12-14)",
+    "displayText": "128 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "qkhrg2",
+    "objectId": "6195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Geylang East Avenue 1  380130, Balestier / Geylang (D12-14)",
+    "displayText": "130 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "arlsa6",
+    "objectId": "6196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Geylang East Avenue 1  380131, Balestier / Geylang (D12-14)",
+    "displayText": "131 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "rnnt3a",
+    "objectId": "6197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Geylang East Avenue 1  380132, Balestier / Geylang (D12-14)",
+    "displayText": "132 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "xxbql4",
+    "objectId": "6198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Geylang East Avenue 1  380133, Balestier / Geylang (D12-14)",
+    "displayText": "133 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "1we3o8",
+    "objectId": "6199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Geylang East Avenue 1  380134, Balestier / Geylang (D12-14)",
+    "displayText": "134 Geylang East Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ukn4vn",
+    "objectId": "6200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Tanah Merah Kechil Link  465417, East Coast (D15-16)",
+    "displayText": "Urban Vista",
+    "displayType": "Condominium",
+    "nanoId": "48o50p",
+    "objectId": "21441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Bedok Reservoir View  479232, East Coast (D15-16)",
+    "displayText": "The Clearwater",
+    "displayType": "Condominium",
+    "nanoId": "5h7r00",
+    "objectId": "315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Fowlie Road  428505, East Coast (D15-16)",
+    "displayText": "Sycamore Tree",
+    "displayType": "Apartment",
+    "nanoId": "gfspbv",
+    "objectId": "21161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 First Street  458278, East Coast (D15-16)",
+    "displayText": "Siglap V",
+    "displayType": "Condominium",
+    "nanoId": "eauill",
+    "objectId": "2589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Margate Road  438042, East Coast (D15-16)",
+    "displayText": "Margate Point",
+    "displayType": "Apartment",
+    "nanoId": "yprkng",
+    "objectId": "2177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Tiga Ratus  488067, East Coast (D15-16)",
+    "displayText": "Tropicana Condominium",
+    "displayType": "Condominium",
+    "nanoId": "vm3a6i",
+    "objectId": "940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Tanjong Rhu Road  436879, East Coast (D15-16)",
+    "displayText": "Fortredale",
+    "displayType": "Apartment",
+    "nanoId": "2oszm9",
+    "objectId": "1016",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lorong M Telok Kurau  425279, East Coast (D15-16)",
+    "displayText": "Naturalis",
+    "displayType": "Apartment",
+    "nanoId": "twrezo",
+    "objectId": "1378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Dunman Lane  439275, East Coast (D15-16)",
+    "displayText": "D-Mansions",
+    "displayType": "Apartment",
+    "nanoId": "dgka7c",
+    "objectId": "1858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lorong K Telok Kurau  425604, East Coast (D15-16)",
+    "displayText": "King's Apartments",
+    "displayType": "Apartment",
+    "nanoId": "uljsgr",
+    "objectId": "2099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Bedok Garden  469853, East Coast (D15-16)",
+    "displayText": "Prosper Gardens",
+    "displayType": "Apartment",
+    "nanoId": "p33bxs",
+    "objectId": "21013",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Still Road  423950, East Coast (D15-16)",
+    "displayText": "Still Mansion",
+    "displayType": "Condominium",
+    "nanoId": "10eltt",
+    "objectId": "2362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lorong L Telok Kurau  425600, East Coast (D15-16)",
+    "displayText": "Sunshine Loft",
+    "displayType": "Condominium",
+    "nanoId": "6l258p",
+    "objectId": "2450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Meyer Place  437989, East Coast (D15-16)",
+    "displayText": "The Meyer Place",
+    "displayType": "Apartment",
+    "nanoId": "x2nnzw",
+    "objectId": "2502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jurong East Central 1  609731, West (D22-24)",
+    "displayText": "J'den",
+    "displayType": "Condominium",
+    "nanoId": "pg3hfw",
+    "objectId": "25563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113 Bedok North Street 2  460113, East Coast (D15-16)",
+    "displayText": "113 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "978ivl",
+    "objectId": "3460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Bedok North Street 2  460114, East Coast (D15-16)",
+    "displayText": "114 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "ragtzn",
+    "objectId": "3461",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Bedok North Street 2  460118, East Coast (D15-16)",
+    "displayText": "118 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "zfb07j",
+    "objectId": "3462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Bedok North Street 2  460120, East Coast (D15-16)",
+    "displayText": "120 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "xvm8fb",
+    "objectId": "3463",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Bedok North Street 2  460122, East Coast (D15-16)",
+    "displayText": "122 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "et6qh2",
+    "objectId": "3464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Bedok North Street 2  460123, East Coast (D15-16)",
+    "displayText": "123 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "hfzmzh",
+    "objectId": "3465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Bedok North Street 2  460126, East Coast (D15-16)",
+    "displayText": "126 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "qf29h8",
+    "objectId": "3466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Bedok North Street 2  460127, East Coast (D15-16)",
+    "displayText": "127 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "jj09c4",
+    "objectId": "3467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Bedok North Street 2  460128, East Coast (D15-16)",
+    "displayText": "128 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "0js3am",
+    "objectId": "3468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Bedok North Street 2  460129, East Coast (D15-16)",
+    "displayText": "129 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "jogqzt",
+    "objectId": "3469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Bedok North Street 2  460130, East Coast (D15-16)",
+    "displayText": "130 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "cdsdhl",
+    "objectId": "3470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Bedok North Street 2  460132, East Coast (D15-16)",
+    "displayText": "132 Bedok North Street 2",
+    "displayType": "HDB",
+    "nanoId": "9t48ej",
+    "objectId": "3471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

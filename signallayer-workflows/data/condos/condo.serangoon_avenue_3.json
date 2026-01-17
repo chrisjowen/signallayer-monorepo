@@ -1,0 +1,1579 @@
+[
+  {
+    "displayText": "Serangoon Avenue 3",
+    "displayType": "Street",
+    "objectId": "10364",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "138 Serangoon Avenue 3  554475, Serangoon / Thomson (D19-20)",
+    "displayText": "The Scala @ Lorong Chuan",
+    "displayType": "Condominium",
+    "nanoId": "2mdv7q",
+    "objectId": "2662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131 Serangoon Avenue 3  556112, Serangoon / Thomson (D19-20)",
+    "displayText": "Chiltern Park",
+    "displayType": "Condominium",
+    "nanoId": "dop8c3",
+    "objectId": "308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "139 Serangoon Avenue 3  556119, Serangoon / Thomson (D19-20)",
+    "displayText": "The Springbloom",
+    "displayType": "Condominium",
+    "nanoId": "6cea3p",
+    "objectId": "462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "118 Serangoon Avenue 3  554773, Serangoon / Thomson (D19-20)",
+    "displayText": "Amaranda Gardens",
+    "displayType": "Condominium",
+    "nanoId": "r9mkgr",
+    "objectId": "34",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "126 Serangoon Avenue 3  556126, Serangoon / Thomson (D19-20)",
+    "displayText": "Golden Heights",
+    "displayType": "Apartment",
+    "nanoId": "97tuo8",
+    "objectId": "1112",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Serangoon Avenue 3  556124, Serangoon / Thomson (D19-20)",
+    "displayText": "The Sunnydale",
+    "displayType": "Condominium",
+    "nanoId": "5fzw91",
+    "objectId": "927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "231 Serangoon Avenue 3  550231, Serangoon / Thomson (D19-20)",
+    "displayText": "231 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "1gac9m",
+    "objectId": "10045",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "232 Serangoon Avenue 3  550232, Serangoon / Thomson (D19-20)",
+    "displayText": "232 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "cgemdf",
+    "objectId": "10046",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "233 Serangoon Avenue 3  550233, Serangoon / Thomson (D19-20)",
+    "displayText": "233 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "hfdos9",
+    "objectId": "10047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "234 Serangoon Avenue 3  550234, Serangoon / Thomson (D19-20)",
+    "displayText": "234 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "7qctai",
+    "objectId": "10048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "235 Serangoon Avenue 3  550235, Serangoon / Thomson (D19-20)",
+    "displayText": "235 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "u1gg60",
+    "objectId": "10049",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Serangoon Avenue 3  550236, Serangoon / Thomson (D19-20)",
+    "displayText": "236 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "36ugm0",
+    "objectId": "10050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Serangoon Avenue 3  550237, Serangoon / Thomson (D19-20)",
+    "displayText": "237 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "6zjkb3",
+    "objectId": "10051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Serangoon Avenue 3  550241, Serangoon / Thomson (D19-20)",
+    "displayText": "241 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "dewo8k",
+    "objectId": "10052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Serangoon Avenue 3  550242, Serangoon / Thomson (D19-20)",
+    "displayText": "242 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "9f65rj",
+    "objectId": "10053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246 Serangoon Avenue 3  550246, Serangoon / Thomson (D19-20)",
+    "displayText": "246 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "t7h3em",
+    "objectId": "10054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322 Serangoon Avenue 3  550322, Serangoon / Thomson (D19-20)",
+    "displayText": "322 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "8g1702",
+    "objectId": "10056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Serangoon Avenue 3  550323, Serangoon / Thomson (D19-20)",
+    "displayText": "323 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "fbbjsw",
+    "objectId": "10057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Serangoon Avenue 3  550324, Serangoon / Thomson (D19-20)",
+    "displayText": "324 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "87algm",
+    "objectId": "10058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Serangoon Avenue 3  550325, Serangoon / Thomson (D19-20)",
+    "displayText": "325 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "iq10z4",
+    "objectId": "10059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Serangoon Avenue 3  550326, Serangoon / Thomson (D19-20)",
+    "displayText": "326 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "3tj79p",
+    "objectId": "10060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327 Serangoon Avenue 3  550327, Serangoon / Thomson (D19-20)",
+    "displayText": "327 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "67zmkt",
+    "objectId": "10061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Serangoon Avenue 3  550328, Serangoon / Thomson (D19-20)",
+    "displayText": "328 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "hh5g4w",
+    "objectId": "10062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Serangoon Avenue 3  550329, Serangoon / Thomson (D19-20)",
+    "displayText": "329 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "umjpam",
+    "objectId": "10063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Serangoon Avenue 3  550330, Serangoon / Thomson (D19-20)",
+    "displayText": "330 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "93u4o4",
+    "objectId": "10064",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Serangoon Avenue 3  550331, Serangoon / Thomson (D19-20)",
+    "displayText": "331 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "m9esda",
+    "objectId": "10065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Serangoon Avenue 3  550332, Serangoon / Thomson (D19-20)",
+    "displayText": "332 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "cubg91",
+    "objectId": "10066",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333 Serangoon Avenue 3  550333, Serangoon / Thomson (D19-20)",
+    "displayText": "333 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "uf307j",
+    "objectId": "10067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334 Serangoon Avenue 3  550334, Serangoon / Thomson (D19-20)",
+    "displayText": "334 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "hy9fb9",
+    "objectId": "10068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Serangoon Avenue 3  550335, Serangoon / Thomson (D19-20)",
+    "displayText": "335 Serangoon Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "br0b8k",
+    "objectId": "10069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "543 Serangoon North Avenue 3  550543, Serangoon / Thomson (D19-20)",
+    "displayText": "543 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "s28eps",
+    "objectId": "10190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "544 Serangoon North Avenue 3  550544, Serangoon / Thomson (D19-20)",
+    "displayText": "544 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "znq6oc",
+    "objectId": "10191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "545 Serangoon North Avenue 3  550545, Serangoon / Thomson (D19-20)",
+    "displayText": "545 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "qke54v",
+    "objectId": "10192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "546 Serangoon North Avenue 3  550546, Serangoon / Thomson (D19-20)",
+    "displayText": "546 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "tmxv0l",
+    "objectId": "10193",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "547 Serangoon North Avenue 3  550547, Serangoon / Thomson (D19-20)",
+    "displayText": "547 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "9i4hg7",
+    "objectId": "10194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "548 Serangoon North Avenue 3  550548, Serangoon / Thomson (D19-20)",
+    "displayText": "548 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "7mmk54",
+    "objectId": "10195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "549 Serangoon North Avenue 3  550549, Serangoon / Thomson (D19-20)",
+    "displayText": "549 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "kik8hq",
+    "objectId": "10196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "550 Serangoon North Avenue 3  550550, Serangoon / Thomson (D19-20)",
+    "displayText": "550 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "92cypu",
+    "objectId": "10197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "551 Serangoon North Avenue 3  550551, Serangoon / Thomson (D19-20)",
+    "displayText": "551 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "st9fk2",
+    "objectId": "10198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "552 Serangoon North Avenue 3  550552, Serangoon / Thomson (D19-20)",
+    "displayText": "552 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ysu2jm",
+    "objectId": "10199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "553 Serangoon North Avenue 3  550553, Serangoon / Thomson (D19-20)",
+    "displayText": "553 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "29fmof",
+    "objectId": "10200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "554 Serangoon North Avenue 3  550554, Serangoon / Thomson (D19-20)",
+    "displayText": "554 Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "iszsz5",
+    "objectId": "10201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "542B Serangoon North Avenue 3  552542, Serangoon / Thomson (D19-20)",
+    "displayText": "542B Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "b9v9qv",
+    "objectId": "10202",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "546A Serangoon North Avenue 3  551546, Serangoon / Thomson (D19-20)",
+    "displayText": "546A Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "7fzbso",
+    "objectId": "10203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "550A Serangoon North Avenue 3  551550, Serangoon / Thomson (D19-20)",
+    "displayText": "550A Serangoon North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "6t9a0t",
+    "objectId": "10204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Hougang Avenue 3  530002, Serangoon / Thomson (D19-20)",
+    "displayText": "2 Hougang Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "94n8db",
+    "objectId": "13022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Hougang Avenue 3  530001, Serangoon / Thomson (D19-20)",
+    "displayText": "1 Hougang Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "hnnpph",
+    "objectId": "13023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Hougang Avenue 3  530006, Serangoon / Thomson (D19-20)",
+    "displayText": "6 Hougang Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "3a46vz",
+    "objectId": "20519",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Hougang Avenue 3  530007, Serangoon / Thomson (D19-20)",
+    "displayText": "7 Hougang Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "035lt8",
+    "objectId": "22221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Phillips Avenue  546920, Serangoon / Thomson (D19-20)",
+    "displayText": "3 @ Phillips",
+    "displayType": "Condominium",
+    "nanoId": "xqenjz",
+    "objectId": "2365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Ang Mo Kio Avenue 3  560101, Serangoon / Thomson (D19-20)",
+    "displayText": "101 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "vc6lot",
+    "objectId": "3013",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Ang Mo Kio Avenue 3  560102, Serangoon / Thomson (D19-20)",
+    "displayText": "102 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "f6wt2o",
+    "objectId": "3014",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Ang Mo Kio Avenue 3  560103, Serangoon / Thomson (D19-20)",
+    "displayText": "103 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "b2oefz",
+    "objectId": "3015",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Ang Mo Kio Avenue 3  560119, Serangoon / Thomson (D19-20)",
+    "displayText": "119 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "j8k51n",
+    "objectId": "3016",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Ang Mo Kio Avenue 3  560120, Serangoon / Thomson (D19-20)",
+    "displayText": "120 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "s687wg",
+    "objectId": "3017",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Ang Mo Kio Avenue 3  560122, Serangoon / Thomson (D19-20)",
+    "displayText": "122 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "24myar",
+    "objectId": "3019",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Ang Mo Kio Avenue 3  560126, Serangoon / Thomson (D19-20)",
+    "displayText": "126 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sm6cq5",
+    "objectId": "3020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Ang Mo Kio Avenue 3  560127, Serangoon / Thomson (D19-20)",
+    "displayText": "127 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "wzxi7y",
+    "objectId": "3021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Ang Mo Kio Avenue 3  560128, Serangoon / Thomson (D19-20)",
+    "displayText": "128 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "dqrsmd",
+    "objectId": "3022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Ang Mo Kio Avenue 3  560129, Serangoon / Thomson (D19-20)",
+    "displayText": "129 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "vfdbt0",
+    "objectId": "3023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Ang Mo Kio Avenue 3  560130, Serangoon / Thomson (D19-20)",
+    "displayText": "130 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ymv81d",
+    "objectId": "3024",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Ang Mo Kio Avenue 3  560131, Serangoon / Thomson (D19-20)",
+    "displayText": "131 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "vwnt1p",
+    "objectId": "3025",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Ang Mo Kio Avenue 3  560132, Serangoon / Thomson (D19-20)",
+    "displayText": "132 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "v2rd3r",
+    "objectId": "3026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Ang Mo Kio Avenue 3  560133, Serangoon / Thomson (D19-20)",
+    "displayText": "133 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "g3qbf0",
+    "objectId": "3027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Ang Mo Kio Avenue 3  560134, Serangoon / Thomson (D19-20)",
+    "displayText": "134 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ehu231",
+    "objectId": "3028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201 Ang Mo Kio Avenue 3  560201, Serangoon / Thomson (D19-20)",
+    "displayText": "201 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sth90f",
+    "objectId": "3029",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202 Ang Mo Kio Avenue 3  560202, Serangoon / Thomson (D19-20)",
+    "displayText": "202 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "5052k0",
+    "objectId": "3030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203 Ang Mo Kio Avenue 3  560203, Serangoon / Thomson (D19-20)",
+    "displayText": "203 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "y3afnh",
+    "objectId": "3031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "204 Ang Mo Kio Avenue 3  560204, Serangoon / Thomson (D19-20)",
+    "displayText": "204 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "vrwi8f",
+    "objectId": "3032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209 Ang Mo Kio Avenue 3  560209, Serangoon / Thomson (D19-20)",
+    "displayText": "209 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "2o5o7u",
+    "objectId": "3033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210 Ang Mo Kio Avenue 3  560210, Serangoon / Thomson (D19-20)",
+    "displayText": "210 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sx4qw0",
+    "objectId": "3034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211 Ang Mo Kio Avenue 3  560211, Serangoon / Thomson (D19-20)",
+    "displayText": "211 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "7ndkzz",
+    "objectId": "3035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212 Ang Mo Kio Avenue 3  560212, Serangoon / Thomson (D19-20)",
+    "displayText": "212 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "l940th",
+    "objectId": "3036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Ang Mo Kio Avenue 3  560213, Serangoon / Thomson (D19-20)",
+    "displayText": "213 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ablles",
+    "objectId": "3037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214 Ang Mo Kio Avenue 3  560214, Serangoon / Thomson (D19-20)",
+    "displayText": "214 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "0xcn0b",
+    "objectId": "3038",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "229 Ang Mo Kio Avenue 3  560229, Serangoon / Thomson (D19-20)",
+    "displayText": "229 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "on94x9",
+    "objectId": "3039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230 Ang Mo Kio Avenue 3  560230, Serangoon / Thomson (D19-20)",
+    "displayText": "230 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "qby4vu",
+    "objectId": "3040",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "231 Ang Mo Kio Avenue 3  560231, Serangoon / Thomson (D19-20)",
+    "displayText": "231 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "agg5c3",
+    "objectId": "3041",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "232 Ang Mo Kio Avenue 3  560232, Serangoon / Thomson (D19-20)",
+    "displayText": "232 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "7y1qc3",
+    "objectId": "3042",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "233 Ang Mo Kio Avenue 3  560233, Serangoon / Thomson (D19-20)",
+    "displayText": "233 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "1i3oty",
+    "objectId": "3043",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "234 Ang Mo Kio Avenue 3  560234, Serangoon / Thomson (D19-20)",
+    "displayText": "234 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "z4424q",
+    "objectId": "3044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "235 Ang Mo Kio Avenue 3  560235, Serangoon / Thomson (D19-20)",
+    "displayText": "235 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "1s32d9",
+    "objectId": "3045",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Ang Mo Kio Avenue 3  560244, Serangoon / Thomson (D19-20)",
+    "displayText": "244 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "gkmd2i",
+    "objectId": "3046",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Ang Mo Kio Avenue 3  560245, Serangoon / Thomson (D19-20)",
+    "displayText": "245 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "0dlijg",
+    "objectId": "3047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246 Ang Mo Kio Avenue 3  560246, Serangoon / Thomson (D19-20)",
+    "displayText": "246 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "htbjx5",
+    "objectId": "3048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301 Ang Mo Kio Avenue 3  560301, Serangoon / Thomson (D19-20)",
+    "displayText": "301 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "5fpfxs",
+    "objectId": "3050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302 Ang Mo Kio Avenue 3  560302, Serangoon / Thomson (D19-20)",
+    "displayText": "302 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "apyyc6",
+    "objectId": "3051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311 Ang Mo Kio Avenue 3  560311, Serangoon / Thomson (D19-20)",
+    "displayText": "311 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "xnsge1",
+    "objectId": "3052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312 Ang Mo Kio Avenue 3  560312, Serangoon / Thomson (D19-20)",
+    "displayText": "312 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "dbts0o",
+    "objectId": "3053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313 Ang Mo Kio Avenue 3  560313, Serangoon / Thomson (D19-20)",
+    "displayText": "313 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "g15x2g",
+    "objectId": "3054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Ang Mo Kio Avenue 3  560314, Serangoon / Thomson (D19-20)",
+    "displayText": "314 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "pkdhzm",
+    "objectId": "3055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322 Ang Mo Kio Avenue 3  560322, Serangoon / Thomson (D19-20)",
+    "displayText": "322 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "gysh4g",
+    "objectId": "3056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Ang Mo Kio Avenue 3  560323, Serangoon / Thomson (D19-20)",
+    "displayText": "323 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "xwajpg",
+    "objectId": "3057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Ang Mo Kio Avenue 3  560324, Serangoon / Thomson (D19-20)",
+    "displayText": "324 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "qnn6xe",
+    "objectId": "3058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Ang Mo Kio Avenue 3  560325, Serangoon / Thomson (D19-20)",
+    "displayText": "325 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "re1uji",
+    "objectId": "3059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Ang Mo Kio Avenue 3  560326, Serangoon / Thomson (D19-20)",
+    "displayText": "326 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "aap8nz",
+    "objectId": "3060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327 Ang Mo Kio Avenue 3  560327, Serangoon / Thomson (D19-20)",
+    "displayText": "327 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "84dv7i",
+    "objectId": "3061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Ang Mo Kio Avenue 3  560328, Serangoon / Thomson (D19-20)",
+    "displayText": "328 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "2jwxyr",
+    "objectId": "3062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Ang Mo Kio Avenue 3  560329, Serangoon / Thomson (D19-20)",
+    "displayText": "329 Ang Mo Kio Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "hhp1o0",
+    "objectId": "3063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

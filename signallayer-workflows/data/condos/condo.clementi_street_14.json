@@ -1,0 +1,1524 @@
+[
+  {
+    "displayDescription": "101 Clementi Street 14  120101, City & South West (D01-08)",
+    "displayText": "101 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "6sxiuq",
+    "objectId": "5444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Clementi Street 14  120102, City & South West (D01-08)",
+    "displayText": "102 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "i83fbt",
+    "objectId": "5445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Clementi Street 14  120103, City & South West (D01-08)",
+    "displayText": "103 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "dkkfqh",
+    "objectId": "5446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Clementi Street 14  120104, City & South West (D01-08)",
+    "displayText": "104 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "qu44nr",
+    "objectId": "5447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Clementi Street 13",
+    "displayType": "Street",
+    "objectId": "6853",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "Ave 1 Clementi  120000, City & South West (D01-08)",
+    "displayText": "The Clement Canopy",
+    "displayType": "Condominium",
+    "nanoId": "ztzyd3",
+    "objectId": "22866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Clementi West Street 2",
+    "displayType": "Street",
+    "objectId": "6488",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Clementi West Street 1",
+    "displayType": "Street",
+    "objectId": "7630",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "108 Clementi Street 11  120108, City & South West (D01-08)",
+    "displayText": "108 Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "gkpluk",
+    "objectId": "5427",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Clementi Street 11  120109, City & South West (D01-08)",
+    "displayText": "109 Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "4cd5zc",
+    "objectId": "5428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108A Clementi Street 11  121108, City & South West (D01-08)",
+    "displayText": "108A Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "eciy1z",
+    "objectId": "5429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109A Clementi Street 11  121109, City & South West (D01-08)",
+    "displayText": "109A Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "kya75c",
+    "objectId": "5430",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Clementi Street 12  120105, City & South West (D01-08)",
+    "displayText": "105 Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "uohyen",
+    "objectId": "5431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Clementi Street 12  120106, City & South West (D01-08)",
+    "displayText": "106 Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "zajp7l",
+    "objectId": "5432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Clementi Street 13  120110, City & South West (D01-08)",
+    "displayText": "110 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "jbtn5q",
+    "objectId": "5435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Clementi Street 13  120111, City & South West (D01-08)",
+    "displayText": "111 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "eidxi9",
+    "objectId": "5436",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Clementi Street 13  120112, City & South West (D01-08)",
+    "displayText": "112 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "o8sp2o",
+    "objectId": "5437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Clementi Street 13  120113, City & South West (D01-08)",
+    "displayText": "113 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "592mmr",
+    "objectId": "5438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Clementi Street 13  120114, City & South West (D01-08)",
+    "displayText": "114 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "s8tevv",
+    "objectId": "5439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Clementi Street 13  120115, City & South West (D01-08)",
+    "displayText": "115 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "rqaaiz",
+    "objectId": "5440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Clementi Street 13  120116, City & South West (D01-08)",
+    "displayText": "116 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "vyg6at",
+    "objectId": "5441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Clementi Street 13  120117, City & South West (D01-08)",
+    "displayText": "117 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "9u8sk3",
+    "objectId": "5442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Clementi Street 13  120118, City & South West (D01-08)",
+    "displayText": "118 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "nb7qf7",
+    "objectId": "5443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "601 Clementi West Street 1  120601, City & South West (D01-08)",
+    "displayText": "601 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "x9sicn",
+    "objectId": "5448",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "602 Clementi West Street 1  120602, City & South West (D01-08)",
+    "displayText": "602 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "8w44rz",
+    "objectId": "5449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "603 Clementi West Street 1  120603, City & South West (D01-08)",
+    "displayText": "603 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "g66p5y",
+    "objectId": "5450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "604 Clementi West Street 1  120604, City & South West (D01-08)",
+    "displayText": "604 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "1hsce2",
+    "objectId": "5451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605 Clementi West Street 1  120605, City & South West (D01-08)",
+    "displayText": "605 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "j0lfm1",
+    "objectId": "5452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606 Clementi West Street 1  120606, City & South West (D01-08)",
+    "displayText": "606 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "975llk",
+    "objectId": "5453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "607 Clementi West Street 1  120607, City & South West (D01-08)",
+    "displayText": "607 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "4vvesd",
+    "objectId": "5454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608 Clementi West Street 1  120608, City & South West (D01-08)",
+    "displayText": "608 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "y1m9az",
+    "objectId": "5455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609 Clementi West Street 1  120609, City & South West (D01-08)",
+    "displayText": "609 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "5g0u8x",
+    "objectId": "5456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "610 Clementi West Street 1  120610, City & South West (D01-08)",
+    "displayText": "610 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "jg6q5v",
+    "objectId": "5457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "611 Clementi West Street 1  120611, City & South West (D01-08)",
+    "displayText": "611 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "24zqg4",
+    "objectId": "5458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "612 Clementi West Street 1  120612, City & South West (D01-08)",
+    "displayText": "612 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "vvlt1n",
+    "objectId": "5459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613 Clementi West Street 1  120613, City & South West (D01-08)",
+    "displayText": "613 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "2lodm5",
+    "objectId": "5460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "705 Clementi West Street 2  120705, City & South West (D01-08)",
+    "displayText": "705 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "oys0va",
+    "objectId": "5461",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "706 Clementi West Street 2  120706, City & South West (D01-08)",
+    "displayText": "706 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "slp02o",
+    "objectId": "5462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "707 Clementi West Street 2  120707, City & South West (D01-08)",
+    "displayText": "707 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "w79ehn",
+    "objectId": "5463",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "708 Clementi West Street 2  120708, City & South West (D01-08)",
+    "displayText": "708 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "6kan4c",
+    "objectId": "5464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "709 Clementi West Street 2  120709, City & South West (D01-08)",
+    "displayText": "709 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "cokr9f",
+    "objectId": "5465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "710 Clementi West Street 2  120710, City & South West (D01-08)",
+    "displayText": "710 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "7zlw6z",
+    "objectId": "5466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "711 Clementi West Street 2  120711, City & South West (D01-08)",
+    "displayText": "711 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "tvkp29",
+    "objectId": "5467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "712 Clementi West Street 2  120712, City & South West (D01-08)",
+    "displayText": "712 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "r6fza9",
+    "objectId": "5468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "713 Clementi West Street 2  120713, City & South West (D01-08)",
+    "displayText": "713 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "exbbq1",
+    "objectId": "5469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "714 Clementi West Street 2  120714, City & South West (D01-08)",
+    "displayText": "714 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "30uy75",
+    "objectId": "5470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "715 Clementi West Street 2  120715, City & South West (D01-08)",
+    "displayText": "715 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "rbt4cd",
+    "objectId": "5471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "716 Clementi West Street 2  120716, City & South West (D01-08)",
+    "displayText": "716 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "td1mep",
+    "objectId": "5472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "717 Clementi West Street 2  120717, City & South West (D01-08)",
+    "displayText": "717 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "xps8ee",
+    "objectId": "5473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "720 Clementi West Street 2  120720, City & South West (D01-08)",
+    "displayText": "720 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "s3aqd1",
+    "objectId": "5474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "721 Clementi West Street 2  120721, City & South West (D01-08)",
+    "displayText": "721 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "biw2vp",
+    "objectId": "5475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "722 Clementi West Street 2  120722, City & South West (D01-08)",
+    "displayText": "722 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "12v78u",
+    "objectId": "5476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "723 Clementi West Street 2  120723, City & South West (D01-08)",
+    "displayText": "723 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "pyqpcm",
+    "objectId": "5477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "724 Clementi West Street 2  120724, City & South West (D01-08)",
+    "displayText": "724 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "avh66y",
+    "objectId": "5478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "725 Clementi West Street 2  120725, City & South West (D01-08)",
+    "displayText": "725 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "k1fqek",
+    "objectId": "5479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "726 Clementi West Street 2  120726, City & South West (D01-08)",
+    "displayText": "726 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "5df3rg",
+    "objectId": "5480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "727 Clementi West Street 2  120727, City & South West (D01-08)",
+    "displayText": "727 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "wc1blw",
+    "objectId": "5481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "728 Clementi West Street 2  120728, City & South West (D01-08)",
+    "displayText": "728 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "qz8aez",
+    "objectId": "5482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "729 Clementi West Street 2  120729, City & South West (D01-08)",
+    "displayText": "729 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "88wf5v",
+    "objectId": "5483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "730 Clementi West Street 2  120730, City & South West (D01-08)",
+    "displayText": "730 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "2xcjqh",
+    "objectId": "5484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "731 Clementi West Street 2  120731, City & South West (D01-08)",
+    "displayText": "731 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "0wjuc3",
+    "objectId": "5485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Clementi Street 12  120107, City & South West (D01-08)",
+    "displayText": "107 Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "ef2xrd",
+    "objectId": "5433",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107A Clementi Street 12  121107, City & South West (D01-08)",
+    "displayText": "107A Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "vqlsk7",
+    "objectId": "5434",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D5",
+    "displayText": "D05 Buona Vista / West Coast / Clementi New Town",
+    "displayType": "District",
+    "objectId": "D05",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D05"
+    }
+  },
+  {
+    "displayDescription": "D21",
+    "displayText": "D21 Clementi Park / Upper Bukit Timah",
+    "displayType": "District",
+    "objectId": "D21",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D21"
+    }
+  },
+  {
+    "displayText": "Clementi",
+    "displayType": "HDB Estate",
+    "objectId": "10",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "Clementi Avenue 1  120403, City & South West (D01-08)",
+    "displayText": "Clavon",
+    "displayType": "Condominium",
+    "nanoId": "umgr9u",
+    "objectId": "24518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "010101 Sunset Drive  597000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Clementi Park",
+    "displayType": "Condominium",
+    "nanoId": "9snbz8",
+    "objectId": "230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311C Clementi Avenue 4  123311, City & South West (D01-08)",
+    "displayText": "311C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vpdjy7",
+    "objectId": "23490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311A Clementi Avenue 4  121311, City & South West (D01-08)",
+    "displayText": "311A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x55i4m",
+    "objectId": "20894",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "441B Clementi Avenue 3  122441, City & South West (D01-08)",
+    "displayText": "441B Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "6k2v8g",
+    "objectId": "21135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "441A Clementi Avenue 3  121441, City & South West (D01-08)",
+    "displayText": "441A Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "het6cv",
+    "objectId": "21246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "425 Clementi Avenue 1  120425, City & South West (D01-08)",
+    "displayText": "425 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "m1e87l",
+    "objectId": "21904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312A Clementi Avenue 4  121312, City & South West (D01-08)",
+    "displayText": "312A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x1msjn",
+    "objectId": "22765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312C Clementi Avenue 4  123312, City & South West (D01-08)",
+    "displayText": "312C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xfdwml",
+    "objectId": "22766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312B Clementi Avenue 4  122312, City & South West (D01-08)",
+    "displayText": "312B Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t83d0f",
+    "objectId": "23201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440C Clementi Avenue 3  123440, City & South West (D01-08)",
+    "displayText": "440C Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "pmsb6a",
+    "objectId": "23376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311B Clementi Avenue 4  122311, City & South West (D01-08)",
+    "displayText": "311B Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "mm7adl",
+    "objectId": "23489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "459 Clementi Avenue 3  120459, City & South West (D01-08)",
+    "displayText": "459 Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "bb6kj6",
+    "objectId": "5365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Clementi Avenue 4",
+    "displayType": "Street",
+    "objectId": "3891",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Clementi Avenue 3",
+    "displayType": "Street",
+    "objectId": "4762",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Clementi Avenue 1",
+    "displayType": "Street",
+    "objectId": "6179",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "341 Clementi Avenue 5  120341, City & South West (D01-08)",
+    "displayText": "341 Clementi Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "7mvss9",
+    "objectId": "13020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Clementi Crescent  599000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Clementi Green",
+    "displayType": "Terraced House",
+    "nanoId": "2w088m",
+    "objectId": "1834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "420 Clementi Avenue 1  120420, City & South West (D01-08)",
+    "displayText": "420 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "decubr",
+    "objectId": "21344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "421 Clementi Avenue 1  120421, City & South West (D01-08)",
+    "displayText": "421 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "uppr5d",
+    "objectId": "21404",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Clementi Avenue 1  120417, City & South West (D01-08)",
+    "displayText": "417 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ivj43q",
+    "objectId": "21930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440B Clementi Avenue 3  122440, City & South West (D01-08)",
+    "displayText": "440B Clementi Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "siurdw",
+    "objectId": "22003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416 Clementi Avenue 1  120416, City & South West (D01-08)",
+    "displayText": "416 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "woqrkj",
+    "objectId": "22253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Clementi Avenue 1  120418, City & South West (D01-08)",
+    "displayText": "418 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "5pm6ah",
+    "objectId": "22393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419 Clementi Avenue 1  120419, City & South West (D01-08)",
+    "displayText": "419 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "hj9ljo",
+    "objectId": "22394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420A Clementi Avenue 1  121420, City & South West (D01-08)",
+    "displayText": "420A Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ei3xnw",
+    "objectId": "22395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "422 Clementi Avenue 1  120422, City & South West (D01-08)",
+    "displayText": "422 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "aq3fv8",
+    "objectId": "22396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "423 Clementi Avenue 1  120423, City & South West (D01-08)",
+    "displayText": "423 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "z13pg4",
+    "objectId": "22397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "424 Clementi Avenue 1  120424, City & South West (D01-08)",
+    "displayText": "424 Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "7gvzhp",
+    "objectId": "22398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "423A Clementi Avenue 1  121423, City & South West (D01-08)",
+    "displayText": "423A Clementi Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "nuazcq",
+    "objectId": "22399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312D Clementi Avenue 4  124312, City & South West (D01-08)",
+    "displayText": "312D Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "7a6thx",
+    "objectId": "22767",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 Clementi Avenue 6  120207, City & South West (D01-08)",
+    "displayText": "207 Clementi Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "8wl414",
+    "objectId": "22921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208A Clementi Avenue 6  121208, City & South West (D01-08)",
+    "displayText": "208A Clementi Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "1af4ma",
+    "objectId": "22922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208B Clementi Avenue 6  122208, City & South West (D01-08)",
+    "displayText": "208B Clementi Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "sntg5w",
+    "objectId": "22923",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

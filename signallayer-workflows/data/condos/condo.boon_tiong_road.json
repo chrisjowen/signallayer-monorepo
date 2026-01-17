@@ -1,0 +1,1492 @@
+[
+  {
+    "displayText": "Boon Tiong Road",
+    "displayType": "Street",
+    "objectId": "10281",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10B Boon Tiong Road  164010, City & South West (D01-08)",
+    "displayText": "10B Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "d0g18z",
+    "objectId": "22058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10A Boon Tiong Road  160010, City & South West (D01-08)",
+    "displayText": "10A Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "2f89ho",
+    "objectId": "22135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9A Boon Tiong Road  162009, City & South West (D01-08)",
+    "displayText": "9A Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "uj5nl7",
+    "objectId": "22236",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9B Boon Tiong Road  163009, City & South West (D01-08)",
+    "displayText": "9B Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "p0ssdo",
+    "objectId": "22332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Boon Tiong Road  160013, City & South West (D01-08)",
+    "displayText": "13 Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "4asmej",
+    "objectId": "4067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Boon Tiong Road  160015, City & South West (D01-08)",
+    "displayText": "15 Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "hc5m1y",
+    "objectId": "4068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Boon Tiong Road  160016, City & South West (D01-08)",
+    "displayText": "16 Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "d191ro",
+    "objectId": "4069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12A Boon Tiong Road  164012, City & South West (D01-08)",
+    "displayText": "12A Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "7n8nrn",
+    "objectId": "4070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2A Boon Tiong Road  164002, City & South West (D01-08)",
+    "displayText": "2A Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "xlcfyl",
+    "objectId": "4071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2B Boon Tiong Road  165002, City & South West (D01-08)",
+    "displayText": "2B Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "hpgy34",
+    "objectId": "4072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2C Boon Tiong Road  166002, City & South West (D01-08)",
+    "displayText": "2C Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "ony6r9",
+    "objectId": "4073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2D Boon Tiong Road  167002, City & South West (D01-08)",
+    "displayText": "2D Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "38k01p",
+    "objectId": "4074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4A Boon Tiong Road  164004, City & South West (D01-08)",
+    "displayText": "4A Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "agxvjq",
+    "objectId": "4075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4B Boon Tiong Road  165004, City & South West (D01-08)",
+    "displayText": "4B Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "w1x343",
+    "objectId": "4076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6A Boon Tiong Road  164006, City & South West (D01-08)",
+    "displayText": "6A Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "2vpu24",
+    "objectId": "4077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6B Boon Tiong Road  165006, City & South West (D01-08)",
+    "displayText": "6B Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "2la8vk",
+    "objectId": "4078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6C Boon Tiong Road  166006, City & South West (D01-08)",
+    "displayText": "6C Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "ix2r7z",
+    "objectId": "4079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8A Boon Tiong Road  164008, City & South West (D01-08)",
+    "displayText": "8A Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "m3gq6i",
+    "objectId": "4080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8B Boon Tiong Road  165008, City & South West (D01-08)",
+    "displayText": "8B Boon Tiong Road",
+    "displayType": "HDB",
+    "nanoId": "2grccj",
+    "objectId": "4081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Thong Soon Road",
+    "displayType": "Street",
+    "objectId": "10973",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Thong Soon Green  010000, North (D25-28)",
+    "displayText": "Heeton Park",
+    "displayType": "Terraced House",
+    "nanoId": "tr3ka3",
+    "objectId": "2008",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Thong Soon Rd",
+    "displayType": "Street",
+    "objectId": "10328",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Thong Soon Avenue",
+    "displayType": "Street",
+    "objectId": "25021",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "58 Seng Poh Road  160058, City & South West (D01-08)",
+    "displayText": "Tiong Bahru Estate",
+    "displayType": "Apartment",
+    "nanoId": "jvqgqa",
+    "objectId": "2532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        "5"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tiong Bahru Road",
+    "displayType": "Street",
+    "objectId": "10540",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Tiong Bahru Road  162001, City & South West (D01-08)",
+    "displayText": "1 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "1atu1w",
+    "objectId": "11483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Tiong Bahru Road  162003, City & South West (D01-08)",
+    "displayText": "3 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "qst1ap",
+    "objectId": "11484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Tiong Bahru Road  162005, City & South West (D01-08)",
+    "displayText": "5 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "z3a6lc",
+    "objectId": "11485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Tiong Bahru Road  161007, City & South West (D01-08)",
+    "displayText": "7 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "t30noo",
+    "objectId": "11486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Tiong Bahru Road  161009, City & South West (D01-08)",
+    "displayText": "9 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "htiuft",
+    "objectId": "11487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Tiong Bahru Road  161011, City & South West (D01-08)",
+    "displayText": "11 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "bklf5t",
+    "objectId": "11488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Tiong Bahru Road  162014, City & South West (D01-08)",
+    "displayText": "14 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "ks4zpo",
+    "objectId": "11489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Tiong Bahru Road  163018, City & South West (D01-08)",
+    "displayText": "18 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "h6neyu",
+    "objectId": "11490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Tiong Bahru Road  163020, City & South West (D01-08)",
+    "displayText": "20 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "ccrojr",
+    "objectId": "11491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Tiong Bahru Road  165022, City & South West (D01-08)",
+    "displayText": "22 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "lkpc6g",
+    "objectId": "11492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Tiong Bahru Road  164024, City & South West (D01-08)",
+    "displayText": "24 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "x46fe1",
+    "objectId": "11493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Tiong Bahru Road  164026, City & South West (D01-08)",
+    "displayText": "26 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "w7veyb",
+    "objectId": "11494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Tiong Bahru Road  163028, City & South West (D01-08)",
+    "displayText": "28 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "g3lvfr",
+    "objectId": "11495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Tiong Bahru Road  162054, City & South West (D01-08)",
+    "displayText": "54 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "k3bdb0",
+    "objectId": "11496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Tiong Poh Road  160064, City & South West (D01-08)",
+    "displayText": "64 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "6d6o3x",
+    "objectId": "11497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Tiong Poh Road  160065, City & South West (D01-08)",
+    "displayText": "65 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "ixkawc",
+    "objectId": "11498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74 Tiong Poh Road  160074, City & South West (D01-08)",
+    "displayText": "74 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "nbosws",
+    "objectId": "11499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75 Tiong Poh Road  160075, City & South West (D01-08)",
+    "displayText": "75 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "yejnej",
+    "objectId": "11500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Tiong Poh Road  160081, City & South West (D01-08)",
+    "displayText": "81 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "8nk8cy",
+    "objectId": "11501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Tiong Poh Road  160082, City & South West (D01-08)",
+    "displayText": "82 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "8yk8p8",
+    "objectId": "11502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Tiong Bahru Road  160055, City & South West (D01-08)",
+    "displayText": "55 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "opwlii",
+    "objectId": "21132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161072, City & South West (D01-08)",
+    "displayText": "17 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "1vihgc",
+    "objectId": "21299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5",
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tiong Poh Road",
+    "displayType": "Street",
+    "objectId": "10353",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Thong Bee Road  778000, North (D25-28)",
+    "displayText": "Hong Heng Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "6ieazd",
+    "objectId": "2036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "30 Bideford Road  229922, Orchard / Holland (D09-10)",
+    "displayText": "Thong Sia Building",
+    "displayType": "Apartment",
+    "nanoId": "fx1hkk",
+    "objectId": "935",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Thong Bee Road",
+    "displayType": "Street",
+    "objectId": "13957",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "39  Ewe Boon Road  259334, Orchard / Holland (D09-10)",
+    "displayText": "Juniper Hill",
+    "displayType": "Condominium",
+    "nanoId": "y1v1ch",
+    "objectId": "23714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Ewe Boon Road  259324, Orchard / Holland (D09-10)",
+    "displayText": "Palm Spring",
+    "displayType": "Condominium",
+    "nanoId": "h1hxae",
+    "objectId": "282",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Boon Keng Road  330007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "n77k4y",
+    "objectId": "1585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Ewe Boon Road  259325, Orchard / Holland (D09-10)",
+    "displayText": "Hallmark Residences",
+    "displayType": "Condominium",
+    "nanoId": "w0jem7",
+    "objectId": "21468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1037 Serangoon Road  328170, Balestier / Geylang (D12-14)",
+    "displayText": "The Arcady At Boon Keng",
+    "displayType": "Condominium",
+    "nanoId": "tbe8db",
+    "objectId": "25639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Boon Keng Road  330008, Balestier / Geylang (D12-14)",
+    "displayText": "8 Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "gc3lzx",
+    "objectId": "23705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Boon Keng Road  330009, Balestier / Geylang (D12-14)",
+    "displayText": "9 Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "ca99td",
+    "objectId": "23709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Ewe Boon Road  259313, Orchard / Holland (D09-10)",
+    "displayText": "The Princeton",
+    "displayType": "Apartment",
+    "nanoId": "ssyxp6",
+    "objectId": "1051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14A Upper Boon Keng Road  381014, Balestier / Geylang (D12-14)",
+    "displayText": "14A Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "u090li",
+    "objectId": "11666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Boon Teck Road  329583, Balestier / Geylang (D12-14)",
+    "displayText": "VA Residences",
+    "displayType": "Condominium",
+    "nanoId": "2llg7d",
+    "objectId": "21432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8A Upper Boon Keng Road  381008, Balestier / Geylang (D12-14)",
+    "displayText": "8A Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "dnu0og",
+    "objectId": "22880",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8B Upper Boon Keng Road  382008, Balestier / Geylang (D12-14)",
+    "displayText": "8B Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "lxyya9",
+    "objectId": "22917",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8C Upper Boon Keng Road  383008, Balestier / Geylang (D12-14)",
+    "displayText": "8C Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "7fws7p",
+    "objectId": "22918",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Ewe Boon Road  259342, Orchard / Holland (D09-10)",
+    "displayText": "Cliften",
+    "displayType": "Apartment",
+    "nanoId": "obrkzf",
+    "objectId": "310",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Ewe Boon Road  259345, Orchard / Holland (D09-10)",
+    "displayText": "Chateau Le Fame",
+    "displayType": "Apartment",
+    "nanoId": "ohnlw0",
+    "objectId": "945",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Upper Boon Keng Road",
+    "displayType": "Street",
+    "objectId": "10384",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Boon Keng Road",
+    "displayType": "Street",
+    "objectId": "10847",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "41 Boon Teck Road  329608, Balestier / Geylang (D12-14)",
+    "displayText": "Boon Teck Towers",
+    "displayType": "Condominium",
+    "nanoId": "78f31z",
+    "objectId": "1027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Upper Boon Keng Road  380002, Balestier / Geylang (D12-14)",
+    "displayText": "2 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "urnj22",
+    "objectId": "11651",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Upper Boon Keng Road  380003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "xvpq9a",
+    "objectId": "11652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Upper Boon Keng Road  380011, Balestier / Geylang (D12-14)",
+    "displayText": "11 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "a70zw3",
+    "objectId": "11653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Upper Boon Keng Road  380012, Balestier / Geylang (D12-14)",
+    "displayText": "12 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "jj5buv",
+    "objectId": "11654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Upper Boon Keng Road  380013, Balestier / Geylang (D12-14)",
+    "displayText": "13 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "ftqck7",
+    "objectId": "11655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Upper Boon Keng Road  380014, Balestier / Geylang (D12-14)",
+    "displayText": "14 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "1wyzno",
+    "objectId": "11656",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Upper Boon Keng Road  380015, Balestier / Geylang (D12-14)",
+    "displayText": "15 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "u4fd9h",
+    "objectId": "11657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Upper Boon Keng Road  380016, Balestier / Geylang (D12-14)",
+    "displayText": "16 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "yw3kc3",
+    "objectId": "11658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Upper Boon Keng Road  380017, Balestier / Geylang (D12-14)",
+    "displayText": "17 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "yhzlsf",
+    "objectId": "11659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Upper Boon Keng Road  380018, Balestier / Geylang (D12-14)",
+    "displayText": "18 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "uhggh3",
+    "objectId": "11660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Upper Boon Keng Road  380019, Balestier / Geylang (D12-14)",
+    "displayText": "19 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "rlquq3",
+    "objectId": "11661",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Upper Boon Keng Road  380020, Balestier / Geylang (D12-14)",
+    "displayText": "20 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "xzit85",
+    "objectId": "11662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38 Upper Boon Keng Road  380038, Balestier / Geylang (D12-14)",
+    "displayText": "38 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "ruq2wd",
+    "objectId": "11663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39 Upper Boon Keng Road  380039, Balestier / Geylang (D12-14)",
+    "displayText": "39 Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "owm9ic",
+    "objectId": "11664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13A Upper Boon Keng Road  381013, Balestier / Geylang (D12-14)",
+    "displayText": "13A Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "pcyq3m",
+    "objectId": "11665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2A Upper Boon Keng Road  381002, Balestier / Geylang (D12-14)",
+    "displayText": "2A Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "brh2f4",
+    "objectId": "11667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2B Upper Boon Keng Road  382002, Balestier / Geylang (D12-14)",
+    "displayText": "2B Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "39hsrd",
+    "objectId": "11668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2C Upper Boon Keng Road  383002, Balestier / Geylang (D12-14)",
+    "displayText": "2C Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "6kau3q",
+    "objectId": "11669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2D Upper Boon Keng Road  384002, Balestier / Geylang (D12-14)",
+    "displayText": "2D Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "vorv47",
+    "objectId": "11670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3A Upper Boon Keng Road  381003, Balestier / Geylang (D12-14)",
+    "displayText": "3A Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "o8m8ov",
+    "objectId": "11671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3B Upper Boon Keng Road  382003, Balestier / Geylang (D12-14)",
+    "displayText": "3B Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "ks5721",
+    "objectId": "11672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3C Upper Boon Keng Road  383003, Balestier / Geylang (D12-14)",
+    "displayText": "3C Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "8ufjy7",
+    "objectId": "11673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3D Upper Boon Keng Road  384003, Balestier / Geylang (D12-14)",
+    "displayText": "3D Upper Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "4u9zch",
+    "objectId": "11674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Ewe Boon Road  259332, Orchard / Holland (D09-10)",
+    "displayText": "Ewe Boon Regent",
+    "displayType": "Condominium",
+    "nanoId": "4vsum7",
+    "objectId": "1216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "42 Boon Teck Road  329609, Balestier / Geylang (D12-14)",
+    "displayText": "Boon Teck Apartments",
+    "displayType": "Apartment",
+    "nanoId": "743li0",
+    "objectId": "1799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Ewe Boon Road  259343, Orchard / Holland (D09-10)",
+    "displayText": "Chiverton",
+    "displayType": "Condominium",
+    "nanoId": "5p7o47",
+    "objectId": "1815",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Ewe Boon Road  259330, Orchard / Holland (D09-10)",
+    "displayText": "Gisborne Light",
+    "displayType": "Apartment",
+    "nanoId": "jaer6w",
+    "objectId": "1958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Boon Teck Road  329602, Balestier / Geylang (D12-14)",
+    "displayText": "D'Mira",
+    "displayType": "Condominium",
+    "nanoId": "xp02yi",
+    "objectId": "20528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "155 - 155B Still Road  423992, East Coast (D15-16)",
+    "displayText": "Boon Court",
+    "displayType": "Walk-up",
+    "nanoId": "x511vq",
+    "objectId": "20835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "46 Boon Teck Road  329610, Balestier / Geylang (D12-14)",
+    "displayText": "Boon Teck Lodge",
+    "displayType": "Apartment",
+    "nanoId": "dgkqkr",
+    "objectId": "20836",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

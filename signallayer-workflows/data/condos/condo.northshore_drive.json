@@ -1,0 +1,1562 @@
+[
+  {
+    "displayDescription": "405A Northshore Drive  821405, Serangoon / Thomson (D19-20)",
+    "displayText": "405A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "iyrgd7",
+    "objectId": "24547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405B Northshore Drive  822405, Serangoon / Thomson (D19-20)",
+    "displayText": "405B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "4b06gs",
+    "objectId": "24548",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406A Northshore Drive  821406, Serangoon / Thomson (D19-20)",
+    "displayText": "406A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "0goj0z",
+    "objectId": "24550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406B Northshore Drive  822406, Serangoon / Thomson (D19-20)",
+    "displayText": "406B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "hvli79",
+    "objectId": "24551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408B Northshore Drive  822408, Serangoon / Thomson (D19-20)",
+    "displayText": "408B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "f5rr5y",
+    "objectId": "24556",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408C Northshore Drive  823408, Serangoon / Thomson (D19-20)",
+    "displayText": "408C Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "0kac55",
+    "objectId": "24557",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409A Northshore Drive  821409, Serangoon / Thomson (D19-20)",
+    "displayText": "409A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "v135tp",
+    "objectId": "24559",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409B Northshore Drive  822409, Serangoon / Thomson (D19-20)",
+    "displayText": "409B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "0hnzm3",
+    "objectId": "24560",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409C Northshore Drive  823409, Serangoon / Thomson (D19-20)",
+    "displayText": "409C Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "ng6q6v",
+    "objectId": "24561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413C Northshore Drive  823413, Serangoon / Thomson (D19-20)",
+    "displayText": "413C Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "r81n7g",
+    "objectId": "25308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "422A Northshore Drive  821422, Serangoon / Thomson (D19-20)",
+    "displayText": "422A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "q2s4hb",
+    "objectId": "25383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420B Northshore Drive  822420, Serangoon / Thomson (D19-20)",
+    "displayText": "420B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "cggi8h",
+    "objectId": "25425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413B Northshore Drive  822413, Serangoon / Thomson (D19-20)",
+    "displayText": "413B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "i3yh2e",
+    "objectId": "25430",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419A Northshore Drive  821419, Serangoon / Thomson (D19-20)",
+    "displayText": "419A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "lojfcs",
+    "objectId": "25471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419C Northshore Drive  823419, Serangoon / Thomson (D19-20)",
+    "displayText": "419C Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "ntpn54",
+    "objectId": "25473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419D Northshore Drive  824419, Serangoon / Thomson (D19-20)",
+    "displayText": "419D Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "xb5gqk",
+    "objectId": "25474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420A Northshore Drive  821420, Serangoon / Thomson (D19-20)",
+    "displayText": "420A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "63hnvk",
+    "objectId": "25475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420C Northshore Drive  823420, Serangoon / Thomson (D19-20)",
+    "displayText": "420C Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "ghlwpk",
+    "objectId": "25476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420D Northshore Drive  824420, Serangoon / Thomson (D19-20)",
+    "displayText": "420D Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "exs58v",
+    "objectId": "25477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410A Northshore Drive  821410, Serangoon / Thomson (D19-20)",
+    "displayText": "410A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "hb9aiy",
+    "objectId": "25504",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402A Northshore Drive  821402, Serangoon / Thomson (D19-20)",
+    "displayText": "402A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "nqmglg",
+    "objectId": "25789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402B Northshore Drive  822402, Serangoon / Thomson (D19-20)",
+    "displayText": "402B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "ew37du",
+    "objectId": "25819",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415B Northshore Drive  822415, Serangoon / Thomson (D19-20)",
+    "displayText": "415B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "9vykd1",
+    "objectId": "25836",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "437A Northshore Drive  821437, Serangoon / Thomson (D19-20)",
+    "displayText": "437A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "vlw1pl",
+    "objectId": "25838",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406C Northshore Drive  823406, Serangoon / Thomson (D19-20)",
+    "displayText": "406C Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "ubpjzh",
+    "objectId": "24552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408A Northshore Drive  821408, Serangoon / Thomson (D19-20)",
+    "displayText": "408A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "qyzk1y",
+    "objectId": "24555",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409D Northshore Drive  824409, Serangoon / Thomson (D19-20)",
+    "displayText": "409D Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "zob5tl",
+    "objectId": "24562",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419B Northshore Drive  822419, Serangoon / Thomson (D19-20)",
+    "displayText": "419B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "o5e87p",
+    "objectId": "25472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433B Northshore Drive  822433, Serangoon / Thomson (D19-20)",
+    "displayText": "433B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "zkfitu",
+    "objectId": "25797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "437B Northshore Drive  822437, Serangoon / Thomson (D19-20)",
+    "displayText": "437B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "w1euhn",
+    "objectId": "25858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "421A Northshore Drive  821421, Serangoon / Thomson (D19-20)",
+    "displayText": "421A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "ewl58w",
+    "objectId": "25873",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411B Northshore Drive  822411, Serangoon / Thomson (D19-20)",
+    "displayText": "411B NorthShore Drive",
+    "displayType": "HDB",
+    "nanoId": "vi1jgg",
+    "objectId": "25893",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "432B Northshore Drive  822432, Serangoon / Thomson (D19-20)",
+    "displayText": "432B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "kyjhsn",
+    "objectId": "25905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "438C Northshore Drive  823438, Serangoon / Thomson (D19-20)",
+    "displayText": "438C Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "emi1j7",
+    "objectId": "25916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "401A Northshore Drive  821401, Serangoon / Thomson (D19-20)",
+    "displayText": "401A Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "d8yb5v",
+    "objectId": "25994",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "438B Northshore Drive  822438, Serangoon / Thomson (D19-20)",
+    "displayText": "438B Northshore Drive",
+    "displayType": "HDB",
+    "nanoId": "mqdx65",
+    "objectId": "26002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Ponggol Seventeenth Avenue  829000, Serangoon / Thomson (D19-20)",
+    "displayText": "Northshore Bungalows",
+    "displayType": "Detached House",
+    "nanoId": "sh13ly",
+    "objectId": "2251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "405 Northshore Walk  820405, Serangoon / Thomson (D19-20)",
+    "displayText": "405 Northshore Walk",
+    "displayType": "HDB",
+    "nanoId": "7qse48",
+    "objectId": "24546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407C Northshore Link  823407, Serangoon / Thomson (D19-20)",
+    "displayText": "407C Northshore Link",
+    "displayType": "HDB",
+    "nanoId": "7clo80",
+    "objectId": "24553",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Northshore Link  820408, Serangoon / Thomson (D19-20)",
+    "displayText": "408 Northshore Link",
+    "displayType": "HDB",
+    "nanoId": "1nsbp2",
+    "objectId": "24554",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Northshore Link  820409, Serangoon / Thomson (D19-20)",
+    "displayText": "409 Northshore Link",
+    "displayType": "HDB",
+    "nanoId": "oy0ck6",
+    "objectId": "24558",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "425A Northshore Crescent  821425, Serangoon / Thomson (D19-20)",
+    "displayText": "425A Northshore Crescent",
+    "displayType": "HDB",
+    "nanoId": "m1xled",
+    "objectId": "25765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "422B Northshore Dr  822422, Serangoon / Thomson (D19-20)",
+    "displayText": "422B Northshore Dr",
+    "displayType": "HDB",
+    "nanoId": "u3vi0z",
+    "objectId": "25778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Northshore Walk  820406, Serangoon / Thomson (D19-20)",
+    "displayText": "406 Northshore Walk",
+    "displayType": "HDB",
+    "nanoId": "l28l8u",
+    "objectId": "24549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Keppel Bay Drive  098635, City & South West (D01-08)",
+    "displayText": "Caribbean at Keppel Bay",
+    "displayType": "Condominium",
+    "nanoId": "gd6fgu",
+    "objectId": "65",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Sims Drive  387386, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Urban Oasis",
+    "displayType": "Condominium",
+    "nanoId": "grb4fv",
+    "objectId": "22053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Bidadari Park Drive  341105, Balestier / Geylang (D12-14)",
+    "displayText": "The Woodleigh Residences",
+    "displayType": "Apartment",
+    "nanoId": "s6h3kh",
+    "objectId": "23532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Sims Drive  387395, Balestier / Geylang (D12-14)",
+    "displayText": "Penrose",
+    "displayType": "Condominium",
+    "nanoId": "ntn5a0",
+    "objectId": "24454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Buangkok Drive  540000, Serangoon / Thomson (D19-20)",
+    "displayText": "Jewel @ Buangkok",
+    "displayType": "Condominium",
+    "nanoId": "cw22qc",
+    "objectId": "21639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Lakeside Drive  648305, West (D22-24)",
+    "displayText": "The Lakefront Residences",
+    "displayType": "Condominium",
+    "nanoId": "2pyi4i",
+    "objectId": "20561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "160 Canberra Drive  767999, North (D25-28)",
+    "displayText": "The Brownstone",
+    "displayType": "Executive Condominium",
+    "nanoId": "kbzy12",
+    "objectId": "22200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "174 Canberra Drive  767949, North (D25-28)",
+    "displayText": "The Visionaire",
+    "displayType": "Executive Condominium",
+    "nanoId": "e0j5mx",
+    "objectId": "22501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Bedok North Drive  465493, East Coast (D15-16)",
+    "displayText": "Bedok Residences",
+    "displayType": "Condominium",
+    "nanoId": "fbqjc4",
+    "objectId": "21109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Woodlands Drive 16  737763, North (D25-28)",
+    "displayText": "Forestville",
+    "displayType": "Executive Condominium",
+    "nanoId": "wl2w79",
+    "objectId": "21431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Lakeside Drive  648315, West (D22-24)",
+    "displayText": "Caspian",
+    "displayType": "Condominium",
+    "nanoId": "aq7fqm",
+    "objectId": "1395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "81 West Coast Drive  127997, City & South West (D01-08)",
+    "displayText": "Hundred Trees",
+    "displayType": "Condominium",
+    "nanoId": "6n3ilu",
+    "objectId": "1589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Bright Hill Drive  573883, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Three",
+    "displayType": "Condominium",
+    "nanoId": "47sing",
+    "objectId": "21732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sembawang Drive  750000, North (D25-28)",
+    "displayText": "SkyPark Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "ubfhgr",
+    "objectId": "21786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Rochester Drive  138638, City & South West (D01-08)",
+    "displayText": "The Rochester Residences",
+    "displayType": "Apartment",
+    "nanoId": "sbisc7",
+    "objectId": "959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Sinaran Drive  307467, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Soleil @ Sinaran",
+    "displayType": "Condominium",
+    "nanoId": "xzidg4",
+    "objectId": "966",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Flora Drive  506856, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Olympia",
+    "displayType": "Condominium",
+    "nanoId": "6u1zmx",
+    "objectId": "21302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Canberra Drive  768094, North (D25-28)",
+    "displayText": "Eight Courtyards",
+    "displayType": "Condominium",
+    "nanoId": "z14pns",
+    "objectId": "20659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Punggol Drive  828794, Serangoon / Thomson (D19-20)",
+    "displayText": "Riverparc Residence",
+    "displayType": "Executive Condominium",
+    "nanoId": "nh5793",
+    "objectId": "20729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "276 Ocean Drive  098449, City & South West (D01-08)",
+    "displayText": "The Coast at Sentosa Cove",
+    "displayType": "Condominium",
+    "nanoId": "6pvzbk",
+    "objectId": "87",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Flora Drive  506941, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ferraria Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "utkpou",
+    "objectId": "1277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Flora Drive  506760, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Jovell",
+    "displayType": "Condominium",
+    "nanoId": "5xtzu9",
+    "objectId": "23508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Brookvale Drive  599973, Newton / Bt. Timah (D11, 21)",
+    "displayText": "KI Residences At Brookvale",
+    "displayType": "Condominium",
+    "nanoId": "8qyrvz",
+    "objectId": "24503",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Drive  507025, Changi / Pasir Ris (D17-18)",
+    "displayText": "Carissa Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cni6fm",
+    "objectId": "452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Mei Hwan Drive  568426, Serangoon / Thomson (D19-20)",
+    "displayText": "Goldenhill Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "2yoenc",
+    "objectId": "635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "71 Flora Drive  506881, Changi / Pasir Ris (D17-18)",
+    "displayText": "Hedges Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "42acye",
+    "objectId": "20652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "71 Rosewood Drive  737783, North (D25-28)",
+    "displayText": "Parc Rosewood",
+    "displayType": "Condominium",
+    "nanoId": "wgt1q5",
+    "objectId": "21121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Canberra Drive  768069, North (D25-28)",
+    "displayText": "1 Canberra",
+    "displayType": "Executive Condominium",
+    "nanoId": "164lvl",
+    "objectId": "21205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Rosewood Drive  737934, North (D25-28)",
+    "displayText": "Rosewood",
+    "displayType": "Condominium",
+    "nanoId": "8r862v",
+    "objectId": "534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 Pasir Ris Drive 1  519530, Changi / Pasir Ris (D17-18)",
+    "displayText": "Belysa",
+    "displayType": "Executive Condominium",
+    "nanoId": "fmtdzl",
+    "objectId": "20704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Woodlands Drive 72  738089, North (D25-28)",
+    "displayText": "Woodsvale",
+    "displayType": "Condominium",
+    "nanoId": "vhx3fm",
+    "objectId": "138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "501 Canberra Drive  768124, North (D25-28)",
+    "displayText": "Canberra Residences",
+    "displayType": "Condominium",
+    "nanoId": "ayip8u",
+    "objectId": "20599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "40 Flora Drive  506866, Changi / Pasir Ris (D17-18)",
+    "displayText": "Palm Isles",
+    "displayType": "Condominium",
+    "nanoId": "b39cdr",
+    "objectId": "21195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 West Coast Drive  128021, City & South West (D01-08)",
+    "displayText": "NEWest",
+    "displayType": "Apartment",
+    "nanoId": "9k7u4k",
+    "objectId": "21602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "59 Flora Drive  506846, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Inflora",
+    "displayType": "Condominium",
+    "nanoId": "3hkiid",
+    "objectId": "21789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "010101 Sunset Drive  597000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Clementi Park",
+    "displayType": "Condominium",
+    "nanoId": "9snbz8",
+    "objectId": "230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Margaret Drive  149312, City & South West (D01-08)",
+    "displayText": "Margaret Ville",
+    "displayType": "Apartment",
+    "nanoId": "x3aqz4",
+    "objectId": "23381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Pasir Ris Drive 8  519467, Changi / Pasir Ris (D17-18)",
+    "displayText": "Pasir Ris 8",
+    "displayType": "Apartment",
+    "nanoId": "1v0kur",
+    "objectId": "24626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lakepoint Drive  648923, West (D22-24)",
+    "displayText": "Lakepoint Condo",
+    "displayType": "Condominium",
+    "nanoId": "q7r0lx",
+    "objectId": "422",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Woodlands Drive 16  737892, North (D25-28)",
+    "displayText": "La Casa",
+    "displayType": "Condominium",
+    "nanoId": "kn1ogv",
+    "objectId": "110",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "228 Ocean Drive  098616, City & South West (D01-08)",
+    "displayText": "The Berth by the Cove",
+    "displayType": "Condominium",
+    "nanoId": "oi188t",
+    "objectId": "152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Gerald Drive  798592, North (D25-28)",
+    "displayText": "Seletar Springs Condominium",
+    "displayType": "Condominium",
+    "nanoId": "9qbzgw",
+    "objectId": "217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Boon Lay Drive  649000, West (D22-24)",
+    "displayText": "Summerdale",
+    "displayType": "Condominium",
+    "nanoId": "fnwnpp",
+    "objectId": "228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Robin Drive  258261, Orchard / Holland (D09-10)",
+    "displayText": "Robin Residences",
+    "displayType": "Condominium",
+    "nanoId": "sfclnc",
+    "objectId": "25218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "40 Canberra Drive  768433, North (D25-28)",
+    "displayText": "Yishun Sapphire",
+    "displayType": "Condominium",
+    "nanoId": "35hrtd",
+    "objectId": "296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Flora Drive  509904, Changi / Pasir Ris (D17-18)",
+    "displayText": "Kassia",
+    "displayType": "Condominium",
+    "nanoId": "q5b2eb",
+    "objectId": "25809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Rosewood Drive  737917, North (D25-28)",
+    "displayText": "Casablanca",
+    "displayType": "Condominium",
+    "nanoId": "pwr838",
+    "objectId": "295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "99 Bukit Drive  587841, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Raintree",
+    "displayType": "Condominium",
+    "nanoId": "v2eo3z",
+    "objectId": "73",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Pasir Ris Drive 4  519459, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Esparis",
+    "displayType": "Condominium",
+    "nanoId": "h1kjjz",
+    "objectId": "872",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "203 Ocean Drive  098583, City & South West (D01-08)",
+    "displayText": "The Azure",
+    "displayType": "Condominium",
+    "nanoId": "pk1st6",
+    "objectId": "111",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Elizabeth Drive  669743, West (D22-24)",
+    "displayText": "Hillvista",
+    "displayType": "Condominium",
+    "nanoId": "jvgpdu",
+    "objectId": "1200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Farrer Drive  259296, Orchard / Holland (D09-10)",
+    "displayText": "Pollen & Bleu",
+    "displayType": "Condominium",
+    "nanoId": "rv1mdn",
+    "objectId": "21778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Canberra Drive  768425, North (D25-28)",
+    "displayText": "Yishun Emerald",
+    "displayType": "Condominium",
+    "nanoId": "u2ck0v",
+    "objectId": "236",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Canberra Drive  769310, North (D25-28)",
+    "displayText": "The Watergardens at Canberra",
+    "displayType": "Condominium",
+    "nanoId": "taowe4",
+    "objectId": "24647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Bright Hill Drive  579653, Serangoon / Thomson (D19-20)",
+    "displayText": "Bishan Point",
+    "displayType": "Condominium",
+    "nanoId": "41m3my",
+    "objectId": "322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Pasir Ris Drive 3  519491, Changi / Pasir Ris (D17-18)",
+    "displayText": "Eastvale",
+    "displayType": "Condominium",
+    "nanoId": "vqlrl8",
+    "objectId": "343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

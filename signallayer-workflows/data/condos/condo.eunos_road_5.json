@@ -1,0 +1,1350 @@
+[
+  {
+    "displayDescription": "410 Eunos Road 5  400410, Balestier / Geylang (D12-14)",
+    "displayText": "410 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "whszpz",
+    "objectId": "6003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Eunos Road 5  400411, Balestier / Geylang (D12-14)",
+    "displayText": "411 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "0yaes7",
+    "objectId": "6004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Eunos Road 5  400412, Balestier / Geylang (D12-14)",
+    "displayText": "412 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "n41geq",
+    "objectId": "6005",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Eunos Road 5  400413, Balestier / Geylang (D12-14)",
+    "displayText": "413 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "2v74ff",
+    "objectId": "6006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Eunos Road 5  400414, Balestier / Geylang (D12-14)",
+    "displayText": "414 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "xqawld",
+    "objectId": "6007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Eunos Road 5  400415, Balestier / Geylang (D12-14)",
+    "displayText": "415 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "ks4hng",
+    "objectId": "6008",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416 Eunos Road 5  400416, Balestier / Geylang (D12-14)",
+    "displayText": "416 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "8pol7t",
+    "objectId": "6009",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Eunos Road 5  400417, Balestier / Geylang (D12-14)",
+    "displayText": "417 Eunos Road 5",
+    "displayType": "HDB",
+    "nanoId": "a5ob0q",
+    "objectId": "6010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Eunos Road 2",
+    "displayType": "Street",
+    "objectId": "831",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Road 6",
+    "displayType": "Street",
+    "objectId": "835",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Road 1",
+    "displayType": "Street",
+    "objectId": "830",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Road 8",
+    "displayType": "Street",
+    "objectId": "837",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Road",
+    "displayType": "Street",
+    "objectId": "15791",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "5 Eunos Crescent  400005, Balestier / Geylang (D12-14)",
+    "displayText": "5 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "u0ntm0",
+    "objectId": "5971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Kampong Eunos  417771, Balestier / Geylang (D12-14)",
+    "displayText": "Eunos Park",
+    "displayType": "Condominium",
+    "nanoId": "cx4diy",
+    "objectId": "736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Eunos Avenue 5",
+    "displayType": "Street",
+    "objectId": "822",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos  5",
+    "displayType": "Street",
+    "objectId": "834",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "37B Eunos Road 2  402037, Balestier / Geylang (D12-14)",
+    "displayText": "37B Eunos Road 2",
+    "displayType": "HDB",
+    "nanoId": "fc06a4",
+    "objectId": "25754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37A Eunos Road 2   401037, Balestier / Geylang (D12-14)",
+    "displayText": "37A Eunos Road 2",
+    "displayType": "HDB",
+    "nanoId": "ldawkb",
+    "objectId": "25755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37 Eunos Road 2  400037, Balestier / Geylang (D12-14)",
+    "displayText": "37 Eunos Road 2",
+    "displayType": "HDB",
+    "nanoId": "pwsfyk",
+    "objectId": "25756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38C Eunos Road 2  403038, Balestier / Geylang (D12-14)",
+    "displayText": "38C Eunos Road 2",
+    "displayType": "HDB",
+    "nanoId": "2l36pk",
+    "objectId": "25806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D14",
+    "displayText": "D14 Eunos / Geylang / Paya Lebar",
+    "displayType": "District",
+    "objectId": "D14",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D14"
+    }
+  },
+  {
+    "displayDescription": "332 Jalan Eunos  415816, Balestier / Geylang (D12-14)",
+    "displayText": "Euhabitat",
+    "displayType": "Condominium",
+    "nanoId": "s3ojyb",
+    "objectId": "20741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "207 Jalan Eunos  415799, Balestier / Geylang (D12-14)",
+    "displayText": "Urban Treasures",
+    "displayType": "Condominium",
+    "nanoId": "snk9qk",
+    "objectId": "23806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Eunos  419000, Balestier / Geylang (D12-14)",
+    "displayText": "The Navian",
+    "displayType": "Condominium",
+    "nanoId": "c8u994",
+    "objectId": "23261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Kampong Eunos  417777, Balestier / Geylang (D12-14)",
+    "displayText": "Deng Fu Ville",
+    "displayType": "Condominium",
+    "nanoId": "j79br9",
+    "objectId": "1867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Kampong Eunos  417778, Balestier / Geylang (D12-14)",
+    "displayText": "Le Reve",
+    "displayType": "Condominium",
+    "nanoId": "1kzg77",
+    "objectId": "208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Eunos Crescent",
+    "displayType": "Street",
+    "objectId": "815",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Sims Avenue East  416558, Balestier / Geylang (D12-14)",
+    "displayText": "Eunos Green",
+    "displayType": "Condominium",
+    "nanoId": "20tg7w",
+    "objectId": "1916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Yasin  417958, Balestier / Geylang (D12-14)",
+    "displayText": "Suites @ Eunos",
+    "displayType": "Condominium",
+    "nanoId": "shvhav",
+    "objectId": "20562",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20A Sims Avenue East  416537, Balestier / Geylang (D12-14)",
+    "displayText": "Eunos Garden",
+    "displayType": "Apartment",
+    "nanoId": "7uo2y6",
+    "objectId": "20889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Eunos Crescent  400001, Balestier / Geylang (D12-14)",
+    "displayText": "1 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "p0uixr",
+    "objectId": "5967",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Eunos Crescent  400002, Balestier / Geylang (D12-14)",
+    "displayText": "2 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "27m37e",
+    "objectId": "5968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Eunos Crescent  400003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "wmqzyi",
+    "objectId": "5969",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Eunos Crescent  400008, Balestier / Geylang (D12-14)",
+    "displayText": "8 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "8risx7",
+    "objectId": "5974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Eunos Crescent  400009, Balestier / Geylang (D12-14)",
+    "displayText": "9 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "mnvskr",
+    "objectId": "5975",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Eunos Crescent  400010, Balestier / Geylang (D12-14)",
+    "displayText": "10 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "4ce7pt",
+    "objectId": "5976",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Eunos Crescent  400011, Balestier / Geylang (D12-14)",
+    "displayText": "11 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "nz4ius",
+    "objectId": "5977",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Eunos Crescent  400013, Balestier / Geylang (D12-14)",
+    "displayText": "13 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "epjf0t",
+    "objectId": "5979",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Eunos Crescent  400014, Balestier / Geylang (D12-14)",
+    "displayText": "14 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "61rjhi",
+    "objectId": "5980",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Eunos Crescent  400015, Balestier / Geylang (D12-14)",
+    "displayText": "15 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "ynpxai",
+    "objectId": "5981",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Eunos Crescent  400016, Balestier / Geylang (D12-14)",
+    "displayText": "16 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "imlnqg",
+    "objectId": "5982",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Eunos Crescent  400017, Balestier / Geylang (D12-14)",
+    "displayText": "17 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "h7ysu4",
+    "objectId": "5983",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Eunos Crescent  400018, Balestier / Geylang (D12-14)",
+    "displayText": "18 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "xbzpd7",
+    "objectId": "5984",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Eunos Crescent  400019, Balestier / Geylang (D12-14)",
+    "displayText": "19 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "04cisp",
+    "objectId": "5985",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Eunos Crescent  400020, Balestier / Geylang (D12-14)",
+    "displayText": "20 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "wcxtl4",
+    "objectId": "5986",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Eunos Crescent  400021, Balestier / Geylang (D12-14)",
+    "displayText": "21 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "eabg4b",
+    "objectId": "5987",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Eunos Crescent  400022, Balestier / Geylang (D12-14)",
+    "displayText": "22 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "ausauc",
+    "objectId": "5988",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Eunos Crescent  400023, Balestier / Geylang (D12-14)",
+    "displayText": "23 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "7ofcpm",
+    "objectId": "5989",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Eunos Crescent  400024, Balestier / Geylang (D12-14)",
+    "displayText": "24 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "g6w46n",
+    "objectId": "5990",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Eunos Crescent  400025, Balestier / Geylang (D12-14)",
+    "displayText": "25 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "trzkyx",
+    "objectId": "5991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Eunos Crescent  400031, Balestier / Geylang (D12-14)",
+    "displayText": "31 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "2qyke1",
+    "objectId": "5992",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Eunos Crescent  400032, Balestier / Geylang (D12-14)",
+    "displayText": "32 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "kci62r",
+    "objectId": "5993",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Eunos Crescent  400033, Balestier / Geylang (D12-14)",
+    "displayText": "33 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "gl0fwg",
+    "objectId": "5994",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Eunos Crescent  400034, Balestier / Geylang (D12-14)",
+    "displayText": "34 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "za5p7p",
+    "objectId": "5995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Eunos Crescent  400035, Balestier / Geylang (D12-14)",
+    "displayText": "35 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "yps3gf",
+    "objectId": "5996",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Eunos Crescent  400036, Balestier / Geylang (D12-14)",
+    "displayText": "36 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "ygmplo",
+    "objectId": "5997",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1A Eunos Crescent  401001, Balestier / Geylang (D12-14)",
+    "displayText": "1A Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "5dw4tg",
+    "objectId": "5998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31A Eunos Crescent  401031, Balestier / Geylang (D12-14)",
+    "displayText": "31A Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "o93chw",
+    "objectId": "6000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32A Eunos Crescent  401032, Balestier / Geylang (D12-14)",
+    "displayText": "32A Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "2n9uao",
+    "objectId": "6001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4A Eunos Crescent  402004, Balestier / Geylang (D12-14)",
+    "displayText": "4A Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "e0536m",
+    "objectId": "6002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kampong Eunos",
+    "displayType": "Street",
+    "objectId": "10352",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Eunos",
+    "displayType": "Street",
+    "objectId": "1269",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Technolink",
+    "displayType": "Street",
+    "objectId": "5591",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Link",
+    "displayType": "Street",
+    "objectId": "816",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 1",
+    "displayType": "Street",
+    "objectId": "818",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 2",
+    "displayType": "Street",
+    "objectId": "819",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 3",
+    "displayType": "Street",
+    "objectId": "820",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 7",
+    "displayType": "Street",
+    "objectId": "826",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 7A",
+    "displayType": "Street",
+    "objectId": "827",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Techpark",
+    "displayType": "Street",
+    "objectId": "9920",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "4 Eunos Crescent  400004, Balestier / Geylang (D12-14)",
+    "displayText": "4 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "17o7fk",
+    "objectId": "5970",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Eunos Crescent  400006, Balestier / Geylang (D12-14)",
+    "displayText": "6 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "qgy8ld",
+    "objectId": "5972",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Eunos Crescent  400007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "7x23gm",
+    "objectId": "5973",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Eunos Crescent  400012, Balestier / Geylang (D12-14)",
+    "displayText": "12 Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "23f207",
+    "objectId": "5978",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2A Eunos Crescent  401002, Balestier / Geylang (D12-14)",
+    "displayText": "2A Eunos Crescent",
+    "displayType": "HDB",
+    "nanoId": "kqfsir",
+    "objectId": "5999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Yasin<suites @eunos><suites@eunos>",
+    "displayType": "Street",
+    "objectId": "22950",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Ave 7",
+    "displayType": "Street",
+    "objectId": "4592",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 4",
+    "displayType": "Street",
+    "objectId": "821",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 5A",
+    "displayType": "Street",
+    "objectId": "823",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 6",
+    "displayType": "Street",
+    "objectId": "825",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 8",
+    "displayType": "Street",
+    "objectId": "828",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eunos Avenue 8A",
+    "displayType": "Street",
+    "objectId": "829",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "5 Kovan Road  544894, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Residences",
+    "displayType": "Condominium",
+    "nanoId": "t1hgwl",
+    "objectId": "1338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Mount Emily Road  228490, Orchard / Holland (D09-10)",
+    "displayText": "Parc Emily",
+    "displayType": "Condominium",
+    "nanoId": "rw6pdh",
+    "objectId": "120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Derbyshire Road  309461, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Fyve Derbyshire",
+    "displayType": "Condominium",
+    "nanoId": "iktrn1",
+    "objectId": "23564",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Peck Hay Road  228307, Orchard / Holland (D09-10)",
+    "displayText": "Vida",
+    "displayType": "Condominium",
+    "nanoId": "hukvm5",
+    "objectId": "472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Still Road  424012, East Coast (D15-16)",
+    "displayText": "Creston Residence",
+    "displayType": "Condominium",
+    "nanoId": "jbchro",
+    "objectId": "25672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Holt Road  249444, Orchard / Holland (D09-10)",
+    "displayText": "Holt Residences",
+    "displayType": "Condominium",
+    "nanoId": "rmmk0s",
+    "objectId": "281",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Sarkies Road  258125, Orchard / Holland (D09-10)",
+    "displayText": "Liberte",
+    "displayType": "Condominium",
+    "nanoId": "nqef9b",
+    "objectId": "21361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Balmoral Road  259786, Orchard / Holland (D09-10)",
+    "displayText": "Treasure on Balmoral",
+    "displayType": "Apartment",
+    "nanoId": "vll77l",
+    "objectId": "21365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Tiong Bahru Road  162005, City & South West (D01-08)",
+    "displayText": "5 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "z3a6lc",
+    "objectId": "11485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Yung Ping Road  610005, West (D22-24)",
+    "displayText": "5 Yung Ping Road",
+    "displayType": "HDB",
+    "nanoId": "dgvw3b",
+    "objectId": "12995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Pulasan Road  424373, East Coast (D15-16)",
+    "displayText": "Royale Mansions",
+    "displayType": "Condominium",
+    "nanoId": "zku0dh",
+    "objectId": "1425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Leedon Road  267830, Orchard / Holland (D09-10)",
+    "displayText": "Wilmer Park",
+    "displayType": "Apartment",
+    "nanoId": "2c7hxy",
+    "objectId": "1618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Bassein Road  309836, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Bassein Court",
+    "displayType": "Condominium",
+    "nanoId": "kdlcni",
+    "objectId": "1783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Coronation Road  269406, Orchard / Holland (D09-10)",
+    "displayText": "Coronation Arcade",
+    "displayType": "Apartment",
+    "nanoId": "ee00nb",
+    "objectId": "1840",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Derbyshire Road  309461, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Derby Court",
+    "displayType": "Condominium",
+    "nanoId": "x2rcn7",
+    "objectId": "1868",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Fernhill Road  259051, Orchard / Holland (D09-10)",
+    "displayText": "Fernhill Place",
+    "displayType": "Condominium",
+    "nanoId": "oel31q",
+    "objectId": "1881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Kim Keat Road  328843, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Lodge",
+    "displayType": "Apartment",
+    "nanoId": "l06aoz",
+    "objectId": "2094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

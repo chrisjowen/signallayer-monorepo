@@ -1,0 +1,1489 @@
+[
+  {
+    "displayText": "Geylang Bahru",
+    "displayType": "Street",
+    "objectId": "952",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Geylang Bahru Lane",
+    "displayType": "Street",
+    "objectId": "953",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "59A Geylang Bahru  330059, Balestier / Geylang (D12-14)",
+    "displayText": "59A Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "oi3mm3",
+    "objectId": "21929",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Geylang Bahru  330053, Balestier / Geylang (D12-14)",
+    "displayText": "53 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "hqevrd",
+    "objectId": "6167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Geylang Bahru  330054, Balestier / Geylang (D12-14)",
+    "displayText": "54 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "m0oqd2",
+    "objectId": "6168",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Geylang Bahru  330055, Balestier / Geylang (D12-14)",
+    "displayText": "55 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "jykhrx",
+    "objectId": "6169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Geylang Bahru  330056, Balestier / Geylang (D12-14)",
+    "displayText": "56 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "5s1m5d",
+    "objectId": "6170",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Geylang Bahru  330057, Balestier / Geylang (D12-14)",
+    "displayText": "57 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "925yhl",
+    "objectId": "6171",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Geylang Bahru  330058, Balestier / Geylang (D12-14)",
+    "displayText": "58 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "pvpj3o",
+    "objectId": "6172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Geylang Bahru  333059, Balestier / Geylang (D12-14)",
+    "displayText": "59 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "ubvafq",
+    "objectId": "6173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 Geylang Bahru  330060, Balestier / Geylang (D12-14)",
+    "displayText": "60 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "hhy5v2",
+    "objectId": "6174",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 Geylang Bahru  330062, Balestier / Geylang (D12-14)",
+    "displayText": "62 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "rp7m4y",
+    "objectId": "6176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "68 Geylang Bahru  330068, Balestier / Geylang (D12-14)",
+    "displayText": "68 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "0un4o2",
+    "objectId": "6177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "69 Geylang Bahru  330069, Balestier / Geylang (D12-14)",
+    "displayText": "69 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "ds4y9b",
+    "objectId": "6178",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70 Geylang Bahru  330070, Balestier / Geylang (D12-14)",
+    "displayText": "70 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "hkhimj",
+    "objectId": "6179",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Geylang Bahru  330072, Balestier / Geylang (D12-14)",
+    "displayText": "72 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "xr9hgh",
+    "objectId": "6180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73 Geylang Bahru  330073, Balestier / Geylang (D12-14)",
+    "displayText": "73 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "ml64tm",
+    "objectId": "6181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "93 Geylang Bahru  330093, Balestier / Geylang (D12-14)",
+    "displayText": "93 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "0stjwk",
+    "objectId": "6182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94 Geylang Bahru  330094, Balestier / Geylang (D12-14)",
+    "displayText": "94 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "60rg0k",
+    "objectId": "6183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95 Geylang Bahru  330095, Balestier / Geylang (D12-14)",
+    "displayText": "95 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "k3xrr5",
+    "objectId": "6184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96 Geylang Bahru  330096, Balestier / Geylang (D12-14)",
+    "displayText": "96 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "54uldk",
+    "objectId": "6185",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "97 Geylang Bahru  330097, Balestier / Geylang (D12-14)",
+    "displayText": "97 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "gygxbf",
+    "objectId": "6186",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59B Geylang Bahru  331059, Balestier / Geylang (D12-14)",
+    "displayText": "59B Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "cwhad1",
+    "objectId": "6187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59C Geylang Bahru  332059, Balestier / Geylang (D12-14)",
+    "displayText": "59C Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "v6ns1p",
+    "objectId": "6188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60A Geylang Bahru  331060, Balestier / Geylang (D12-14)",
+    "displayText": "60A Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "ef0g62",
+    "objectId": "6189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70A Geylang Bahru  331070, Balestier / Geylang (D12-14)",
+    "displayText": "70A Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "2rzpje",
+    "objectId": "6190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Kallang Bahru  330063, Balestier / Geylang (D12-14)",
+    "displayText": "63 Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "sfhiog",
+    "objectId": "8005",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Kallang Bahru  330064, Balestier / Geylang (D12-14)",
+    "displayText": "64 Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "x5cof3",
+    "objectId": "8006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Kallang Bahru  330065, Balestier / Geylang (D12-14)",
+    "displayText": "65 Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "jael64",
+    "objectId": "8007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Kallang Bahru  330066, Balestier / Geylang (D12-14)",
+    "displayText": "66 Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "d4kzuh",
+    "objectId": "8008",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Kallang Bahru  330067, Balestier / Geylang (D12-14)",
+    "displayText": "67 Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "a4wpq7",
+    "objectId": "8009",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "71 Kallang Bahru  330071, Balestier / Geylang (D12-14)",
+    "displayText": "71 Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "76hv1u",
+    "objectId": "8010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65A Kallang Bahru  331065, Balestier / Geylang (D12-14)",
+    "displayText": "65A Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "11trvk",
+    "objectId": "8011",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "69A Kallang Bahru  331069, Balestier / Geylang (D12-14)",
+    "displayText": "69A Kallang Bahru",
+    "displayType": "HDB",
+    "nanoId": "1vhd48",
+    "objectId": "8012",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Geylang Bahru  330361, Balestier / Geylang (D12-14)",
+    "displayText": "61 Geylang Bahru",
+    "displayType": "HDB",
+    "nanoId": "jiaptr",
+    "objectId": "6175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Geykang Bahru",
+    "displayType": "Street",
+    "objectId": "6567",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "36 Chay Yan Street  169905, City & South West (D01-08)",
+    "displayText": "The Regency at Tiong Bahru",
+    "displayType": "Condominium",
+    "nanoId": "ql9p4s",
+    "objectId": "142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "58 Seng Poh Road  160058, City & South West (D01-08)",
+    "displayText": "Tiong Bahru Estate",
+    "displayType": "Apartment",
+    "nanoId": "jvqgqa",
+    "objectId": "2532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        "5"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tiong Bahru Road",
+    "displayType": "Street",
+    "objectId": "10540",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "522 KAMPONG BAHRU ROAD  099454, City & South West (D01-08)",
+    "displayText": "Harbour Suites @ Kampong Bahru",
+    "displayType": "Condominium",
+    "nanoId": "vuk953",
+    "objectId": "20618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Tiong Bahru Road  162001, City & South West (D01-08)",
+    "displayText": "1 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "1atu1w",
+    "objectId": "11483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Tiong Bahru Road  162003, City & South West (D01-08)",
+    "displayText": "3 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "qst1ap",
+    "objectId": "11484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Tiong Bahru Road  162005, City & South West (D01-08)",
+    "displayText": "5 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "z3a6lc",
+    "objectId": "11485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Tiong Bahru Road  161007, City & South West (D01-08)",
+    "displayText": "7 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "t30noo",
+    "objectId": "11486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Tiong Bahru Road  161009, City & South West (D01-08)",
+    "displayText": "9 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "htiuft",
+    "objectId": "11487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Tiong Bahru Road  161011, City & South West (D01-08)",
+    "displayText": "11 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "bklf5t",
+    "objectId": "11488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Tiong Bahru Road  162014, City & South West (D01-08)",
+    "displayText": "14 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "ks4zpo",
+    "objectId": "11489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Tiong Bahru Road  163018, City & South West (D01-08)",
+    "displayText": "18 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "h6neyu",
+    "objectId": "11490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Tiong Bahru Road  163020, City & South West (D01-08)",
+    "displayText": "20 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "ccrojr",
+    "objectId": "11491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Tiong Bahru Road  165022, City & South West (D01-08)",
+    "displayText": "22 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "lkpc6g",
+    "objectId": "11492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Tiong Bahru Road  164024, City & South West (D01-08)",
+    "displayText": "24 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "x46fe1",
+    "objectId": "11493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Tiong Bahru Road  164026, City & South West (D01-08)",
+    "displayText": "26 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "w7veyb",
+    "objectId": "11494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Tiong Bahru Road  163028, City & South West (D01-08)",
+    "displayText": "28 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "g3lvfr",
+    "objectId": "11495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Tiong Bahru Road  162054, City & South West (D01-08)",
+    "displayText": "54 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "k3bdb0",
+    "objectId": "11496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Tiong Bahru Road  160055, City & South West (D01-08)",
+    "displayText": "55 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "opwlii",
+    "objectId": "21132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161072, City & South West (D01-08)",
+    "displayText": "17 Tiong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "1vihgc",
+    "objectId": "21299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5",
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "524 Kampong Bahru Road  099455, City & South West (D01-08)",
+    "displayText": "Permai Residences",
+    "displayType": "Condominium",
+    "nanoId": "wev125",
+    "objectId": "22502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "524 Kampong Bahru Road  099455, City & South West (D01-08)",
+    "displayText": "Permai Court",
+    "displayType": "Condominium",
+    "nanoId": "8cg5hu",
+    "objectId": "2316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "552 Kampong Bahru Roa  099454, City & South West (D01-08)",
+    "displayText": "Harbourside Apartments",
+    "displayType": "Condominium",
+    "nanoId": "jgtksk",
+    "objectId": "24898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "22 Kampong Bahru Hill  163022, City & South West (D01-08)",
+    "displayText": "22 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "7g7au2",
+    "objectId": "8018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Kampong Bahru Hill  160023, City & South West (D01-08)",
+    "displayText": "23 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "ozmdb6",
+    "objectId": "8019",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Kampong Bahru Road  161020, City & South West (D01-08)",
+    "displayText": "20 Kampong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "l3px3j",
+    "objectId": "8021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5",
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Lengkok Bahru  150043, City & South West (D01-08)",
+    "displayText": "43 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "l3k3bb",
+    "objectId": "8144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Lengkok Bahru  150044, City & South West (D01-08)",
+    "displayText": "44 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "rkhqn5",
+    "objectId": "8145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Lengkok Bahru  150045, City & South West (D01-08)",
+    "displayText": "45 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "txxpmw",
+    "objectId": "8146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Lengkok Bahru  150046, City & South West (D01-08)",
+    "displayText": "46 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "37o4v2",
+    "objectId": "8147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Lengkok Bahru  151047, City & South West (D01-08)",
+    "displayText": "47 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "lhbyz2",
+    "objectId": "8148",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Lengkok Bahru  151048, City & South West (D01-08)",
+    "displayText": "48 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "gt0s0j",
+    "objectId": "8149",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Lengkok Bahru  150051, City & South West (D01-08)",
+    "displayText": "51 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "4jamij",
+    "objectId": "8150",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Lengkok Bahru  150052, City & South West (D01-08)",
+    "displayText": "52 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "dwiebn",
+    "objectId": "8151",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Lengkok Bahru  150053, City & South West (D01-08)",
+    "displayText": "53 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "fb683g",
+    "objectId": "8152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Lengkok Bahru  150054, City & South West (D01-08)",
+    "displayText": "54 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "nhr05g",
+    "objectId": "8153",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Lengkok Bahru  151055, City & South West (D01-08)",
+    "displayText": "55 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "332qny",
+    "objectId": "8154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Lengkok Bahru  150056, City & South West (D01-08)",
+    "displayText": "56 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "svh8r3",
+    "objectId": "8155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Lengkok Bahru  151057, City & South West (D01-08)",
+    "displayText": "57 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "eqpsif",
+    "objectId": "8156",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Lengkok Bahru  150058, City & South West (D01-08)",
+    "displayText": "58 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "sb0647",
+    "objectId": "8157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Lengkok Bahru  150059, City & South West (D01-08)",
+    "displayText": "59 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "kep0zf",
+    "objectId": "8158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Lengkok Bahru  150061, City & South West (D01-08)",
+    "displayText": "61 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "24rujf",
+    "objectId": "8159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Lengkok Bahru  150064, City & South West (D01-08)",
+    "displayText": "64 Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "rai7pp",
+    "objectId": "8160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55A Lengkok Bahru  152055, City & South West (D01-08)",
+    "displayText": "55A Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "5b8j6p",
+    "objectId": "8161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63A Lengkok Bahru  151063, City & South West (D01-08)",
+    "displayText": "63A Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "gltiwh",
+    "objectId": "8162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63B Lengkok Bahru  152063, City & South West (D01-08)",
+    "displayText": "63B Lengkok Bahru",
+    "displayType": "HDB",
+    "nanoId": "gv1fkd",
+    "objectId": "8163",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kampong Bahru Hill",
+    "displayType": "Street",
+    "objectId": "10314",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kampong Bahru Road",
+    "displayType": "Street",
+    "objectId": "10886",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kallang Bahru",
+    "displayType": "Street",
+    "objectId": "1752",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lengkok Bahru",
+    "displayType": "Street",
+    "objectId": "1913",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kampung Bahru Road",
+    "displayType": "Street",
+    "objectId": "9922",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "18 Kampong Bahru Hill  160018, City & South West (D01-08)",
+    "displayText": "18 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "t4exbl",
+    "objectId": "8016",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Kampong Bahru Hill  160019, City & South West (D01-08)",
+    "displayText": "19 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "o2kuyl",
+    "objectId": "8017",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Kampong Bahru Hill  162024, City & South West (D01-08)",
+    "displayText": "24 Kampong Bahru Hill",
+    "displayType": "HDB",
+    "nanoId": "3iijfn",
+    "objectId": "8020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Kampong Bahru Road  160021, City & South West (D01-08)",
+    "displayText": "21 Kampong Bahru Road",
+    "displayType": "HDB",
+    "nanoId": "7u2ivg",
+    "objectId": "8022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5",
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kallang Bahru Industrial Estate",
+    "displayType": "Street",
+    "objectId": "1761",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "8 Geylong Lor 35  387940, Balestier / Geylang (D12-14)",
+    "displayText": "Baode Apartment",
+    "displayType": "Apartment",
+    "nanoId": "2qhde6",
+    "objectId": "1782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "260A Ang Mo Kio Street 21  561260, Serangoon / Thomson (D19-20)",
+    "displayText": "260A Kebun Baru Court",
+    "displayType": "HDB",
+    "nanoId": "hk7wvi",
+    "objectId": "23081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260B Ang Mo Kio Street 21  562260, Serangoon / Thomson (D19-20)",
+    "displayText": "260B Kebun Baru Court",
+    "displayType": "HDB",
+    "nanoId": "t1fazv",
+    "objectId": "23082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260C Ang Mo Kio Street 21  563260, Serangoon / Thomson (D19-20)",
+    "displayText": "260C Kebun Baru Court",
+    "displayType": "HDB",
+    "nanoId": "zl78gm",
+    "objectId": "23083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260D Ang Mo Kio Street 21  564260, Serangoon / Thomson (D19-20)",
+    "displayText": "260D Kebun Baru Court",
+    "displayType": "HDB",
+    "nanoId": "rmcz6a",
+    "objectId": "23084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Ang Mo Kio Street 21  562260, Serangoon / Thomson (D19-20)",
+    "displayText": "Kebun Baru Court",
+    "displayType": "HDB",
+    "nanoId": "gg14xt",
+    "objectId": "24722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Pasar Baru",
+    "displayType": "Street",
+    "objectId": "1611",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lengkok Baru",
+    "displayType": "Street",
+    "objectId": "7341",
+    "objectType": "STREET",
+    "properties": {}
+  }
+]

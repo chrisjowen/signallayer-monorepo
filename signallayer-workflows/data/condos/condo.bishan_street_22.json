@@ -1,0 +1,1521 @@
+[
+  {
+    "displayText": "Bishan Street 22",
+    "displayType": "Street",
+    "objectId": "5782",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "261 Bishan Street 22  570261, Serangoon / Thomson (D19-20)",
+    "displayText": "261 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "op7hu2",
+    "objectId": "3924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "232 Bishan Street 22  570232, Serangoon / Thomson (D19-20)",
+    "displayText": "232 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "q2oun4",
+    "objectId": "3895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "233 Bishan Street 22  570233, Serangoon / Thomson (D19-20)",
+    "displayText": "233 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "3369oj",
+    "objectId": "3896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "235 Bishan Street 22  570235, Serangoon / Thomson (D19-20)",
+    "displayText": "235 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "ufwail",
+    "objectId": "3898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Bishan Street 22  570236, Serangoon / Thomson (D19-20)",
+    "displayText": "236 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "o4vzsx",
+    "objectId": "3899",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Bishan Street 22  570237, Serangoon / Thomson (D19-20)",
+    "displayText": "237 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "gkfamd",
+    "objectId": "3900",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238 Bishan Street 22  570238, Serangoon / Thomson (D19-20)",
+    "displayText": "238 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "3nlvjn",
+    "objectId": "3901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "239 Bishan Street 22  570239, Serangoon / Thomson (D19-20)",
+    "displayText": "239 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "4trdtv",
+    "objectId": "3902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Bishan Street 22  570240, Serangoon / Thomson (D19-20)",
+    "displayText": "240 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "xnwt33",
+    "objectId": "3903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Bishan Street 22  570241, Serangoon / Thomson (D19-20)",
+    "displayText": "241 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "f9jt42",
+    "objectId": "3904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Bishan Street 22  570242, Serangoon / Thomson (D19-20)",
+    "displayText": "242 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "wpdlc4",
+    "objectId": "3905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Bishan Street 22  570243, Serangoon / Thomson (D19-20)",
+    "displayText": "243 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "485g4j",
+    "objectId": "3906",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Bishan Street 22  570244, Serangoon / Thomson (D19-20)",
+    "displayText": "244 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "hhfwfy",
+    "objectId": "3907",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Bishan Street 22  570245, Serangoon / Thomson (D19-20)",
+    "displayText": "245 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "st8u10",
+    "objectId": "3908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246 Bishan Street 22  570246, Serangoon / Thomson (D19-20)",
+    "displayText": "246 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "prt4xg",
+    "objectId": "3909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "248 Bishan Street 22  570248, Serangoon / Thomson (D19-20)",
+    "displayText": "248 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "gjouqx",
+    "objectId": "3911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "249 Bishan Street 22  570249, Serangoon / Thomson (D19-20)",
+    "displayText": "249 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "foigvi",
+    "objectId": "3912",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "250 Bishan Street 22  570250, Serangoon / Thomson (D19-20)",
+    "displayText": "250 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "nh7e9o",
+    "objectId": "3913",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "251 Bishan Street 22  570251, Serangoon / Thomson (D19-20)",
+    "displayText": "251 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "1jby4c",
+    "objectId": "3914",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "252 Bishan Street 22  570252, Serangoon / Thomson (D19-20)",
+    "displayText": "252 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "jnjd9i",
+    "objectId": "3915",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "253 Bishan Street 22  570253, Serangoon / Thomson (D19-20)",
+    "displayText": "253 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "gj74xj",
+    "objectId": "3916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "254 Bishan Street 22  570254, Serangoon / Thomson (D19-20)",
+    "displayText": "254 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "td88zi",
+    "objectId": "3917",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "255 Bishan Street 22  570255, Serangoon / Thomson (D19-20)",
+    "displayText": "255 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "ldj5kv",
+    "objectId": "3918",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "256 Bishan Street 22  570256, Serangoon / Thomson (D19-20)",
+    "displayText": "256 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "8czp04",
+    "objectId": "3919",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "257 Bishan Street 22  570257, Serangoon / Thomson (D19-20)",
+    "displayText": "257 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "o0rn7f",
+    "objectId": "3920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258 Bishan Street 22  570258, Serangoon / Thomson (D19-20)",
+    "displayText": "258 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "wup8p7",
+    "objectId": "3921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259 Bishan Street 22  570259, Serangoon / Thomson (D19-20)",
+    "displayText": "259 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "eyh4aq",
+    "objectId": "3922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Bishan Street 22  570260, Serangoon / Thomson (D19-20)",
+    "displayText": "260 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "79i23t",
+    "objectId": "3923",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "262 Bishan Street 22  570262, Serangoon / Thomson (D19-20)",
+    "displayText": "262 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "z7dcxw",
+    "objectId": "3925",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "263 Bishan Street 22  570263, Serangoon / Thomson (D19-20)",
+    "displayText": "263 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "qvb5uv",
+    "objectId": "3926",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282 Bishan Street 22  570282, Serangoon / Thomson (D19-20)",
+    "displayText": "282 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "7d1vwk",
+    "objectId": "3927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "283 Bishan Street 22  570283, Serangoon / Thomson (D19-20)",
+    "displayText": "283 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "njjtdj",
+    "objectId": "3928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "284 Bishan Street 22  570284, Serangoon / Thomson (D19-20)",
+    "displayText": "284 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "tqau7h",
+    "objectId": "3929",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285 Bishan Street 22  570285, Serangoon / Thomson (D19-20)",
+    "displayText": "285 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "us1w5s",
+    "objectId": "3930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "292 Bishan Street 22  570292, Serangoon / Thomson (D19-20)",
+    "displayText": "292 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "5b8bvh",
+    "objectId": "3931",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293 Bishan Street 22  570293, Serangoon / Thomson (D19-20)",
+    "displayText": "293 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "irmyyo",
+    "objectId": "3932",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237A Bishan Street 22  571237, Serangoon / Thomson (D19-20)",
+    "displayText": "237A Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "hdxh6h",
+    "objectId": "3933",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246A Bishan Street 22  571246, Serangoon / Thomson (D19-20)",
+    "displayText": "246A Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "gtai6t",
+    "objectId": "3934",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "263A Bishan Street 22  571263, Serangoon / Thomson (D19-20)",
+    "displayText": "263A Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "puncha",
+    "objectId": "3935",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "234 Bishan Street 22  570234, Serangoon / Thomson (D19-20)",
+    "displayText": "234 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "06a98m",
+    "objectId": "3897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "247 Bishan Street 22  570247, Serangoon / Thomson (D19-20)",
+    "displayText": "247 Bishan Street 22",
+    "displayType": "HDB",
+    "nanoId": "6dqdaw",
+    "objectId": "3910",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220 Bishan Street 23  570220, Serangoon / Thomson (D19-20)",
+    "displayText": "220 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "9hitwt",
+    "objectId": "3955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221 Bishan Street 23  570221, Serangoon / Thomson (D19-20)",
+    "displayText": "221 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "txe30i",
+    "objectId": "3956",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222 Bishan Street 23  570222, Serangoon / Thomson (D19-20)",
+    "displayText": "222 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "3c1qfw",
+    "objectId": "3957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "223 Bishan Street 23  570223, Serangoon / Thomson (D19-20)",
+    "displayText": "223 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "rpdg2o",
+    "objectId": "3958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "224 Bishan Street 23  570224, Serangoon / Thomson (D19-20)",
+    "displayText": "224 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "a2ulb7",
+    "objectId": "3959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "225 Bishan Street 23  570225, Serangoon / Thomson (D19-20)",
+    "displayText": "225 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "477mpx",
+    "objectId": "3960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226 Bishan Street 23  570226, Serangoon / Thomson (D19-20)",
+    "displayText": "226 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "p44txt",
+    "objectId": "3961",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "227 Bishan Street 23  570227, Serangoon / Thomson (D19-20)",
+    "displayText": "227 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "jzhoaa",
+    "objectId": "3962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "228 Bishan Street 23  570228, Serangoon / Thomson (D19-20)",
+    "displayText": "228 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "clayp2",
+    "objectId": "3963",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "229 Bishan Street 23  570229, Serangoon / Thomson (D19-20)",
+    "displayText": "229 Bishan Street 23",
+    "displayType": "HDB",
+    "nanoId": "56l52u",
+    "objectId": "3964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bishan Street 24",
+    "displayType": "Street",
+    "objectId": "255",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bishan Street 12",
+    "displayType": "Street",
+    "objectId": "3892",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bishan Street 21",
+    "displayType": "Street",
+    "objectId": "7636",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bishan Street 23",
+    "displayType": "Street",
+    "objectId": "8183",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bishan Street 25",
+    "displayType": "Street",
+    "objectId": "8401",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bishan Street 13",
+    "displayType": "Street",
+    "objectId": "4753",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bishan Street 11",
+    "displayType": "Street",
+    "objectId": "10654",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Street 22",
+    "displayType": "Street",
+    "objectId": "3747",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "258 Yishun Street 22  760258, North (D25-28)",
+    "displayText": "258 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "gux9eq",
+    "objectId": "12800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259 Yishun Street 22  760259, North (D25-28)",
+    "displayText": "259 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "3tei6h",
+    "objectId": "12801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Yishun Street 22  760260, North (D25-28)",
+    "displayText": "260 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "z1dajp",
+    "objectId": "12802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261 Yishun Street 22  760261, North (D25-28)",
+    "displayText": "261 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "qxanbz",
+    "objectId": "12803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "262 Yishun Street 22  760262, North (D25-28)",
+    "displayText": "262 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "gjxhke",
+    "objectId": "12804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "263 Yishun Street 22  760263, North (D25-28)",
+    "displayText": "263 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "l9magg",
+    "objectId": "12805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264 Yishun Street 22  760264, North (D25-28)",
+    "displayText": "264 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "oa5ffg",
+    "objectId": "12806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265 Yishun Street 22  760265, North (D25-28)",
+    "displayText": "265 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "nmdzoo",
+    "objectId": "12807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266 Yishun Street 22  760266, North (D25-28)",
+    "displayText": "266 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "uwb021",
+    "objectId": "12808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267 Yishun Street 22  760267, North (D25-28)",
+    "displayText": "267 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "9uw7hj",
+    "objectId": "12809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268 Yishun Street 22  760268, North (D25-28)",
+    "displayText": "268 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "da4ndf",
+    "objectId": "12810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269 Yishun Street 22  760269, North (D25-28)",
+    "displayText": "269 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "xq09l0",
+    "objectId": "12811",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "270 Yishun Street 22  760270, North (D25-28)",
+    "displayText": "270 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "hobof1",
+    "objectId": "12812",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271 Yishun Street 22  760271, North (D25-28)",
+    "displayText": "271 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "0cluzc",
+    "objectId": "12813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272 Yishun Street 22  760272, North (D25-28)",
+    "displayText": "272 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "t102u1",
+    "objectId": "12814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "273 Yishun Street 22  760273, North (D25-28)",
+    "displayText": "273 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "cvaz29",
+    "objectId": "12815",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274 Yishun Street 22  760274, North (D25-28)",
+    "displayText": "274 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "imutwz",
+    "objectId": "12816",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275 Yishun Street 22  760275, North (D25-28)",
+    "displayText": "275 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "4ngb2j",
+    "objectId": "12817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276 Yishun Street 22  760276, North (D25-28)",
+    "displayText": "276 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "w9s3s4",
+    "objectId": "12818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "277 Yishun Street 22  760277, North (D25-28)",
+    "displayText": "277 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "xwh1he",
+    "objectId": "12819",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278 Yishun Street 22  760278, North (D25-28)",
+    "displayText": "278 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "xcg1iy",
+    "objectId": "12820",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279 Yishun Street 22  760279, North (D25-28)",
+    "displayText": "279 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "wwryju",
+    "objectId": "12821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280 Yishun Street 22  760280, North (D25-28)",
+    "displayText": "280 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "gln19q",
+    "objectId": "12822",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "281 Yishun Street 22  760281, North (D25-28)",
+    "displayText": "281 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "8cu68h",
+    "objectId": "12823",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "291 Yishun Street 22  760291, North (D25-28)",
+    "displayText": "291 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "n91v7l",
+    "objectId": "12825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "292 Yishun Street 22  760292, North (D25-28)",
+    "displayText": "292 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "piq5jd",
+    "objectId": "12826",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293 Yishun Street 22  760293, North (D25-28)",
+    "displayText": "293 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "ji46en",
+    "objectId": "12827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "294 Yishun Street 22  760294, North (D25-28)",
+    "displayText": "294 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "fhdvgl",
+    "objectId": "12828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "290 Yishun Street 22  760290, North (D25-28)",
+    "displayText": "290 Yishun Street 22",
+    "displayType": "HDB",
+    "nanoId": "c3q40y",
+    "objectId": "12824",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "296C Bukit Batok Street 22  653296, West (D22-24)",
+    "displayText": "296C Bukit Batok Street 22",
+    "displayType": "HDB",
+    "nanoId": "23nf1u",
+    "objectId": "23129",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "296B Bukit Batok Street 22  652296, West (D22-24)",
+    "displayText": "296B Bukit Batok Street 22",
+    "displayType": "HDB",
+    "nanoId": "m8djmb",
+    "objectId": "23127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "296A Bukit Batok Street 22  651296, West (D22-24)",
+    "displayText": "296A Bukit Batok Street 22",
+    "displayType": "HDB",
+    "nanoId": "krcvcx",
+    "objectId": "23128",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272 Tampines Street 22  520272, Changi / Pasir Ris (D17-18)",
+    "displayText": "272 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "cj3mln",
+    "objectId": "10741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "273 Tampines Street 22  520273, Changi / Pasir Ris (D17-18)",
+    "displayText": "273 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "g5je82",
+    "objectId": "10742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274 Tampines Street 22  520274, Changi / Pasir Ris (D17-18)",
+    "displayText": "274 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "p9t82n",
+    "objectId": "10743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275 Tampines Street 22  520275, Changi / Pasir Ris (D17-18)",
+    "displayText": "275 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "qux6q6",
+    "objectId": "10744",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276 Tampines Street 22  520276, Changi / Pasir Ris (D17-18)",
+    "displayText": "276 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "fcwq7r",
+    "objectId": "10745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "277 Tampines Street 22  520277, Changi / Pasir Ris (D17-18)",
+    "displayText": "277 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "79cyse",
+    "objectId": "10746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278 Tampines Street 22  520278, Changi / Pasir Ris (D17-18)",
+    "displayText": "278 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "szn1s2",
+    "objectId": "10747",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279 Tampines Street 22  520279, Changi / Pasir Ris (D17-18)",
+    "displayText": "279 Tampines Street 22",
+    "displayType": "HDB",
+    "nanoId": "ay6zv6",
+    "objectId": "10748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

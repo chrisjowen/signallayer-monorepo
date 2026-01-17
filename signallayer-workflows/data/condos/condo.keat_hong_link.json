@@ -1,0 +1,1477 @@
+[
+  {
+    "displayDescription": "817A Keat Hong Link  681817, West (D22-24)",
+    "displayText": "817A Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "4vrjc7",
+    "objectId": "22659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "816B Keat Hong Link  682816, West (D22-24)",
+    "displayText": "816B Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "1iy2mx",
+    "objectId": "22657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "816A Keat Hong Link  681816, West (D22-24)",
+    "displayText": "816A Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "7anu8h",
+    "objectId": "22658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "817B Keat Hong Link  682817, West (D22-24)",
+    "displayText": "817B Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "zwabat",
+    "objectId": "22660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "817C Keat Hong Link  683817, West (D22-24)",
+    "displayText": "817C Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "bhxe0u",
+    "objectId": "22661",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "820B Keat Hong Link  682820, West (D22-24)",
+    "displayText": "820B Keat Hong link",
+    "displayType": "HDB",
+    "nanoId": "cucdx7",
+    "objectId": "25787",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "819A Keat Hong Link  681819, West (D22-24)",
+    "displayText": "819A Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "v363j3",
+    "objectId": "26102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Thong Bee Road  778000, North (D25-28)",
+    "displayText": "Hong Heng Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "6ieazd",
+    "objectId": "2036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "803 Keat Hong Close  680803, West (D22-24)",
+    "displayText": "803 Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "53fas6",
+    "objectId": "22800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "804 Keat Hong Close  680804, West (D22-24)",
+    "displayText": "804 Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "i52ton",
+    "objectId": "22801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "806 Keat Hong Close  680806, West (D22-24)",
+    "displayText": "806 Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "acm591",
+    "objectId": "22802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "803A Keat Hong Close  681803, West (D22-24)",
+    "displayText": "803A Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "4jnh60",
+    "objectId": "22803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "804A Keat Hong Close  681804, West (D22-24)",
+    "displayText": "804A Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "l8388g",
+    "objectId": "22804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "805A Keat Hong Close  681805, West (D22-24)",
+    "displayText": "805A Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "erbzny",
+    "objectId": "22805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "803B Keat Hong Close  682803, West (D22-24)",
+    "displayText": "803B Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "6ww70g",
+    "objectId": "22806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "804B Keat Hong Close  682804, West (D22-24)",
+    "displayText": "804B Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "t4kp9m",
+    "objectId": "22807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "805B Keat Hong Close  682805, West (D22-24)",
+    "displayText": "805B Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "wpt1dm",
+    "objectId": "22808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "803C Keat Hong Close  683803, West (D22-24)",
+    "displayText": "803C Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "73r88h",
+    "objectId": "22809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "805C Keat Hong Close  683805, West (D22-24)",
+    "displayText": "805C Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "thcmkh",
+    "objectId": "22810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "801A Keat Hong Close  681801, West (D22-24)",
+    "displayText": "801A Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "6uytuc",
+    "objectId": "23237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "801B Keat Hong Close  682801, West (D22-24)",
+    "displayText": "801B Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "mhdkwa",
+    "objectId": "23238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "801C Keat Hong Close  683801, West (D22-24)",
+    "displayText": "801C Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "ahd0y8",
+    "objectId": "23239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "802A Keat Hong Close  681802, West (D22-24)",
+    "displayText": "802A Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "yq9uyy",
+    "objectId": "23240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "802B Keat Hong Close  682802, West (D22-24)",
+    "displayText": "802B Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "7xv256",
+    "objectId": "23241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "802C Keat Hong Close  683802, West (D22-24)",
+    "displayText": "802C Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "pwssng",
+    "objectId": "23242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "801D Keat Hong Close  684801, West (D22-24)",
+    "displayText": "801D Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "pklt95",
+    "objectId": "23243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "803D Keat Hong Close  684803, West (D22-24)",
+    "displayText": "803D Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "lsfb4x",
+    "objectId": "23891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "805D Keat Hong Close  684805, West (D22-24)",
+    "displayText": "805D Keat Hong Close",
+    "displayType": "HDB",
+    "nanoId": "x3cyep",
+    "objectId": "23892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Sembawang Road  779085, North (D25-28)",
+    "displayText": "Hong Heng Mansions",
+    "displayType": "Apartment",
+    "nanoId": "lxympt",
+    "objectId": "1443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Sembawang Road  779084, North (D25-28)",
+    "displayText": "Hong Heng Garden",
+    "displayType": "Apartment",
+    "nanoId": "3nd4f2",
+    "objectId": "2035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "241 Kim Keat Link  310241, Balestier / Geylang (D12-14)",
+    "displayText": "241 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "k0nj1k",
+    "objectId": "8079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Kim Keat Link  310242, Balestier / Geylang (D12-14)",
+    "displayText": "242 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "3z1zfo",
+    "objectId": "8080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Kim Keat Link  310243, Balestier / Geylang (D12-14)",
+    "displayText": "243 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "u2qixu",
+    "objectId": "8081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Kim Keat Link  310244, Balestier / Geylang (D12-14)",
+    "displayText": "244 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "ig50os",
+    "objectId": "8082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Kim Keat Link  310245, Balestier / Geylang (D12-14)",
+    "displayText": "245 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "13nyh6",
+    "objectId": "8083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246 Kim Keat Link  310246, Balestier / Geylang (D12-14)",
+    "displayText": "246 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "yxai1j",
+    "objectId": "8084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "247 Kim Keat Link  310247, Balestier / Geylang (D12-14)",
+    "displayText": "247 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "5dbbz1",
+    "objectId": "8085",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "248 Kim Keat Link  310248, Balestier / Geylang (D12-14)",
+    "displayText": "248 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "a147fs",
+    "objectId": "8086",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "249 Kim Keat Link  310249, Balestier / Geylang (D12-14)",
+    "displayText": "249 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "w6l9x1",
+    "objectId": "8087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25",
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "250 Kim Keat Link  310250, Balestier / Geylang (D12-14)",
+    "displayText": "250 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "dp8hq3",
+    "objectId": "8088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "251 Kim Keat Link  310251, Balestier / Geylang (D12-14)",
+    "displayText": "251 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "vlsosm",
+    "objectId": "8089",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "252 Kim Keat Link  310252, Balestier / Geylang (D12-14)",
+    "displayText": "252 Kim Keat Link",
+    "displayType": "HDB",
+    "nanoId": "xu1g8m",
+    "objectId": "8090",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kim Keat Link",
+    "displayType": "Street",
+    "objectId": "11464",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "3 Hong San Walk  688994, West (D22-24)",
+    "displayText": "Palm Gardens",
+    "displayType": "Condominium",
+    "nanoId": "vmbipq",
+    "objectId": "276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Hong San Walk  688000, West (D22-24)",
+    "displayText": "Comfort Garden",
+    "displayType": "Terraced House",
+    "nanoId": "g361mh",
+    "objectId": "20863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "74 West Coast Terrace  127267, City & South West (D01-08)",
+    "displayText": "Hong Leong Garden Condo",
+    "displayType": "Condominium",
+    "nanoId": "jiuhk5",
+    "objectId": "21298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "204 Rangoon Road  218451, City & South West (D01-08)",
+    "displayText": "Hong Building",
+    "displayType": "Apartment",
+    "nanoId": "kmih1p",
+    "objectId": "25650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Hong San Walk",
+    "displayType": "Street",
+    "objectId": "10497",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Teo Hong Road",
+    "displayType": "Street",
+    "objectId": "11081",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Joo Hong Road",
+    "displayType": "Street",
+    "objectId": "14116",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Kim Keat Road  328805, Balestier / Geylang (D12-14)",
+    "displayText": "The Interweave",
+    "displayType": "Condominium",
+    "nanoId": "behq5l",
+    "objectId": "20673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Kim Keat Close  328933, Balestier / Geylang (D12-14)",
+    "displayText": "Bliss Loft",
+    "displayType": "Condominium",
+    "nanoId": "2pju9k",
+    "objectId": "1660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Keat Road  328827, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat House",
+    "displayType": "Apartment",
+    "nanoId": "ir4oy1",
+    "objectId": "2093",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Kim Keat Lane  328882, Balestier / Geylang (D12-14)",
+    "displayText": "Calarasi",
+    "displayType": "Apartment",
+    "nanoId": "95kf33",
+    "objectId": "364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Kim Keat Road  328837, Balestier / Geylang (D12-14)",
+    "displayText": "Regal Court",
+    "displayType": "Apartment",
+    "nanoId": "wvjvy7",
+    "objectId": "1035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "13 Kim Keat Road  328842, Balestier / Geylang (D12-14)",
+    "displayText": "Victory Heights",
+    "displayType": "Condominium",
+    "nanoId": "c7aslr",
+    "objectId": "1501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Kim Keat Road  328847, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Gardens",
+    "displayType": "Condominium",
+    "nanoId": "y8b7e2",
+    "objectId": "2091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Kim Keat Road  328843, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Lodge",
+    "displayType": "Apartment",
+    "nanoId": "l06aoz",
+    "objectId": "2094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Kim Keat Road  328825, Balestier / Geylang (D12-14)",
+    "displayText": "56 Kim Keat Road",
+    "displayType": "Walk-up",
+    "nanoId": "swncw1",
+    "objectId": "22388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Blk 2 Lorong 7 Toa Payoh  310002, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Court",
+    "displayType": "HDB",
+    "nanoId": "l4y1aw",
+    "objectId": "24755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Kim Keat Close  328913, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Close",
+    "displayType": "Apartment",
+    "nanoId": "wjky12",
+    "objectId": "24958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 - 29C Kim Keat Close  328934, Balestier / Geylang (D12-14)",
+    "displayText": "Ruby Apartments",
+    "displayType": "Condominium",
+    "nanoId": "qmpw7q",
+    "objectId": "24991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "265A Kim Keat Avenue  311265, Balestier / Geylang (D12-14)",
+    "displayText": "265A Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "bv5h5i",
+    "objectId": "25612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265B Kim Keat Avenue  312265, Balestier / Geylang (D12-14)",
+    "displayText": "265B Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "xhr9gd",
+    "objectId": "25613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266 Kim Keat Avenue  310266, Balestier / Geylang (D12-14)",
+    "displayText": "266 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "dluaf6",
+    "objectId": "25614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266A Kim Keat Avenue  311266, Balestier / Geylang (D12-14)",
+    "displayText": "266A Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "m3pdz4",
+    "objectId": "25615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267 Kim Keat Avenue  310267, Balestier / Geylang (D12-14)",
+    "displayText": "267 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "gmc2gi",
+    "objectId": "25616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267A Kim Keat Avenue  311267, Balestier / Geylang (D12-14)",
+    "displayText": "267A Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "3fbvst",
+    "objectId": "25617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "194 Kim Keat Avenue  310194, Balestier / Geylang (D12-14)",
+    "displayText": "194 Golden Clover",
+    "displayType": "HDB",
+    "nanoId": "un2iwv",
+    "objectId": "8069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "195 Kim Keat Avenue  310195, Balestier / Geylang (D12-14)",
+    "displayText": "195 Golden Clover",
+    "displayType": "HDB",
+    "nanoId": "no5dzv",
+    "objectId": "8070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "253 Kim Keat Avenue  310253, Balestier / Geylang (D12-14)",
+    "displayText": "253 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "lwzone",
+    "objectId": "8071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "254 Kim Keat Avenue  310254, Balestier / Geylang (D12-14)",
+    "displayText": "254 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "g4envc",
+    "objectId": "8072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "255 Kim Keat Avenue  310255, Balestier / Geylang (D12-14)",
+    "displayText": "255 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "7afa7x",
+    "objectId": "8073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "256 Kim Keat Avenue  310256, Balestier / Geylang (D12-14)",
+    "displayText": "256 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "t8skxl",
+    "objectId": "8074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "257 Kim Keat Avenue  310257, Balestier / Geylang (D12-14)",
+    "displayText": "257 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "tsagzv",
+    "objectId": "8075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258 Kim Keat Avenue  310258, Balestier / Geylang (D12-14)",
+    "displayText": "258 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "sqsyw6",
+    "objectId": "8076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259 Kim Keat Avenue  310259, Balestier / Geylang (D12-14)",
+    "displayText": "259 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "7wl0vc",
+    "objectId": "8077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Kim Keat Avenue  310260, Balestier / Geylang (D12-14)",
+    "displayText": "260 Kim Keat Avenue",
+    "displayType": "HDB",
+    "nanoId": "f8mlqi",
+    "objectId": "8078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kim Keat Close",
+    "displayType": "Street",
+    "objectId": "10412",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kim Keat Road",
+    "displayType": "Street",
+    "objectId": "10456",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kim Keat Lane",
+    "displayType": "Street",
+    "objectId": "10471",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kim Keat Avenue",
+    "displayType": "Street",
+    "objectId": "10723",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7A Kim Keat Lane  328864, Balestier / Geylang (D12-14)",
+    "displayText": "7A Kim Keat Lane",
+    "displayType": "Walk-up",
+    "nanoId": "fr2ns1",
+    "objectId": "26056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "325 River Valley Road  238357, Orchard / Holland (D09-10)",
+    "displayText": "Yong An Park",
+    "displayType": "Condominium",
+    "nanoId": "3xhocw",
+    "objectId": "260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4   Tai Thong Crescent  347838, Balestier / Geylang (D12-14)",
+    "displayText": "The Venue Residences and Shoppes",
+    "displayType": "Apartment",
+    "nanoId": "3zke4r",
+    "objectId": "21762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Tong Watt Road  238002, Orchard / Holland (D09-10)",
+    "displayText": "The Wharf Residence",
+    "displayType": "Condominium",
+    "nanoId": "809d12",
+    "objectId": "1375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "69 Jalan Tua Kong  457264, East Coast (D15-16)",
+    "displayText": "Park East",
+    "displayType": "Condominium",
+    "nanoId": "9ft7jj",
+    "objectId": "412",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Jalan Tua Kong  457269, East Coast (D15-16)",
+    "displayText": "Crescendo Park",
+    "displayType": "Condominium",
+    "nanoId": "26rp9a",
+    "objectId": "1066",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Tong Watt Road  238011, Orchard / Holland (D09-10)",
+    "displayText": "Vivace",
+    "displayType": "Apartment",
+    "nanoId": "eg75hb",
+    "objectId": "1385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Tong Watt Road  238010, Orchard / Holland (D09-10)",
+    "displayText": "Robertson Edge",
+    "displayType": "Apartment",
+    "nanoId": "matc8w",
+    "objectId": "168",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Tomlinson Road  247854, Orchard / Holland (D09-10)",
+    "displayText": "Kum Hing Court",
+    "displayType": "Apartment",
+    "nanoId": "iatibf",
+    "objectId": "1474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Eng Kong Terrace  590000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Kismis Residences",
+    "displayType": "Terraced House",
+    "nanoId": "j4cutz",
+    "objectId": "23301",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "6  Eu Tong Sen Street  059817, City & South West (D01-08)",
+    "displayText": "The Central",
+    "displayType": "Apartment",
+    "nanoId": "7tj5k0",
+    "objectId": "23526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Chong Kuo Road  779830, North (D25-28)",
+    "displayText": "The Essence",
+    "displayType": "Condominium",
+    "nanoId": "ufhjyj",
+    "objectId": "23775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "370 Thomson Road  298128, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Tan Tong Meng Tower",
+    "displayType": "Condominium",
+    "nanoId": "t3s9r1",
+    "objectId": "2658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Lorong 14 Geylang  398924, Balestier / Geylang (D12-14)",
+    "displayText": "Wing Fong Mansions",
+    "displayType": "Apartment",
+    "nanoId": "knoxwe",
+    "objectId": "630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Eng Kong Terrace  599043, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Eng Kong Green",
+    "displayType": "Condominium",
+    "nanoId": "on5e8j",
+    "objectId": "951",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Eng Kong Drive  599000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Savoy Park",
+    "displayType": "Terraced House",
+    "nanoId": "873qhy",
+    "objectId": "1126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "10 Lorong 14 Geylang  398922, Balestier / Geylang (D12-14)",
+    "displayText": "Wing Fong Court",
+    "displayType": "Condominium",
+    "nanoId": "97tanc",
+    "objectId": "1444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Yong Siak Street  168646, City & South West (D01-08)",
+    "displayText": "Yong Siak Court",
+    "displayType": "Condominium",
+    "nanoId": "3pckqw",
+    "objectId": "1602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

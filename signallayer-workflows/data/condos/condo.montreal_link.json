@@ -1,0 +1,1514 @@
+[
+  {
+    "displayDescription": "592A Montreal Link  751592, North (D25-28)",
+    "displayText": "592A Montreal Ville",
+    "displayType": "HDB",
+    "nanoId": "0vgkve",
+    "objectId": "22352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "592B Montreal Link  752592, North (D25-28)",
+    "displayText": "592B Montreal Ville",
+    "displayType": "HDB",
+    "nanoId": "3or50t",
+    "objectId": "22353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "592C Montreal Link  753592, North (D25-28)",
+    "displayText": "592C Montreal Ville",
+    "displayType": "HDB",
+    "nanoId": "nratve",
+    "objectId": "22354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "593 Montreal Link  750593, North (D25-28)",
+    "displayText": "593 Montreal Ville",
+    "displayType": "HDB",
+    "nanoId": "sagwkj",
+    "objectId": "22355",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "593A Montreal Link  751593, North (D25-28)",
+    "displayText": "593A Montreal Ville",
+    "displayType": "HDB",
+    "nanoId": "3lppc6",
+    "objectId": "22356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "593B Montreal Link  752593, North (D25-28)",
+    "displayText": "593B Montreal Ville",
+    "displayType": "HDB",
+    "nanoId": "gpslur",
+    "objectId": "22357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "590 Montreal Link  750590, North (D25-28)",
+    "displayText": "590 Montreal Link",
+    "displayType": "HDB",
+    "nanoId": "upxgjg",
+    "objectId": "23117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "590B Montreal Link  752590, North (D25-28)",
+    "displayText": "590B Montreal Link",
+    "displayType": "HDB",
+    "nanoId": "b7amd5",
+    "objectId": "23118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "590C Montreal Link  753590, North (D25-28)",
+    "displayText": "590C Montreal Link",
+    "displayType": "HDB",
+    "nanoId": "kgg52q",
+    "objectId": "23119",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "591A Montreal Link  751591, North (D25-28)",
+    "displayText": "591A Montreal Link",
+    "displayType": "HDB",
+    "nanoId": "eyl6a6",
+    "objectId": "23120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "590A Montreal Link  751590, North (D25-28)",
+    "displayText": "590A Montreal Link",
+    "displayType": "HDB",
+    "nanoId": "s4zznu",
+    "objectId": "23121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Montreal Drive  750504, North (D25-28)",
+    "displayText": "504 Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "sknfd8",
+    "objectId": "8676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "588 Montreal Drive  750588, North (D25-28)",
+    "displayText": "588 Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "t4r8su",
+    "objectId": "8677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504A Montreal Drive  751504, North (D25-28)",
+    "displayText": "504A Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "c0ee7a",
+    "objectId": "8678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504B Montreal Drive  752504, North (D25-28)",
+    "displayText": "504B Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "j5wcix",
+    "objectId": "8679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504D Montreal Drive  754504, North (D25-28)",
+    "displayText": "504D Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "73g7jf",
+    "objectId": "8680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "588A Montreal Drive  751588, North (D25-28)",
+    "displayText": "588A Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "yes37l",
+    "objectId": "8681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "588B Montreal Drive  752588, North (D25-28)",
+    "displayText": "588B Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "4wj8qj",
+    "objectId": "8682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "588C Montreal Drive  753588, North (D25-28)",
+    "displayText": "588C Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "k949av",
+    "objectId": "8683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "589A Montreal Drive  751589, North (D25-28)",
+    "displayText": "589A Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "35i5yh",
+    "objectId": "8684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "589B Montreal Drive  752589, North (D25-28)",
+    "displayText": "589B Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "c0ta5u",
+    "objectId": "8685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "589C Montreal Drive  753589, North (D25-28)",
+    "displayText": "589C Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "bi02z7",
+    "objectId": "8686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "589D Montreal Drive  754589, North (D25-28)",
+    "displayText": "589D Montreal Drive",
+    "displayType": "HDB",
+    "nanoId": "ker1mv",
+    "objectId": "8687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Montreal Dr",
+    "displayType": "Street",
+    "objectId": "10657",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Siglap Link  448869, East Coast (D15-16)",
+    "displayText": "Seaside Residences",
+    "displayType": "Apartment",
+    "nanoId": "ga8rbq",
+    "objectId": "22939",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Kitchener Link  207223, City & South West (D01-08)",
+    "displayText": "City Square Residences",
+    "displayType": "Condominium",
+    "nanoId": "b3zbus",
+    "objectId": "88",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Jurong Lake Link  648130, West (D22-24)",
+    "displayText": "Lake Grande",
+    "displayType": "Condominium",
+    "nanoId": "06w3c2",
+    "objectId": "22592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Jurong Lake Link  648155, West (D22-24)",
+    "displayText": "Lakeville",
+    "displayType": "Condominium",
+    "nanoId": "uk2jfb",
+    "objectId": "21883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Fernvale Link  797530, North (D25-28)",
+    "displayText": "H2O Residences",
+    "displayType": "Condominium",
+    "nanoId": "dmn86z",
+    "objectId": "20606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Tanah Merah Kechil Link  465417, East Coast (D15-16)",
+    "displayText": "Urban Vista",
+    "displayType": "Condominium",
+    "nanoId": "48o50p",
+    "objectId": "21441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Pasir Ris Link  518160, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ripple Bay",
+    "displayType": "Condominium",
+    "nanoId": "gqv0vy",
+    "objectId": "21183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Pasir Ris Link  518150, Changi / Pasir Ris (D17-18)",
+    "displayText": "Watercolours",
+    "displayType": "Executive Condominium",
+    "nanoId": "tlaewt",
+    "objectId": "21243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Rivervale Link  545118, Serangoon / Thomson (D19-20)",
+    "displayText": "The Rivervale",
+    "displayType": "Condominium",
+    "nanoId": "v1lhij",
+    "objectId": "194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Pasir Ris Link  518180, Changi / Pasir Ris (D17-18)",
+    "displayText": "Seastrand",
+    "displayType": "Condominium",
+    "nanoId": "rwkloj",
+    "objectId": "20737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Pasir Ris Link  518145, Changi / Pasir Ris (D17-18)",
+    "displayText": "Sea Esta",
+    "displayType": "Condominium",
+    "nanoId": "3h0pdx",
+    "objectId": "21257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Bukit Batok Central Link  658074, West (D22-24)",
+    "displayText": "The Jade",
+    "displayType": "Condominium",
+    "nanoId": "2kcsoh",
+    "objectId": "348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Rivervale Link  545040, Serangoon / Thomson (D19-20)",
+    "displayText": "Park Green",
+    "displayType": "Condominium",
+    "nanoId": "ri89tt",
+    "objectId": "1514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Holland Link  275764, Orchard / Holland (D09-10)",
+    "displayText": "Eleven @ Holland",
+    "displayType": "Cluster House",
+    "nanoId": "uijfo6",
+    "objectId": "20669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Tanah Merah Kechil Link  468456, East Coast (D15-16)",
+    "displayText": "Sceneca Residence",
+    "displayType": "Condominium",
+    "nanoId": "hfgkek",
+    "objectId": "25304",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Prinsep Link  187948, City & South West (D01-08)",
+    "displayText": "Sunshine Plaza",
+    "displayType": "Apartment",
+    "nanoId": "44wsr3",
+    "objectId": "576",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Bukit Timah Link   589943, Newton / Bt. Timah (D11, 21)",
+    "displayText": "8@BT",
+    "displayType": "Condominium",
+    "nanoId": "xe0035",
+    "objectId": "25827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Kandis Link  756967, North (D25-28)",
+    "displayText": "Kandis Residence",
+    "displayType": "Condominium",
+    "nanoId": "1wd0e4",
+    "objectId": "23188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Chempaka Kuning Link  486000, East Coast (D15-16)",
+    "displayText": "The Springfield",
+    "displayType": "Terraced House",
+    "nanoId": "qtuyya",
+    "objectId": "520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Ghim  Moh Link",
+    "displayType": "Street",
+    "objectId": "27368",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "418C Fernvale Link  793418, North (D25-28)",
+    "displayText": "418C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "zxdar8",
+    "objectId": "23079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Ghim Moh Link  271032, Orchard / Holland (D09-10)",
+    "displayText": "32 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "z7f05f",
+    "objectId": "23249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Ghim Moh Link  270033, Orchard / Holland (D09-10)",
+    "displayText": "33 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "kbzd8z",
+    "objectId": "23250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Compassvale Link",
+    "displayType": "Street",
+    "objectId": "4636",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Anchorvale Link",
+    "displayType": "Street",
+    "objectId": "54",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "23 Ghim Moh Link  271023, Orchard / Holland (D09-10)",
+    "displayText": "23 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "91fvhf",
+    "objectId": "22030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Ghim Moh Link  270026, Orchard / Holland (D09-10)",
+    "displayText": "26 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "rdtocr",
+    "objectId": "22033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 Ghim Moh Link  270027, Orchard / Holland (D09-10)",
+    "displayText": "27 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "l7g3q6",
+    "objectId": "22034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470B Fernvale Link  792470, North (D25-28)",
+    "displayText": "470B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "yty4u3",
+    "objectId": "22285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470C Fernvale Link  793470, North (D25-28)",
+    "displayText": "470C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "tokwmu",
+    "objectId": "22286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "817A Keat Hong Link  681817, West (D22-24)",
+    "displayText": "817A Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "4vrjc7",
+    "objectId": "22659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417A Fernvale Link  791417, North (D25-28)",
+    "displayText": "417A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "5uawmr",
+    "objectId": "23075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Ghim Moh Link  270029, Orchard / Holland (D09-10)",
+    "displayText": "29 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "61tmwv",
+    "objectId": "23244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333C Anchorvale Link  543333, Serangoon / Thomson (D19-20)",
+    "displayText": "333C Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "m5uwq5",
+    "objectId": "23480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302B Anchorvale Link  542302, Serangoon / Thomson (D19-20)",
+    "displayText": "302B Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "0i0uy2",
+    "objectId": "2799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "277C Compassvale Link  543277, Serangoon / Thomson (D19-20)",
+    "displayText": "277C Compassvale Link",
+    "displayType": "HDB",
+    "nanoId": "4stinm",
+    "objectId": "5664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Buangkok Link",
+    "displayType": "Street",
+    "objectId": "5810",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Greenleaf Road  279000, Orchard / Holland (D09-10)",
+    "displayText": "Link Residence @ Holland",
+    "displayType": "Cluster House",
+    "nanoId": "hho917",
+    "objectId": "20563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Chuan Link  554000, Serangoon / Thomson (D19-20)",
+    "displayText": "Chiselhurst Green",
+    "displayType": "Terraced House",
+    "nanoId": "6ho7z1",
+    "objectId": "20633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Cashew Link  679000, West (D22-24)",
+    "displayText": "Cashew Garden",
+    "displayType": "Semi-Detached House",
+    "nanoId": "3bu9o2",
+    "objectId": "20844",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Chuan Link  554000, Serangoon / Thomson (D19-20)",
+    "displayText": "Chuan Ville",
+    "displayType": "Terraced House",
+    "nanoId": "amw967",
+    "objectId": "20858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Dedap Link  809000, North (D25-28)",
+    "displayText": "Dedap Gardens",
+    "displayType": "Semi-Detached House",
+    "nanoId": "demzkm",
+    "objectId": "20872",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "490 Admiralty Link  750490, North (D25-28)",
+    "displayText": "490 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "2yojta",
+    "objectId": "21167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430D Fernvale Link  794430, North (D25-28)",
+    "displayText": "430D Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "5mrsh3",
+    "objectId": "21783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "488 Admiralty Link  750488, North (D25-28)",
+    "displayText": "488 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "jcqrpc",
+    "objectId": "21842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Ghim Moh Link  270028, Orchard / Holland (D09-10)",
+    "displayText": "28 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "liwulw",
+    "objectId": "21905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20",
+        "20",
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "489 Admiralty Link  750489, North (D25-28)",
+    "displayText": "489 Admiralty Link",
+    "displayType": "HDB",
+    "nanoId": "176oqz",
+    "objectId": "21911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Ghim Moh Link  271022, Orchard / Holland (D09-10)",
+    "displayText": "22 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "sech2y",
+    "objectId": "22028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23A Ghim Moh Link  272023, Orchard / Holland (D09-10)",
+    "displayText": "23A Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "nt2jhr",
+    "objectId": "22031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Ghim Moh Link  270025, Orchard / Holland (D09-10)",
+    "displayText": "25 Ghim Moh Link",
+    "displayType": "HDB",
+    "nanoId": "44a5zu",
+    "objectId": "22032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415A Fernvale Link  791415, North (D25-28)",
+    "displayText": "415A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "2yju9v",
+    "objectId": "22176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312B Sumang Link  822312, Serangoon / Thomson (D19-20)",
+    "displayText": "312B Sumang Link",
+    "displayType": "HDB",
+    "nanoId": "sakc23",
+    "objectId": "22243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313 Sumang Link  820313, Serangoon / Thomson (D19-20)",
+    "displayText": "313 Sumang Link",
+    "displayType": "HDB",
+    "nanoId": "ocd8x8",
+    "objectId": "22244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312A Sumang Link  821312, Serangoon / Thomson (D19-20)",
+    "displayText": "312A Sumang Link",
+    "displayType": "HDB",
+    "nanoId": "660ld2",
+    "objectId": "22245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313A Sumang Link  821313, Serangoon / Thomson (D19-20)",
+    "displayText": "313A Sumang Link",
+    "displayType": "HDB",
+    "nanoId": "siyqml",
+    "objectId": "22246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313B Sumang Link  822313, Serangoon / Thomson (D19-20)",
+    "displayText": "313B Sumang Link",
+    "displayType": "HDB",
+    "nanoId": "ke0wtj",
+    "objectId": "22247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312C Sumang Link  823312, Serangoon / Thomson (D19-20)",
+    "displayText": "312C Sumang Link",
+    "displayType": "HDB",
+    "nanoId": "hzbkmy",
+    "objectId": "22248",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313C Sumang Link  823313, Serangoon / Thomson (D19-20)",
+    "displayText": "313C Sumang Link",
+    "displayType": "HDB",
+    "nanoId": "wnm4zs",
+    "objectId": "22249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332A Anchorvale Link  541332, Serangoon / Thomson (D19-20)",
+    "displayText": "332A Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "2yof8g",
+    "objectId": "22254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440A Fernvale Link  791440, North (D25-28)",
+    "displayText": "440A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "36g2d4",
+    "objectId": "22262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416A Fernvale Link  791416, North (D25-28)",
+    "displayText": "416A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "tz6r1a",
+    "objectId": "22266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470A Fernvale Link  791470, North (D25-28)",
+    "displayText": "470A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "634hna",
+    "objectId": "22284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470D Fernvale Link  794470, North (D25-28)",
+    "displayText": "470D Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "c18osp",
+    "objectId": "22287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414A Fernvale Link  791414, North (D25-28)",
+    "displayText": "414A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "f58emk",
+    "objectId": "22583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414B Fernvale Link  792414, North (D25-28)",
+    "displayText": "414B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "sc0hre",
+    "objectId": "22584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415B Fernvale Link  792415, North (D25-28)",
+    "displayText": "415B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "9dhwee",
+    "objectId": "22585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415C Fernvale Link  793415, North (D25-28)",
+    "displayText": "415C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "qrsv9h",
+    "objectId": "22586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416B Fernvale Link  792416, North (D25-28)",
+    "displayText": "416B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "8fshlg",
+    "objectId": "22587",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416C Fernvale Link  793416, North (D25-28)",
+    "displayText": "416C Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "7i3e98",
+    "objectId": "22588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "440B Fernvale Link  792440, North (D25-28)",
+    "displayText": "440B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "luh3ki",
+    "objectId": "22595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22",
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "816B Keat Hong Link  682816, West (D22-24)",
+    "displayText": "816B Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "1iy2mx",
+    "objectId": "22657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "816A Keat Hong Link  681816, West (D22-24)",
+    "displayText": "816A Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "7anu8h",
+    "objectId": "22658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "817B Keat Hong Link  682817, West (D22-24)",
+    "displayText": "817B Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "zwabat",
+    "objectId": "22660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "817C Keat Hong Link  683817, West (D22-24)",
+    "displayText": "817C Keat Hong Link",
+    "displayType": "HDB",
+    "nanoId": "bhxe0u",
+    "objectId": "22661",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430A Fernvale Link  791430, North (D25-28)",
+    "displayText": "430A Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "7se5ef",
+    "objectId": "22858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430B Fernvale Link  792430, North (D25-28)",
+    "displayText": "430B Fernvale Link",
+    "displayType": "HDB",
+    "nanoId": "o8zk0v",
+    "objectId": "22859",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

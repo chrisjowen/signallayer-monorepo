@@ -1,0 +1,1436 @@
+[
+  {
+    "displayText": "Jalan Bukit Ho Swee",
+    "displayType": "Street",
+    "objectId": "1541",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "301 Jalan Bukit Ho Swee  169568, City & South West (D01-08)",
+    "displayText": "Meraprime",
+    "displayType": "Condominium",
+    "nanoId": "sh3czj",
+    "objectId": "181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Bukit Ho Swee  162002, City & South West (D01-08)",
+    "displayText": "2 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "wxmxq4",
+    "objectId": "6920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Jalan Bukit Ho Swee  162004, City & South West (D01-08)",
+    "displayText": "4 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "txaoww",
+    "objectId": "6921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Jalan Bukit Ho Swee  161006, City & South West (D01-08)",
+    "displayText": "6 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "j11lie",
+    "objectId": "6922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Jalan Bukit Ho Swee  161008, City & South West (D01-08)",
+    "displayText": "8 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "m6zd8f",
+    "objectId": "6923",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Jalan Bukit Ho Swee  161010, City & South West (D01-08)",
+    "displayText": "10 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "sr8ore",
+    "objectId": "6924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Jalan Bukit Ho Swee  160032, City & South West (D01-08)",
+    "displayText": "32 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "wpq5jk",
+    "objectId": "6925",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Jalan Bukit Ho Swee  160034, City & South West (D01-08)",
+    "displayText": "34 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "poi8zl",
+    "objectId": "6926",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Jalan Bukit Ho Swee  160046, City & South West (D01-08)",
+    "displayText": "46 Jalan Bukit Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "w9hwvu",
+    "objectId": "6927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bukit Ho Swee Link",
+    "displayType": "Street",
+    "objectId": "339",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Ho Swee",
+    "displayType": "Street",
+    "objectId": "5169",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "12 Taman Ho Swee  162012, City & South West (D01-08)",
+    "displayText": "12 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "t8kdq9",
+    "objectId": "10520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Taman Ho Swee  161014, City & South West (D01-08)",
+    "displayText": "14 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "df94z6",
+    "objectId": "10521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Taman Ho Swee  163016, City & South West (D01-08)",
+    "displayText": "16 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "j6opfq",
+    "objectId": "10522",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Taman Ho Swee  162018, City & South West (D01-08)",
+    "displayText": "18 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "dgc6go",
+    "objectId": "10523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Taman Ho Swee  164031, City & South West (D01-08)",
+    "displayText": "31 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "symzul",
+    "objectId": "10524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Taman Ho Swee  161033, City & South West (D01-08)",
+    "displayText": "33 Taman Ho Swee",
+    "displayType": "HDB",
+    "nanoId": "ijq277",
+    "objectId": "10525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Taman Ho Swee",
+    "displayType": "Street",
+    "objectId": "3227",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Lye Kwee",
+    "displayType": "Street",
+    "objectId": "1594",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "55F Jalan Lim Tai See  266229, Orchard / Holland (D09-10)",
+    "displayText": "Estrivillas",
+    "displayType": "Terraced House",
+    "nanoId": "wzgham",
+    "objectId": "1163",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Lim Tai See  000000, Orchard / Holland (D09-10)",
+    "displayText": "Ventura Heights",
+    "displayType": "Cluster House",
+    "nanoId": "gw8ihe",
+    "objectId": "1436",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Lim Tai See  268000, Orchard / Holland (D09-10)",
+    "displayText": "Regent Villa",
+    "displayType": "Semi-Detached House",
+    "nanoId": "fbspta",
+    "objectId": "912",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Jalan Lim Tai See",
+    "displayType": "Street",
+    "objectId": "1587",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan  Lim Tai See",
+    "displayType": "Street",
+    "objectId": "9982",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Tai See",
+    "displayType": "Street",
+    "objectId": "8378",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "173 Chin Swee Road  169878, City & South West (D01-08)",
+    "displayText": "The Landmark",
+    "displayType": "Condominium",
+    "nanoId": "53tn0t",
+    "objectId": "498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Begonia Terrace  809000, North (D25-28)",
+    "displayText": "Hock Swee Hill",
+    "displayType": "Semi-Detached House",
+    "nanoId": "heewkv",
+    "objectId": "1018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "173 Chin Swee Road  169878, City & South West (D01-08)",
+    "displayText": "Landmark Tower",
+    "displayType": "Apartment",
+    "nanoId": "aqxeio",
+    "objectId": "25191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Chin Swee Road  050051, City & South West (D01-08)",
+    "displayText": "51 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "fay66o",
+    "objectId": "4789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Chin Swee Road  160052, City & South West (D01-08)",
+    "displayText": "52 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "7qyc3z",
+    "objectId": "4790",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Chin Swee Road  160053, City & South West (D01-08)",
+    "displayText": "53 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "71o04t",
+    "objectId": "4791",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Chin Swee Road  160054, City & South West (D01-08)",
+    "displayText": "54 Chin Swee Road",
+    "displayType": "HDB",
+    "nanoId": "wr1pps",
+    "objectId": "4792",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Chin Swee Road",
+    "displayType": "Street",
+    "objectId": "507",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "9 Jalan Anak Bukit  589604, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Reserve Residences",
+    "displayType": "Condominium",
+    "nanoId": "lbjpwb",
+    "objectId": "25466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Anak Bukit  588996, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Sherwood Towers",
+    "displayType": "Apartment",
+    "nanoId": "ydympx",
+    "objectId": "266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Jalan Jurong Kechil  596180, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Suites at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "87jgs6",
+    "objectId": "20813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Anak Bukit  588997, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Suites De Laurel",
+    "displayType": "Condominium",
+    "nanoId": "0jfdcd",
+    "objectId": "2654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "113 Jalan Bukit Merah  160113, City & South West (D01-08)",
+    "displayText": "113 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "fhrv0a",
+    "objectId": "6947",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Bukit  Merah",
+    "displayType": "Street",
+    "objectId": "9588",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Jalan Bukit Merah  150001, City & South West (D01-08)",
+    "displayText": "1 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "61z3si",
+    "objectId": "6928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Bukit Merah  150002, City & South West (D01-08)",
+    "displayText": "2 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "zsl2pf",
+    "objectId": "6929",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Jalan Bukit Merah  150003, City & South West (D01-08)",
+    "displayText": "3 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "c3af56",
+    "objectId": "6930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Jalan Bukit Merah  150006, City & South West (D01-08)",
+    "displayText": "6 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "i45a64",
+    "objectId": "6931",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Jalan Bukit Merah  150007, City & South West (D01-08)",
+    "displayText": "7 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "g9bbfa",
+    "objectId": "6932",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Jalan Bukit Merah  150011, City & South West (D01-08)",
+    "displayText": "11 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "ay9jch",
+    "objectId": "6933",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Jalan Bukit Merah  150012, City & South West (D01-08)",
+    "displayText": "12 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "v555i7",
+    "objectId": "6934",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Jalan Bukit Merah  150013, City & South West (D01-08)",
+    "displayText": "13 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "zqgh0p",
+    "objectId": "6935",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Jalan Bukit Merah  150014, City & South West (D01-08)",
+    "displayText": "14 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "7sw9fs",
+    "objectId": "6936",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Jalan Bukit Merah  152028, City & South West (D01-08)",
+    "displayText": "28 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "ze9yhu",
+    "objectId": "6937",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Jalan Bukit Merah  160104, City & South West (D01-08)",
+    "displayText": "104 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "c00y76",
+    "objectId": "6938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Jalan Bukit Merah  160105, City & South West (D01-08)",
+    "displayText": "105 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "9ov3k4",
+    "objectId": "6939",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Jalan Bukit Merah  160106, City & South West (D01-08)",
+    "displayText": "106 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "seci8m",
+    "objectId": "6940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Jalan Bukit Merah  160107, City & South West (D01-08)",
+    "displayText": "107 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "4bk27u",
+    "objectId": "6941",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Jalan Bukit Merah  160108, City & South West (D01-08)",
+    "displayText": "108 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "ycyccz",
+    "objectId": "6942",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Jalan Bukit Merah  160109, City & South West (D01-08)",
+    "displayText": "109 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "nb46mk",
+    "objectId": "6943",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Jalan Bukit Merah  160110, City & South West (D01-08)",
+    "displayText": "110 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "l62zqc",
+    "objectId": "6944",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Jalan Bukit Merah  160111, City & South West (D01-08)",
+    "displayText": "111 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "v9k15z",
+    "objectId": "6945",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Jalan Bukit Merah  160112, City & South West (D01-08)",
+    "displayText": "112 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "mg7eve",
+    "objectId": "6946",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Jalan Bukit Merah  160115, City & South West (D01-08)",
+    "displayText": "115 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "7980az",
+    "objectId": "6948",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Jalan Bukit Merah  160116, City & South West (D01-08)",
+    "displayText": "116 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "4vl0ah",
+    "objectId": "6949",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Jalan Bukit Merah  160117, City & South West (D01-08)",
+    "displayText": "117 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "mkri5o",
+    "objectId": "6950",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Jalan Bukit Merah  160131, City & South West (D01-08)",
+    "displayText": "131 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "fgtbhc",
+    "objectId": "6951",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Jalan Bukit Merah  160132, City & South West (D01-08)",
+    "displayText": "132 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "w558jx",
+    "objectId": "6952",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Jalan Bukit Merah  160133, City & South West (D01-08)",
+    "displayText": "133 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "2xhese",
+    "objectId": "6953",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Jalan Bukit Merah  160134, City & South West (D01-08)",
+    "displayText": "134 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "3wyxtn",
+    "objectId": "6954",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "135 Jalan Bukit Merah  160135, City & South West (D01-08)",
+    "displayText": "135 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "4qucge",
+    "objectId": "6955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Jalan Bukit Merah  160136, City & South West (D01-08)",
+    "displayText": "136 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "umm6i3",
+    "objectId": "6956",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Jalan Bukit Merah  160137, City & South West (D01-08)",
+    "displayText": "137 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "u1r290",
+    "objectId": "6957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Jalan Bukit Merah  160138, City & South West (D01-08)",
+    "displayText": "138 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "mfc9sl",
+    "objectId": "6958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Jalan Bukit Merah  160139, City & South West (D01-08)",
+    "displayText": "139 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "y78p8d",
+    "objectId": "6959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "140 Jalan Bukit Merah  160140, City & South West (D01-08)",
+    "displayText": "140 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "3a7tt1",
+    "objectId": "6960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Jalan Bukit Merah  160141, City & South West (D01-08)",
+    "displayText": "141 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "gwa3j5",
+    "objectId": "6961",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Jalan Bukit Merah  160142, City & South West (D01-08)",
+    "displayText": "142 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "8jabno",
+    "objectId": "6962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Jalan Bukit Merah  160143, City & South West (D01-08)",
+    "displayText": "143 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "0v7p0m",
+    "objectId": "6963",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Jalan Bukit Merah  160144, City & South West (D01-08)",
+    "displayText": "144 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "s3v39b",
+    "objectId": "6964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Jalan Bukit Merah  160145, City & South West (D01-08)",
+    "displayText": "145 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "icb57f",
+    "objectId": "6965",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Jalan Bukit Merah  160146, City & South West (D01-08)",
+    "displayText": "146 Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "4geqfz",
+    "objectId": "6966",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134A Jalan Bukit Merah  161134, City & South West (D01-08)",
+    "displayText": "134A Jalan Bukit Merah",
+    "displayType": "HDB",
+    "nanoId": "nnod57",
+    "objectId": "6967",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Anak Bukit",
+    "displayType": "Street",
+    "objectId": "1533",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Bukit Merah",
+    "displayType": "Street",
+    "objectId": "1542",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Bukit Anak",
+    "displayType": "Street",
+    "objectId": "7329",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "151 Yung Ho Road  610151, West (D22-24)",
+    "displayText": "151 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "e01klj",
+    "objectId": "12978",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Yung Ho Road  610152, West (D22-24)",
+    "displayText": "152 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "fz97y9",
+    "objectId": "12979",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153 Yung Ho Road  610153, West (D22-24)",
+    "displayText": "153 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "ukss79",
+    "objectId": "12980",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154 Yung Ho Road  610154, West (D22-24)",
+    "displayText": "154 Yung Ho Road",
+    "displayType": "HDB",
+    "nanoId": "wahwm5",
+    "objectId": "12981",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "777 Upper Serangoon Road  534645, Serangoon / Thomson (D19-20)",
+    "displayText": "Sai Ho Building",
+    "displayType": "Apartment",
+    "nanoId": "uwecgh",
+    "objectId": "21023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "111 Ho Ching Road  610111, West (D22-24)",
+    "displayText": "111 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "oa5szq",
+    "objectId": "6284",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Ho Ching Road  610112, West (D22-24)",
+    "displayText": "112 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "qsip18",
+    "objectId": "6285",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Ho Ching Road  610114, West (D22-24)",
+    "displayText": "114 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "8q58hd",
+    "objectId": "6286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Ho Ching Road  610115, West (D22-24)",
+    "displayText": "115 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "dymqix",
+    "objectId": "6287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Ho Ching Road  610116, West (D22-24)",
+    "displayText": "116 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "98tybe",
+    "objectId": "6288",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Ho Ching Road  610117, West (D22-24)",
+    "displayText": "117 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "7d0oqk",
+    "objectId": "6289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Ho Ching Road  610119, West (D22-24)",
+    "displayText": "119 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "zdoym8",
+    "objectId": "6290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Ho Ching Road  610120, West (D22-24)",
+    "displayText": "120 Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "f6l07d",
+    "objectId": "6291",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114A Ho Ching Road  611114, West (D22-24)",
+    "displayText": "114A Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "l6utrt",
+    "objectId": "6292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115A Ho Ching Road  611115, West (D22-24)",
+    "displayText": "115A Ho Ching Road",
+    "displayType": "HDB",
+    "nanoId": "hmytla",
+    "objectId": "6293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Ho Ching Road",
+    "displayType": "Street",
+    "objectId": "1106",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yung Ho Road",
+    "displayType": "Street",
+    "objectId": "3760",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "1 Jalan Anak Bulit",
+    "displayType": "Street",
+    "objectId": "25314",
+    "objectType": "STREET",
+    "properties": {}
+  }
+]

@@ -1,0 +1,1536 @@
+[
+  {
+    "displayText": "Telok Blangah Heights",
+    "displayType": "Street",
+    "objectId": "3336",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "70C Telok Blangah Heights  103070, City & South West (D01-08)",
+    "displayText": "70C Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "xim0y3",
+    "objectId": "23002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Telok Blangah Heights  100056, City & South West (D01-08)",
+    "displayText": "56 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "ulkn7v",
+    "objectId": "11440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Telok Blangah Heights  100057, City & South West (D01-08)",
+    "displayText": "57 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "m2axge",
+    "objectId": "11441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Telok Blangah Heights  100058, City & South West (D01-08)",
+    "displayText": "58 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "km9hma",
+    "objectId": "11442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Telok Blangah Heights  100059, City & South West (D01-08)",
+    "displayText": "59 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "g9xczf",
+    "objectId": "11443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 Telok Blangah Heights  100060, City & South West (D01-08)",
+    "displayText": "60 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "xg1u9c",
+    "objectId": "11444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Telok Blangah Heights  100061, City & South West (D01-08)",
+    "displayText": "61 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "yrqfgk",
+    "objectId": "11445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 Telok Blangah Heights  100062, City & South West (D01-08)",
+    "displayText": "62 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "yc2fzw",
+    "objectId": "11446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Telok Blangah Heights  100063, City & South West (D01-08)",
+    "displayText": "63 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "cin5qc",
+    "objectId": "11447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "68 Telok Blangah Heights  100068, City & South West (D01-08)",
+    "displayText": "68 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "kvlzc3",
+    "objectId": "11448",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "69 Telok Blangah Heights  100069, City & South West (D01-08)",
+    "displayText": "69 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "lr918s",
+    "objectId": "11449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70 Telok Blangah Heights  100070, City & South West (D01-08)",
+    "displayText": "70 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "z7ldus",
+    "objectId": "11450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "71 Telok Blangah Heights  100071, City & South West (D01-08)",
+    "displayText": "71 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "k4iyss",
+    "objectId": "11451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Telok Blangah Heights  100072, City & South West (D01-08)",
+    "displayText": "72 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "dgcm8h",
+    "objectId": "11452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73 Telok Blangah Heights  100073, City & South West (D01-08)",
+    "displayText": "73 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "illcdm",
+    "objectId": "11453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74 Telok Blangah Heights  100074, City & South West (D01-08)",
+    "displayText": "74 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "l55qvz",
+    "objectId": "11454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Telok Blangah Heights  100084, City & South West (D01-08)",
+    "displayText": "84 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "w9zeuc",
+    "objectId": "11455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "85 Telok Blangah Heights  100085, City & South West (D01-08)",
+    "displayText": "85 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "vhuivd",
+    "objectId": "11456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86 Telok Blangah Heights  100086, City & South West (D01-08)",
+    "displayText": "86 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "zon8oe",
+    "objectId": "11457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "87 Telok Blangah Heights  100087, City & South West (D01-08)",
+    "displayText": "87 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "t9rynd",
+    "objectId": "11458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "88 Telok Blangah Heights  100088, City & South West (D01-08)",
+    "displayText": "88 Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "k74lda",
+    "objectId": "11459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57A Telok Blangah Heights  101057, City & South West (D01-08)",
+    "displayText": "57A Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "yqy7fu",
+    "objectId": "11460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86A Telok Blangah Heights  101086, City & South West (D01-08)",
+    "displayText": "86A Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "tkrhx8",
+    "objectId": "11461",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "88A Telok Blangah Heights  101088, City & South West (D01-08)",
+    "displayText": "88A Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "0ybl0h",
+    "objectId": "11462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70B Telok Blangah Heights  102070, City & South West (D01-08)",
+    "displayText": "70B Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "iu2i21",
+    "objectId": "1627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "70A Telok Blangah Heights  101070, City & South West (D01-08)",
+    "displayText": "70A Telok Blangah Heights",
+    "displayType": "HDB",
+    "nanoId": "d6se7x",
+    "objectId": "23303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Telok Belangah Heights",
+    "displayType": "Street",
+    "objectId": "7178",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D4",
+    "displayText": "D04 Harbourfront / Telok Blangah",
+    "displayType": "District",
+    "objectId": "D04",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D04"
+    }
+  },
+  {
+    "displayDescription": "610 Telok Blangah Road  109025, City & South West (D01-08)",
+    "displayText": "Skyline Residences",
+    "displayType": "Condominium",
+    "nanoId": "y4jcjh",
+    "objectId": "20701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "66 Telok Blangah Road  098830, City & South West (D01-08)",
+    "displayText": "Harbourlights",
+    "displayType": "Apartment",
+    "nanoId": "9k6zdc",
+    "objectId": "1039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Telok Blangah Drive  109258, City & South West (D01-08)",
+    "displayText": "Harbour View Towers",
+    "displayType": "Condominium",
+    "nanoId": "afjt9p",
+    "objectId": "439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Telok Blangah",
+    "displayType": "Street",
+    "objectId": "6741",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "80A Telok Blangah Street 31  101080, City & South West (D01-08)",
+    "displayText": "80A Telok Blangah Street 31",
+    "displayType": "HDB",
+    "nanoId": "82w8xn",
+    "objectId": "22232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "90A Telok Blangah Street 31  101090, City & South West (D01-08)",
+    "displayText": "90A Telok Blangah Street 31",
+    "displayType": "HDB",
+    "nanoId": "xddxia",
+    "objectId": "22745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "93B Telok Blangah Street 31  102093, City & South West (D01-08)",
+    "displayText": "93B Telok Blangah Street 31",
+    "displayType": "HDB",
+    "nanoId": "ar289p",
+    "objectId": "22748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80C Telok Blangah Street 31  103080, City & South West (D01-08)",
+    "displayText": "80C Telok Blangah Street 31",
+    "displayType": "HDB",
+    "nanoId": "o41sxf",
+    "objectId": "22751",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "93A Telok Blangah Street 31  101093, City & South West (D01-08)",
+    "displayText": "93A Telok Blangah Street 31",
+    "displayType": "HDB",
+    "nanoId": "8we4qg",
+    "objectId": "23439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Telok Blangah Crescent",
+    "displayType": "Street",
+    "objectId": "3333",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Telok Blangah Drive",
+    "displayType": "Street",
+    "objectId": "3334",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Telok Blangah Street 31",
+    "displayType": "Street",
+    "objectId": "3341",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Telok Blangah Crescent  090001, City & South West (D01-08)",
+    "displayText": "1 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "8f8i3g",
+    "objectId": "11384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Telok Blangah Crescent  090003, City & South West (D01-08)",
+    "displayText": "3 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "yqdhmc",
+    "objectId": "11385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Telok Blangah Crescent  090004, City & South West (D01-08)",
+    "displayText": "4 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "qjz0tb",
+    "objectId": "11386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Telok Blangah Crescent  090005, City & South West (D01-08)",
+    "displayText": "5 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "ab62vt",
+    "objectId": "11387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Telok Blangah Crescent  090006, City & South West (D01-08)",
+    "displayText": "6 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "9ffha0",
+    "objectId": "11388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Telok Blangah Crescent  090007, City & South West (D01-08)",
+    "displayText": "7 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "c3hg7q",
+    "objectId": "11389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Telok Blangah Crescent  090008, City & South West (D01-08)",
+    "displayText": "8 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "4ywl38",
+    "objectId": "11390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Telok Blangah Crescent  090009, City & South West (D01-08)",
+    "displayText": "9 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "44f8mx",
+    "objectId": "11391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Telok Blangah Crescent  090010, City & South West (D01-08)",
+    "displayText": "10 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "vzmn2r",
+    "objectId": "11392",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Telok Blangah Crescent  090011, City & South West (D01-08)",
+    "displayText": "11 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "ln9gkf",
+    "objectId": "11393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Telok Blangah Crescent  090012, City & South West (D01-08)",
+    "displayText": "12 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "7ikll7",
+    "objectId": "11394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Telok Blangah Crescent  090013, City & South West (D01-08)",
+    "displayText": "13 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "mcdwf8",
+    "objectId": "11395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Telok Blangah Crescent  090014, City & South West (D01-08)",
+    "displayText": "14 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "n3y9tm",
+    "objectId": "11396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Telok Blangah Crescent  090015, City & South West (D01-08)",
+    "displayText": "15 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "95ngx7",
+    "objectId": "11397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Telok Blangah Crescent  090016, City & South West (D01-08)",
+    "displayText": "16 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "jyifbn",
+    "objectId": "11398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17 Telok Blangah Crescent  090017, City & South West (D01-08)",
+    "displayText": "17 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "45jbxe",
+    "objectId": "11399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "18 Telok Blangah Crescent  090018, City & South West (D01-08)",
+    "displayText": "18 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "knie10",
+    "objectId": "11400",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "19 Telok Blangah Crescent  090019, City & South West (D01-08)",
+    "displayText": "19 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "t5dz4e",
+    "objectId": "11401",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Telok Blangah Crescent  090020, City & South West (D01-08)",
+    "displayText": "20 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "7savv9",
+    "objectId": "11402",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Telok Blangah Crescent  090021, City & South West (D01-08)",
+    "displayText": "21 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "j1n471",
+    "objectId": "11403",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Telok Blangah Crescent  090022, City & South West (D01-08)",
+    "displayText": "22 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "owr33i",
+    "objectId": "11404",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Telok Blangah Crescent  090023, City & South West (D01-08)",
+    "displayText": "23 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "2e5tlo",
+    "objectId": "11405",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 Telok Blangah Crescent  090024, City & South West (D01-08)",
+    "displayText": "24 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "s79h78",
+    "objectId": "11406",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 Telok Blangah Crescent  090025, City & South West (D01-08)",
+    "displayText": "25 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "k3hian",
+    "objectId": "11407",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Telok Blangah Crescent  090026, City & South West (D01-08)",
+    "displayText": "26 Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "vi69oa",
+    "objectId": "11408",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14A Telok Blangah Crescent  091014, City & South West (D01-08)",
+    "displayText": "14A Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "eum5h9",
+    "objectId": "11409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16A Telok Blangah Crescent  091016, City & South West (D01-08)",
+    "displayText": "16A Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "fm8cxo",
+    "objectId": "11410",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17A Telok Blangah Crescent  091017, City & South West (D01-08)",
+    "displayText": "17A Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "3ac7ig",
+    "objectId": "11411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21A Telok Blangah Crescent  091021, City & South West (D01-08)",
+    "displayText": "21A Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "at4qw7",
+    "objectId": "11412",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23A Telok Blangah Crescent  091023, City & South West (D01-08)",
+    "displayText": "23A Telok Blangah Crescent",
+    "displayType": "HDB",
+    "nanoId": "lfvkmd",
+    "objectId": "11413",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Telok Blangah Drive  100044, City & South West (D01-08)",
+    "displayText": "44 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "o12wi2",
+    "objectId": "11414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Telok Blangah Drive  100045, City & South West (D01-08)",
+    "displayText": "45 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "179mqt",
+    "objectId": "11415",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Telok Blangah Drive  100046, City & South West (D01-08)",
+    "displayText": "46 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "ysxd3l",
+    "objectId": "11416",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Telok Blangah Drive  100047, City & South West (D01-08)",
+    "displayText": "47 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "auodyu",
+    "objectId": "11417",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Telok Blangah Drive  100048, City & South West (D01-08)",
+    "displayText": "48 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "48d953",
+    "objectId": "11418",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Telok Blangah Drive  100049, City & South West (D01-08)",
+    "displayText": "49 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "ssa1sl",
+    "objectId": "11419",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Telok Blangah Drive  100050, City & South West (D01-08)",
+    "displayText": "50 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "5czmgo",
+    "objectId": "11420",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Telok Blangah Drive  100051, City & South West (D01-08)",
+    "displayText": "51 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "ijjuge",
+    "objectId": "11421",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Telok Blangah Drive  100052, City & South West (D01-08)",
+    "displayText": "52 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "vd0nax",
+    "objectId": "11422",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Telok Blangah Drive  100053, City & South West (D01-08)",
+    "displayText": "53 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "5kvzkc",
+    "objectId": "11423",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 Telok Blangah Drive  100054, City & South West (D01-08)",
+    "displayText": "54 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "hbjbbf",
+    "objectId": "11424",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Telok Blangah Drive  100055, City & South West (D01-08)",
+    "displayText": "55 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "wjlv7f",
+    "objectId": "11425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Telok Blangah Drive  100064, City & South West (D01-08)",
+    "displayText": "64 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "j76wg5",
+    "objectId": "11426",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Telok Blangah Drive  100065, City & South West (D01-08)",
+    "displayText": "65 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "xmg28v",
+    "objectId": "11427",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Telok Blangah Drive  100066, City & South West (D01-08)",
+    "displayText": "66 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "5mt7tr",
+    "objectId": "11428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Telok Blangah Drive  100067, City & South West (D01-08)",
+    "displayText": "67 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "15i4wb",
+    "objectId": "11429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75 Telok Blangah Drive  100075, City & South West (D01-08)",
+    "displayText": "75 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "6vwx7d",
+    "objectId": "11430",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "76 Telok Blangah Drive  100076, City & South West (D01-08)",
+    "displayText": "76 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "rrpo1s",
+    "objectId": "11431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "77 Telok Blangah Drive  100077, City & South West (D01-08)",
+    "displayText": "77 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "hhkt1p",
+    "objectId": "11432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "78 Telok Blangah Drive  100078, City & South West (D01-08)",
+    "displayText": "78 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "j36wvw",
+    "objectId": "11433",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "79 Telok Blangah Drive  100079, City & South West (D01-08)",
+    "displayText": "79 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "j4tl56",
+    "objectId": "11434",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Telok Blangah Drive  100080, City & South West (D01-08)",
+    "displayText": "80 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "gwr6lq",
+    "objectId": "11435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Telok Blangah Drive  100082, City & South West (D01-08)",
+    "displayText": "82 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "ollrh4",
+    "objectId": "11437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83 Telok Blangah Drive  100083, City & South West (D01-08)",
+    "displayText": "83 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "08dltp",
+    "objectId": "11438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48A Telok Blangah Drive  101048, City & South West (D01-08)",
+    "displayText": "48A Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "1bhtim",
+    "objectId": "11439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Telok Blangah Rise  090028, City & South West (D01-08)",
+    "displayText": "28 Telok Blangah Rise",
+    "displayType": "HDB",
+    "nanoId": "ivudoh",
+    "objectId": "11463",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Telok Blangah Rise  090029, City & South West (D01-08)",
+    "displayText": "29 Telok Blangah Rise",
+    "displayType": "HDB",
+    "nanoId": "sqgs7g",
+    "objectId": "11464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 Telok Blangah Rise  090030, City & South West (D01-08)",
+    "displayText": "30 Telok Blangah Rise",
+    "displayType": "HDB",
+    "nanoId": "lrn123",
+    "objectId": "11465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Telok Blangah Rise  090031, City & South West (D01-08)",
+    "displayText": "31 Telok Blangah Rise",
+    "displayType": "HDB",
+    "nanoId": "ra8pf3",
+    "objectId": "11466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

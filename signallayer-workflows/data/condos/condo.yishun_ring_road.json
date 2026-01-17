@@ -1,0 +1,1596 @@
+[
+  {
+    "displayText": "Yishun Ring Road",
+    "displayType": "Street",
+    "objectId": "3743",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "590 Yishun Ring Road  768694, North (D25-28)",
+    "displayText": "The Wisteria",
+    "displayType": "Condominium",
+    "nanoId": "kg2v86",
+    "objectId": "22391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "103 Yishun Ring Road  760103, North (D25-28)",
+    "displayText": "103 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "rh8gnj",
+    "objectId": "12591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Yishun Ring Road  760104, North (D25-28)",
+    "displayText": "104 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6buz85",
+    "objectId": "12592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Yishun Ring Road  760105, North (D25-28)",
+    "displayText": "105 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "txphv6",
+    "objectId": "12593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Yishun Ring Road  760106, North (D25-28)",
+    "displayText": "106 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "nlagdk",
+    "objectId": "12594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Yishun Ring Road  760107, North (D25-28)",
+    "displayText": "107 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3qgnkl",
+    "objectId": "12595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Yishun Ring Road  760108, North (D25-28)",
+    "displayText": "108 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "kvkrnx",
+    "objectId": "12596",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Yishun Ring Road  760109, North (D25-28)",
+    "displayText": "109 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "st692t",
+    "objectId": "12597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Yishun Ring Road  760110, North (D25-28)",
+    "displayText": "110 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "u7c8uz",
+    "objectId": "12598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Yishun Ring Road  760111, North (D25-28)",
+    "displayText": "111 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "i3stay",
+    "objectId": "12599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Yishun Ring Road  760113, North (D25-28)",
+    "displayText": "113 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "qxi5bl",
+    "objectId": "12601",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Yishun Ring Road  760114, North (D25-28)",
+    "displayText": "114 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "t2w3h3",
+    "objectId": "12602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Yishun Ring Road  760115, North (D25-28)",
+    "displayText": "115 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2tkfdw",
+    "objectId": "12603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Yishun Ring Road  760116, North (D25-28)",
+    "displayText": "116 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cpijhv",
+    "objectId": "12604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Yishun Ring Road  760117, North (D25-28)",
+    "displayText": "117 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "xjvm37",
+    "objectId": "12605",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Yishun Ring Road  760118, North (D25-28)",
+    "displayText": "118 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "yyhzbs",
+    "objectId": "12606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Yishun Ring Road  760120, North (D25-28)",
+    "displayText": "120 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "14pr60",
+    "objectId": "12608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Yishun Ring Road  760136, North (D25-28)",
+    "displayText": "136 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "u6o15g",
+    "objectId": "12609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Yishun Ring Road  760137, North (D25-28)",
+    "displayText": "137 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2tjezm",
+    "objectId": "12610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Yishun Ring Road  760138, North (D25-28)",
+    "displayText": "138 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "efmchi",
+    "objectId": "12611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Yishun Ring Road  760139, North (D25-28)",
+    "displayText": "139 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cezhn4",
+    "objectId": "12612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Yishun Ring Road  760141, North (D25-28)",
+    "displayText": "141 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3otzmu",
+    "objectId": "12614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Yishun Ring Road  760142, North (D25-28)",
+    "displayText": "142 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "4sxy42",
+    "objectId": "12615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Yishun Ring Road  760143, North (D25-28)",
+    "displayText": "143 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "owa8a3",
+    "objectId": "12616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Yishun Ring Road  760165, North (D25-28)",
+    "displayText": "165 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "d1nbc7",
+    "objectId": "12617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Yishun Ring Road  760166, North (D25-28)",
+    "displayText": "166 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ignabh",
+    "objectId": "12618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "167 Yishun Ring Road  760167, North (D25-28)",
+    "displayText": "167 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cyj5t3",
+    "objectId": "12619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Yishun Ring Road  760236, North (D25-28)",
+    "displayText": "236 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "7w7ctg",
+    "objectId": "12620",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Yishun Ring Road  760237, North (D25-28)",
+    "displayText": "237 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "wg6ty7",
+    "objectId": "12621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238 Yishun Ring Road  760238, North (D25-28)",
+    "displayText": "238 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "o5lmeg",
+    "objectId": "12622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Yishun Ring Road  760240, North (D25-28)",
+    "displayText": "240 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ua48k3",
+    "objectId": "12624",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Yishun Ring Road  760241, North (D25-28)",
+    "displayText": "241 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ndrigx",
+    "objectId": "12625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Yishun Ring Road  760242, North (D25-28)",
+    "displayText": "242 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "nivoef",
+    "objectId": "12626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Yishun Ring Road  760243, North (D25-28)",
+    "displayText": "243 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "8fn6ca",
+    "objectId": "12627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Yishun Ring Road  760244, North (D25-28)",
+    "displayText": "244 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ctp80i",
+    "objectId": "12628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "253 Yishun Ring Road  760253, North (D25-28)",
+    "displayText": "253 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "t19dyq",
+    "objectId": "12631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "254 Yishun Ring Road  760254, North (D25-28)",
+    "displayText": "254 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "hoaeio",
+    "objectId": "12632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "255 Yishun Ring Road  760255, North (D25-28)",
+    "displayText": "255 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "j1dc9v",
+    "objectId": "12633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "256 Yishun Ring Road  760256, North (D25-28)",
+    "displayText": "256 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "bfmoz1",
+    "objectId": "12634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "257 Yishun Ring Road  760257, North (D25-28)",
+    "displayText": "257 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "pexz8a",
+    "objectId": "12635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307 Yishun Ring Road  760307, North (D25-28)",
+    "displayText": "307 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "mrexq7",
+    "objectId": "12636",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308 Yishun Ring Road  760308, North (D25-28)",
+    "displayText": "308 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "kze05d",
+    "objectId": "12637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "309 Yishun Ring Road  760309, North (D25-28)",
+    "displayText": "309 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "31bvak",
+    "objectId": "12638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310 Yishun Ring Road  760310, North (D25-28)",
+    "displayText": "310 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "obn42q",
+    "objectId": "12639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311 Yishun Ring Road  760311, North (D25-28)",
+    "displayText": "311 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ikhstg",
+    "objectId": "12640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312 Yishun Ring Road  760312, North (D25-28)",
+    "displayText": "312 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "nz0wcs",
+    "objectId": "12641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Yishun Ring Road  760314, North (D25-28)",
+    "displayText": "314 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "eutryz",
+    "objectId": "12642",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319 Yishun Ring Road  760319, North (D25-28)",
+    "displayText": "319 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "y7cv9r",
+    "objectId": "12643",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Yishun Ring Road  760326, North (D25-28)",
+    "displayText": "326 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "127jwv",
+    "objectId": "12644",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327 Yishun Ring Road  760327, North (D25-28)",
+    "displayText": "327 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "iy6shg",
+    "objectId": "12645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Yishun Ring Road  760328, North (D25-28)",
+    "displayText": "328 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ynrvsu",
+    "objectId": "12646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Yishun Ring Road  760329, North (D25-28)",
+    "displayText": "329 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "40idgb",
+    "objectId": "12647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Yishun Ring Road  760330, North (D25-28)",
+    "displayText": "330 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "0h7v4u",
+    "objectId": "12648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Yishun Ring Road  760331, North (D25-28)",
+    "displayText": "331 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ufkftq",
+    "objectId": "12649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Yishun Ring Road  760332, North (D25-28)",
+    "displayText": "332 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "5mk1al",
+    "objectId": "12650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "352 Yishun Ring Road  760352, North (D25-28)",
+    "displayText": "352 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "ys4nns",
+    "objectId": "12651",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "353 Yishun Ring Road  760353, North (D25-28)",
+    "displayText": "353 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "9g15sk",
+    "objectId": "12652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354 Yishun Ring Road  760354, North (D25-28)",
+    "displayText": "354 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6wk74x",
+    "objectId": "12653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "355 Yishun Ring Road  760355, North (D25-28)",
+    "displayText": "355 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "hgr413",
+    "objectId": "12654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356 Yishun Ring Road  760356, North (D25-28)",
+    "displayText": "356 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6y9mvn",
+    "objectId": "12655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357 Yishun Ring Road  760357, North (D25-28)",
+    "displayText": "357 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "jr7py8",
+    "objectId": "12656",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358 Yishun Ring Road  760358, North (D25-28)",
+    "displayText": "358 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "rygjfm",
+    "objectId": "12657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359 Yishun Ring Road  760359, North (D25-28)",
+    "displayText": "359 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "5ey3am",
+    "objectId": "12658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "360 Yishun Ring Road  760360, North (D25-28)",
+    "displayText": "360 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "n282qh",
+    "objectId": "12659",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "361 Yishun Ring Road  760361, North (D25-28)",
+    "displayText": "361 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "8ab81z",
+    "objectId": "12660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362 Yishun Ring Road  760362, North (D25-28)",
+    "displayText": "362 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "dbup0p",
+    "objectId": "12661",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "363 Yishun Ring Road  760363, North (D25-28)",
+    "displayText": "363 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "qljsep",
+    "objectId": "12662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "364 Yishun Ring Road  760364, North (D25-28)",
+    "displayText": "364 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "sv124v",
+    "objectId": "12663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365 Yishun Ring Road  760365, North (D25-28)",
+    "displayText": "365 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "3vzudx",
+    "objectId": "12664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "366 Yishun Ring Road  760366, North (D25-28)",
+    "displayText": "366 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "rty3wz",
+    "objectId": "12665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "367 Yishun Ring Road  760367, North (D25-28)",
+    "displayText": "367 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "1f2vko",
+    "objectId": "12666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "386 Yishun Ring Road  760386, North (D25-28)",
+    "displayText": "386 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "qjbk8c",
+    "objectId": "12667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "387 Yishun Ring Road  760387, North (D25-28)",
+    "displayText": "387 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "r4xuyb",
+    "objectId": "12668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "388 Yishun Ring Road  760388, North (D25-28)",
+    "displayText": "388 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "69cort",
+    "objectId": "12669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "395 Yishun Ring Road  760395, North (D25-28)",
+    "displayText": "395 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "me268j",
+    "objectId": "12670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "398 Yishun Ring Road  760398, North (D25-28)",
+    "displayText": "398 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "zgsbiv",
+    "objectId": "12671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402 Yishun Ring Road  760402, North (D25-28)",
+    "displayText": "402 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "99hoz1",
+    "objectId": "12672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Yishun Ring Road  760409, North (D25-28)",
+    "displayText": "409 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "k7lisw",
+    "objectId": "12673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Yishun Ring Road  760410, North (D25-28)",
+    "displayText": "410 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "bs5916",
+    "objectId": "12674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Yishun Ring Road  760411, North (D25-28)",
+    "displayText": "411 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2g57j1",
+    "objectId": "12675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Yishun Ring Road  760412, North (D25-28)",
+    "displayText": "412 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "a52qkp",
+    "objectId": "12676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Yishun Ring Road  760413, North (D25-28)",
+    "displayText": "413 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "b5gtu2",
+    "objectId": "12677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Yishun Ring Road  760414, North (D25-28)",
+    "displayText": "414 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "2skrdc",
+    "objectId": "12678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "615 Yishun Ring Road  760615, North (D25-28)",
+    "displayText": "615 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "0ktx0a",
+    "objectId": "12679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "616 Yishun Ring Road  760616, North (D25-28)",
+    "displayText": "616 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "y2y31b",
+    "objectId": "12680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "617 Yishun Ring Road  760617, North (D25-28)",
+    "displayText": "617 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "dvfl1m",
+    "objectId": "12681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618 Yishun Ring Road  760618, North (D25-28)",
+    "displayText": "618 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "e7vko6",
+    "objectId": "12682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619 Yishun Ring Road  760619, North (D25-28)",
+    "displayText": "619 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "8dm5vp",
+    "objectId": "12683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "620 Yishun Ring Road  760620, North (D25-28)",
+    "displayText": "620 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "a2qo64",
+    "objectId": "12684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "621 Yishun Ring Road  760621, North (D25-28)",
+    "displayText": "621 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "y4cdyq",
+    "objectId": "12685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622 Yishun Ring Road  760622, North (D25-28)",
+    "displayText": "622 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "kp91ao",
+    "objectId": "12686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "624 Yishun Ring Road  760624, North (D25-28)",
+    "displayText": "624 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "cvxng5",
+    "objectId": "12687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "775 Yishun Ring Road  760775, North (D25-28)",
+    "displayText": "775 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "blq2tm",
+    "objectId": "12688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "780 Yishun Ring Road  760780, North (D25-28)",
+    "displayText": "780 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "pptv3f",
+    "objectId": "12689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "781 Yishun Ring Road  760781, North (D25-28)",
+    "displayText": "781 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "edomdm",
+    "objectId": "12690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "782 Yishun Ring Road  760782, North (D25-28)",
+    "displayText": "782 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "6v6tl5",
+    "objectId": "12691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "783 Yishun Ring Road  760783, North (D25-28)",
+    "displayText": "783 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "64elxi",
+    "objectId": "12692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "786 Yishun Ring Road  760786, North (D25-28)",
+    "displayText": "786 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "qv5xpr",
+    "objectId": "12693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "787 Yishun Ring Road  760787, North (D25-28)",
+    "displayText": "787 Yishun Ring Road",
+    "displayType": "HDB",
+    "nanoId": "wliiqx",
+    "objectId": "12694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

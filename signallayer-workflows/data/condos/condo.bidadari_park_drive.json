@@ -1,0 +1,1486 @@
+[
+  {
+    "displayDescription": "00 Bidadari Park Drive  341105, Balestier / Geylang (D12-14)",
+    "displayText": "The Woodleigh Residences",
+    "displayType": "Apartment",
+    "nanoId": "s6h3kh",
+    "objectId": "23532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "103 Bidadari Park Drive  340103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "9nxri5",
+    "objectId": "24473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106A Bidadari Park Drive  341106, Balestier / Geylang (D12-14)",
+    "displayText": "106A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "alv79e",
+    "objectId": "25505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105A Bidadari Park Drive  341105, Balestier / Geylang (D12-14)",
+    "displayText": "105A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "p07rx1",
+    "objectId": "25804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101A Bidadari Park Drive  341101, Balestier / Geylang (D12-14)",
+    "displayText": "101A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "4rboiv",
+    "objectId": "24469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106B Bidadari Park Drive  342106, Balestier / Geylang (D12-14)",
+    "displayText": "106B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "e494mt",
+    "objectId": "25501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105B Bidadari Park Drive  342105, Balestier / Geylang (D12-14)",
+    "displayText": "105B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "tl806h",
+    "objectId": "25761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Bidadari Park Drive  340102, Balestier / Geylang (D12-14)",
+    "displayText": "102 Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "6emfeb",
+    "objectId": "24470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102A Bidadari Park Drive  341102, Balestier / Geylang (D12-14)",
+    "displayText": "102A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "k5ov85",
+    "objectId": "24471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102B Bidadari Park Drive  342102, Balestier / Geylang (D12-14)",
+    "displayText": "102B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "hkm2q3",
+    "objectId": "24472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103A Bidadari Park Drive  341103, Balestier / Geylang (D12-14)",
+    "displayText": "103A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "xetpex",
+    "objectId": "24474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103B Bidadari Park Drive  342103, Balestier / Geylang (D12-14)",
+    "displayText": "103B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "c24avs",
+    "objectId": "24475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104A Bidadari Park Drive  341104, Balestier / Geylang (D12-14)",
+    "displayText": "104A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "azkpj8",
+    "objectId": "24476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214A Bidadari Park Drive  361214, Balestier / Geylang (D12-14)",
+    "displayText": "214A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "5ybqiq",
+    "objectId": "25552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109B Bidadari Park Drive  342109, Balestier / Geylang (D12-14)",
+    "displayText": "109B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "26nffi",
+    "objectId": "25607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212D Bidadari Park Drive   364212, Balestier / Geylang (D12-14)",
+    "displayText": "212D Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "cmt5hl",
+    "objectId": "25626",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212C Bidadari Park Drive Woodleigh Hillside  363212, Balestier / Geylang (D12-14)",
+    "displayText": "212C Bidadari Park Drive Woodleigh Hillside",
+    "displayType": "HDB",
+    "nanoId": "xubjhm",
+    "objectId": "25677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215B Bidadari Park Drive  362215, Balestier / Geylang (D12-14)",
+    "displayText": "215B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "rx43aa",
+    "objectId": "25784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215C Bidadari Park Drive  363215, Balestier / Geylang (D12-14)",
+    "displayText": "215C Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "5v2ypf",
+    "objectId": "25785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215A Bidadari Park Drive  361215, Balestier / Geylang (D12-14)",
+    "displayText": "215A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "yg13uk",
+    "objectId": "25786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212B Bidadari Park Drive  362212, Balestier / Geylang (D12-14)",
+    "displayText": "212B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "9ai96v",
+    "objectId": "25822",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212A Bidadari Park Drive  361212, Balestier / Geylang (D12-14)",
+    "displayText": "212A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "n901sy",
+    "objectId": "25842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214C Bidadari Park Drive  363214, Balestier / Geylang (D12-14)",
+    "displayText": "214C Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "fpphhh",
+    "objectId": "25924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214B Bidadari Park Drive  362214, Balestier / Geylang (D12-14)",
+    "displayText": "214B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "wsc3sd",
+    "objectId": "25956",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108B Bidadari Park Drive  342108, Balestier / Geylang (D12-14)",
+    "displayText": "108B Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "gfr25k",
+    "objectId": "25995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "341109, Balestier / Geylang (D12-14)",
+    "displayText": "109A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "8c3kvu",
+    "objectId": "26063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213A Bidadari Park Drive   361213, Balestier / Geylang (D12-14)",
+    "displayText": "213A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "mn0gn1",
+    "objectId": "26100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107A Bidadari Park Drive  341107, Balestier / Geylang (D12-14)",
+    "displayText": "107A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "serdav",
+    "objectId": "26105",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216A Bidadari Park Drive  361216, Balestier / Geylang (D12-14)",
+    "displayText": "216A Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "cltzv0",
+    "objectId": "26116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Flora Drive  506941, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ferraria Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "utkpou",
+    "objectId": "1277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Drive  507025, Changi / Pasir Ris (D17-18)",
+    "displayText": "Carissa Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cni6fm",
+    "objectId": "452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Mei Hwan Drive  568426, Serangoon / Thomson (D19-20)",
+    "displayText": "Goldenhill Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "2yoenc",
+    "objectId": "635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "71 Flora Drive  506881, Changi / Pasir Ris (D17-18)",
+    "displayText": "Hedges Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "42acye",
+    "objectId": "20652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "010101 Sunset Drive  597000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Clementi Park",
+    "displayType": "Condominium",
+    "nanoId": "9snbz8",
+    "objectId": "230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Flora Drive  507009, Changi / Pasir Ris (D17-18)",
+    "displayText": "Dahlia Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "h4aycj",
+    "objectId": "660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Eng Kong Drive  599000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Savoy Park",
+    "displayType": "Terraced House",
+    "nanoId": "873qhy",
+    "objectId": "1126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Gerald Drive  799000, North (D25-28)",
+    "displayText": "Eaton Park",
+    "displayType": "Semi-Detached House",
+    "nanoId": "3tfzj2",
+    "objectId": "1902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Tai Hwan Drive  555000, Serangoon / Thomson (D19-20)",
+    "displayText": "Tai Hwan Park",
+    "displayType": "Terraced House",
+    "nanoId": "db9mvk",
+    "objectId": "911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Kensington Park Drive",
+    "displayType": "Street",
+    "objectId": "10708",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Science Park Drive",
+    "displayType": "Street",
+    "objectId": "2857",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "69 Science Park Drive  118228, City & South West (D01-08)",
+    "displayText": "Lyndenwoods",
+    "displayType": "Condominium",
+    "nanoId": "rz1gdb",
+    "objectId": "25998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bird Park Drive",
+    "displayType": "Street",
+    "objectId": "244",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "56 Flora Drive  506856, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Olympia",
+    "displayType": "Condominium",
+    "nanoId": "6u1zmx",
+    "objectId": "21302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "71 Rosewood Drive  737783, North (D25-28)",
+    "displayText": "Parc Rosewood",
+    "displayType": "Condominium",
+    "nanoId": "wgt1q5",
+    "objectId": "21121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Stevens Drive  257913, Orchard / Holland (D09-10)",
+    "displayText": "Parc Stevens",
+    "displayType": "Condominium",
+    "nanoId": "uz0mqx",
+    "objectId": "982",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D8",
+    "displayText": "D08 Farrer Park / Serangoon Rd",
+    "displayType": "District",
+    "objectId": "D08",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D08"
+    }
+  },
+  {
+    "displayDescription": "D21",
+    "displayText": "D21 Clementi Park / Upper Bukit Timah",
+    "displayType": "District",
+    "objectId": "D21",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D21"
+    }
+  },
+  {
+    "displayDescription": "49 Normanton Park  117280, City & South West (D01-08)",
+    "displayText": "Normanton Park",
+    "displayType": "Condominium",
+    "nanoId": "d75hds",
+    "objectId": "226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Woodleigh Lane  357657, Balestier / Geylang (D12-14)",
+    "displayText": "Park Colonial",
+    "displayType": "Condominium",
+    "nanoId": "0phrvr",
+    "objectId": "23459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Amber Gardens  439960, East Coast (D15-16)",
+    "displayText": "Amber Park",
+    "displayType": "Condominium",
+    "nanoId": "u43u1x",
+    "objectId": "36",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Fernvale Road  797415, North (D25-28)",
+    "displayText": "High Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "e4880m",
+    "objectId": "22181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Yishun Central 1  768797, North (D25-28)",
+    "displayText": "North Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "mxcycb",
+    "objectId": "22090",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "473 River Valley Road  248358, Orchard / Holland (D09-10)",
+    "displayText": "Valley Park",
+    "displayType": "Condominium",
+    "nanoId": "omeu32",
+    "objectId": "132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Bayshore Road  469977, East Coast (D15-16)",
+    "displayText": "Bayshore Park",
+    "displayType": "Condominium",
+    "nanoId": "oz4cju",
+    "objectId": "92",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Simei Street 1  529940, Changi / Pasir Ris (D17-18)",
+    "displayText": "Melville Park",
+    "displayType": "Apartment",
+    "nanoId": "kzvh3f",
+    "objectId": "108",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Bedok South Avenue 3  465461, East Coast (D15-16)",
+    "displayText": "Grandeur Park Residences",
+    "displayType": "Condominium",
+    "nanoId": "1m24f7",
+    "objectId": "22879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Paya Lebar Road  409053, Balestier / Geylang (D12-14)",
+    "displayText": "Park Place Residences",
+    "displayType": "Condominium",
+    "nanoId": "leem6w",
+    "objectId": "22798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Bishan Street 25  573973, Serangoon / Thomson (D19-20)",
+    "displayText": "Clover By The Park",
+    "displayType": "Condominium",
+    "nanoId": "q39vit",
+    "objectId": "1295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "46 Toh Tuck Road  596721, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Signature Park",
+    "displayType": "Condominium",
+    "nanoId": "jae1ne",
+    "objectId": "210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lincoln Road  308342, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Park Infinia at Wee Nam",
+    "displayType": "Condominium",
+    "nanoId": "g3kn14",
+    "objectId": "67",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "76 West Coast Road  126826, City & South West (D01-08)",
+    "displayText": "Varsity Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "tzl22z",
+    "objectId": "80",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Spottiswoode Park Road  088660, City & South West (D01-08)",
+    "displayText": "Spottiswoode Residences",
+    "displayType": "Condominium",
+    "nanoId": "oebygy",
+    "objectId": "20545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Bedok Reservoir View  478926, East Coast (D15-16)",
+    "displayText": "Aquarius By The Park",
+    "displayType": "Condominium",
+    "nanoId": "xts7yj",
+    "objectId": "46",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sommerville Estate Road  258000, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Park",
+    "displayType": "Condominium",
+    "nanoId": "uxlnxl",
+    "objectId": "203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "240 Lorong Chuan  556743, Serangoon / Thomson (D19-20)",
+    "displayText": "Chuan Park",
+    "displayType": "Condominium",
+    "nanoId": "ragk7i",
+    "objectId": "25837",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "325 River Valley Road  238357, Orchard / Holland (D09-10)",
+    "displayText": "Yong An Park",
+    "displayType": "Condominium",
+    "nanoId": "3xhocw",
+    "objectId": "260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Marine Parade Road  000000, East Coast (D15-16)",
+    "displayText": "Laguna Park",
+    "displayType": "Apartment",
+    "nanoId": "y73jtg",
+    "objectId": "359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 West Coast Park  127647, City & South West (D01-08)",
+    "displayText": "Botannia",
+    "displayType": "Condominium",
+    "nanoId": "sg8q6f",
+    "objectId": "756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Seletar Road  807019, North (D25-28)",
+    "displayText": "Seletar Park Residence",
+    "displayType": "Condominium",
+    "nanoId": "f23v1n",
+    "objectId": "21127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Hazel Park Condo  678943, West (D22-24)",
+    "displayText": "Hazel Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "ord7po",
+    "objectId": "291",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Hillview Avenue  669556, West (D22-24)",
+    "displayText": "Glendale Park",
+    "displayType": "Condominium",
+    "nanoId": "9mh8i0",
+    "objectId": "535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Nathan Road  248726, Orchard / Holland (D09-10)",
+    "displayText": "Regency Park",
+    "displayType": "Condominium",
+    "nanoId": "bpckrx",
+    "objectId": "222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "520 East Coast Road  458965, East Coast (D15-16)",
+    "displayText": "Ocean Park",
+    "displayType": "Condominium",
+    "nanoId": "4gybuv",
+    "objectId": "293",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Draycott Park  259388, Orchard / Holland (D09-10)",
+    "displayText": "The Draycott",
+    "displayType": "Condominium",
+    "nanoId": "jfdgyp",
+    "objectId": "513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Flora Road  506999, Changi / Pasir Ris (D17-18)",
+    "displayText": "Edelweiss Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "1k54qu",
+    "objectId": "140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "81 Yishun Street 81  768445, North (D25-28)",
+    "displayText": "Orchid Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "yanxxf",
+    "objectId": "171",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Ridley Park  248466, Orchard / Holland (D09-10)",
+    "displayText": "Tanglin Park",
+    "displayType": "Condominium",
+    "nanoId": "mjzvmx",
+    "objectId": "292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131 Serangoon Avenue 3  556112, Serangoon / Thomson (D19-20)",
+    "displayText": "Chiltern Park",
+    "displayType": "Condominium",
+    "nanoId": "dop8c3",
+    "objectId": "308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Lorong Mydin  416825, Balestier / Geylang (D12-14)",
+    "displayText": "Astoria Park",
+    "displayType": "Condominium",
+    "nanoId": "70eyua",
+    "objectId": "6",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39A West Coast Park  127712, City & South West (D01-08)",
+    "displayText": "The Infiniti",
+    "displayType": "Condominium",
+    "nanoId": "kcf17y",
+    "objectId": "101",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 King Albert Park  598292, Newton / Bt. Timah (D11, 21)",
+    "displayText": "KAP Residences",
+    "displayType": "Condominium",
+    "nanoId": "czr5vu",
+    "objectId": "21589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Indus Road  169586, City & South West (D01-08)",
+    "displayText": "Emerald Park",
+    "displayType": "Condominium",
+    "nanoId": "3p3msx",
+    "objectId": "251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "491 Yio Chu Kang Road  787078, North (D25-28)",
+    "displayText": "Seasons Park",
+    "displayType": "Condominium",
+    "nanoId": "l0gqrg",
+    "objectId": "264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Cuscaden Walk  249692, Orchard / Holland (D09-10)",
+    "displayText": "Four Seasons Park",
+    "displayType": "Condominium",
+    "nanoId": "qm3ri9",
+    "objectId": "268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "160 Lentor Loop  789094, North (D25-28)",
+    "displayText": "Bullion Park",
+    "displayType": "Condominium",
+    "nanoId": "5jhdz6",
+    "objectId": "299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "557261, Serangoon / Thomson (D19-20)",
+    "displayText": "Kensington Park",
+    "displayType": "Condominium",
+    "nanoId": "wlwdqh",
+    "objectId": "414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Ardmore Park  259955, Orchard / Holland (D09-10)",
+    "displayText": "Ardmore Park",
+    "displayType": "Condominium",
+    "nanoId": "prmvml",
+    "objectId": "48",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Rivervale Link  545040, Serangoon / Thomson (D19-20)",
+    "displayText": "Park Green",
+    "displayType": "Condominium",
+    "nanoId": "ri89tt",
+    "objectId": "1514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Spottiswoode Park Road  088661, City & South West (D01-08)",
+    "displayText": "Spottiswoode Suites",
+    "displayType": "Condominium",
+    "nanoId": "fmgfcq",
+    "objectId": "21364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "99 Cluny Park Road  257496, Orchard / Holland (D09-10)",
+    "displayText": "Cluny Park Residence",
+    "displayType": "Condominium",
+    "nanoId": "vmp2eo",
+    "objectId": "21734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Pine Grove  597593, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Cavendish Park",
+    "displayType": "Condominium",
+    "nanoId": "tn131w",
+    "objectId": "238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Mergui Road  219067, City & South West (D01-08)",
+    "displayText": "Cityscape at Farrer Park",
+    "displayType": "Condominium",
+    "nanoId": "syrult",
+    "objectId": "2670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "059109, City & South West (D01-08)",
+    "displayText": "Regent Park",
+    "displayType": "Condominium",
+    "nanoId": "dvatb5",
+    "objectId": "283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15B Hume Avenue  598700, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Hume Park II",
+    "displayType": "Condominium",
+    "nanoId": "njuos4",
+    "objectId": "411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Hume Avenue  598718, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Hume Park I",
+    "displayType": "Condominium",
+    "nanoId": "5f2h2p",
+    "objectId": "552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "398 Kallang Road  339098, Balestier / Geylang (D12-14)",
+    "displayText": "The Riverine By The Park",
+    "displayType": "Apartment",
+    "nanoId": "buu3nl",
+    "objectId": "968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Bukit Batok East Avenue 6  659763, West (D22-24)",
+    "displayText": "Park Natura",
+    "displayType": "Condominium",
+    "nanoId": "yl2izh",
+    "objectId": "1144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Hougang Avenue 7  538800, Serangoon / Thomson (D19-20)",
+    "displayText": "Evergreen Park",
+    "displayType": "Condominium",
+    "nanoId": "t6a9yf",
+    "objectId": "188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Spottiswoode Park Road  088642, City & South West (D01-08)",
+    "displayText": "Spottiswoode 18",
+    "displayType": "Condominium",
+    "nanoId": "36zfz9",
+    "objectId": "20582",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Grange Road  249569, Orchard / Holland (D09-10)",
+    "displayText": "Gramercy Park",
+    "displayType": "Condominium",
+    "nanoId": "zok8po",
+    "objectId": "2161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

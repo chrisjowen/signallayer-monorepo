@@ -1,0 +1,1337 @@
+[
+  {
+    "displayText": "Lorong Limau",
+    "displayType": "Street",
+    "objectId": "10544",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Lorong Limau  328754, Balestier / Geylang (D12-14)",
+    "displayText": "Cradels",
+    "displayType": "Condominium",
+    "nanoId": "3y1ia8",
+    "objectId": "21155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "78 Lorong Limau  320078, Balestier / Geylang (D12-14)",
+    "displayText": "78 Lorong Limau",
+    "displayType": "HDB",
+    "nanoId": "36j92p",
+    "objectId": "24609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Lorong Limau  328741, Balestier / Geylang (D12-14)",
+    "displayText": "Parc Haven",
+    "displayType": "Condominium",
+    "nanoId": "83j44q",
+    "objectId": "594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "76 Lorong Limau  320076, Balestier / Geylang (D12-14)",
+    "displayText": "76 Lorong Limau",
+    "displayType": "HDB",
+    "nanoId": "nc5yo1",
+    "objectId": "8457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "77 Lorong Limau  320077, Balestier / Geylang (D12-14)",
+    "displayText": "77 Lorong Limau",
+    "displayType": "HDB",
+    "nanoId": "jf01h0",
+    "objectId": "8458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15",
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Lorong Limau  320080, Balestier / Geylang (D12-14)",
+    "displayText": "80 Lorong Limau",
+    "displayType": "HDB",
+    "nanoId": "cxc9ra",
+    "objectId": "8459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "00 Limau Garden  100000, East Coast (D15-16)",
+    "displayText": "Kew Gate",
+    "displayType": "Cluster House",
+    "nanoId": "cjztjc",
+    "objectId": "1426",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Limau Garden  465000, East Coast (D15-16)",
+    "displayText": "Richmond Ville",
+    "displayType": "Semi-Detached House",
+    "nanoId": "hzhk84",
+    "objectId": "2338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Limau Terrace  465000, East Coast (D15-16)",
+    "displayText": "Limau Villas",
+    "displayType": "Terraced House",
+    "nanoId": "hrcvdy",
+    "objectId": "838",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "22 Jalan Limau Bali  468493, East Coast (D15-16)",
+    "displayText": "Limau Park",
+    "displayType": "Condominium",
+    "nanoId": "4swvwx",
+    "objectId": "1641",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Jalan Limau Nipis  468294, East Coast (D15-16)",
+    "displayText": "Bedok Gardens",
+    "displayType": "Condominium",
+    "nanoId": "2wa2et",
+    "objectId": "1787",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Limau Manis  468000, East Coast (D15-16)",
+    "displayText": "Eastern Grove",
+    "displayType": "Terraced House",
+    "nanoId": "4k3hv3",
+    "objectId": "1895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "5 Jalan Limau Kasturi  468410, East Coast (D15-16)",
+    "displayText": "Green Park",
+    "displayType": "Terraced House",
+    "nanoId": "8r2phx",
+    "objectId": "1981",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Limau Walk  467000, East Coast (D15-16)",
+    "displayText": "Kew Cottages",
+    "displayType": "Terraced House",
+    "nanoId": "zdu6y1",
+    "objectId": "2087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Limau Grove  467000, East Coast (D15-16)",
+    "displayText": "Limau Grove",
+    "displayType": "Terraced House",
+    "nanoId": "gd9bp0",
+    "objectId": "2143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Limau Nipis  000000, East Coast (D15-16)",
+    "displayText": "Bedokville",
+    "displayType": "Semi-Detached House",
+    "nanoId": "4rn0y1",
+    "objectId": "24578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Limau Bali  467000, East Coast (D15-16)",
+    "displayText": "Residences @ Limau",
+    "displayType": "Terraced House",
+    "nanoId": "nk0itu",
+    "objectId": "689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Limau Garden  467000, East Coast (D15-16)",
+    "displayText": "Bedok Park",
+    "displayType": "Semi-Detached House",
+    "nanoId": "j6hvo5",
+    "objectId": "907",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Limau",
+    "displayType": "Street",
+    "objectId": "10383",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Limau Terrace",
+    "displayType": "Street",
+    "objectId": "12577",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Limau Balli",
+    "displayType": "Street",
+    "objectId": "1588",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Limau Kasturi",
+    "displayType": "Street",
+    "objectId": "1589",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Limau Manis",
+    "displayType": "Street",
+    "objectId": "1590",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Limau Nipis",
+    "displayType": "Street",
+    "objectId": "1591",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Limau Purut",
+    "displayType": "Street",
+    "objectId": "1592",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Limau Garden",
+    "displayType": "Street",
+    "objectId": "1983",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Limau Rise",
+    "displayType": "Street",
+    "objectId": "1985",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Limau Walk",
+    "displayType": "Street",
+    "objectId": "1987",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Limau Bali",
+    "displayType": "Street",
+    "objectId": "8055",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Limau Grove",
+    "displayType": "Street",
+    "objectId": "1984",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Jalan Rimau  418000, Balestier / Geylang (D12-14)",
+    "displayText": "Reservoir Villas",
+    "displayType": "Terraced House",
+    "nanoId": "hxa0ym",
+    "objectId": "1580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Jalan Rimau",
+    "displayType": "Street",
+    "objectId": "1439",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lengkong Lima",
+    "displayType": "Street",
+    "objectId": "14750",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "6 Lorong How Sun  536500, Serangoon / Thomson (D19-20)",
+    "displayText": "Bartley Residences",
+    "displayType": "Condominium",
+    "nanoId": "ia1lnw",
+    "objectId": "21131",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Lorong 3 Toa Payoh  319581, Balestier / Geylang (D12-14)",
+    "displayText": "Trevista",
+    "displayType": "Condominium",
+    "nanoId": "22x4ye",
+    "objectId": "1573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138 Serangoon Avenue 3  554475, Serangoon / Thomson (D19-20)",
+    "displayText": "The Scala @ Lorong Chuan",
+    "displayType": "Condominium",
+    "nanoId": "2mdv7q",
+    "objectId": "2662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong 40 Geylang  398075, Balestier / Geylang (D12-14)",
+    "displayText": "The Waterina",
+    "displayType": "Apartment",
+    "nanoId": "no1gau",
+    "objectId": "221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "700 Toa Payoh Lorong 1  319773, Balestier / Geylang (D12-14)",
+    "displayText": "Trellis Towers",
+    "displayType": "Condominium",
+    "nanoId": "rjxv2r",
+    "objectId": "432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "240 Lorong Chuan  556743, Serangoon / Thomson (D19-20)",
+    "displayText": "Chuan Park",
+    "displayType": "Condominium",
+    "nanoId": "ragk7i",
+    "objectId": "25837",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Lorong Puntong  576438, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Impressions",
+    "displayType": "Condominium",
+    "nanoId": "d81y9b",
+    "objectId": "22241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Lorong 40 Geylang  398074, Balestier / Geylang (D12-14)",
+    "displayText": "The Sunny Spring",
+    "displayType": "Apartment",
+    "nanoId": "otd5bz",
+    "objectId": "509",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Lorong Mydin  416825, Balestier / Geylang (D12-14)",
+    "displayText": "Astoria Park",
+    "displayType": "Condominium",
+    "nanoId": "70eyua",
+    "objectId": "6",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "911 Lorong 1 Toa Payoh  319771, Balestier / Geylang (D12-14)",
+    "displayText": "Oleander Towers",
+    "displayType": "Apartment",
+    "nanoId": "1fb3bk",
+    "objectId": "303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Lorong chuan  556820, Serangoon / Thomson (D19-20)",
+    "displayText": "The Chuan",
+    "displayType": "Condominium",
+    "nanoId": "1yfvd6",
+    "objectId": "180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Lorong M Telok Kurau  420000, East Coast (D15-16)",
+    "displayText": "The Seawind @ Telok Kurau",
+    "displayType": "Condominium",
+    "nanoId": "jotvmu",
+    "objectId": "20821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Lorong 30 Geylang  398371, Balestier / Geylang (D12-14)",
+    "displayText": "Guillemard Edge",
+    "displayType": "Condominium",
+    "nanoId": "4ol569",
+    "objectId": "21144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Lorong Ong Lye  536443, Serangoon / Thomson (D19-20)",
+    "displayText": "Casa Rosa",
+    "displayType": "Condominium",
+    "nanoId": "us4wvc",
+    "objectId": "1004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Lorong Lew Lian  536467, Serangoon / Thomson (D19-20)",
+    "displayText": "Cherryhill",
+    "displayType": "Condominium",
+    "nanoId": "j25a5w",
+    "objectId": "789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Lorong Kismis  596187, Newton / Bt. Timah (D11, 21)",
+    "displayText": "View at Kismis",
+    "displayType": "Condominium",
+    "nanoId": "yf2taw",
+    "objectId": "23765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Lorong 27 Geylang Singapore  388199, Balestier / Geylang (D12-14)",
+    "displayText": "The Alcove",
+    "displayType": "Condominium",
+    "nanoId": "a5d0jm",
+    "objectId": "467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Lorong Ong Lye  536407, Serangoon / Thomson (D19-20)",
+    "displayText": "Rosalia Park",
+    "displayType": "Condominium",
+    "nanoId": "safuuz",
+    "objectId": "709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Lorong Puntong  576438, Serangoon / Thomson (D19-20)",
+    "displayText": "Country Esquire",
+    "displayType": "Condominium",
+    "nanoId": "tdm6ei",
+    "objectId": "783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Lorong 39 Geylang  387882, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Residences",
+    "displayType": "Apartment",
+    "nanoId": "mzymo3",
+    "objectId": "826",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "22 Lorong Puntong  576439, Serangoon / Thomson (D19-20)",
+    "displayText": "Country Grandeur",
+    "displayType": "Condominium",
+    "nanoId": "hsaued",
+    "objectId": "920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "127 Lorong L Telok Kurau  425562, East Coast (D15-16)",
+    "displayText": "Blu Coral Condo",
+    "displayType": "Condominium",
+    "nanoId": "n7j07o",
+    "objectId": "1264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Lorong K Telok Kurau  425612, East Coast (D15-16)",
+    "displayText": "The Amery",
+    "displayType": "Condominium",
+    "nanoId": "1ci62n",
+    "objectId": "1317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138A Lorong 1A Toa Payoh  311138, Balestier / Geylang (D12-14)",
+    "displayText": "138A Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "6rwg6m",
+    "objectId": "1579",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Lorong 39 Geylang  387866, Balestier / Geylang (D12-14)",
+    "displayText": "D'Weave",
+    "displayType": "Condominium",
+    "nanoId": "9y41xr",
+    "objectId": "20823",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Lorong 24 Geylang  398614, Balestier / Geylang (D12-14)",
+    "displayText": "#1 Loft",
+    "displayType": "Apartment",
+    "nanoId": "3npdzr",
+    "objectId": "21478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Lorong M Telok Kurau  425310, East Coast (D15-16)",
+    "displayText": "Garden Park Residences",
+    "displayType": "Apartment",
+    "nanoId": "8utpq6",
+    "objectId": "21597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Lorong 20 Geylang  398721, Balestier / Geylang (D12-14)",
+    "displayText": "#1 Suites (One Suites)",
+    "displayType": "Condominium",
+    "nanoId": "di79zv",
+    "objectId": "21644",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 LORONG 32 GEYLANG  398299, Balestier / Geylang (D12-14)",
+    "displayText": "Silverscape",
+    "displayType": "Apartment",
+    "nanoId": "yesy8b",
+    "objectId": "22094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Lorong 24 Geylang  398636, Balestier / Geylang (D12-14)",
+    "displayText": "Rezi 24",
+    "displayType": "Apartment",
+    "nanoId": "7yzdbt",
+    "objectId": "22164",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "130A Lorong 1 Toa Payoh  311130, Balestier / Geylang (D12-14)",
+    "displayText": "130A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "w0v7mq",
+    "objectId": "23087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130B Lorong 1 Toa Payoh  312130, Balestier / Geylang (D12-14)",
+    "displayText": "130B Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "ksnnix",
+    "objectId": "23088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131A Lorong 1 Toa Payoh  311131, Balestier / Geylang (D12-14)",
+    "displayText": "131A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "ds648o",
+    "objectId": "23091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131B Lorong 1 Toa Payoh  312131, Balestier / Geylang (D12-14)",
+    "displayText": "131B Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "bvgwqs",
+    "objectId": "23092",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "16 Lorong 35 Geylang  387946, Balestier / Geylang (D12-14)",
+    "displayText": "Sixteen35 Residences",
+    "displayType": "Condominium",
+    "nanoId": "l5qqll",
+    "objectId": "23435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138B Lorong 1A Toa Payoh  312138, Balestier / Geylang (D12-14)",
+    "displayText": "138B Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "8xjnsv",
+    "objectId": "23700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138C Lorong 1A Toa Payoh  313138, Balestier / Geylang (D12-14)",
+    "displayText": "138C Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "fklzlp",
+    "objectId": "23701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139A Lorong 1A Toa Payoh  311139, Balestier / Geylang (D12-14)",
+    "displayText": "139A Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "g5yk65",
+    "objectId": "23703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Lorong 28 Geylang  398456, Balestier / Geylang (D12-14)",
+    "displayText": "NoMa",
+    "displayType": "Condominium",
+    "nanoId": "4hjtbu",
+    "objectId": "24505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Lorong 108 Changi  426406, East Coast (D15-16)",
+    "displayText": "Stillz Residence",
+    "displayType": "Apartment",
+    "nanoId": "phbu4v",
+    "objectId": "2598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Lorong Sarhad  119174, City & South West (D01-08)",
+    "displayText": "Treasure Place",
+    "displayType": "Condominium",
+    "nanoId": "xkf0w2",
+    "objectId": "318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Lorong 42 Geylang  398026, Balestier / Geylang (D12-14)",
+    "displayText": "Aston Mansions",
+    "displayType": "Apartment",
+    "nanoId": "874wsa",
+    "objectId": "53",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Lorong Sarina  416729, Balestier / Geylang (D12-14)",
+    "displayText": "Casa Sarina",
+    "displayType": "Condominium",
+    "nanoId": "uqu76b",
+    "objectId": "553",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Lorong Ah Soo",
+    "displayType": "Street",
+    "objectId": "10424",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "87 Lorong L Telok Kurau  425525, East Coast (D15-16)",
+    "displayText": "Le Conney Park",
+    "displayType": "Apartment",
+    "nanoId": "ellcfs",
+    "objectId": "1007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "128 Lorong L Telok Kurau  425563, East Coast (D15-16)",
+    "displayText": "The Espira",
+    "displayType": "Apartment",
+    "nanoId": "d2xwlo",
+    "objectId": "1023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Lorong Ampas  328784, Balestier / Geylang (D12-14)",
+    "displayText": "D'Lotus",
+    "displayType": "Condominium",
+    "nanoId": "k3btfa",
+    "objectId": "1141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong G Telok Kurau  426234, East Coast (D15-16)",
+    "displayText": "Espira Spring",
+    "displayType": "Apartment",
+    "nanoId": "osu5iu",
+    "objectId": "1268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "118 Lorong H Telok Kurau  426146, East Coast (D15-16)",
+    "displayText": "The Verte",
+    "displayType": "Condominium",
+    "nanoId": "a163m8",
+    "objectId": "1291",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Lorong Lew Lian  536491, Serangoon / Thomson (D19-20)",
+    "displayText": "Cherry Gardens",
+    "displayType": "Condominium",
+    "nanoId": "z5shtw",
+    "objectId": "1417",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "47 Lorong G Telok Kurau  426224, East Coast (D15-16)",
+    "displayText": "Palm Vista",
+    "displayType": "Condominium",
+    "nanoId": "em85gs",
+    "objectId": "1450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Lorong 36 Geylang  398150, Balestier / Geylang (D12-14)",
+    "displayText": "Evergreen View",
+    "displayType": "Condominium",
+    "nanoId": "om6g1z",
+    "objectId": "1919",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Lorong 105 Changi  426536, East Coast (D15-16)",
+    "displayText": "The Ariel",
+    "displayType": "Condominium",
+    "nanoId": "k7ik0r",
+    "objectId": "20583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Lorong K Telok Kurau  425708, East Coast (D15-16)",
+    "displayText": "Cubik",
+    "displayType": "Apartment",
+    "nanoId": "erfncw",
+    "objectId": "20634",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Lorong 38 Geylang  398106, Balestier / Geylang (D12-14)",
+    "displayText": "The Water Edge @ Geylang",
+    "displayType": "Condominium",
+    "nanoId": "fte8cp",
+    "objectId": "20682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Lorong Ah Soo  534051, Serangoon / Thomson (D19-20)",
+    "displayText": "Urban Residences",
+    "displayType": "Condominium",
+    "nanoId": "n60ll1",
+    "objectId": "20715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "130 Lorong K Telok Kurau  425769, East Coast (D15-16)",
+    "displayText": "La Vida @ 130",
+    "displayType": "Condominium",
+    "nanoId": "s0655f",
+    "objectId": "20775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Lorong 26 Geylang  398480, Balestier / Geylang (D12-14)",
+    "displayText": "Rezi 26",
+    "displayType": "Condominium",
+    "nanoId": "r3qbux",
+    "objectId": "20793",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Lorong 102 Changi  426608, East Coast (D15-16)",
+    "displayText": "Jupiter 18",
+    "displayType": "Condominium",
+    "nanoId": "9xu1ah",
+    "objectId": "20943",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Lorong 30 Geylang  398361, Balestier / Geylang (D12-14)",
+    "displayText": "Suites 28",
+    "displayType": "Apartment",
+    "nanoId": "fw2lan",
+    "objectId": "21056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Lorong 7 Geylang  388792, Balestier / Geylang (D12-14)",
+    "displayText": "Centra Residence",
+    "displayType": "Condominium",
+    "nanoId": "od8ngu",
+    "objectId": "21145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Lorong K Telok Kurau  425687, East Coast (D15-16)",
+    "displayText": "The Cristallo",
+    "displayType": "Condominium",
+    "nanoId": "0ifn79",
+    "objectId": "21197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Geylang Lorong 22  398664, Balestier / Geylang (D12-14)",
+    "displayText": "Grandview Suites @ Geylang",
+    "displayType": "Condominium",
+    "nanoId": "zlgo3z",
+    "objectId": "21229",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "48 Lorong 32 Geylang  398308, Balestier / Geylang (D12-14)",
+    "displayText": "Rezi 3Two",
+    "displayType": "Apartment",
+    "nanoId": "025w11",
+    "objectId": "21818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Lorong N Telok Kurau  425163, East Coast (D15-16)",
+    "displayText": "Palmera Residence",
+    "displayType": "Condominium",
+    "nanoId": "g444ba",
+    "objectId": "2271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Lorong 35 Geylang  387949, Balestier / Geylang (D12-14)",
+    "displayText": "Rezi 35",
+    "displayType": "Condominium",
+    "nanoId": "lxce76",
+    "objectId": "23328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

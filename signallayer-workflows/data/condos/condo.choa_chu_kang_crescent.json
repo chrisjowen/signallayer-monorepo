@@ -1,0 +1,1509 @@
+[
+  {
+    "displayText": "Choa Chu Kang Crescent",
+    "displayType": "Street",
+    "objectId": "515",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "691A Choa Chu Kang Crescent  681691, West (D22-24)",
+    "displayText": "691A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "t9tw1r",
+    "objectId": "5060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "656 Choa Chu Kang Crescent  680656, West (D22-24)",
+    "displayText": "656 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "gusn9j",
+    "objectId": "4990",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "657 Choa Chu Kang Crescent  680657, West (D22-24)",
+    "displayText": "657 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "bz59b6",
+    "objectId": "4991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "658 Choa Chu Kang Crescent  680658, West (D22-24)",
+    "displayText": "658 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "g6hh8l",
+    "objectId": "4992",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659 Choa Chu Kang Crescent  680659, West (D22-24)",
+    "displayText": "659 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "e25ovd",
+    "objectId": "4993",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660 Choa Chu Kang Crescent  680660, West (D22-24)",
+    "displayText": "660 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "g4lepf",
+    "objectId": "4994",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661 Choa Chu Kang Crescent  680661, West (D22-24)",
+    "displayText": "661 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "4l5q85",
+    "objectId": "4995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662 Choa Chu Kang Crescent  680662, West (D22-24)",
+    "displayText": "662 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "28f9l2",
+    "objectId": "4996",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "663 Choa Chu Kang Crescent  680663, West (D22-24)",
+    "displayText": "663 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "olgl79",
+    "objectId": "4997",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664 Choa Chu Kang Crescent  680664, West (D22-24)",
+    "displayText": "664 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "318e24",
+    "objectId": "4998",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "665 Choa Chu Kang Crescent  680665, West (D22-24)",
+    "displayText": "665 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "egogbs",
+    "objectId": "4999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "666 Choa Chu Kang Crescent  680666, West (D22-24)",
+    "displayText": "666 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "dmnye0",
+    "objectId": "5000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "667 Choa Chu Kang Crescent  680667, West (D22-24)",
+    "displayText": "667 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "ycjm1w",
+    "objectId": "5001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668 Choa Chu Kang Crescent  680668, West (D22-24)",
+    "displayText": "668 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "rrc2ny",
+    "objectId": "5002",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669 Choa Chu Kang Crescent  680669, West (D22-24)",
+    "displayText": "669 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "nrpntk",
+    "objectId": "5003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "670 Choa Chu Kang Crescent  680670, West (D22-24)",
+    "displayText": "670 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "tzg2ew",
+    "objectId": "5004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "671 Choa Chu Kang Crescent  680671, West (D22-24)",
+    "displayText": "671 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "iwblpt",
+    "objectId": "5005",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "672 Choa Chu Kang Crescent  680672, West (D22-24)",
+    "displayText": "672 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "nv33io",
+    "objectId": "5006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "673 Choa Chu Kang Crescent  680673, West (D22-24)",
+    "displayText": "673 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "qwzkhv",
+    "objectId": "5007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "674 Choa Chu Kang Crescent  680674, West (D22-24)",
+    "displayText": "674 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "slsbst",
+    "objectId": "5008",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675 Choa Chu Kang Crescent  680675, West (D22-24)",
+    "displayText": "675 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "xapdxw",
+    "objectId": "5009",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "676 Choa Chu Kang Crescent  680676, West (D22-24)",
+    "displayText": "676 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "r09ty4",
+    "objectId": "5010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "677 Choa Chu Kang Crescent  680677, West (D22-24)",
+    "displayText": "677 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "6wv5kl",
+    "objectId": "5011",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678 Choa Chu Kang Crescent  680678, West (D22-24)",
+    "displayText": "678 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "la8uk1",
+    "objectId": "5012",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "679 Choa Chu Kang Crescent  680679, West (D22-24)",
+    "displayText": "679 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "0ftf1z",
+    "objectId": "5013",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "680 Choa Chu Kang Crescent  680680, West (D22-24)",
+    "displayText": "680 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "nvgle0",
+    "objectId": "5014",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "681 Choa Chu Kang Crescent  680681, West (D22-24)",
+    "displayText": "681 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "hhi3w5",
+    "objectId": "5015",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "682 Choa Chu Kang Crescent  680682, West (D22-24)",
+    "displayText": "682 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "ie2b46",
+    "objectId": "5016",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "683 Choa Chu Kang Crescent  680683, West (D22-24)",
+    "displayText": "683 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "a00skl",
+    "objectId": "5017",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684 Choa Chu Kang Crescent  680684, West (D22-24)",
+    "displayText": "684 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "t8tdg0",
+    "objectId": "5018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685 Choa Chu Kang Crescent  680685, West (D22-24)",
+    "displayText": "685 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "yshlwl",
+    "objectId": "5019",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "689 Choa Chu Kang Crescent  680689, West (D22-24)",
+    "displayText": "689 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "g4iwxh",
+    "objectId": "5021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "691 Choa Chu Kang Crescent  680691, West (D22-24)",
+    "displayText": "691 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "9cezgf",
+    "objectId": "5023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "692 Choa Chu Kang Crescent  680692, West (D22-24)",
+    "displayText": "692 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "t6r3cg",
+    "objectId": "5024",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659A Choa Chu Kang Crescent  681659, West (D22-24)",
+    "displayText": "659A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "n0f1z2",
+    "objectId": "5025",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660A Choa Chu Kang Crescent  681660, West (D22-24)",
+    "displayText": "660A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "5juty3",
+    "objectId": "5026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661A Choa Chu Kang Crescent  681661, West (D22-24)",
+    "displayText": "661A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "a6z5uh",
+    "objectId": "5027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "668A Choa Chu Kang Crescent  681668, West (D22-24)",
+    "displayText": "668A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "mn0b9b",
+    "objectId": "5028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "669A Choa Chu Kang Crescent  681669, West (D22-24)",
+    "displayText": "669A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "ly0g0u",
+    "objectId": "5029",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "670A Choa Chu Kang Crescent  681670, West (D22-24)",
+    "displayText": "670A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "tizxvv",
+    "objectId": "5030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "671A Choa Chu Kang Crescent  681671, West (D22-24)",
+    "displayText": "671A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "l2ojj5",
+    "objectId": "5031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "672A Choa Chu Kang Crescent  681672, West (D22-24)",
+    "displayText": "672A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "sgns0f",
+    "objectId": "5032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "672B Choa Chu Kang Crescent  682672, West (D22-24)",
+    "displayText": "672B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "78q31z",
+    "objectId": "5033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "673A Choa Chu Kang Crescent  681673, West (D22-24)",
+    "displayText": "673A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "qz8ewj",
+    "objectId": "5034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "673B Choa Chu Kang Crescent  682673, West (D22-24)",
+    "displayText": "673B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "rp1u17",
+    "objectId": "5035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "674A Choa Chu Kang Crescent  681674, West (D22-24)",
+    "displayText": "674A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "pqmeru",
+    "objectId": "5036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "676A Choa Chu Kang Crescent  681676, West (D22-24)",
+    "displayText": "676A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "ma69u3",
+    "objectId": "5038",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678A Choa Chu Kang Crescent  681678, West (D22-24)",
+    "displayText": "678A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "h8lqha",
+    "objectId": "5039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "678B Choa Chu Kang Crescent  682678, West (D22-24)",
+    "displayText": "678B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "j11n6p",
+    "objectId": "5040",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "683A Choa Chu Kang Crescent  681683, West (D22-24)",
+    "displayText": "683A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "qd8f79",
+    "objectId": "5041",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "683B Choa Chu Kang Crescent  682683, West (D22-24)",
+    "displayText": "683B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "hi9qzv",
+    "objectId": "5042",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "683C Choa Chu Kang Crescent  683683, West (D22-24)",
+    "displayText": "683C Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "jvuptb",
+    "objectId": "5043",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684A Choa Chu Kang Crescent  681684, West (D22-24)",
+    "displayText": "684A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "irx6pg",
+    "objectId": "5044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684B Choa Chu Kang Crescent  682684, West (D22-24)",
+    "displayText": "684B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "kyblx8",
+    "objectId": "5045",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684C Choa Chu Kang Crescent  683684, West (D22-24)",
+    "displayText": "684C Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "elgepc",
+    "objectId": "5046",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "684D Choa Chu Kang Crescent  684684, West (D22-24)",
+    "displayText": "684D Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "e8ve7n",
+    "objectId": "5047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685A Choa Chu Kang Crescent  681685, West (D22-24)",
+    "displayText": "685A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "zrdham",
+    "objectId": "5048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685B Choa Chu Kang Crescent  682685, West (D22-24)",
+    "displayText": "685B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "8ne8p9",
+    "objectId": "5049",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "685C Choa Chu Kang Crescent  683685, West (D22-24)",
+    "displayText": "685C Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "eeruhm",
+    "objectId": "5050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "686A Choa Chu Kang Crescent  681686, West (D22-24)",
+    "displayText": "686A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "dj6k6j",
+    "objectId": "5051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "686B Choa Chu Kang Crescent  682686, West (D22-24)",
+    "displayText": "686B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "kxyazh",
+    "objectId": "5052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "686C Choa Chu Kang Crescent  683686, West (D22-24)",
+    "displayText": "686C Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "wyow00",
+    "objectId": "5053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "686D Choa Chu Kang Crescent  684686, West (D22-24)",
+    "displayText": "686D Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "0qw5cu",
+    "objectId": "5054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "688C Choa Chu Kang Crescent  683688, West (D22-24)",
+    "displayText": "688C Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "g8sajm",
+    "objectId": "5055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "690A Choa Chu Kang Crescent  681690, West (D22-24)",
+    "displayText": "690A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "g6sud6",
+    "objectId": "5056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "690B Choa Chu Kang Crescent  682690, West (D22-24)",
+    "displayText": "690B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "38puhc",
+    "objectId": "5057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "690C Choa Chu Kang Crescent  683690, West (D22-24)",
+    "displayText": "690C Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "j71efo",
+    "objectId": "5058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "690D Choa Chu Kang Crescent  684690, West (D22-24)",
+    "displayText": "690D Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "gwn1kr",
+    "objectId": "5059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "691B Choa Chu Kang Crescent  682691, West (D22-24)",
+    "displayText": "691B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "7lbxk8",
+    "objectId": "5061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "692A Choa Chu Kang Crescent  681692, West (D22-24)",
+    "displayText": "692A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "zpm763",
+    "objectId": "5062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "692B Choa Chu Kang Crescent  682692, West (D22-24)",
+    "displayText": "692B Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "pd5rrb",
+    "objectId": "5063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "686 Choa Chu Kang Crescent  680686, West (D22-24)",
+    "displayText": "686 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "u0jtcw",
+    "objectId": "5020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "690 Choa Chu Kang Crescent  680690, West (D22-24)",
+    "displayText": "690 Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "lk847j",
+    "objectId": "5022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675A Choa Chu Kang Crescent  681675, West (D22-24)",
+    "displayText": "675A Choa Chu Kang Crescent",
+    "displayType": "HDB",
+    "nanoId": "4szp27",
+    "objectId": "5037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Chua Choa Kang North 6",
+    "displayType": "Street",
+    "objectId": "4661",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chua Choa Kang Avenue 3",
+    "displayType": "Street",
+    "objectId": "6904",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Choa Chua Kang North 7",
+    "displayType": "Street",
+    "objectId": "7932",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chua Chu Kang",
+    "displayType": "Street",
+    "objectId": "5326",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chua Chu Kang Drive",
+    "displayType": "Street",
+    "objectId": "9231",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D23",
+    "displayText": "D23 Dairy Farm / Bukit Panjang / Choa Chu Kang",
+    "displayType": "District",
+    "objectId": "D23",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D23"
+    }
+  },
+  {
+    "displayText": "Choa Chu Kang",
+    "displayType": "HDB Estate",
+    "objectId": "9",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "8 Choa Chu Kang Grove  688206, West (D22-24)",
+    "displayText": "Sol Acres",
+    "displayType": "Executive Condominium",
+    "nanoId": "dtdg9k",
+    "objectId": "22196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Choa Chu Kang Avenue 5  688191, West (D22-24)",
+    "displayText": "iNz Residence",
+    "displayType": "Condominium",
+    "nanoId": "7w4d4y",
+    "objectId": "22916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "351 Choa Chu Kang Avenue 3  689879, West (D22-24)",
+    "displayText": "Wandervale",
+    "displayType": "Executive Condominium",
+    "nanoId": "1pefx6",
+    "objectId": "22383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "331 Choa Chu Kang Avenue 3  689869, West (D22-24)",
+    "displayText": "The Rainforest",
+    "displayType": "Executive Condominium",
+    "nanoId": "t7hxw5",
+    "objectId": "21117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Choa Chu Kang Loop  689675, West (D22-24)",
+    "displayText": "The Warren",
+    "displayType": "Apartment",
+    "nanoId": "9f8p89",
+    "objectId": "197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Choa Chu Kang Avenue 3  680311, West (D22-24)",
+    "displayText": "Mi Casa",
+    "displayType": "Condominium",
+    "nanoId": "syszvp",
+    "objectId": "1487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Choa Chu Kang Loop  689668, West (D22-24)",
+    "displayText": "Northvale",
+    "displayType": "Condominium",
+    "nanoId": "plyucw",
+    "objectId": "227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Choa Chu Kang North 6  689574, West (D22-24)",
+    "displayText": "Yew Mei Green",
+    "displayType": "Condominium",
+    "nanoId": "v0obxw",
+    "objectId": "124",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "36 Choa Chu Kang Street 64  689101, West (D22-24)",
+    "displayText": "The Quintet",
+    "displayType": "Condominium",
+    "nanoId": "l5w94u",
+    "objectId": "90",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Choa Chu Kang North 7  689527, West (D22-24)",
+    "displayText": "Regent Grove",
+    "displayType": "Condominium",
+    "nanoId": "az6s2z",
+    "objectId": "269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Choa Chu Kang Street 64  689093, West (D22-24)",
+    "displayText": "Windermere",
+    "displayType": "Condominium",
+    "nanoId": "rgmmic",
+    "objectId": "450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23 Choa Chu Kang North 6  689579, West (D22-24)",
+    "displayText": "YewTee Residences",
+    "displayType": "Apartment",
+    "nanoId": "ejaln2",
+    "objectId": "263",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "815C Choa Chu Kang Avenue 7  683815, West (D22-24)",
+    "displayText": "815C Choa Chu Kang Avenue 7",
+    "displayType": "HDB",
+    "nanoId": "u4txz2",
+    "objectId": "22909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Choa Chu Kang Road  689388, West (D22-24)",
+    "displayText": "Nicon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "f5dy2q",
+    "objectId": "949",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Choa Chu Kang Central",
+    "displayType": "Street",
+    "objectId": "514",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "341 Choa Chu Kang Loop  680341, West (D22-24)",
+    "displayText": "341 Choa Chu Kang Loop",
+    "displayType": "HDB",
+    "nanoId": "1yftdf",
+    "objectId": "20520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "476D Choa Chu Kang Avenue 5  684476, West (D22-24)",
+    "displayText": "476D Choa Chu Kang Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "ya7dss",
+    "objectId": "21202",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "476A Choa Chu Kang Avenue 5  681476, West (D22-24)",
+    "displayText": "476A Choa Chu Kang Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "z13mdr",
+    "objectId": "21645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "9"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

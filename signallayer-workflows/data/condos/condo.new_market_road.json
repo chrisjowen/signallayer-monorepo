@@ -1,0 +1,1419 @@
+[
+  {
+    "displayText": "New Market Road",
+    "displayType": "Street",
+    "objectId": "10750",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "32 New Market Road  050032, City & South West (D01-08)",
+    "displayText": "32 New Market Road",
+    "displayType": "HDB",
+    "nanoId": "9iml1m",
+    "objectId": "8689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Leonie Hill Road  239193, Orchard / Holland (D09-10)",
+    "displayText": "New Futura",
+    "displayType": "Condominium",
+    "nanoId": "cw4a8o",
+    "objectId": "1940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "331 New Bridge Road  088764, City & South West (D01-08)",
+    "displayText": "Dorsett Residences",
+    "displayType": "Condominium",
+    "nanoId": "d0442e",
+    "objectId": "20500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 NEW INDUSTRIAL ROAD NEW CENTURY  536199, Serangoon / Thomson (D19-20)",
+    "displayText": "6 New Industrial Road",
+    "displayType": "HDB",
+    "nanoId": "7nbys9",
+    "objectId": "25414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "24 New Upper Changi Road  461024, East Coast (D15-16)",
+    "displayText": "24 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "mj9wx2",
+    "objectId": "8690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "25 New Upper Changi Road  462025, East Coast (D15-16)",
+    "displayText": "25 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "n2uhgk",
+    "objectId": "8691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 New Upper Changi Road  462026, East Coast (D15-16)",
+    "displayText": "26 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "wcm1pt",
+    "objectId": "8692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27 New Upper Changi Road  462027, East Coast (D15-16)",
+    "displayText": "27 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "xmhjib",
+    "objectId": "8693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 New Upper Changi Road  460028, East Coast (D15-16)",
+    "displayText": "28 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "hnh3ix",
+    "objectId": "8694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 New Upper Changi Road  464029, East Coast (D15-16)",
+    "displayText": "29 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "utj77c",
+    "objectId": "8695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 New Upper Changi Road  461030, East Coast (D15-16)",
+    "displayText": "30 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "0a0oh6",
+    "objectId": "8696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 New Upper Changi Road  461051, East Coast (D15-16)",
+    "displayText": "51 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "dl3lc8",
+    "objectId": "8697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 New Upper Changi Road  461052, East Coast (D15-16)",
+    "displayText": "52 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "f3sg1u",
+    "objectId": "8698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 New Upper Changi Road  461053, East Coast (D15-16)",
+    "displayText": "53 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "fbjxd2",
+    "objectId": "8699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "54 New Upper Changi Road  461054, East Coast (D15-16)",
+    "displayText": "54 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "yuv3wd",
+    "objectId": "8700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 New Upper Changi Road  461055, East Coast (D15-16)",
+    "displayText": "55 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "cvy9dy",
+    "objectId": "8701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 New Upper Changi Road  461056, East Coast (D15-16)",
+    "displayText": "56 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "3201zm",
+    "objectId": "8702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 New Upper Changi Road  461057, East Coast (D15-16)",
+    "displayText": "57 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "uhectv",
+    "objectId": "8703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 New Upper Changi Road  461058, East Coast (D15-16)",
+    "displayText": "58 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "kiu2r8",
+    "objectId": "8704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 New Upper Changi Road  461059, East Coast (D15-16)",
+    "displayText": "59 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "dkiiq2",
+    "objectId": "8705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 New Upper Changi Road  461060, East Coast (D15-16)",
+    "displayText": "60 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "lqqm1w",
+    "objectId": "8706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 New Upper Changi Road  461061, East Coast (D15-16)",
+    "displayText": "61 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "dstv1t",
+    "objectId": "8707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 New Upper Changi Road  461062, East Coast (D15-16)",
+    "displayText": "62 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "2jja8o",
+    "objectId": "8708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 New Upper Changi Road  461063, East Coast (D15-16)",
+    "displayText": "63 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "7ylx13",
+    "objectId": "8709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 New Upper Changi Road  460064, East Coast (D15-16)",
+    "displayText": "64 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "2uqvrr",
+    "objectId": "8710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 New Upper Changi Road  460065, East Coast (D15-16)",
+    "displayText": "65 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "jyuocd",
+    "objectId": "8711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 New Upper Changi Road  460207, East Coast (D15-16)",
+    "displayText": "207 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "a6lia9",
+    "objectId": "8712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419906, East Coast (D15-16)",
+    "displayText": "208 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "p249gb",
+    "objectId": "8713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2",
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209 New Upper Changi Road  460209, East Coast (D15-16)",
+    "displayText": "209 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "euzzl0",
+    "objectId": "8714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210 New Upper Changi Road  460210, East Coast (D15-16)",
+    "displayText": "210 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "0yvu7u",
+    "objectId": "8715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211 New Upper Changi Road  460211, East Coast (D15-16)",
+    "displayText": "211 New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "0h6bv7",
+    "objectId": "8716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30A New Upper Changi Road  462030, East Coast (D15-16)",
+    "displayText": "30A New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "87itf2",
+    "objectId": "8721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57A New Upper Changi Road  462057, East Coast (D15-16)",
+    "displayText": "57A New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "egjb8q",
+    "objectId": "8722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57B New Upper Changi Road  463057, East Coast (D15-16)",
+    "displayText": "57B New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "jubbwu",
+    "objectId": "8723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "New Upper Changi Road",
+    "displayType": "Street",
+    "objectId": "10323",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "New Bridge Road",
+    "displayType": "Street",
+    "objectId": "11156",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "New Industrial Road",
+    "displayType": "Street",
+    "objectId": "11486",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "443A New Punggol Road  821443, Serangoon / Thomson (D19-20)",
+    "displayText": "443A New Punggol Road",
+    "displayType": "HDB",
+    "nanoId": "ziwo1q",
+    "objectId": "25920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "445A New Punggol Road  821445, Serangoon / Thomson (D19-20)",
+    "displayText": "445A New Punggol Road",
+    "displayType": "HDB",
+    "nanoId": "agdlgl",
+    "objectId": "25957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207A New Upper Changi Road  461207, East Coast (D15-16)",
+    "displayText": "207A New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "3pldps",
+    "objectId": "8717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207B New Upper Changi Road  467345, East Coast (D15-16)",
+    "displayText": "207B New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "ts1ige",
+    "objectId": "8718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211A New Upper Changi Road  461211, East Coast (D15-16)",
+    "displayText": "211A New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "o2529w",
+    "objectId": "8719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214A New Upper Changi Road  461214, East Coast (D15-16)",
+    "displayText": "214A New Upper Changi Road",
+    "displayType": "HDB",
+    "nanoId": "c2nkfi",
+    "objectId": "8720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Market Street",
+    "displayType": "Street",
+    "objectId": "2261",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bedok Market Place",
+    "displayType": "Street",
+    "objectId": "5385",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Barker Road  307000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Barker Ville",
+    "displayType": "Semi-Detached House",
+    "nanoId": "4dai9p",
+    "objectId": "20632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "29R Barker Road  307493, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Barker Terraces",
+    "displayType": "Terraced House",
+    "nanoId": "tcd9zh",
+    "objectId": "649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Barker Road",
+    "displayType": "Street",
+    "objectId": "157",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D5",
+    "displayText": "D05 Buona Vista / West Coast / Clementi New Town",
+    "displayType": "District",
+    "objectId": "D05",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D05"
+    }
+  },
+  {
+    "displayDescription": "35 Jalan Dusun  329387, Balestier / Geylang (D12-14)",
+    "displayText": "New Court",
+    "displayType": "Apartment",
+    "nanoId": "vgjyv3",
+    "objectId": "2239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Soo Chow Way  575000, Serangoon / Thomson (D19-20)",
+    "displayText": "New Soo Chow Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "ud3w60",
+    "objectId": "883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "New Bridge Rd",
+    "displayType": "Street",
+    "objectId": "12056",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "442A New Punggol  821442, Serangoon / Thomson (D19-20)",
+    "displayText": "442A New Punggol",
+    "displayType": "HDB",
+    "nanoId": "y36zee",
+    "objectId": "26070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Marne Road  208393, City & South West (D01-08)",
+    "displayText": "Studios @ Marne",
+    "displayType": "Apartment",
+    "nanoId": "wx7f5s",
+    "objectId": "1334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 marne road  208380, City & South West (D01-08)",
+    "displayText": "The Citron Residences",
+    "displayType": "Apartment",
+    "nanoId": "4foqjd",
+    "objectId": "21964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Marne Road",
+    "displayType": "Street",
+    "objectId": "2263",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "18 Yew Siang Road  117755, City & South West (D01-08)",
+    "displayText": "Terra Hill",
+    "displayType": "Condominium",
+    "nanoId": "yyevuq",
+    "objectId": "25378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Yew Siang Road  117752, City & South West (D01-08)",
+    "displayText": "Fragrance Court",
+    "displayType": "Condominium",
+    "nanoId": "3raq4d",
+    "objectId": "1109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Kheam Hock Road  298000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Kew Lodge",
+    "displayType": "Town House",
+    "nanoId": "cg0wmm",
+    "objectId": "20948",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "TOWN",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Yew Siang Road",
+    "displayType": "Street",
+    "objectId": "3723",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kew Crescent Road",
+    "displayType": "Street",
+    "objectId": "5076",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1B Asimont Lane  307407, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Asimont @ Barker",
+    "displayType": "Apartment",
+    "nanoId": "fn6jrh",
+    "objectId": "52",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "985 Bukit Timah Road  589627, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Maple Woods",
+    "displayType": "Condominium",
+    "nanoId": "f708jf",
+    "objectId": "126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Rifle Range Road  588373, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mayfair Modern",
+    "displayType": "Condominium",
+    "nanoId": "okft4z",
+    "objectId": "23551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Rifle Range Road  588376, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mayfair Gardens",
+    "displayType": "Condominium",
+    "nanoId": "tcx7r4",
+    "objectId": "23549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Mandalay Road  308214, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Ansley",
+    "displayType": "Condominium",
+    "nanoId": "cl245y",
+    "objectId": "696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Newton Road  307947, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Gloucester Mansions",
+    "displayType": "Condominium",
+    "nanoId": "qsu3up",
+    "objectId": "1088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Evelyn Road  309309, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Evelyn Mansions",
+    "displayType": "Apartment",
+    "nanoId": "y9rl0e",
+    "objectId": "734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Mandalay Road  308215, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mandalay Towers",
+    "displayType": "Condominium",
+    "nanoId": "ullxq5",
+    "objectId": "1029",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Mandalay Road  308208, Newton / Bt. Timah (D11, 21)",
+    "displayText": "M21 Residences",
+    "displayType": "Apartment",
+    "nanoId": "84u29p",
+    "objectId": "1297",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "47 Mandalay Road  308227, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Axis",
+    "displayType": "Apartment",
+    "nanoId": "qe3btw",
+    "objectId": "275",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "130 Thomson Road  307682, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Birmingham Mansions",
+    "displayType": "Apartment",
+    "nanoId": "p60y60",
+    "objectId": "607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "45 Mandalay Road  308225, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mandale Heights",
+    "displayType": "Apartment",
+    "nanoId": "fwhbcx",
+    "objectId": "712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Derbyshire Road  309467, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Derbyshire Mansions",
+    "displayType": "Apartment",
+    "nanoId": "7ckasa",
+    "objectId": "1869",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Gilstead Road  309101, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Gilstead Mansion",
+    "displayType": "Condominium",
+    "nanoId": "ylefwu",
+    "objectId": "1956",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "304 - 304C Thomson Road  307654, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Eng Aun Mansion",
+    "displayType": "Apartment",
+    "nanoId": "ome67b",
+    "objectId": "20760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Minbu Road  308166, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mandalay Mansion",
+    "displayType": "Apartment",
+    "nanoId": "th30ou",
+    "objectId": "2168",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Chun Tin Road  590000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mandarin Park",
+    "displayType": "Terraced House",
+    "nanoId": "w2r7rg",
+    "objectId": "2169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "51 Mandalay Road  308231, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Monarchy Apartments",
+    "displayType": "Apartment",
+    "nanoId": "nogn2y",
+    "objectId": "2209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Shelford Road  288421, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Mansions",
+    "displayType": "Apartment",
+    "nanoId": "11qycj",
+    "objectId": "2414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 SURREY ROAD  307740, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Maison Royale",
+    "displayType": "Condominium",
+    "nanoId": "19o7fs",
+    "objectId": "25190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "374 Thomson Road  298129, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Thomson Mansions",
+    "displayType": "Apartment",
+    "nanoId": "911g78",
+    "objectId": "2524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 - 27G  Gilstead Road  309071, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Newton Mansion",
+    "displayType": "Apartment",
+    "nanoId": "sy2k0v",
+    "objectId": "2647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Derbyshire Road  309460, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Ultra Mansion",
+    "displayType": "Apartment",
+    "nanoId": "11c5xf",
+    "objectId": "874",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 West Coast Vale  126755, City & South West (D01-08)",
+    "displayText": "Twin VEW",
+    "displayType": "Condominium",
+    "nanoId": "uxiycf",
+    "objectId": "23424",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Lew Lian Vale  537016, Serangoon / Thomson (D19-20)",
+    "displayText": "Jade Residences",
+    "displayType": "Apartment",
+    "nanoId": "19ucjq",
+    "objectId": "21583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Choa Chu Kang North 6  689574, West (D22-24)",
+    "displayText": "Yew Mei Green",
+    "displayType": "Condominium",
+    "nanoId": "v0obxw",
+    "objectId": "124",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Lorong Lew Lian  536467, Serangoon / Thomson (D19-20)",
+    "displayText": "Cherryhill",
+    "displayType": "Condominium",
+    "nanoId": "j25a5w",
+    "objectId": "789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "050505, East Coast (D15-16)",
+    "displayText": "Kew Green",
+    "displayType": "Cluster House",
+    "nanoId": "6j1fwn",
+    "objectId": "580",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "LCLUS",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "30 Bukit Batok St 21  659636, West (D22-24)",
+    "displayText": "The Dew",
+    "displayType": "Executive Condominium",
+    "nanoId": "njblr9",
+    "objectId": "1388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Moulmein Rise  308140, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Neu at Novena",
+    "displayType": "Condominium",
+    "nanoId": "fis1z7",
+    "objectId": "23819",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Kew Crescent  465000, East Coast (D15-16)",
+    "displayText": "Kew Residencia",
+    "displayType": "Terraced House",
+    "nanoId": "e1enb7",
+    "objectId": "897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "61 Lorong Lew Lian  536491, Serangoon / Thomson (D19-20)",
+    "displayText": "Cherry Gardens",
+    "displayType": "Condominium",
+    "nanoId": "z5shtw",
+    "objectId": "1417",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Limau Garden  100000, East Coast (D15-16)",
+    "displayText": "Kew Gate",
+    "displayType": "Cluster House",
+    "nanoId": "cjztjc",
+    "objectId": "1426",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "42-42C Eng Neo Avenue  289533, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Orchid Apartment",
+    "displayType": "Apartment",
+    "nanoId": "forz0v",
+    "objectId": "1442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Yew Tee",
+    "displayType": "Street",
+    "objectId": "7603",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Taman Permata  000000, Serangoon / Thomson (D19-20)",
+    "displayText": "Yew Lian Park",
+    "displayType": "Terraced House",
+    "nanoId": "ls0gz9",
+    "objectId": "1050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "10 Geylang East Avenue 1  389781, Balestier / Geylang (D12-14)",
+    "displayText": "Crystal Dew",
+    "displayType": "Condominium",
+    "nanoId": "8hzms0",
+    "objectId": "1847",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lew Lian Vale  537013, Serangoon / Thomson (D19-20)",
+    "displayText": "Jade Towers",
+    "displayType": "Condominium",
+    "nanoId": "dn2255",
+    "objectId": "2055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

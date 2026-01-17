@@ -1,0 +1,1532 @@
+[
+  {
+    "displayText": "Ang Mo Kio Avenue 8",
+    "displayType": "Street",
+    "objectId": "24260",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "59 Ang Mo Kio Avenue 8  567752, Serangoon / Thomson (D19-20)",
+    "displayText": "Centro Residences",
+    "displayType": "Condominium",
+    "nanoId": "zx3tm4",
+    "objectId": "1550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "504 Ang Mo Kio Avenue 8  560504, Serangoon / Thomson (D19-20)",
+    "displayText": "504 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "4db43e",
+    "objectId": "3222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Ang Mo Kio Avenue 8  560505, Serangoon / Thomson (D19-20)",
+    "displayText": "505 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "t77dwq",
+    "objectId": "3223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Ang Mo Kio Avenue 8  560506, Serangoon / Thomson (D19-20)",
+    "displayText": "506 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "amp5xe",
+    "objectId": "3224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Ang Mo Kio Avenue 8  560507, Serangoon / Thomson (D19-20)",
+    "displayText": "507 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "t9dlof",
+    "objectId": "3225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Ang Mo Kio Avenue 8  560508, Serangoon / Thomson (D19-20)",
+    "displayText": "508 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "jzcutg",
+    "objectId": "3226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 Ang Mo Kio Avenue 8  560509, Serangoon / Thomson (D19-20)",
+    "displayText": "509 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "950syj",
+    "objectId": "3227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Ang Mo Kio Avenue 8  560510, Serangoon / Thomson (D19-20)",
+    "displayText": "510 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "qkgvn8",
+    "objectId": "3228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Ang Mo Kio Avenue 8  560511, Serangoon / Thomson (D19-20)",
+    "displayText": "511 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "7keevc",
+    "objectId": "3229",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Ang Mo Kio Avenue 8  560512, Serangoon / Thomson (D19-20)",
+    "displayText": "512 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "26pdlp",
+    "objectId": "3230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Ang Mo Kio Avenue 8  560513, Serangoon / Thomson (D19-20)",
+    "displayText": "513 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "r1e0k2",
+    "objectId": "3231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "702 Ang Mo Kio Avenue 8  560702, Serangoon / Thomson (D19-20)",
+    "displayText": "702 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "dvy7yc",
+    "objectId": "3232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "703 Ang Mo Kio Avenue 8  560703, Serangoon / Thomson (D19-20)",
+    "displayText": "703 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "a9018h",
+    "objectId": "3233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "704 Ang Mo Kio Avenue 8  560704, Serangoon / Thomson (D19-20)",
+    "displayText": "704 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "r5vkbu",
+    "objectId": "3234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "705 Ang Mo Kio Avenue 8  560705, Serangoon / Thomson (D19-20)",
+    "displayText": "705 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "dd1tsg",
+    "objectId": "3235",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "709 Ang Mo Kio Avenue 8  560709, Serangoon / Thomson (D19-20)",
+    "displayText": "709 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "csuq0w",
+    "objectId": "3236",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "710 Ang Mo Kio Avenue 8  560710, Serangoon / Thomson (D19-20)",
+    "displayText": "710 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "74k6cw",
+    "objectId": "3237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "711 Ang Mo Kio Avenue 8  560711, Serangoon / Thomson (D19-20)",
+    "displayText": "711 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "k4dlzk",
+    "objectId": "3238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "721 Ang Mo Kio Avenue 8  560721, Serangoon / Thomson (D19-20)",
+    "displayText": "721 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "ih8t2p",
+    "objectId": "3240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "722 Ang Mo Kio Avenue 8  560722, Serangoon / Thomson (D19-20)",
+    "displayText": "722 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "9f6qn2",
+    "objectId": "3241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "723 Ang Mo Kio Avenue 8  560723, Serangoon / Thomson (D19-20)",
+    "displayText": "723 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "ll0udg",
+    "objectId": "3242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "710A Ang Mo Kio Avenue 8  561710, Serangoon / Thomson (D19-20)",
+    "displayText": "710A Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "8qso6q",
+    "objectId": "3243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "718 Ang Mo Kio Avenue 8  560718, Serangoon / Thomson (D19-20)",
+    "displayText": "718 Ang Mo Kio Avenue 8",
+    "displayType": "HDB",
+    "nanoId": "1mup8l",
+    "objectId": "3239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200 Ang Mo Kio Avenue 5  804605, North (D25-28)",
+    "displayText": "Belgravia Villas",
+    "displayType": "Cluster House",
+    "nanoId": "ojpqb1",
+    "objectId": "21665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Ang Mo Kio Ave 2  567695, Serangoon / Thomson (D19-20)",
+    "displayText": "The Panorama",
+    "displayType": "Condominium",
+    "nanoId": "3pskzz",
+    "objectId": "21834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Ang Mo Kio Central 3  567741, Serangoon / Thomson (D19-20)",
+    "displayText": "Grandeur 8",
+    "displayType": "Condominium",
+    "nanoId": "h9na0n",
+    "objectId": "130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Ang Mo Kio Avenue 3",
+    "displayType": "Street",
+    "objectId": "11278",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ang Mo Kio Avenue 5",
+    "displayType": "Street",
+    "objectId": "10263",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ang Mo Kio Avenue 6",
+    "displayType": "Street",
+    "objectId": "11375",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ang Mo Kio Avenue 1",
+    "displayType": "Street",
+    "objectId": "24265",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ang Mo Kio Avenue 4",
+    "displayType": "Street",
+    "objectId": "24251",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Ang Mo Kio Avenue 9",
+    "displayType": "Street",
+    "objectId": "24256",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Ang Mo Kio Avenue 9  569758, Serangoon / Thomson (D19-20)",
+    "displayText": "Far Horizon Gardens",
+    "displayType": "Condominium",
+    "nanoId": "8kb81y",
+    "objectId": "305",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "341 Ang Mo Kio Avenue 2  567826, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Gardens",
+    "displayType": "Cluster House",
+    "nanoId": "8h09ov",
+    "objectId": "627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Ang Mo Kio Avenue 9  569786, Serangoon / Thomson (D19-20)",
+    "displayText": "Nuovo",
+    "displayType": "Condominium",
+    "nanoId": "ogdjtn",
+    "objectId": "1407",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Ang Mo Kio Avenue 2  567000, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Green",
+    "displayType": "Terraced House",
+    "nanoId": "1bjq7s",
+    "objectId": "1071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "310A Ang Mo Kio Avenue 1  561310, Serangoon / Thomson (D19-20)",
+    "displayText": "310A Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "99jmc6",
+    "objectId": "20743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310C Ang Mo Kio Avenue 1  563310, Serangoon / Thomson (D19-20)",
+    "displayText": "310C Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "koanwl",
+    "objectId": "20796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310B Ang Mo Kio Avenue 1  562310, Serangoon / Thomson (D19-20)",
+    "displayText": "310B Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "bp0e6t",
+    "objectId": "20797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700A Ang Mo Kio Avenue 6  561700, Serangoon / Thomson (D19-20)",
+    "displayText": "700A Ang Mo Kio Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "m7jqy5",
+    "objectId": "3217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700B Ang Mo Kio Avenue 6  562700, Serangoon / Thomson (D19-20)",
+    "displayText": "700B Ang Mo Kio Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "ecrgvs",
+    "objectId": "3218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "700C Ang Mo Kio Avenue 6  563700, Serangoon / Thomson (D19-20)",
+    "displayText": "700C Ang Mo Kio Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "02hw1y",
+    "objectId": "3219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Ang Mo Kio Avenue 10",
+    "displayType": "Street",
+    "objectId": "10355",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "307A Ang Mo Kio Avenue 1  561307, Serangoon / Thomson (D19-20)",
+    "displayText": "307A Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "gkr97l",
+    "objectId": "20757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307B Ang Mo Kio Avenue 1  562307, Serangoon / Thomson (D19-20)",
+    "displayText": "307B Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "xcp5au",
+    "objectId": "20799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307C Ang Mo Kio Avenue 1  563307, Serangoon / Thomson (D19-20)",
+    "displayText": "307C Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "nx5yrj",
+    "objectId": "20800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308A Ang Mo Kio Avenue 1  561308, Serangoon / Thomson (D19-20)",
+    "displayText": "308A Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "obefgz",
+    "objectId": "20801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308B Ang Mo Kio Avenue 1  562308, Serangoon / Thomson (D19-20)",
+    "displayText": "308B Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ibb9vr",
+    "objectId": "20802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1801 Ang Mo Kio Avenue 1  569979, Serangoon / Thomson (D19-20)",
+    "displayText": "Kingsgrove",
+    "displayType": "Condominium",
+    "nanoId": "vji9ib",
+    "objectId": "2100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "456A Ang Mo Kio Avenue 10  561456, Serangoon / Thomson (D19-20)",
+    "displayText": "456A Ang Mo Kio Avenue 10",
+    "displayType": "HDB",
+    "nanoId": "c71q9l",
+    "objectId": "24533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "443 Ang Mo Kio Avenue 10  560443, Serangoon / Thomson (D19-20)",
+    "displayText": "443 Ang Mo Kio Avenue 10",
+    "displayType": "HDB",
+    "nanoId": "zcf9pa",
+    "objectId": "24563",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205 Ang Mo Kio Avenue 1  560205, Serangoon / Thomson (D19-20)",
+    "displayText": "205 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "chr1l7",
+    "objectId": "2857",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206 Ang Mo Kio Avenue 1  560206, Serangoon / Thomson (D19-20)",
+    "displayText": "206 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "6c5hqa",
+    "objectId": "2858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 Ang Mo Kio Avenue 1  560207, Serangoon / Thomson (D19-20)",
+    "displayText": "207 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "wa5srz",
+    "objectId": "2859",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208 Ang Mo Kio Avenue 1  560208, Serangoon / Thomson (D19-20)",
+    "displayText": "208 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "oejavw",
+    "objectId": "2860",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215 Ang Mo Kio Avenue 1  560215, Serangoon / Thomson (D19-20)",
+    "displayText": "215 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "iwe62v",
+    "objectId": "2861",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216 Ang Mo Kio Avenue 1  560216, Serangoon / Thomson (D19-20)",
+    "displayText": "216 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "cuy7ii",
+    "objectId": "2862",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217 Ang Mo Kio Avenue 1  560217, Serangoon / Thomson (D19-20)",
+    "displayText": "217 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "3dyt7v",
+    "objectId": "2863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218 Ang Mo Kio Avenue 1  560218, Serangoon / Thomson (D19-20)",
+    "displayText": "218 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "5e7dxg",
+    "objectId": "2864",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "219 Ang Mo Kio Avenue 1  560219, Serangoon / Thomson (D19-20)",
+    "displayText": "219 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "8mtyuc",
+    "objectId": "2865",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220 Ang Mo Kio Avenue 1  560220, Serangoon / Thomson (D19-20)",
+    "displayText": "220 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "los8t6",
+    "objectId": "2866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221 Ang Mo Kio Avenue 1  560221, Serangoon / Thomson (D19-20)",
+    "displayText": "221 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "1dxx9p",
+    "objectId": "2867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222 Ang Mo Kio Avenue 1  560222, Serangoon / Thomson (D19-20)",
+    "displayText": "222 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "f9dddx",
+    "objectId": "2868",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "223 Ang Mo Kio Avenue 1  560223, Serangoon / Thomson (D19-20)",
+    "displayText": "223 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "prkhrk",
+    "objectId": "2869",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "224 Ang Mo Kio Avenue 1  560224, Serangoon / Thomson (D19-20)",
+    "displayText": "224 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "lsy2oo",
+    "objectId": "2870",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "225 Ang Mo Kio Avenue 1  560225, Serangoon / Thomson (D19-20)",
+    "displayText": "225 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "euiffu",
+    "objectId": "2871",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226 Ang Mo Kio Avenue 1  560226, Serangoon / Thomson (D19-20)",
+    "displayText": "226 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "g88d6h",
+    "objectId": "2872",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303 Ang Mo Kio Avenue 1  560303, Serangoon / Thomson (D19-20)",
+    "displayText": "303 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "0uctcj",
+    "objectId": "2873",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304 Ang Mo Kio Avenue 1  560304, Serangoon / Thomson (D19-20)",
+    "displayText": "304 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "quzc6w",
+    "objectId": "2874",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305 Ang Mo Kio Avenue 1  560305, Serangoon / Thomson (D19-20)",
+    "displayText": "305 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ovr87n",
+    "objectId": "2875",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306 Ang Mo Kio Avenue 1  560306, Serangoon / Thomson (D19-20)",
+    "displayText": "306 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "n1lsxl",
+    "objectId": "2876",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308 Ang Mo Kio Avenue 1  560308, Serangoon / Thomson (D19-20)",
+    "displayText": "318 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "7rl5y9",
+    "objectId": "2877",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1",
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319 Ang Mo Kio Avenue 1  560319, Serangoon / Thomson (D19-20)",
+    "displayText": "319 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "5j4tp3",
+    "objectId": "2878",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320 Ang Mo Kio Avenue 1  560320, Serangoon / Thomson (D19-20)",
+    "displayText": "320 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "18xm3b",
+    "objectId": "2879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Ang Mo Kio Avenue 1  560321, Serangoon / Thomson (D19-20)",
+    "displayText": "321 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "adk7by",
+    "objectId": "2880",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Ang Mo Kio Avenue 1  560330, Serangoon / Thomson (D19-20)",
+    "displayText": "330 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "4wabdf",
+    "objectId": "2881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Ang Mo Kio Avenue 1  560331, Serangoon / Thomson (D19-20)",
+    "displayText": "331 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "xqw1zv",
+    "objectId": "2882",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Ang Mo Kio Avenue 1  560332, Serangoon / Thomson (D19-20)",
+    "displayText": "332 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "dnwkkk",
+    "objectId": "2883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333 Ang Mo Kio Avenue 1  560333, Serangoon / Thomson (D19-20)",
+    "displayText": "333 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "xe7x1u",
+    "objectId": "2884",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334 Ang Mo Kio Avenue 1  560334, Serangoon / Thomson (D19-20)",
+    "displayText": "334 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "4c6zq9",
+    "objectId": "2885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Ang Mo Kio Avenue 1  560335, Serangoon / Thomson (D19-20)",
+    "displayText": "335 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ka6s4v",
+    "objectId": "2886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336 Ang Mo Kio Avenue 1  560336, Serangoon / Thomson (D19-20)",
+    "displayText": "336 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "5iebjm",
+    "objectId": "2887",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337 Ang Mo Kio Avenue 1  560337, Serangoon / Thomson (D19-20)",
+    "displayText": "337 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "wt9tnn",
+    "objectId": "2888",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338 Ang Mo Kio Avenue 1  560338, Serangoon / Thomson (D19-20)",
+    "displayText": "338 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "g0mcwm",
+    "objectId": "2889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "339 Ang Mo Kio Avenue 1  560339, Serangoon / Thomson (D19-20)",
+    "displayText": "339 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "fykz29",
+    "objectId": "2890",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "340 Ang Mo Kio Avenue 1  560340, Serangoon / Thomson (D19-20)",
+    "displayText": "340 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "gbkl1a",
+    "objectId": "2891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "341 Ang Mo Kio Avenue 1  560341, Serangoon / Thomson (D19-20)",
+    "displayText": "341 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "egii5d",
+    "objectId": "2892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "342 Ang Mo Kio Avenue 1  560342, Serangoon / Thomson (D19-20)",
+    "displayText": "342 Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "d8tup7",
+    "objectId": "2893",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226A Ang Mo Kio Avenue 1  561226, Serangoon / Thomson (D19-20)",
+    "displayText": "226A Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ugdt6q",
+    "objectId": "2894",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226B Ang Mo Kio Avenue 1  562226, Serangoon / Thomson (D19-20)",
+    "displayText": "226B Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "75ri7d",
+    "objectId": "2895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226C Ang Mo Kio Avenue 1  563226, Serangoon / Thomson (D19-20)",
+    "displayText": "226C Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "zt8ld5",
+    "objectId": "2896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226D Ang Mo Kio Avenue 1  564226, Serangoon / Thomson (D19-20)",
+    "displayText": "226D Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "zmvx3h",
+    "objectId": "2897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226E Ang Mo Kio Avenue 1  565226, Serangoon / Thomson (D19-20)",
+    "displayText": "226E Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "5szi9x",
+    "objectId": "2898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226F Ang Mo Kio Avenue 1  566226, Serangoon / Thomson (D19-20)",
+    "displayText": "226F Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "21a6x4",
+    "objectId": "2899",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226G Ang Mo Kio Avenue 1  567226, Serangoon / Thomson (D19-20)",
+    "displayText": "226G Ang Mo Kio Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "iyce29",
+    "objectId": "2900",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "401 Ang Mo Kio Avenue 10  560401, Serangoon / Thomson (D19-20)",
+    "displayText": "401 Ang Mo Kio Avenue 10",
+    "displayType": "HDB",
+    "nanoId": "preftc",
+    "objectId": "2901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402 Ang Mo Kio Avenue 10  560402, Serangoon / Thomson (D19-20)",
+    "displayText": "402 Ang Mo Kio Avenue 10",
+    "displayType": "HDB",
+    "nanoId": "9jo0oc",
+    "objectId": "2902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Ang Mo Kio Avenue 10  560403, Serangoon / Thomson (D19-20)",
+    "displayText": "403 Ang Mo Kio Avenue 10",
+    "displayType": "HDB",
+    "nanoId": "xp51xg",
+    "objectId": "2903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404 Ang Mo Kio Avenue 10  560404, Serangoon / Thomson (D19-20)",
+    "displayText": "404 Ang Mo Kio Avenue 10",
+    "displayType": "HDB",
+    "nanoId": "ppgexa",
+    "objectId": "2904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

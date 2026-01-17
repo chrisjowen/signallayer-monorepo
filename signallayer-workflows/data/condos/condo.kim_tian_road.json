@@ -1,0 +1,1354 @@
+[
+  {
+    "displayText": "Kim Tian Road",
+    "displayType": "Street",
+    "objectId": "1847",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Kim Tian Road  168592, City & South West (D01-08)",
+    "displayText": "Highline Residences",
+    "displayType": "Condominium",
+    "nanoId": "e09e9n",
+    "objectId": "21958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Kim Tian Road  169277, City & South West (D01-08)",
+    "displayText": "Twin Regency",
+    "displayType": "Condominium",
+    "nanoId": "yzpwba",
+    "objectId": "133",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Kim Tian Road  169262, City & South West (D01-08)",
+    "displayText": "Regency Suites",
+    "displayType": "Apartment",
+    "nanoId": "6cf0xm",
+    "objectId": "170",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "126A Kim Tian Road  161126, City & South West (D01-08)",
+    "displayText": "126A Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "4fshsx",
+    "objectId": "21169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126B Kim Tian Road  162126, City & South West (D01-08)",
+    "displayText": "126B Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "dw6090",
+    "objectId": "21170",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127A Kim Tian Road  161127, City & South West (D01-08)",
+    "displayText": "127A Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "hdprur",
+    "objectId": "21171",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127B Kim Tian Road  162127, City & South West (D01-08)",
+    "displayText": "127B Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "hqhbc0",
+    "objectId": "21172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127C Kim Tian Road  163127, City & South West (D01-08)",
+    "displayText": "127C Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "ue31p6",
+    "objectId": "21173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127D Kim Tian Road  164127, City & South West (D01-08)",
+    "displayText": "127D Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "tdxn0n",
+    "objectId": "21174",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Kim Tian Road  169244, City & South West (D01-08)",
+    "displayText": "Kai Fook Mansion",
+    "displayType": "Condominium",
+    "nanoId": "tsppqd",
+    "objectId": "21743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "126C Kim Tian Road  163126, City & South West (D01-08)",
+    "displayText": "126C Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "3l7qsk",
+    "objectId": "22083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Kim Tian Road  163006, City & South West (D01-08)",
+    "displayText": "6 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "t5roo8",
+    "objectId": "8105",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40 Kim Tian Road  161040, City & South West (D01-08)",
+    "displayText": "40 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "mrqq6u",
+    "objectId": "8106",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Kim Tian Road  160119, City & South West (D01-08)",
+    "displayText": "119 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "ycc9mu",
+    "objectId": "8108",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Kim Tian Road  160122, City & South West (D01-08)",
+    "displayText": "122 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "ac0jct",
+    "objectId": "8109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Kim Tian Road  160123, City & South West (D01-08)",
+    "displayText": "123 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "3cxjsi",
+    "objectId": "8110",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Kim Tian Road  160125, City & South West (D01-08)",
+    "displayText": "125 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "clnznm",
+    "objectId": "8111",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Kim Tian Road  160126, City & South West (D01-08)",
+    "displayText": "126 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "kny8se",
+    "objectId": "8112",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Kim Tian Road  160127, City & South West (D01-08)",
+    "displayText": "127 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "nzjki6",
+    "objectId": "8113",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Kim Tian Road  160128, City & South West (D01-08)",
+    "displayText": "128 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "kcwkaf",
+    "objectId": "8114",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Kim Tian Road  160129, City & South West (D01-08)",
+    "displayText": "129 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "iwltm2",
+    "objectId": "8115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Kim Tian Road  160130, City & South West (D01-08)",
+    "displayText": "130 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "i1zmpy",
+    "objectId": "8116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119A Kim Tian Road  161119, City & South West (D01-08)",
+    "displayText": "119A Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "h84823",
+    "objectId": "8118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119B Kim Tian Road  162119, City & South West (D01-08)",
+    "displayText": "119B Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "ntyffz",
+    "objectId": "8119",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119C Kim Tian Road  163119, City & South West (D01-08)",
+    "displayText": "119C Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "igpkpb",
+    "objectId": "8120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119D Kim Tian Road  164119, City & South West (D01-08)",
+    "displayText": "119D Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "1feoku",
+    "objectId": "8121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125A Kim Tian Road  161125, City & South West (D01-08)",
+    "displayText": "125A Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "bfdv74",
+    "objectId": "8122",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131A Kim Tian Road  161131, City & South West (D01-08)",
+    "displayText": "131A Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "6d8l2u",
+    "objectId": "8123",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131B Kim Tian Road  162131, City & South West (D01-08)",
+    "displayText": "131B Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "kelpt6",
+    "objectId": "8124",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131C Kim Tian Road  163131, City & South West (D01-08)",
+    "displayText": "131C Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "96rxsb",
+    "objectId": "8125",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201 Kim Tian Road  160201, City & South West (D01-08)",
+    "displayText": "201 Kim Tian Road",
+    "displayType": "HDB",
+    "nanoId": "ucq0kx",
+    "objectId": "8117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kim Yan Road",
+    "displayType": "Street",
+    "objectId": "7714",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Kim Tian Place  160007, City & South West (D01-08)",
+    "displayText": "7 Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "g6j6d5",
+    "objectId": "8096",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Kim Tian Place  163008, City & South West (D01-08)",
+    "displayText": "8 Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "nc6pat",
+    "objectId": "8097",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Kim Tian Place  160120, City & South West (D01-08)",
+    "displayText": "120 Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "ta7cio",
+    "objectId": "8098",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Kim Tian Place  160121, City & South West (D01-08)",
+    "displayText": "121 Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "enmsph",
+    "objectId": "8099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Kim Tian Place  160124, City & South West (D01-08)",
+    "displayText": "124 Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "8gb5q5",
+    "objectId": "8100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120A Kim Tian Place  161120, City & South West (D01-08)",
+    "displayText": "120A Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "yzlq29",
+    "objectId": "8101",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120B Kim Tian Place  162120, City & South West (D01-08)",
+    "displayText": "120B Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "1p887d",
+    "objectId": "8102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120C Kim Tian Place  163120, City & South West (D01-08)",
+    "displayText": "120C Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "9j0m2j",
+    "objectId": "8103",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121A Kim Tian Place  161121, City & South West (D01-08)",
+    "displayText": "121A Kim Tian Place",
+    "displayType": "HDB",
+    "nanoId": "ay62ir",
+    "objectId": "8104",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Kim Tian Place",
+    "displayType": "Street",
+    "objectId": "1846",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kim Tian 131",
+    "displayType": "Street",
+    "objectId": "10219",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "42 Cairnhill Road  229661, Orchard / Holland (D09-10)",
+    "displayText": "Tan Chin Tuan Mansion",
+    "displayType": "Condominium",
+    "nanoId": "zmxc45",
+    "objectId": "2465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Tan Kim Cheng Road  266621, Orchard / Holland (D09-10)",
+    "displayText": "Lutheran Towers",
+    "displayType": "Apartment",
+    "nanoId": "xl6vkr",
+    "objectId": "1480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Tan Kim Cheng Road  266631, Orchard / Holland (D09-10)",
+    "displayText": "The Siena",
+    "displayType": "Apartment",
+    "nanoId": "lvjbz6",
+    "objectId": "21828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tan Kim Cheng Road",
+    "displayType": "Street",
+    "objectId": "3282",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sian Tuan Avenue",
+    "displayType": "Street",
+    "objectId": "2980",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sian Tuan Ave",
+    "displayType": "Street",
+    "objectId": "3835",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sian Tuan",
+    "displayType": "Street",
+    "objectId": "7960",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tan Sim Boh Road",
+    "displayType": "Street",
+    "objectId": "3284",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tan Kim Cheng",
+    "displayType": "Street",
+    "objectId": "4444",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tan Kim Cheng Rd",
+    "displayType": "Street",
+    "objectId": "5072",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lim Teck Kim Road",
+    "displayType": "Street",
+    "objectId": "1981",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "45B Mangis Road  424976, East Coast (D15-16)",
+    "displayText": "Tian Court",
+    "displayType": "Apartment",
+    "nanoId": "8uodxz",
+    "objectId": "2529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tan Kin Cheng",
+    "displayType": "Street",
+    "objectId": "7734",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "112 Kim Seng Road  239432, Orchard / Holland (D09-10)",
+    "displayText": "The Trillium",
+    "displayType": "Condominium",
+    "nanoId": "ck22xu",
+    "objectId": "746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Kim Seng Road  239471, Orchard / Holland (D09-10)",
+    "displayText": "The Cosmopolitan",
+    "displayType": "Condominium",
+    "nanoId": "u6mgp2",
+    "objectId": "81",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Kim Seng Road  239426, Orchard / Holland (D09-10)",
+    "displayText": "Mirage Tower",
+    "displayType": "Condominium",
+    "nanoId": "1b7m0v",
+    "objectId": "287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Seng Road  239497, Orchard / Holland (D09-10)",
+    "displayText": "Tribeca by the Waterfront",
+    "displayType": "Condominium",
+    "nanoId": "388qcf",
+    "objectId": "136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Kim Seng Road  239427, Orchard / Holland (D09-10)",
+    "displayText": "Centennia Suites",
+    "displayType": "Condominium",
+    "nanoId": "9qbyub",
+    "objectId": "20611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Kim Yam Road  239332, Orchard / Holland (D09-10)",
+    "displayText": "Waterford Residence",
+    "displayType": "Condominium",
+    "nanoId": "3zntyc",
+    "objectId": "445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Kim Yam Road  239320, Orchard / Holland (D09-10)",
+    "displayText": "The Iveria",
+    "displayType": "Condominium",
+    "nanoId": "9qj7pw",
+    "objectId": "23832",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Kim Keat Road  328805, Balestier / Geylang (D12-14)",
+    "displayText": "The Interweave",
+    "displayType": "Condominium",
+    "nanoId": "behq5l",
+    "objectId": "20673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Foo Kim Lin Road  419679, Balestier / Geylang (D12-14)",
+    "displayText": "Tropika East",
+    "displayType": "Condominium",
+    "nanoId": "8alwr1",
+    "objectId": "21259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "42 Kim Yam Road  239347, Orchard / Holland (D09-10)",
+    "displayText": "Oleanas Residences",
+    "displayType": "Condominium",
+    "nanoId": "6de3lr",
+    "objectId": "2257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Kim Yam Road  239319, Orchard / Holland (D09-10)",
+    "displayText": "Attitude @ Kim Yam",
+    "displayType": "Condominium",
+    "nanoId": "w8s8ng",
+    "objectId": "1477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Keat Road  328827, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat House",
+    "displayType": "Apartment",
+    "nanoId": "ir4oy1",
+    "objectId": "2093",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Kim Yam Road  239328, Orchard / Holland (D09-10)",
+    "displayText": "Langston Ville",
+    "displayType": "Apartment",
+    "nanoId": "s99vsz",
+    "objectId": "781",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Yam Road  239361, Orchard / Holland (D09-10)",
+    "displayText": "Gambier Court",
+    "displayType": "Apartment",
+    "nanoId": "8ba85c",
+    "objectId": "818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Kim Keat Road  328837, Balestier / Geylang (D12-14)",
+    "displayText": "Regal Court",
+    "displayType": "Apartment",
+    "nanoId": "wvjvy7",
+    "objectId": "1035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Teo Kim Eng Road  416378, Balestier / Geylang (D12-14)",
+    "displayText": "Cascata",
+    "displayType": "Condominium",
+    "nanoId": "rvbwxi",
+    "objectId": "1323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "13 Kim Keat Road  328842, Balestier / Geylang (D12-14)",
+    "displayText": "Victory Heights",
+    "displayType": "Condominium",
+    "nanoId": "c7aslr",
+    "objectId": "1501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "780 Upper Serangoon Road  534649, Serangoon / Thomson (D19-20)",
+    "displayText": "Choon Kim House",
+    "displayType": "Apartment",
+    "nanoId": "8je5mn",
+    "objectId": "20786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Kim Keat Road  328847, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Gardens",
+    "displayType": "Condominium",
+    "nanoId": "y8b7e2",
+    "objectId": "2091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Kim Keat Road  328843, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Lodge",
+    "displayType": "Apartment",
+    "nanoId": "l06aoz",
+    "objectId": "2094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Kim Keat Road  328825, Balestier / Geylang (D12-14)",
+    "displayText": "56 Kim Keat Road",
+    "displayType": "Walk-up",
+    "nanoId": "swncw1",
+    "objectId": "22388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Bassein Road  309838, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chong Kim Apartment",
+    "displayType": "Apartment",
+    "nanoId": "bnd1mq",
+    "objectId": "25195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Kim Pong Road  161038, City & South West (D01-08)",
+    "displayText": "38 Kim Pong Road",
+    "displayType": "HDB",
+    "nanoId": "53fq7q",
+    "objectId": "8091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Kim Pong Road  160049, City & South West (D01-08)",
+    "displayText": "49 Kim Pong Road",
+    "displayType": "HDB",
+    "nanoId": "41h0f9",
+    "objectId": "8092",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2A Kim Pong Road  169301, City & South West (D01-08)",
+    "displayText": "2A Kim Pong Road",
+    "displayType": "HDB",
+    "nanoId": "j0q9ic",
+    "objectId": "8093",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2B Kim Pong Road  169302, City & South West (D01-08)",
+    "displayText": "2B Kim Pong Road",
+    "displayType": "HDB",
+    "nanoId": "ft9owh",
+    "objectId": "8094",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2C Kim Pong Road  169303, City & South West (D01-08)",
+    "displayText": "2C Kim Pong Road",
+    "displayType": "HDB",
+    "nanoId": "crl1xj",
+    "objectId": "8095",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Kim Yam Road  239320, Orchard / Holland (D09-10)",
+    "displayText": "Riviera Point",
+    "displayType": "Condominium",
+    "nanoId": "ensd0l",
+    "objectId": "855",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Kim Keat Road",
+    "displayType": "Street",
+    "objectId": "10456",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kim Seng Road",
+    "displayType": "Street",
+    "objectId": "1844",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kim Yam Road",
+    "displayType": "Street",
+    "objectId": "1848",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Teo Kim Eng Road",
+    "displayType": "Street",
+    "objectId": "3353",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "3 3 Foo Kim Lin Road  419679, Balestier / Geylang (D12-14)",
+    "displayText": "Cai Gardens",
+    "displayType": "Condominium",
+    "nanoId": "417i9l",
+    "objectId": "24701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Kim  Chuan  Road",
+    "displayType": "Street",
+    "objectId": "13464",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kim Chuan Road",
+    "displayType": "Street",
+    "objectId": "1835",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Tay Lian Teck Road  455615, East Coast (D15-16)",
+    "displayText": "Eastbay",
+    "displayType": "Condominium",
+    "nanoId": "6p3d3i",
+    "objectId": "1316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Tay Lian Teck Road  455620, East Coast (D15-16)",
+    "displayText": "Dong Xing Court",
+    "displayType": "Condominium",
+    "nanoId": "5fqwyl",
+    "objectId": "20875",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "386 Changi Road  419835, Balestier / Geylang (D12-14)",
+    "displayText": "Sing Lian Building",
+    "displayType": "Apartment",
+    "nanoId": "03vrx9",
+    "objectId": "2425",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tay Lian Teck Road",
+    "displayType": "Street",
+    "objectId": "3320",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kian Teck Road",
+    "displayType": "Street",
+    "objectId": "1828",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "31 Chun Tin Road  599717, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Meadow Lodge",
+    "displayType": "Condominium",
+    "nanoId": "vfi1ax",
+    "objectId": "1026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "370 Thomson Road  298128, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Tan Tong Meng Tower",
+    "displayType": "Condominium",
+    "nanoId": "t3s9r1",
+    "objectId": "2658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Chun Tin Road  590000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Mandarin Park",
+    "displayType": "Terraced House",
+    "nanoId": "w2r7rg",
+    "objectId": "2169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  }
+]

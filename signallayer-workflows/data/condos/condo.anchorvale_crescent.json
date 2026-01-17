@@ -1,0 +1,1606 @@
+[
+  {
+    "displayDescription": "60 Anchorvale Crescent  544614, Serangoon / Thomson (D19-20)",
+    "displayText": "Treasure Crest",
+    "displayType": "Executive Condominium",
+    "nanoId": "yl1pbc",
+    "objectId": "22591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Anchorvale Crescent  544649, Serangoon / Thomson (D19-20)",
+    "displayText": "Bellewaters",
+    "displayType": "Executive Condominium",
+    "nanoId": "yhjkpn",
+    "objectId": "22000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Anchorvale Crescent  544624, Serangoon / Thomson (D19-20)",
+    "displayText": "The Vales",
+    "displayType": "Condominium",
+    "nanoId": "zxij9z",
+    "objectId": "22100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Anchorvale Crescent  544558, Serangoon / Thomson (D19-20)",
+    "displayText": "OLA",
+    "displayType": "Executive Condominium",
+    "nanoId": "vtix9b",
+    "objectId": "23864",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "338A Anchorvale Crescent  541338, Serangoon / Thomson (D19-20)",
+    "displayText": "338A Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "qbm25o",
+    "objectId": "20612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334B Anchorvale Crescent  542334, Serangoon / Thomson (D19-20)",
+    "displayText": "334B Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "14febn",
+    "objectId": "22199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338B Anchorvale Crescent  542338, Serangoon / Thomson (D19-20)",
+    "displayText": "338B Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "jnw8ge",
+    "objectId": "1343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336B Anchorvale Crescent  542336, Serangoon / Thomson (D19-20)",
+    "displayText": "336B Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "qptrbi",
+    "objectId": "22180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336A Anchorvale Crescent  541336, Serangoon / Thomson (D19-20)",
+    "displayText": "336A Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "hlii68",
+    "objectId": "22521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336C Anchorvale Crescent  543336, Serangoon / Thomson (D19-20)",
+    "displayText": "336C Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "qieg6s",
+    "objectId": "22522",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336D Anchorvale Crescent  544336, Serangoon / Thomson (D19-20)",
+    "displayText": "336D Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "ejmx93",
+    "objectId": "22523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334A Anchorvale Crescent  541334, Serangoon / Thomson (D19-20)",
+    "displayText": "334A Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "m2chxb",
+    "objectId": "22524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334C Anchorvale Crescent  543334, Serangoon / Thomson (D19-20)",
+    "displayText": "334C Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "vcbc0q",
+    "objectId": "22525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Anchorvale Crescent  540335, Serangoon / Thomson (D19-20)",
+    "displayText": "335 Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "32y7qe",
+    "objectId": "22526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335A Anchorvale Crescent  541335, Serangoon / Thomson (D19-20)",
+    "displayText": "335A Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "x2f2ho",
+    "objectId": "22527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335B Anchorvale Crescent  542335, Serangoon / Thomson (D19-20)",
+    "displayText": "335B Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "qya5ut",
+    "objectId": "22528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335C Anchorvale Crescent  543335, Serangoon / Thomson (D19-20)",
+    "displayText": "335C Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "iq7p4g",
+    "objectId": "22529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338C Anchorvale Crescent  543338, Serangoon / Thomson (D19-20)",
+    "displayText": "338C Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "kspvr5",
+    "objectId": "23360",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338D Anchorvale Crescent  544338, Serangoon / Thomson (D19-20)",
+    "displayText": "338D Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "dtp8xd",
+    "objectId": "23361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Anchorvale Ln  544584, Serangoon / Thomson (D19-20)",
+    "displayText": "Rivercove Residences EC",
+    "displayType": "Condominium",
+    "nanoId": "axj94y",
+    "objectId": "23385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Anchorvale Link",
+    "displayType": "Street",
+    "objectId": "54",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "329B Anchorvale Street  542329, Serangoon / Thomson (D19-20)",
+    "displayText": "329B Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "sxgx9d",
+    "objectId": "22197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329A Anchorvale Street  541329, Serangoon / Thomson (D19-20)",
+    "displayText": "329A Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "opwqdp",
+    "objectId": "22726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333C Anchorvale Link  543333, Serangoon / Thomson (D19-20)",
+    "displayText": "333C Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "m5uwq5",
+    "objectId": "23480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302B Anchorvale Link  542302, Serangoon / Thomson (D19-20)",
+    "displayText": "302B Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "0i0uy2",
+    "objectId": "2799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Anchorvale Road",
+    "displayType": "Street",
+    "objectId": "7816",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "326A Anchorvale Road  541326, Serangoon / Thomson (D19-20)",
+    "displayText": "326A Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "bgg6fl",
+    "objectId": "21847",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331C Anchorvale Street  543331, Serangoon / Thomson (D19-20)",
+    "displayText": "331C Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "zhvk9v",
+    "objectId": "22036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331A Anchorvale Street  541331, Serangoon / Thomson (D19-20)",
+    "displayText": "331A Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "equ1i2",
+    "objectId": "22109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331B Anchorvale Street  542331, Serangoon / Thomson (D19-20)",
+    "displayText": "331B Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "pj9u8u",
+    "objectId": "22110",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326C Anchorvale Road  543326, Serangoon / Thomson (D19-20)",
+    "displayText": "326C Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "d3zrre",
+    "objectId": "22252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332A Anchorvale Link  541332, Serangoon / Thomson (D19-20)",
+    "displayText": "332A Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "2yof8g",
+    "objectId": "22254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330A Anchorvale Street  541330, Serangoon / Thomson (D19-20)",
+    "displayText": "330A Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "9qx4fi",
+    "objectId": "22725",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329C Anchorvale Street  543329, Serangoon / Thomson (D19-20)",
+    "displayText": "329C Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "g9ex17",
+    "objectId": "22727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326B Anchorvale Road  542326, Serangoon / Thomson (D19-20)",
+    "displayText": "326B Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "9029qy",
+    "objectId": "22774",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326D Anchorvale Road  544326, Serangoon / Thomson (D19-20)",
+    "displayText": "326D Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "69cjvz",
+    "objectId": "22775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327A Anchorvale Road  541327, Serangoon / Thomson (D19-20)",
+    "displayText": "327A Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "xm81cy",
+    "objectId": "22777",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327B Anchorvale Road  542327, Serangoon / Thomson (D19-20)",
+    "displayText": "327B Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "rqk6hg",
+    "objectId": "22778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327C Anchorvale Road  543327, Serangoon / Thomson (D19-20)",
+    "displayText": "327C Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "gw162e",
+    "objectId": "22779",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327D Anchorvale Road  544327, Serangoon / Thomson (D19-20)",
+    "displayText": "327D Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "wn8enk",
+    "objectId": "22780",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333A Anchorvale Link  541333, Serangoon / Thomson (D19-20)",
+    "displayText": "333A Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "ypttwi",
+    "objectId": "23478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333B Anchorvale Link  542333, Serangoon / Thomson (D19-20)",
+    "displayText": "333B Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "b7n61u",
+    "objectId": "23479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333D Anchorvale Link  544333, Serangoon / Thomson (D19-20)",
+    "displayText": "333D Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "c2nxej",
+    "objectId": "23481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332C Anchorvale Link  543332, Serangoon / Thomson (D19-20)",
+    "displayText": "332C Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "i11f8u",
+    "objectId": "23546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332B Anchorvale Link  542332, Serangoon / Thomson (D19-20)",
+    "displayText": "332B Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "9dq462",
+    "objectId": "23547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330B Anchorvale Street  542330, Serangoon / Thomson (D19-20)",
+    "displayText": "330B Anchorvale Street",
+    "displayType": "HDB",
+    "nanoId": "5nzwu6",
+    "objectId": "23813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "353A Anchorvale Lane  541353, Serangoon / Thomson (D19-20)",
+    "displayText": "353A Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "9nah1k",
+    "objectId": "24507",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "353B Anchorvale Lane  542353, Serangoon / Thomson (D19-20)",
+    "displayText": "353B Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "kfjjmc",
+    "objectId": "24508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354 Anchorvale Lane  540354, Serangoon / Thomson (D19-20)",
+    "displayText": "354 Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "ot01px",
+    "objectId": "24509",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "355 Anchorvale Lane  540355, Serangoon / Thomson (D19-20)",
+    "displayText": "355 Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "qli5am",
+    "objectId": "24510",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "355A Anchorvale Lane  541355, Serangoon / Thomson (D19-20)",
+    "displayText": "355A Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "h8groq",
+    "objectId": "24511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356 Anchorvale Lane  540356, Serangoon / Thomson (D19-20)",
+    "displayText": "356 Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "6y2chf",
+    "objectId": "24512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356A Anchorvale Lane  541356, Serangoon / Thomson (D19-20)",
+    "displayText": "356A Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "uj665g",
+    "objectId": "24513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356B Anchorvale Lane  542356, Serangoon / Thomson (D19-20)",
+    "displayText": "356B Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "fvcp26",
+    "objectId": "24514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "350 Anchorvale Road  540350, Serangoon / Thomson (D19-20)",
+    "displayText": "350 Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "w0hbql",
+    "objectId": "25325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "350A Anchorvale Road  541350, Serangoon / Thomson (D19-20)",
+    "displayText": "350A Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "puo66i",
+    "objectId": "25326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "351A Anchorvale Road  541351, Serangoon / Thomson (D19-20)",
+    "displayText": "351A Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "h25vpf",
+    "objectId": "25328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "351B Anchorvale Road  542351, Serangoon / Thomson (D19-20)",
+    "displayText": "351B Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "fp7h7a",
+    "objectId": "25329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "351C Anchorvale Road  543351, Serangoon / Thomson (D19-20)",
+    "displayText": "351C Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "gc6ica",
+    "objectId": "25330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "351D Anchorvale Road  544351, Serangoon / Thomson (D19-20)",
+    "displayText": "351D Anchorvale Road",
+    "displayType": "HDB",
+    "nanoId": "qqw9hd",
+    "objectId": "25331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301 Anchorvale Drive  540301, Serangoon / Thomson (D19-20)",
+    "displayText": "301 Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "54ekrv",
+    "objectId": "2762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320 Anchorvale Drive  540320, Serangoon / Thomson (D19-20)",
+    "displayText": "320 Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "s6hyym",
+    "objectId": "2764",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Anchorvale Drive  540321, Serangoon / Thomson (D19-20)",
+    "displayText": "321 Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "lrnhsc",
+    "objectId": "2765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301A Anchorvale Drive  541301, Serangoon / Thomson (D19-20)",
+    "displayText": "301A Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "m8i6jh",
+    "objectId": "2766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301B Anchorvale Drive  542301, Serangoon / Thomson (D19-20)",
+    "displayText": "301B Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "ctoxq9",
+    "objectId": "2767",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301C Anchorvale Drive  543301, Serangoon / Thomson (D19-20)",
+    "displayText": "301C Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "wu9gk8",
+    "objectId": "2768",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301D Anchorvale Drive  544301, Serangoon / Thomson (D19-20)",
+    "displayText": "301D Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "jqxfgd",
+    "objectId": "2769",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319A Anchorvale Drive  541319, Serangoon / Thomson (D19-20)",
+    "displayText": "319A Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "3dcmyh",
+    "objectId": "2770",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319B Anchorvale Drive  542319, Serangoon / Thomson (D19-20)",
+    "displayText": "319B Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "84qocl",
+    "objectId": "2771",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319C Anchorvale Drive  543319, Serangoon / Thomson (D19-20)",
+    "displayText": "319C Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "odgavy",
+    "objectId": "2772",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320A Anchorvale Drive  541320, Serangoon / Thomson (D19-20)",
+    "displayText": "320A Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "hrxtn4",
+    "objectId": "2773",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320B Anchorvale Drive  542320, Serangoon / Thomson (D19-20)",
+    "displayText": "320B Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "ehtu8c",
+    "objectId": "2774",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320C Anchorvale Drive  543320, Serangoon / Thomson (D19-20)",
+    "displayText": "320C Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "5711nr",
+    "objectId": "2775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320D Anchorvale Drive  544320, Serangoon / Thomson (D19-20)",
+    "displayText": "320D Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "sbp3k2",
+    "objectId": "2776",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321A Anchorvale Drive  541321, Serangoon / Thomson (D19-20)",
+    "displayText": "321A Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "6hb75r",
+    "objectId": "2777",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321B Anchorvale Drive  542321, Serangoon / Thomson (D19-20)",
+    "displayText": "321B Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "mz01o4",
+    "objectId": "2778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321C Anchorvale Drive  543321, Serangoon / Thomson (D19-20)",
+    "displayText": "321C Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "om00sq",
+    "objectId": "2779",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322A Anchorvale Drive  541322, Serangoon / Thomson (D19-20)",
+    "displayText": "322A Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "1abnei",
+    "objectId": "2780",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "000009, Serangoon / Thomson (D19-20)",
+    "displayText": "322B Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "onuzcz",
+    "objectId": "2781",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22",
+        "22",
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322C Anchorvale Drive  543322, Serangoon / Thomson (D19-20)",
+    "displayText": "322C Anchorvale Drive",
+    "displayType": "HDB",
+    "nanoId": "tmxyjx",
+    "objectId": "2782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311 Anchorvale Lane  540311, Serangoon / Thomson (D19-20)",
+    "displayText": "311 Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "u3dg1c",
+    "objectId": "2783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311A Anchorvale Lane  541311, Serangoon / Thomson (D19-20)",
+    "displayText": "311A Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "cnqjvc",
+    "objectId": "2785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311B Anchorvale Lane  542311, Serangoon / Thomson (D19-20)",
+    "displayText": "311B Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "6lxpt0",
+    "objectId": "2786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311C Anchorvale Lane  543311, Serangoon / Thomson (D19-20)",
+    "displayText": "311C Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "hm51n6",
+    "objectId": "2787",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311D Anchorvale Lane  544311, Serangoon / Thomson (D19-20)",
+    "displayText": "311D Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "mt58is",
+    "objectId": "2788",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312A Anchorvale Lane  541312, Serangoon / Thomson (D19-20)",
+    "displayText": "312A Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "rx5b2j",
+    "objectId": "2789",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312B Anchorvale Lane  542312, Serangoon / Thomson (D19-20)",
+    "displayText": "312B Anchorvale Lane",
+    "displayType": "HDB",
+    "nanoId": "tyj8ld",
+    "objectId": "2790",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302 Anchorvale Link  540302, Serangoon / Thomson (D19-20)",
+    "displayText": "302 Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "rqrjkv",
+    "objectId": "2791",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303 Anchorvale Link  540303, Serangoon / Thomson (D19-20)",
+    "displayText": "303 Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "os5lpn",
+    "objectId": "2792",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306 Anchorvale Link  540306, Serangoon / Thomson (D19-20)",
+    "displayText": "306 Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "e3xqap",
+    "objectId": "2795",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Anchorvale Link  540314, Serangoon / Thomson (D19-20)",
+    "displayText": "314 Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "8cun7o",
+    "objectId": "2796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "318 Anchorvale Link  540318, Serangoon / Thomson (D19-20)",
+    "displayText": "318 Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "n1ozip",
+    "objectId": "2797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302A Anchorvale Link  541302, Serangoon / Thomson (D19-20)",
+    "displayText": "302A Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "w82vzv",
+    "objectId": "2798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302C Anchorvale Link  543302, Serangoon / Thomson (D19-20)",
+    "displayText": "302C Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "a64l0c",
+    "objectId": "2800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302D Anchorvale Link  544302, Serangoon / Thomson (D19-20)",
+    "displayText": "302D Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "d6f8ra",
+    "objectId": "2801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303A Anchorvale Link  541303, Serangoon / Thomson (D19-20)",
+    "displayText": "303A Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "jnr6ps",
+    "objectId": "2802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303B Anchorvale Link  542303, Serangoon / Thomson (D19-20)",
+    "displayText": "303B Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "toa70v",
+    "objectId": "2803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303C Anchorvale Link  543303, Serangoon / Thomson (D19-20)",
+    "displayText": "303C Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "kzn5em",
+    "objectId": "2804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304A Anchorvale Link  541304, Serangoon / Thomson (D19-20)",
+    "displayText": "304A Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "vs5ik5",
+    "objectId": "2805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304B Anchorvale Link  542304, Serangoon / Thomson (D19-20)",
+    "displayText": "304B Anchorvale Link",
+    "displayType": "HDB",
+    "nanoId": "lcmfk1",
+    "objectId": "2806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

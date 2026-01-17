@@ -1,0 +1,1566 @@
+[
+  {
+    "displayText": "Pasir Ris Street 71",
+    "displayType": "Street",
+    "objectId": "2625",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "729 Tampines Street 71  520729, Changi / Pasir Ris (D17-18)",
+    "displayText": "729 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "0itge9",
+    "objectId": "11058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "701 Tampines Street 71  520701, Changi / Pasir Ris (D17-18)",
+    "displayText": "701 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "1l3e6n",
+    "objectId": "11036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "702 Tampines Street 71  520702, Changi / Pasir Ris (D17-18)",
+    "displayText": "702 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "09ztqw",
+    "objectId": "11037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "703 Tampines Street 71  520703, Changi / Pasir Ris (D17-18)",
+    "displayText": "703 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "lbg56a",
+    "objectId": "11038",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "704 Tampines Street 71  520704, Changi / Pasir Ris (D17-18)",
+    "displayText": "704 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "a9yvsc",
+    "objectId": "11039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "705 Tampines Street 71  520705, Changi / Pasir Ris (D17-18)",
+    "displayText": "705 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "7o3tls",
+    "objectId": "11040",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "706 Tampines Street 71  520706, Changi / Pasir Ris (D17-18)",
+    "displayText": "706 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "lkjv2a",
+    "objectId": "11041",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "707 Tampines Street 71  520707, Changi / Pasir Ris (D17-18)",
+    "displayText": "707 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "pyt1ty",
+    "objectId": "11042",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "708 Tampines Street 71  520708, Changi / Pasir Ris (D17-18)",
+    "displayText": "708 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "gkumkr",
+    "objectId": "11043",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "709 Tampines Street 71  520709, Changi / Pasir Ris (D17-18)",
+    "displayText": "709 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "ivovh4",
+    "objectId": "11044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "710 Tampines Street 71  520710, Changi / Pasir Ris (D17-18)",
+    "displayText": "710 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "vqd5wd",
+    "objectId": "11045",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "711 Tampines Street 71  520711, Changi / Pasir Ris (D17-18)",
+    "displayText": "711 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "k7d88s",
+    "objectId": "11046",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "712 Tampines Street 71  520712, Changi / Pasir Ris (D17-18)",
+    "displayText": "712 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "dkofdy",
+    "objectId": "11047",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "713 Tampines Street 71  520713, Changi / Pasir Ris (D17-18)",
+    "displayText": "713 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "3vbtmg",
+    "objectId": "11048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "714 Tampines Street 71  520714, Changi / Pasir Ris (D17-18)",
+    "displayText": "714 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "mvxcq4",
+    "objectId": "11049",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "715 Tampines Street 71  520715, Changi / Pasir Ris (D17-18)",
+    "displayText": "715 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "dpdyok",
+    "objectId": "11050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "716 Tampines Street 71  520716, Changi / Pasir Ris (D17-18)",
+    "displayText": "716 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "zofdgw",
+    "objectId": "11051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "721 Tampines Street 71  520721, Changi / Pasir Ris (D17-18)",
+    "displayText": "721 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "nb46sl",
+    "objectId": "11052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "724 Tampines Street 71  520724, Changi / Pasir Ris (D17-18)",
+    "displayText": "724 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "0v425z",
+    "objectId": "11053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "725 Tampines Street 71  520725, Changi / Pasir Ris (D17-18)",
+    "displayText": "725 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "yqnulj",
+    "objectId": "11054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "726 Tampines Street 71  520726, Changi / Pasir Ris (D17-18)",
+    "displayText": "726 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "hpkrww",
+    "objectId": "11055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "727 Tampines Street 71  520727, Changi / Pasir Ris (D17-18)",
+    "displayText": "727 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "xce74q",
+    "objectId": "11056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "728 Tampines Street 71  520728, Changi / Pasir Ris (D17-18)",
+    "displayText": "728 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "ebat9w",
+    "objectId": "11057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "730 Tampines Street 71  520730, Changi / Pasir Ris (D17-18)",
+    "displayText": "730 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "543c08",
+    "objectId": "11059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "731 Tampines Street 71  520731, Changi / Pasir Ris (D17-18)",
+    "displayText": "731 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "xukuuy",
+    "objectId": "11060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "732 Tampines Street 71  520732, Changi / Pasir Ris (D17-18)",
+    "displayText": "732 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "becoju",
+    "objectId": "11061",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "733 Tampines Street 71  520733, Changi / Pasir Ris (D17-18)",
+    "displayText": "733 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "5azzgz",
+    "objectId": "11062",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "734 Tampines Street 71  520734, Changi / Pasir Ris (D17-18)",
+    "displayText": "734 Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "eh1l5f",
+    "objectId": "11063",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "701A Tampines Street 71  521701, Changi / Pasir Ris (D17-18)",
+    "displayText": "701A Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "1m2f6s",
+    "objectId": "11064",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "716A Tampines Street 71  521716, Changi / Pasir Ris (D17-18)",
+    "displayText": "716A Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "ozceq9",
+    "objectId": "11065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "727A Tampines Street 71  521727, Changi / Pasir Ris (D17-18)",
+    "displayText": "727A Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "3w63lp",
+    "objectId": "11066",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "730A Tampines Street 71  521730, Changi / Pasir Ris (D17-18)",
+    "displayText": "730A Tampines Street 71",
+    "displayType": "HDB",
+    "nanoId": "l6qobr",
+    "objectId": "11067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "740 Pasir Ris Street 71  510740, Changi / Pasir Ris (D17-18)",
+    "displayText": "740 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "yawf18",
+    "objectId": "9131",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "741 Pasir Ris Street 71  510741, Changi / Pasir Ris (D17-18)",
+    "displayText": "741 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "byqoy5",
+    "objectId": "9132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "742 Pasir Ris Street 71  510742, Changi / Pasir Ris (D17-18)",
+    "displayText": "742 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "a03zz8",
+    "objectId": "9133",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "743 Pasir Ris Street 71  510743, Changi / Pasir Ris (D17-18)",
+    "displayText": "743 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "hdeag2",
+    "objectId": "9134",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "744 Pasir Ris Street 71  510744, Changi / Pasir Ris (D17-18)",
+    "displayText": "744 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "z86232",
+    "objectId": "9135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "745 Pasir Ris Street 71  510745, Changi / Pasir Ris (D17-18)",
+    "displayText": "745 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "gu2ryd",
+    "objectId": "9136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "746 Pasir Ris Street 71  510746, Changi / Pasir Ris (D17-18)",
+    "displayText": "746 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "qfogyf",
+    "objectId": "9137",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "747 Pasir Ris Street 71  510747, Changi / Pasir Ris (D17-18)",
+    "displayText": "747 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "dsj9qz",
+    "objectId": "9138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "748 Pasir Ris Street 71  510748, Changi / Pasir Ris (D17-18)",
+    "displayText": "748 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "sk2g1t",
+    "objectId": "9139",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "749 Pasir Ris Street 71  510749, Changi / Pasir Ris (D17-18)",
+    "displayText": "749 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "2w8szh",
+    "objectId": "9140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "750 Pasir Ris Street 71  510750, Changi / Pasir Ris (D17-18)",
+    "displayText": "750 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "ubc7oh",
+    "objectId": "9141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "751 Pasir Ris Street 71  510751, Changi / Pasir Ris (D17-18)",
+    "displayText": "751 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "fjrwyk",
+    "objectId": "9142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "752 Pasir Ris Street 71  510752, Changi / Pasir Ris (D17-18)",
+    "displayText": "752 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "mrizm1",
+    "objectId": "9143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "753 Pasir Ris Street 71  510753, Changi / Pasir Ris (D17-18)",
+    "displayText": "753 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "er4ce4",
+    "objectId": "9144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "754 Pasir Ris Street 71  510754, Changi / Pasir Ris (D17-18)",
+    "displayText": "754 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "gghs2j",
+    "objectId": "9145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "755 Pasir Ris Street 71  510755, Changi / Pasir Ris (D17-18)",
+    "displayText": "755 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "j4qmt7",
+    "objectId": "9146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "756 Pasir Ris Street 71  510756, Changi / Pasir Ris (D17-18)",
+    "displayText": "756 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "b8e1sz",
+    "objectId": "9147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "757 Pasir Ris Street 71  510757, Changi / Pasir Ris (D17-18)",
+    "displayText": "757 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "qnkktk",
+    "objectId": "9148",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "758 Pasir Ris Street 71  510758, Changi / Pasir Ris (D17-18)",
+    "displayText": "758 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "iabzim",
+    "objectId": "9149",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "759 Pasir Ris Street 71  510759, Changi / Pasir Ris (D17-18)",
+    "displayText": "759 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "ek2t9q",
+    "objectId": "9150",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "760 Pasir Ris Street 71  510760, Changi / Pasir Ris (D17-18)",
+    "displayText": "760 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "ly1i5b",
+    "objectId": "9151",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "761 Pasir Ris Street 71  510761, Changi / Pasir Ris (D17-18)",
+    "displayText": "761 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "kth34e",
+    "objectId": "9152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "762 Pasir Ris Street 71  510762, Changi / Pasir Ris (D17-18)",
+    "displayText": "762 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "3fu58w",
+    "objectId": "9153",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "763 Pasir Ris Street 71  510763, Changi / Pasir Ris (D17-18)",
+    "displayText": "763 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "mbiuh3",
+    "objectId": "9154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "764 Pasir Ris Street 71  510764, Changi / Pasir Ris (D17-18)",
+    "displayText": "764 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "3dqpoy",
+    "objectId": "9155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "765 Pasir Ris Street 71  510765, Changi / Pasir Ris (D17-18)",
+    "displayText": "765 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "lijuhc",
+    "objectId": "9156",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "766 Pasir Ris Street 71  510766, Changi / Pasir Ris (D17-18)",
+    "displayText": "766 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "rvz97y",
+    "objectId": "9157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "767 Pasir Ris Street 71  510767, Changi / Pasir Ris (D17-18)",
+    "displayText": "767 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "lr6j7s",
+    "objectId": "9158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "768 Pasir Ris Street 71  510768, Changi / Pasir Ris (D17-18)",
+    "displayText": "768 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "z2syel",
+    "objectId": "9159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "769 Pasir Ris Street 71  510769, Changi / Pasir Ris (D17-18)",
+    "displayText": "769 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "u0ggmz",
+    "objectId": "9160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "770 Pasir Ris Street 71  510770, Changi / Pasir Ris (D17-18)",
+    "displayText": "770 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "1kacqn",
+    "objectId": "9161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "771 Pasir Ris Street 71  510771, Changi / Pasir Ris (D17-18)",
+    "displayText": "771 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "bg5a14",
+    "objectId": "9162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "772 Pasir Ris Street 71  510772, Changi / Pasir Ris (D17-18)",
+    "displayText": "772 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "hqmek5",
+    "objectId": "9163",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "773 Pasir Ris Street 71  510773, Changi / Pasir Ris (D17-18)",
+    "displayText": "773 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "e6ajv9",
+    "objectId": "9164",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "774 Pasir Ris Street 71  510774, Changi / Pasir Ris (D17-18)",
+    "displayText": "774 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "oqg9ca",
+    "objectId": "9165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "775 Pasir Ris Street 71  510775, Changi / Pasir Ris (D17-18)",
+    "displayText": "775 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "dfk8pg",
+    "objectId": "9166",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "776 Pasir Ris Street 71  510776, Changi / Pasir Ris (D17-18)",
+    "displayText": "776 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "xprppb",
+    "objectId": "9167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "777 Pasir Ris Street 71  510777, Changi / Pasir Ris (D17-18)",
+    "displayText": "777 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "qieosu",
+    "objectId": "9168",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "778 Pasir Ris Street 71  510778, Changi / Pasir Ris (D17-18)",
+    "displayText": "778 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "dgesjn",
+    "objectId": "9169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "779 Pasir Ris Street 71  510779, Changi / Pasir Ris (D17-18)",
+    "displayText": "779 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "b112jd",
+    "objectId": "9170",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "780 Pasir Ris Street 71  510780, Changi / Pasir Ris (D17-18)",
+    "displayText": "780 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "tufnzg",
+    "objectId": "9171",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "781 Pasir Ris Street 71  510781, Changi / Pasir Ris (D17-18)",
+    "displayText": "781 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "00xk46",
+    "objectId": "9172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "782 Pasir Ris Street 71  510782, Changi / Pasir Ris (D17-18)",
+    "displayText": "782 Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "grpevp",
+    "objectId": "9173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "747A Pasir Ris Street 71  511747, Changi / Pasir Ris (D17-18)",
+    "displayText": "747A Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "j2b0u0",
+    "objectId": "9175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "757A Pasir Ris Street 71  511757, Changi / Pasir Ris (D17-18)",
+    "displayText": "757A Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "ncdo5y",
+    "objectId": "9176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "762A Pasir Ris Street 71  511762, Changi / Pasir Ris (D17-18)",
+    "displayText": "762A Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "xfbqyl",
+    "objectId": "9177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "773A Pasir Ris Street 71  511773, Changi / Pasir Ris (D17-18)",
+    "displayText": "773A Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "05di4v",
+    "objectId": "9178",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "782A Pasir Ris Street 71  511782, Changi / Pasir Ris (D17-18)",
+    "displayText": "782A Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "n7gko8",
+    "objectId": "9179",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "744A Pasir Ris Street 71  511744, Changi / Pasir Ris (D17-18)",
+    "displayText": "744A Pasir Ris Street 71",
+    "displayType": "HDB",
+    "nanoId": "n6bdx0",
+    "objectId": "9174",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "717 Tampines Street 72  520717, Changi / Pasir Ris (D17-18)",
+    "displayText": "717 Tampines Street 72",
+    "displayType": "HDB",
+    "nanoId": "ixwy2o",
+    "objectId": "11068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "718 Tampines Street 72  520718, Changi / Pasir Ris (D17-18)",
+    "displayText": "718 Tampines Street 72",
+    "displayType": "HDB",
+    "nanoId": "c4vlun",
+    "objectId": "11069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "719 Tampines Street 72  520719, Changi / Pasir Ris (D17-18)",
+    "displayText": "719 Tampines Street 72",
+    "displayType": "HDB",
+    "nanoId": "qvckf0",
+    "objectId": "11070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "710 Pasir Ris Street 72  510710, Changi / Pasir Ris (D17-18)",
+    "displayText": "710 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "3o9j2c",
+    "objectId": "9180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "711 Pasir Ris Street 72  510711, Changi / Pasir Ris (D17-18)",
+    "displayText": "711 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "icif9n",
+    "objectId": "9181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "712 Pasir Ris Street 72  510712, Changi / Pasir Ris (D17-18)",
+    "displayText": "712 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "9qtf8r",
+    "objectId": "9182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "713 Pasir Ris Street 72  510713, Changi / Pasir Ris (D17-18)",
+    "displayText": "713 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "bzfhp6",
+    "objectId": "9183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "714 Pasir Ris Street 72  510714, Changi / Pasir Ris (D17-18)",
+    "displayText": "714 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "l657qa",
+    "objectId": "9184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "715 Pasir Ris Street 72  510715, Changi / Pasir Ris (D17-18)",
+    "displayText": "715 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "78lkxe",
+    "objectId": "9185",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "716 Pasir Ris Street 72  510716, Changi / Pasir Ris (D17-18)",
+    "displayText": "716 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "xndduw",
+    "objectId": "9186",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "717 Pasir Ris Street 72  510717, Changi / Pasir Ris (D17-18)",
+    "displayText": "717 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "u7wf1r",
+    "objectId": "9187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "718 Pasir Ris Street 72  510718, Changi / Pasir Ris (D17-18)",
+    "displayText": "718 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "v6jek8",
+    "objectId": "9188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "719 Pasir Ris Street 72  510719, Changi / Pasir Ris (D17-18)",
+    "displayText": "719 Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "tsqqxd",
+    "objectId": "9189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "710A Pasir Ris Street 72  511710, Changi / Pasir Ris (D17-18)",
+    "displayText": "710A Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "m2w3bm",
+    "objectId": "9197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "718A Pasir Ris Street 72  511718, Changi / Pasir Ris (D17-18)",
+    "displayText": "718A Pasir Ris Street 72",
+    "displayType": "HDB",
+    "nanoId": "shjmrn",
+    "objectId": "9198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Pasir Ris Street 21",
+    "displayType": "Street",
+    "objectId": "2621",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pasir Ris Street 51",
+    "displayType": "Street",
+    "objectId": "2623",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Pasir Ris Street 41",
+    "displayType": "Street",
+    "objectId": "10599",
+    "objectType": "STREET",
+    "properties": {}
+  }
+]

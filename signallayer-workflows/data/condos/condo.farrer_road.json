@@ -1,0 +1,1347 @@
+[
+  {
+    "displayText": "Farrer Road",
+    "displayType": "Street",
+    "objectId": "869",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "5 Farrer Road  260005, Orchard / Holland (D09-10)",
+    "displayText": "5 Farrer Road",
+    "displayType": "HDB",
+    "nanoId": "0u9k23",
+    "objectId": "6058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "7"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Farrer Road  260006, Orchard / Holland (D09-10)",
+    "displayText": "6 Farrer Road",
+    "displayType": "HDB",
+    "nanoId": "27bjq4",
+    "objectId": "6059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "7"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Farrer Road  268844, Orchard / Holland (D09-10)",
+    "displayText": "Spanish Village",
+    "displayType": "Condominium",
+    "nanoId": "cgp3iz",
+    "objectId": "1327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Farrer Road  268850, Orchard / Holland (D09-10)",
+    "displayText": "Gallop Gables",
+    "displayType": "Condominium",
+    "nanoId": "zdu6vv",
+    "objectId": "309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Mergui Road  219067, City & South West (D01-08)",
+    "displayText": "Cityscape at Farrer Park",
+    "displayType": "Condominium",
+    "nanoId": "syrult",
+    "objectId": "2670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2  Perumal Road Singapore  218773, City & South West (D01-08)",
+    "displayText": "Uptown @ Farrer",
+    "displayType": "Condominium",
+    "nanoId": "xw4u92",
+    "objectId": "24441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Farrer Road  268820, Orchard / Holland (D09-10)",
+    "displayText": "Waterfall Gardens",
+    "displayType": "Condominium",
+    "nanoId": "qc19ur",
+    "objectId": "258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Farrer Road  268836, Orchard / Holland (D09-10)",
+    "displayText": "The Levelz",
+    "displayType": "Condominium",
+    "nanoId": "1c6vqh",
+    "objectId": "406",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Farrer Road  268832, Orchard / Holland (D09-10)",
+    "displayText": "Wilshire Residences",
+    "displayType": "Condominium",
+    "nanoId": "nt9y8j",
+    "objectId": "23733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "24 Farrer Road  268829, Orchard / Holland (D09-10)",
+    "displayText": "Sutton Place",
+    "displayType": "Condominium",
+    "nanoId": "usdgjy",
+    "objectId": "681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Owen Road  218896, City & South West (D01-08)",
+    "displayText": "Farrer Park Suites",
+    "displayType": "Condominium",
+    "nanoId": "7x6lwf",
+    "objectId": "21233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "142 Race Course Road  218593, City & South West (D01-08)",
+    "displayText": "Ritz @ Farrer",
+    "displayType": "Apartment",
+    "nanoId": "sbl8am",
+    "objectId": "21784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Farrer Park Road  210011, City & South West (D01-08)",
+    "displayText": "11 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "zerjvx",
+    "objectId": "6052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Farrer Park Road  210012, City & South West (D01-08)",
+    "displayText": "12 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "qg65sy",
+    "objectId": "6053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Farrer Park Road  210013, City & South West (D01-08)",
+    "displayText": "13 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "5orj8n",
+    "objectId": "6054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Farrer Park Road  210014, City & South West (D01-08)",
+    "displayText": "14 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "3rk5cf",
+    "objectId": "6055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Farrer Park Road  210015, City & South West (D01-08)",
+    "displayText": "15 Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "5zcp8z",
+    "objectId": "6056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14A Farrer Park Road  211014, City & South West (D01-08)",
+    "displayText": "14A Farrer Park Road",
+    "displayType": "HDB",
+    "nanoId": "38wzof",
+    "objectId": "6057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6A Farrer Road  261006, Orchard / Holland (D09-10)",
+    "displayText": "6A Farrer Road",
+    "displayType": "HDB",
+    "nanoId": "2hiecx",
+    "objectId": "6060",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "7"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172 Race Course Road  218605, City & South West (D01-08)",
+    "displayText": "Soho @ Farrer",
+    "displayType": "Apartment",
+    "nanoId": "vw8ze1",
+    "objectId": "803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Farrer Park Road",
+    "displayType": "Street",
+    "objectId": "4833",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Barker Road",
+    "displayType": "Street",
+    "objectId": "157",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Harper Road",
+    "displayType": "Street",
+    "objectId": "1061",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "13 Leedon Heights  266224, Orchard / Holland (D09-10)",
+    "displayText": "d'Leedon (Former Farrer Court)",
+    "displayType": "Condominium",
+    "nanoId": "z8wtmf",
+    "objectId": "20575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D8",
+    "displayText": "D08 Farrer Park / Serangoon Rd",
+    "displayType": "District",
+    "objectId": "D08",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D08"
+    }
+  },
+  {
+    "displayDescription": "15 Farrer Drive  259296, Orchard / Holland (D09-10)",
+    "displayText": "Pollen & Bleu",
+    "displayType": "Condominium",
+    "nanoId": "rv1mdn",
+    "objectId": "21778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Farrer Drive  259275, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Grandeur",
+    "displayType": "Condominium",
+    "nanoId": "1l7p37",
+    "objectId": "786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Sing Joo Walk  217820, City & South West (D01-08)",
+    "displayText": "8 Farrer Suites",
+    "displayType": "Apartment",
+    "nanoId": "d7vvy3",
+    "objectId": "21723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Farrer Park",
+    "displayType": "Street",
+    "objectId": "4434",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Farrer Court",
+    "displayType": "Street",
+    "objectId": "867",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Farrer Drive",
+    "displayType": "Street",
+    "objectId": "868",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Newton Road  307954, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Newton 21 (Former Newton Euro-Asia)",
+    "displayType": "Apartment",
+    "nanoId": "32mdrh",
+    "objectId": "427",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Barker Road  307000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Barker Ville",
+    "displayType": "Semi-Detached House",
+    "nanoId": "4dai9p",
+    "objectId": "20632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "31 Paterson Road  238522, Orchard / Holland (D09-10)",
+    "displayText": "Fraser Residence Orchard Singapore",
+    "displayType": "Apartment",
+    "nanoId": "m54m9y",
+    "objectId": "24749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "491A  River Valley Road  248372, Orchard / Holland (D09-10)",
+    "displayText": "Fraser Suites Singapore",
+    "displayType": "Apartment",
+    "nanoId": "9nk25o",
+    "objectId": "24750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29R Barker Road  307493, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Barker Terraces",
+    "displayType": "Terraced House",
+    "nanoId": "tcd9zh",
+    "objectId": "649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "3 Mount Faber Road  099196, City & South West (D01-08)",
+    "displayText": "The Pearl @ Mount Faber",
+    "displayType": "Condominium",
+    "nanoId": "z92rpg",
+    "objectId": "184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Wishart Road  098748, City & South West (D01-08)",
+    "displayText": "The Foresta @ Mount Faber",
+    "displayType": "Condominium",
+    "nanoId": "dn975a",
+    "objectId": "20655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Mount Faber Road  099200, City & South West (D01-08)",
+    "displayText": "Mount Faber Lodge",
+    "displayType": "Condominium",
+    "nanoId": "nqkp59",
+    "objectId": "586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Mount Faber Road",
+    "displayType": "Street",
+    "objectId": "2364",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Fraser Street  189350, City & South West (D01-08)",
+    "displayText": "DUO Residences",
+    "displayType": "Apartment",
+    "nanoId": "xtiq8s",
+    "objectId": "21779",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Choa Chu Kang Loop  689675, West (D22-24)",
+    "displayText": "The Warren",
+    "displayType": "Apartment",
+    "nanoId": "9f8p89",
+    "objectId": "197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "110 Holland Ave  278966, Orchard / Holland (D09-10)",
+    "displayText": "Warner Court",
+    "displayType": "Condominium",
+    "nanoId": "t8bk01",
+    "objectId": "1083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Unity Street  237995, Orchard / Holland (D09-10)",
+    "displayText": "Fraser Place Robertson Walk",
+    "displayType": "Apartment",
+    "nanoId": "p6n78n",
+    "objectId": "24748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Jiak Kim Street  169425, City & South West (D01-08)",
+    "displayText": "Fraser Residence River Promenade",
+    "displayType": "Condominium",
+    "nanoId": "g5to9g",
+    "objectId": "25556",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1B Asimont Lane  307407, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Asimont @ Barker",
+    "displayType": "Apartment",
+    "nanoId": "fn6jrh",
+    "objectId": "52",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Faber Walk  128979, City & South West (D01-08)",
+    "displayText": "Waterfront @ Faber",
+    "displayType": "Apartment",
+    "nanoId": "v1emsq",
+    "objectId": "21901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Jalan Rebana  576988, Serangoon / Thomson (D19-20)",
+    "displayText": "Faber Garden Condominium",
+    "displayType": "Condominium",
+    "nanoId": "hd9umq",
+    "objectId": "2639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Faber Heights  129182, City & South West (D01-08)",
+    "displayText": "Faber Crest",
+    "displayType": "Condominium",
+    "nanoId": "r8mbon",
+    "objectId": "351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Faber Park  120000, City & South West (D01-08)",
+    "displayText": "Faber Hills Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "nw4pun",
+    "objectId": "21474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        ""
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "129159, City & South West (D01-08)",
+    "displayText": "Faber Hills",
+    "displayType": "Apartment",
+    "nanoId": "ijjlxk",
+    "objectId": "1122",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Seruling  570000, Serangoon / Thomson (D19-20)",
+    "displayText": "Faber Garden Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "mqrsas",
+    "objectId": "647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Faber Estate",
+    "displayType": "Street",
+    "objectId": "11525",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Hills Drive",
+    "displayType": "Street",
+    "objectId": "4936",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber  Drive",
+    "displayType": "Street",
+    "objectId": "7058",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Avenue",
+    "displayType": "Street",
+    "objectId": "850",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Crescent",
+    "displayType": "Street",
+    "objectId": "851",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Drive",
+    "displayType": "Street",
+    "objectId": "852",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Green",
+    "displayType": "Street",
+    "objectId": "853",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Grove",
+    "displayType": "Street",
+    "objectId": "854",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Heights",
+    "displayType": "Street",
+    "objectId": "855",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Park",
+    "displayType": "Street",
+    "objectId": "856",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber Walk",
+    "displayType": "Street",
+    "objectId": "858",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Faber Walk  000000, City & South West (D01-08)",
+    "displayText": "Faber Residence",
+    "displayType": "Condominium",
+    "nanoId": "f41edt",
+    "objectId": "26065",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Faber Wlk",
+    "displayType": "Street",
+    "objectId": "7221",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Faber  Park",
+    "displayType": "Street",
+    "objectId": "9721",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Dairy Farm Road  679033, West (D22-24)",
+    "displayText": "The Dairy Farm",
+    "displayType": "Condominium",
+    "nanoId": "b71s55",
+    "objectId": "685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Eastwood Road  486365, East Coast (D15-16)",
+    "displayText": "Fairmount Condo",
+    "displayType": "Condominium",
+    "nanoId": "rnzd73",
+    "objectId": "666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Ewe Boon Road  259345, Orchard / Holland (D09-10)",
+    "displayText": "Chateau Le Fame",
+    "displayType": "Apartment",
+    "nanoId": "ohnlw0",
+    "objectId": "945",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Fajar Road",
+    "displayType": "Street",
+    "objectId": "862",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "108 Holland Road  278551, Orchard / Holland (D09-10)",
+    "displayText": "Fairlodge",
+    "displayType": "Condominium",
+    "nanoId": "vddfyj",
+    "objectId": "1177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "130 Sophia Road  228185, Orchard / Holland (D09-10)",
+    "displayText": "Fairhaven",
+    "displayType": "Apartment",
+    "nanoId": "5wss2q",
+    "objectId": "1924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "14 Scotts Road  228213, Orchard / Holland (D09-10)",
+    "displayText": "Far East Plaza Deluxe Service Apartment",
+    "displayType": "Apartment",
+    "nanoId": "t1zkwl",
+    "objectId": "1928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Hoy Fatt Road  151028, City & South West (D01-08)",
+    "displayText": "28 Hoy Fatt Road",
+    "displayType": "HDB",
+    "nanoId": "yojitb",
+    "objectId": "22170",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "442B Fajar Road  672442, West (D22-24)",
+    "displayText": "442B Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "mozj1s",
+    "objectId": "22754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "442C Fajar Road  673442, West (D22-24)",
+    "displayText": "442C Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "oesxau",
+    "objectId": "22755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "442D Fajar Road  674442, West (D22-24)",
+    "displayText": "442D Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "3r85a1",
+    "objectId": "22756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "443A Fajar Road  671443, West (D22-24)",
+    "displayText": "443A Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "sq52l1",
+    "objectId": "22757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "443B Fajar Road  672443, West (D22-24)",
+    "displayText": "443B Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "h2w502",
+    "objectId": "22758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "443C Fajar Road  673443, West (D22-24)",
+    "displayText": "443C Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "str5gl",
+    "objectId": "22759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "443D Fajar Road  674443, West (D22-24)",
+    "displayText": "443D Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "n186fw",
+    "objectId": "22760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "452 Fajar Road  670452, West (D22-24)",
+    "displayText": "452 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "bcvw0i",
+    "objectId": "23834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Scotts Road  228213, Orchard / Holland (D09-10)",
+    "displayText": "Far East Plaza Residences",
+    "displayType": "Apartment",
+    "nanoId": "k42yqe",
+    "objectId": "24832",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "610 Telok Blangah Road  109025, City & South West (D01-08)",
+    "displayText": "Fairways",
+    "displayType": "Condominium",
+    "nanoId": "uw13vk",
+    "objectId": "25216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "454 Fajar Road  670454, West (D22-24)",
+    "displayText": "454 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "64jbez",
+    "objectId": "25506",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "401 Fajar Road  670401, West (D22-24)",
+    "displayText": "401 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "r6kbc3",
+    "objectId": "6019",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402 Fajar Road  670402, West (D22-24)",
+    "displayText": "402 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "y3vs8d",
+    "objectId": "6020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Fajar Road  670403, West (D22-24)",
+    "displayText": "403 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "6k76hu",
+    "objectId": "6021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404 Fajar Road  670404, West (D22-24)",
+    "displayText": "404 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "vl1be2",
+    "objectId": "6022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405 Fajar Road  670405, West (D22-24)",
+    "displayText": "405 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "qzva2n",
+    "objectId": "6023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Fajar Road  670406, West (D22-24)",
+    "displayText": "406 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "vxaquv",
+    "objectId": "6024",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407 Fajar Road  670407, West (D22-24)",
+    "displayText": "407 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "g7x6q1",
+    "objectId": "6025",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Fajar Road  670408, West (D22-24)",
+    "displayText": "408 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "9ehhoz",
+    "objectId": "6026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Fajar Road  670417, West (D22-24)",
+    "displayText": "417 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "ye0yra",
+    "objectId": "6027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Fajar Road  670418, West (D22-24)",
+    "displayText": "418 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "g0v847",
+    "objectId": "6028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419 Fajar Road  670419, West (D22-24)",
+    "displayText": "419 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "vpoufy",
+    "objectId": "6029",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "420 Fajar Road  670420, West (D22-24)",
+    "displayText": "420 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "ij7se4",
+    "objectId": "6030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "421 Fajar Road  670421, West (D22-24)",
+    "displayText": "421 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "wvbwqg",
+    "objectId": "6031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "422 Fajar Road  670422, West (D22-24)",
+    "displayText": "422 Fajar Road",
+    "displayType": "HDB",
+    "nanoId": "tsncf8",
+    "objectId": "6032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

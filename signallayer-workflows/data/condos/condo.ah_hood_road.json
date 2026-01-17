@@ -1,0 +1,1355 @@
+[
+  {
+    "displayText": "Ah Hood Road",
+    "displayType": "Street",
+    "objectId": "12",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Ah Hood Road  320000, Balestier / Geylang (D12-14)",
+    "displayText": "Casa Fortuna",
+    "displayType": "Condominium",
+    "nanoId": "xla4jp",
+    "objectId": "1220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Ah Hood Road  329976, Balestier / Geylang (D12-14)",
+    "displayText": "Nadia Mansions",
+    "displayType": "Apartment",
+    "nanoId": "f8rbm9",
+    "objectId": "869",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Ah Hood Road  329973, Balestier / Geylang (D12-14)",
+    "displayText": "The Belleforte",
+    "displayType": "Apartment",
+    "nanoId": "jshk6h",
+    "objectId": "1095",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Ah Hood Road  320101, Balestier / Geylang (D12-14)",
+    "displayText": "101 Ah Hood Road",
+    "displayType": "HDB",
+    "nanoId": "kgdihw",
+    "objectId": "2732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Ah Hood Road  320103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Ah Hood Road",
+    "displayType": "HDB",
+    "nanoId": "38cuor",
+    "objectId": "2733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "34 Ah Hood Road  329978, Balestier / Geylang (D12-14)",
+    "displayText": "Tai Gin Apartments",
+    "displayType": "Apartment",
+    "nanoId": "qojvhg",
+    "objectId": "431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Ah  Hood Road",
+    "displayType": "Street",
+    "objectId": "14350",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "70 Lim Ah Woo Road  438133, East Coast (D15-16)",
+    "displayText": "Suites @ Guillemard",
+    "displayType": "Apartment",
+    "nanoId": "ywtump",
+    "objectId": "2628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "49 Lim Ah Woo Road  438128, East Coast (D15-16)",
+    "displayText": "The Amarelle",
+    "displayType": "Condominium",
+    "nanoId": "2y0fvb",
+    "objectId": "978",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "- Lim Ah Pin Road  547819, Serangoon / Thomson (D19-20)",
+    "displayText": "Jazz Residences",
+    "displayType": "Cluster House",
+    "nanoId": "ljj6bh",
+    "objectId": "22817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "LCLUS",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "18 Lim Ah Pin Road  547837, Serangoon / Thomson (D19-20)",
+    "displayText": "Pin Mansions",
+    "displayType": "Apartment",
+    "nanoId": "0p7jej",
+    "objectId": "2302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Lim Ah Pin Road  547822, Serangoon / Thomson (D19-20)",
+    "displayText": "The Courtyard",
+    "displayType": "Apartment",
+    "nanoId": "ao6zhg",
+    "objectId": "2493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Lim Ah Pin Road",
+    "displayType": "Street",
+    "objectId": "1957",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lim Ah Woo Road",
+    "displayType": "Street",
+    "objectId": "1958",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "00 Hoot Kiam Road  249000, Orchard / Holland (D09-10)",
+    "displayText": "Edward Lee Apartments",
+    "displayType": "Apartment",
+    "nanoId": "5rxr7h",
+    "objectId": "21651",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Hoot Kiam Road",
+    "displayType": "Street",
+    "objectId": "1138",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong Ah Soo",
+    "displayType": "Street",
+    "objectId": "10424",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Lorong Ah Soo  534051, Serangoon / Thomson (D19-20)",
+    "displayText": "Urban Residences",
+    "displayType": "Condominium",
+    "nanoId": "n60ll1",
+    "objectId": "20715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "52C Lorong Ah Soo  534169, Serangoon / Thomson (D19-20)",
+    "displayText": "Water Terrace",
+    "displayType": "Cluster House",
+    "nanoId": "zn4px8",
+    "objectId": "1465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Ah Soo Garden  539960, Serangoon / Thomson (D19-20)",
+    "displayText": "Affluence Court",
+    "displayType": "Apartment",
+    "nanoId": "rjdnkq",
+    "objectId": "1486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "536730, Serangoon / Thomson (D19-20)",
+    "displayText": "Ah Soo Garden",
+    "displayType": "Terraced House",
+    "nanoId": "20xeoi",
+    "objectId": "20829",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "64  Lorong AH Soo  536714, Serangoon / Thomson (D19-20)",
+    "displayText": "Valencia (Enbloc)",
+    "displayType": "Apartment",
+    "nanoId": "typ0rt",
+    "objectId": "25205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70E Lorong Ah Soo  534086, Serangoon / Thomson (D19-20)",
+    "displayText": "Cerelia Vista",
+    "displayType": "Cluster House",
+    "nanoId": "hpwty1",
+    "objectId": "2657",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "LCLUS",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "128 Lorong Ah Soo  530128, Serangoon / Thomson (D19-20)",
+    "displayText": "128 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "srpjtc",
+    "objectId": "8430",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "129 Lorong Ah Soo  530129, Serangoon / Thomson (D19-20)",
+    "displayText": "129 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "ka0s6v",
+    "objectId": "8431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130 Lorong Ah Soo  530130, Serangoon / Thomson (D19-20)",
+    "displayText": "130 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "tbr4my",
+    "objectId": "8432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Lorong Ah Soo  530131, Serangoon / Thomson (D19-20)",
+    "displayText": "131 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "2jhb9p",
+    "objectId": "8433",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132 Lorong Ah Soo  530132, Serangoon / Thomson (D19-20)",
+    "displayText": "132 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "i92yi0",
+    "objectId": "8434",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Lorong Ah Soo  530133, Serangoon / Thomson (D19-20)",
+    "displayText": "133 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "pg15eb",
+    "objectId": "8435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "134 Lorong Ah Soo  530134, Serangoon / Thomson (D19-20)",
+    "displayText": "134 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "u29wae",
+    "objectId": "8436",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "135 Lorong Ah Soo  530135, Serangoon / Thomson (D19-20)",
+    "displayText": "135 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "kqhrf5",
+    "objectId": "8437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Lorong Ah Soo  530136, Serangoon / Thomson (D19-20)",
+    "displayText": "136 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "nu60s8",
+    "objectId": "8438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Lorong Ah Soo  530137, Serangoon / Thomson (D19-20)",
+    "displayText": "137 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "nn9gpn",
+    "objectId": "8439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Lorong Ah Soo  530138, Serangoon / Thomson (D19-20)",
+    "displayText": "138 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "aktlkw",
+    "objectId": "8440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Lorong Ah Soo  530139, Serangoon / Thomson (D19-20)",
+    "displayText": "139 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "rt409a",
+    "objectId": "8441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "140 Lorong Ah Soo  530140, Serangoon / Thomson (D19-20)",
+    "displayText": "140 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "8677d8",
+    "objectId": "8442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Lorong Ah Soo  530141, Serangoon / Thomson (D19-20)",
+    "displayText": "141 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "6byw0j",
+    "objectId": "8443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Lorong Ah Soo  530142, Serangoon / Thomson (D19-20)",
+    "displayText": "142 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "grefbc",
+    "objectId": "8444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Lorong Ah Soo  530143, Serangoon / Thomson (D19-20)",
+    "displayText": "143 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "ht2g5c",
+    "objectId": "8445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Lorong Ah Soo  530144, Serangoon / Thomson (D19-20)",
+    "displayText": "144 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "a8zd6q",
+    "objectId": "8446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Lorong Ah Soo  530145, Serangoon / Thomson (D19-20)",
+    "displayText": "145 Lorong Ah Soo",
+    "displayType": "HDB",
+    "nanoId": "ga94nh",
+    "objectId": "8447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "LIM AH WOO",
+    "displayType": "Street",
+    "objectId": "8113",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lor Ah Soo",
+    "displayType": "Street",
+    "objectId": "8558",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lim Ah Woo Rd",
+    "displayType": "Street",
+    "objectId": "8467",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "000 Laurel Wood Avenue  275000, Orchard / Holland (D09-10)",
+    "displayText": "The Teneriffe",
+    "displayType": "Cluster House",
+    "nanoId": "uqhrvt",
+    "objectId": "356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Hindhede Drive  589318, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Le Wood",
+    "displayType": "Condominium",
+    "nanoId": "pqzp08",
+    "objectId": "859",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "249393, Orchard / Holland (D09-10)",
+    "displayText": "Hoot Kiam Mansion",
+    "displayType": "Walk-up",
+    "nanoId": "aso2ix",
+    "objectId": "20936",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 St Anne's Woods  545000, Serangoon / Thomson (D19-20)",
+    "displayText": "St Anne's Wood",
+    "displayType": "Corner Terrace",
+    "nanoId": "njr51w",
+    "objectId": "21050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CORN",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "17 Eng Hoon Street  169767, City & South West (D01-08)",
+    "displayText": "Eng Hoon Mansions",
+    "displayType": "Apartment",
+    "nanoId": "dypxo4",
+    "objectId": "495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Eng Hoon Street  160056, City & South West (D01-08)",
+    "displayText": "56 Eng Hoon Street",
+    "displayType": "HDB",
+    "nanoId": "kh2bb2",
+    "objectId": "5962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Eng Hoon Street  160057, City & South West (D01-08)",
+    "displayText": "57 Eng Hoon Street",
+    "displayType": "HDB",
+    "nanoId": "vxfmfu",
+    "objectId": "5963",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Eng Hoon Street  160059, City & South West (D01-08)",
+    "displayText": "59 Eng Hoon Street",
+    "displayType": "HDB",
+    "nanoId": "i6lcg9",
+    "objectId": "5964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Saint Anne's Wood  545224, Serangoon / Thomson (D19-20)",
+    "displayText": "48 Saint Anne's Wood",
+    "displayType": "HDB",
+    "nanoId": "bnj8b4",
+    "objectId": "9757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Hoot Kiam Rd",
+    "displayType": "Street",
+    "objectId": "11210",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Chee Hoon Avenue",
+    "displayType": "Street",
+    "objectId": "11272",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Eng Hoon Street",
+    "displayType": "Street",
+    "objectId": "11390",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Saint Anne's Wood",
+    "displayType": "Street",
+    "objectId": "4295",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Laurel Wood Avenue",
+    "displayType": "Street",
+    "objectId": "4695",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hoot Kiam",
+    "displayType": "Street",
+    "objectId": "7176",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "East Wood",
+    "displayType": "Street",
+    "objectId": "7210",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "St Annes Wood",
+    "displayType": "Street",
+    "objectId": "9945",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Ahmad Ibrahim",
+    "displayType": "Street",
+    "objectId": "1532",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "93 Robertson Quay  238255, Orchard / Holland (D09-10)",
+    "displayText": "Rivergate",
+    "displayType": "Condominium",
+    "nanoId": "b0t2mm",
+    "objectId": "78",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "473 River Valley Road  248358, Orchard / Holland (D09-10)",
+    "displayText": "Valley Park",
+    "displayType": "Condominium",
+    "nanoId": "omeu32",
+    "objectId": "132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Leonie Hill Road  239197, Orchard / Holland (D09-10)",
+    "displayText": "OUE Twin Peaks",
+    "displayType": "Condominium",
+    "nanoId": "i00njf",
+    "objectId": "2655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "261 River Valley Road  238307, Orchard / Holland (D09-10)",
+    "displayText": "Aspen Heights",
+    "displayType": "Condominium",
+    "nanoId": "80ou32",
+    "objectId": "4",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "89 Holland Road  275750, Orchard / Holland (D09-10)",
+    "displayText": "Hyll on Holland",
+    "displayType": "Condominium",
+    "nanoId": "q7hn9b",
+    "objectId": "24515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "112 Kim Seng Road  239432, Orchard / Holland (D09-10)",
+    "displayText": "The Trillium",
+    "displayType": "Condominium",
+    "nanoId": "ck22xu",
+    "objectId": "746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sophia Road  228152, Orchard / Holland (D09-10)",
+    "displayText": "Sophia Residence",
+    "displayType": "Condominium",
+    "nanoId": "uy5ued",
+    "objectId": "1533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Cuscaden Road  249732, Orchard / Holland (D09-10)",
+    "displayText": "Cuscaden Reserve",
+    "displayType": "Condominium",
+    "nanoId": "kgkj6o",
+    "objectId": "23805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sommerville Estate Road  258000, Orchard / Holland (D09-10)",
+    "displayText": "Sommerville Park",
+    "displayType": "Condominium",
+    "nanoId": "uxlnxl",
+    "objectId": "203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "325 River Valley Road  238357, Orchard / Holland (D09-10)",
+    "displayText": "Yong An Park",
+    "displayType": "Condominium",
+    "nanoId": "3xhocw",
+    "objectId": "260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Kim Seng Road  239471, Orchard / Holland (D09-10)",
+    "displayText": "The Cosmopolitan",
+    "displayType": "Condominium",
+    "nanoId": "u6mgp2",
+    "objectId": "81",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Keng Chin Road  258709, Orchard / Holland (D09-10)",
+    "displayText": "Cyan",
+    "displayType": "Condominium",
+    "nanoId": "hs6or5",
+    "objectId": "1590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "205 River Valley Road  238274, Orchard / Holland (D09-10)",
+    "displayText": "UE Square",
+    "displayType": "Apartment",
+    "nanoId": "n8gv0n",
+    "objectId": "265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Wilby Road  276305, Orchard / Holland (D09-10)",
+    "displayText": "The Tessarina",
+    "displayType": "Condominium",
+    "nanoId": "taykhq",
+    "objectId": "169",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Nathan Road  248726, Orchard / Holland (D09-10)",
+    "displayText": "Regency Park",
+    "displayType": "Condominium",
+    "nanoId": "bpckrx",
+    "objectId": "222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Mount Emily Road  228490, Orchard / Holland (D09-10)",
+    "displayText": "Parc Emily",
+    "displayType": "Condominium",
+    "nanoId": "rw6pdh",
+    "objectId": "120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "261 Bukit Timah Road  259703, Orchard / Holland (D09-10)",
+    "displayText": "Goodwood Residence",
+    "displayType": "Condominium",
+    "nanoId": "16rgwd",
+    "objectId": "1244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "53 Grange Road  249565, Orchard / Holland (D09-10)",
+    "displayText": "Spring Grove",
+    "displayType": "Condominium",
+    "nanoId": "eaw7dw",
+    "objectId": "157",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Rodyk Street  238212, Orchard / Holland (D09-10)",
+    "displayText": "Watermark Robertson Quay",
+    "displayType": "Apartment",
+    "nanoId": "whrhwu",
+    "objectId": "160",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Cuscaden Road  249722, Orchard / Holland (D09-10)",
+    "displayText": "Cuscaden Residences",
+    "displayType": "Condominium",
+    "nanoId": "plf836",
+    "objectId": "185",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "65 Cavenagh Road  229619, Orchard / Holland (D09-10)",
+    "displayText": "WaterScape @ Cavenagh",
+    "displayType": "Apartment",
+    "nanoId": "5u5u2e",
+    "objectId": "2604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "247 Tanglin Road  247935, Orchard / Holland (D09-10)",
+    "displayText": "Grange Residences",
+    "displayType": "Condominium",
+    "nanoId": "p9wadv",
+    "objectId": "329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Farrer Road  268844, Orchard / Holland (D09-10)",
+    "displayText": "Spanish Village",
+    "displayType": "Condominium",
+    "nanoId": "cgp3iz",
+    "objectId": "1327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "186 Holland Road  278583, Orchard / Holland (D09-10)",
+    "displayText": "Van Holland",
+    "displayType": "Condominium",
+    "nanoId": "m6bh6m",
+    "objectId": "23842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Kim Seng Road  239426, Orchard / Holland (D09-10)",
+    "displayText": "Mirage Tower",
+    "displayType": "Condominium",
+    "nanoId": "1b7m0v",
+    "objectId": "287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Farrer Road  268850, Orchard / Holland (D09-10)",
+    "displayText": "Gallop Gables",
+    "displayType": "Condominium",
+    "nanoId": "zdu6vv",
+    "objectId": "309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "381 Tanglin Road  247965, Orchard / Holland (D09-10)",
+    "displayText": "Tanglin Regency",
+    "displayType": "Condominium",
+    "nanoId": "sy8pkq",
+    "objectId": "311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Scotts Road  228209, Orchard / Holland (D09-10)",
+    "displayText": "Scotts Square",
+    "displayType": "Condominium",
+    "nanoId": "5rtiup",
+    "objectId": "961",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Tanglin Road  247912, Orchard / Holland (D09-10)",
+    "displayText": "St. Regis Residences Singapore",
+    "displayType": "Apartment",
+    "nanoId": "r9prmd",
+    "objectId": "100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Seng Road  239497, Orchard / Holland (D09-10)",
+    "displayText": "Tribeca by the Waterfront",
+    "displayType": "Condominium",
+    "nanoId": "388qcf",
+    "objectId": "136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Kim Seng Road  239427, Orchard / Holland (D09-10)",
+    "displayText": "Centennia Suites",
+    "displayType": "Condominium",
+    "nanoId": "9qbyub",
+    "objectId": "20611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Handy Road  229239, Orchard / Holland (D09-10)",
+    "displayText": "Suites at Orchard",
+    "displayType": "Condominium",
+    "nanoId": "mrua0c",
+    "objectId": "20724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Scotts Road  228240, Orchard / Holland (D09-10)",
+    "displayText": "The Scotts Tower",
+    "displayType": "Condominium",
+    "nanoId": "u8c90z",
+    "objectId": "21241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "461 River Valley Road  248346, Orchard / Holland (D09-10)",
+    "displayText": "RV Residences",
+    "displayType": "Condominium",
+    "nanoId": "yr43i2",
+    "objectId": "21303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "151 Stevens Road  257872, Orchard / Holland (D09-10)",
+    "displayText": "The Equatorial",
+    "displayType": "Condominium",
+    "nanoId": "4flsua",
+    "objectId": "473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "99 Cluny Park Road  257496, Orchard / Holland (D09-10)",
+    "displayText": "Cluny Park Residence",
+    "displayType": "Condominium",
+    "nanoId": "vmp2eo",
+    "objectId": "21734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Handy Road  229240, Orchard / Holland (D09-10)",
+    "displayText": "Haus On Handy",
+    "displayType": "Condominium",
+    "nanoId": "wrdix8",
+    "objectId": "23737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

@@ -1,0 +1,1531 @@
+[
+  {
+    "displayText": "Commonwealth Avenue",
+    "displayType": "Street",
+    "objectId": "11542",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Commonwealth Avenue West",
+    "displayType": "Street",
+    "objectId": "10461",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Commonwealth Avenue  140007, City & South West (D01-08)",
+    "displayText": "7 Commonwealth Avenue",
+    "displayType": "HDB",
+    "nanoId": "o5gpbw",
+    "objectId": "20762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7A Commonwealth Avenue  141007, City & South West (D01-08)",
+    "displayText": "7A Commonwealth Avenue",
+    "displayType": "HDB",
+    "nanoId": "umlgrt",
+    "objectId": "21231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39A Commonwealth Avenue  140039, City & South West (D01-08)",
+    "displayText": "39A Commonwealth Avenue",
+    "displayType": "HDB",
+    "nanoId": "nozh2k",
+    "objectId": "5487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40B Commonwealth Avenue  142040, City & South West (D01-08)",
+    "displayText": "40B Commonwealth Avenue",
+    "displayType": "HDB",
+    "nanoId": "3j7i5q",
+    "objectId": "5489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7B Commonwealth Avenue  142007, City & South West (D01-08)",
+    "displayText": "7B Commonwealth Avenue",
+    "displayType": "HDB",
+    "nanoId": "41zbwl",
+    "objectId": "5490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Commonwealth Avenue West  120410, City & South West (D01-08)",
+    "displayText": "410 Commonwealth Avenue West",
+    "displayType": "HDB",
+    "nanoId": "5e3f1u",
+    "objectId": "5491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Commonwealth Avenue West  120411, City & South West (D01-08)",
+    "displayText": "411 Commonwealth Avenue West",
+    "displayType": "HDB",
+    "nanoId": "enzexf",
+    "objectId": "5492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Commonwealth Avenue West  120412, City & South West (D01-08)",
+    "displayText": "412 Commonwealth Avenue West",
+    "displayType": "HDB",
+    "nanoId": "335cw6",
+    "objectId": "5493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Commonwealth Avenue West  120413, City & South West (D01-08)",
+    "displayText": "413 Commonwealth Avenue West",
+    "displayType": "HDB",
+    "nanoId": "4o7xl7",
+    "objectId": "5494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Commonwealth Avenue West  120414, City & South West (D01-08)",
+    "displayText": "414 Commonwealth Avenue West",
+    "displayType": "HDB",
+    "nanoId": "j756yx",
+    "objectId": "5495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Commonwealth Avenue West  120415, City & South West (D01-08)",
+    "displayText": "415 Commonwealth Avenue West",
+    "displayType": "HDB",
+    "nanoId": "0luwyq",
+    "objectId": "5496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413A Commonwealth Avenue West  121413, City & South West (D01-08)",
+    "displayText": "413A Commonwealth Avenue West",
+    "displayType": "HDB",
+    "nanoId": "lygs91",
+    "objectId": "5497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "27A Commonwealth Avenue  140027, City & South West (D01-08)",
+    "displayText": "27A Commonwealth Avenue",
+    "displayType": "HDB",
+    "nanoId": "xczx8x",
+    "objectId": "5486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40A Commonwealth Avenue  141040, City & South West (D01-08)",
+    "displayText": "40A Commonwealth Avenue",
+    "displayType": "HDB",
+    "nanoId": "0wrrs5",
+    "objectId": "5488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D3",
+    "displayText": "D03 Alexandra / Commonwealth",
+    "displayType": "District",
+    "objectId": "D03",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D03"
+    }
+  },
+  {
+    "displayDescription": "0  000000,",
+    "displayText": "Commonwealth Towers",
+    "displayType": "Condominium",
+    "nanoId": "yxdoh5",
+    "objectId": "21896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "53 Commonwealth Drive  142053, City & South West (D01-08)",
+    "displayText": "53 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "qfjz7s",
+    "objectId": "20516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Commonwealth Drive  141051, City & South West (D01-08)",
+    "displayText": "51 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "f7z1lm",
+    "objectId": "11245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "50 Commonwealth Drive  142050, City & South West (D01-08)",
+    "displayText": "50 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "koyab2",
+    "objectId": "20513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Commonwealth Drive  142052, City & South West (D01-08)",
+    "displayText": "52 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "dbtbxg",
+    "objectId": "20515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Commonwealth Close  140081, City & South West (D01-08)",
+    "displayText": "81 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "zlkzrp",
+    "objectId": "5498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Commonwealth Close  140082, City & South West (D01-08)",
+    "displayText": "82 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "x1rbua",
+    "objectId": "5499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83 Commonwealth Close  140083, City & South West (D01-08)",
+    "displayText": "83 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "z9zzbk",
+    "objectId": "5500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Commonwealth Close  140084, City & South West (D01-08)",
+    "displayText": "84 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "31ksjf",
+    "objectId": "5501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "85 Commonwealth Close  140085, City & South West (D01-08)",
+    "displayText": "85 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "uo2pj5",
+    "objectId": "5502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86 Commonwealth Close  140086, City & South West (D01-08)",
+    "displayText": "86 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "kihklk",
+    "objectId": "5503",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "87 Commonwealth Close  140087, City & South West (D01-08)",
+    "displayText": "87 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "fpglhx",
+    "objectId": "5504",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "88 Commonwealth Close  140088, City & South West (D01-08)",
+    "displayText": "88 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "khgrep",
+    "objectId": "5505",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83A Commonwealth Close  142083, City & South West (D01-08)",
+    "displayText": "83A Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "pf83zc",
+    "objectId": "5506",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83B Commonwealth Close  143083, City & South West (D01-08)",
+    "displayText": "83B Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "p7dcb4",
+    "objectId": "5507",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "85A Commonwealth Close  142085, City & South West (D01-08)",
+    "displayText": "85A Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "vi64bl",
+    "objectId": "5509",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96 Commonwealth Crescent  140096, City & South West (D01-08)",
+    "displayText": "96 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "lqci4b",
+    "objectId": "5510",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "97 Commonwealth Crescent  140097, City & South West (D01-08)",
+    "displayText": "97 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "4f7vvb",
+    "objectId": "5511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98 Commonwealth Crescent  140098, City & South West (D01-08)",
+    "displayText": "98 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "cn0gyf",
+    "objectId": "5512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "99 Commonwealth Crescent  140099, City & South West (D01-08)",
+    "displayText": "99 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "ekkuqk",
+    "objectId": "5513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "100 Commonwealth Crescent  140100, City & South West (D01-08)",
+    "displayText": "100 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "51ocwi",
+    "objectId": "5514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Commonwealth Crescent  140101, City & South West (D01-08)",
+    "displayText": "101 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "qj4tky",
+    "objectId": "5515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Commonwealth Crescent  140102, City & South West (D01-08)",
+    "displayText": "102 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "mi6sde",
+    "objectId": "5516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Commonwealth Crescent  140103, City & South West (D01-08)",
+    "displayText": "103 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "iwl0ky",
+    "objectId": "5517",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Commonwealth Crescent  140104, City & South West (D01-08)",
+    "displayText": "104 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "jtpe4h",
+    "objectId": "5518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Commonwealth Crescent  140106, City & South West (D01-08)",
+    "displayText": "106 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "es49ki",
+    "objectId": "5519",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Commonwealth Crescent  140107, City & South West (D01-08)",
+    "displayText": "107 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "0czdro",
+    "objectId": "5520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Commonwealth Crescent  140108, City & South West (D01-08)",
+    "displayText": "108 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "lw936j",
+    "objectId": "5521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Commonwealth Crescent  140109, City & South West (D01-08)",
+    "displayText": "109 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "0dj7ws",
+    "objectId": "5522",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Commonwealth Crescent  140110, City & South West (D01-08)",
+    "displayText": "110 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "od1fg0",
+    "objectId": "5523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Commonwealth Crescent  140111, City & South West (D01-08)",
+    "displayText": "111 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "gpsqfc",
+    "objectId": "5524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Commonwealth Crescent  140112, City & South West (D01-08)",
+    "displayText": "112 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "3j4r23",
+    "objectId": "5525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Commonwealth Crescent  140113, City & South West (D01-08)",
+    "displayText": "113 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "7yn2cr",
+    "objectId": "5526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Commonwealth Crescent  140116, City & South West (D01-08)",
+    "displayText": "116 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "swg757",
+    "objectId": "5527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Commonwealth Crescent  140118, City & South West (D01-08)",
+    "displayText": "118 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "n8eca2",
+    "objectId": "5528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Commonwealth Crescent  140121, City & South West (D01-08)",
+    "displayText": "121 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "6kidp4",
+    "objectId": "5531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Commonwealth Crescent  140122, City & South West (D01-08)",
+    "displayText": "122 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "35dfho",
+    "objectId": "5532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Commonwealth Drive  141055, City & South West (D01-08)",
+    "displayText": "55 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "1q224c",
+    "objectId": "5540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Commonwealth Drive  141056, City & South West (D01-08)",
+    "displayText": "56 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "ajc1jc",
+    "objectId": "5541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Commonwealth Drive  140058, City & South West (D01-08)",
+    "displayText": "58 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "wp39ur",
+    "objectId": "5543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "60 Commonwealth Drive  140060, City & South West (D01-08)",
+    "displayText": "60 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "xalg06",
+    "objectId": "5545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Commonwealth Drive  140063, City & South West (D01-08)",
+    "displayText": "63 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "606l0x",
+    "objectId": "5548",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Commonwealth Drive  140064, City & South West (D01-08)",
+    "displayText": "64 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "v2asb7",
+    "objectId": "5549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Commonwealth Drive  140065, City & South West (D01-08)",
+    "displayText": "65 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "p2gbnx",
+    "objectId": "5550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Commonwealth Drive  140066, City & South West (D01-08)",
+    "displayText": "66 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "cdwh3p",
+    "objectId": "5551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "71 Commonwealth Drive  140071, City & South West (D01-08)",
+    "displayText": "71 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "wk6xdl",
+    "objectId": "5556",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Commonwealth Drive  140072, City & South West (D01-08)",
+    "displayText": "72 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "x2t183",
+    "objectId": "5557",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74 Commonwealth Drive  140074, City & South West (D01-08)",
+    "displayText": "74 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "rjenzk",
+    "objectId": "5559",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75 Commonwealth Drive  140075, City & South West (D01-08)",
+    "displayText": "75 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "jg7lg1",
+    "objectId": "5560",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "76 Commonwealth Drive  140076, City & South West (D01-08)",
+    "displayText": "76 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "qq3ijm",
+    "objectId": "5561",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "80 Commonwealth Drive  140080, City & South West (D01-08)",
+    "displayText": "80 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "11b0va",
+    "objectId": "5565",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "89 Commonwealth Drive  140089, City & South West (D01-08)",
+    "displayText": "89 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "8vm3j9",
+    "objectId": "5566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "90 Commonwealth Drive  140090, City & South West (D01-08)",
+    "displayText": "90 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "i8olxp",
+    "objectId": "5567",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "91 Commonwealth Drive  140091, City & South West (D01-08)",
+    "displayText": "91 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "2go25m",
+    "objectId": "5568",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "92 Commonwealth Drive  140092, City & South West (D01-08)",
+    "displayText": "92 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "483rt7",
+    "objectId": "5569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "93 Commonwealth Drive  140093, City & South West (D01-08)",
+    "displayText": "93 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "nrqbc9",
+    "objectId": "5570",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94 Commonwealth Drive  140094, City & South West (D01-08)",
+    "displayText": "94 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "7tmht9",
+    "objectId": "5571",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95 Commonwealth Drive  140095, City & South West (D01-08)",
+    "displayText": "95 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "85h0rq",
+    "objectId": "5572",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Commonwealth Drive  140117, City & South West (D01-08)",
+    "displayText": "117 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "p8cpth",
+    "objectId": "5573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115A Commonwealth Drive  149596, City & South West (D01-08)",
+    "displayText": "115A Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "xm6wsd",
+    "objectId": "5574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115B Commonwealth Drive  149597, City & South West (D01-08)",
+    "displayText": "115B Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "ily0rw",
+    "objectId": "5575",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37B Commonwealth Drive  142037, City & South West (D01-08)",
+    "displayText": "37B Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "yn8m5e",
+    "objectId": "5577",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46-1 Commonwealth Drive  140461, City & South West (D01-08)",
+    "displayText": "46-1 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "v98qmy",
+    "objectId": "5578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Commonwealth Dr",
+    "displayType": "Street",
+    "objectId": "10307",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Commonwealth Crescent",
+    "displayType": "Street",
+    "objectId": "10344",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Commonwealth Close",
+    "displayType": "Street",
+    "objectId": "10736",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Commonwealth Ave West",
+    "displayType": "Street",
+    "objectId": "10883",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Commonwealth Lane",
+    "displayType": "Street",
+    "objectId": "12725",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "84A Commonwealth Close  142084, City & South West (D01-08)",
+    "displayText": "84A Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "xetxoq",
+    "objectId": "5508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Commonwealth Crescent  140119, City & South West (D01-08)",
+    "displayText": "119 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "34havb",
+    "objectId": "5529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Commonwealth Crescent  140120, City & South West (D01-08)",
+    "displayText": "120 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "mxenam",
+    "objectId": "5530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Commonwealth Crescent  140123, City & South West (D01-08)",
+    "displayText": "123 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "rypi4h",
+    "objectId": "5533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Commonwealth Crescent  140124, City & South West (D01-08)",
+    "displayText": "124 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "263vz6",
+    "objectId": "5534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Commonwealth Crescent  140125, City & South West (D01-08)",
+    "displayText": "125 Commonwealth Crescent",
+    "displayType": "HDB",
+    "nanoId": "1xhfh0",
+    "objectId": "5535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Commonwealth Drive  140001, City & South West (D01-08)",
+    "displayText": "1 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "gddszz",
+    "objectId": "5536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Commonwealth Drive  140002, City & South West (D01-08)",
+    "displayText": "2 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "5myslr",
+    "objectId": "5537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Commonwealth Drive  140003, City & South West (D01-08)",
+    "displayText": "3 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "qto54h",
+    "objectId": "5538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Commonwealth Drive  143046, City & South West (D01-08)",
+    "displayText": "46 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "5wyg4l",
+    "objectId": "5539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Commonwealth Drive  140057, City & South West (D01-08)",
+    "displayText": "57 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "j6ua4t",
+    "objectId": "5542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "59 Commonwealth Drive  140059, City & South West (D01-08)",
+    "displayText": "59 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "cgwf91",
+    "objectId": "5544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Commonwealth Drive  140061, City & South West (D01-08)",
+    "displayText": "61 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "l80vvt",
+    "objectId": "5546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 Commonwealth Drive  140062, City & South West (D01-08)",
+    "displayText": "62 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "4y0yv6",
+    "objectId": "5547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Commonwealth Drive  140067, City & South West (D01-08)",
+    "displayText": "67 Commonwealth Drive",
+    "displayType": "HDB",
+    "nanoId": "4ba2mp",
+    "objectId": "5552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

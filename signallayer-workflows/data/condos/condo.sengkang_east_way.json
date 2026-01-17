@@ -1,0 +1,1526 @@
+[
+  {
+    "displayText": "Sengkang East Way",
+    "displayType": "Street",
+    "objectId": "2922",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "122 Sengkang East Way  540122, Serangoon / Thomson (D19-20)",
+    "displayText": "122 Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "w3eog4",
+    "objectId": "9936",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Sengkang East Way  540260, Serangoon / Thomson (D19-20)",
+    "displayText": "260 Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "6hsk8g",
+    "objectId": "9937",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Sengkang East Way  540324, Serangoon / Thomson (D19-20)",
+    "displayText": "324 Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "4xruwo",
+    "objectId": "9939",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Sengkang East Way  540325, Serangoon / Thomson (D19-20)",
+    "displayText": "325 Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "4b3ypg",
+    "objectId": "9940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121C Sengkang East Way  543121, Serangoon / Thomson (D19-20)",
+    "displayText": "121C Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "50th2i",
+    "objectId": "9941",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121D Sengkang East Way  544121, Serangoon / Thomson (D19-20)",
+    "displayText": "121D Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "45rhil",
+    "objectId": "9942",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121E Sengkang East Way  545121, Serangoon / Thomson (D19-20)",
+    "displayText": "121E Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "isso8h",
+    "objectId": "9943",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121F Sengkang East Way  546121, Serangoon / Thomson (D19-20)",
+    "displayText": "121F Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "9we0z8",
+    "objectId": "9944",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122A Sengkang East Way  541122, Serangoon / Thomson (D19-20)",
+    "displayText": "122A Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "begjd8",
+    "objectId": "9945",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22",
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122B Sengkang East Way  542122, Serangoon / Thomson (D19-20)",
+    "displayText": "122B Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "hyofoh",
+    "objectId": "9946",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122C Sengkang East Way  543122, Serangoon / Thomson (D19-20)",
+    "displayText": "122C Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "fo7tt6",
+    "objectId": "9947",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260A Sengkang East Way  541260, Serangoon / Thomson (D19-20)",
+    "displayText": "260A Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "9pmy60",
+    "objectId": "9948",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260B Sengkang East Way  542260, Serangoon / Thomson (D19-20)",
+    "displayText": "260B Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "s47ad1",
+    "objectId": "9949",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260C Sengkang East Way  543260, Serangoon / Thomson (D19-20)",
+    "displayText": "260C Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "yh2ryu",
+    "objectId": "9950",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260D Sengkang East Way  544260, Serangoon / Thomson (D19-20)",
+    "displayText": "260D Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "sha8ae",
+    "objectId": "9951",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261A Sengkang East Way  541261, Serangoon / Thomson (D19-20)",
+    "displayText": "261A Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "kfqmgo",
+    "objectId": "9952",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261B Sengkang East Way  542261, Serangoon / Thomson (D19-20)",
+    "displayText": "261B Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "atm72k",
+    "objectId": "9953",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261C Sengkang East Way  543261, Serangoon / Thomson (D19-20)",
+    "displayText": "261C Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "dhfjau",
+    "objectId": "9954",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261D Sengkang East Way  544261, Serangoon / Thomson (D19-20)",
+    "displayText": "261D Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "hpz0rg",
+    "objectId": "9955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323A Sengkang East Way  541323, Serangoon / Thomson (D19-20)",
+    "displayText": "323A Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "pjc35a",
+    "objectId": "9956",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323B Sengkang East Way  542323, Serangoon / Thomson (D19-20)",
+    "displayText": "323B Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "67yp7m",
+    "objectId": "9957",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323C Sengkang East Way  543323, Serangoon / Thomson (D19-20)",
+    "displayText": "323C Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "wzkw9k",
+    "objectId": "9958",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324A Sengkang East Way  541324, Serangoon / Thomson (D19-20)",
+    "displayText": "324A Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "g1lxuk",
+    "objectId": "9959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324B Sengkang East Way  542324, Serangoon / Thomson (D19-20)",
+    "displayText": "324B Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "sarvrv",
+    "objectId": "9960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324C Sengkang East Way  543324, Serangoon / Thomson (D19-20)",
+    "displayText": "324C Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "455wg5",
+    "objectId": "9961",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324D Sengkang East Way  544324, Serangoon / Thomson (D19-20)",
+    "displayText": "324D Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "epkyoi",
+    "objectId": "9962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325A Sengkang East Way  541325, Serangoon / Thomson (D19-20)",
+    "displayText": "325A Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "d7wk6c",
+    "objectId": "9963",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325B Sengkang East Way  542325, Serangoon / Thomson (D19-20)",
+    "displayText": "325B Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "mot5j5",
+    "objectId": "9964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325C Sengkang East Way  543325, Serangoon / Thomson (D19-20)",
+    "displayText": "325C Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "6yxkgo",
+    "objectId": "9965",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Sengkang East Way  540323, Serangoon / Thomson (D19-20)",
+    "displayText": "323 Sengkang East Way",
+    "displayType": "HDB",
+    "nanoId": "qhbpte",
+    "objectId": "9938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Seng Kang East Way",
+    "displayType": "Street",
+    "objectId": "5939",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Sengkang West Way/Fernvale  793000, North (D25-28)",
+    "displayText": "Riverbank at Fernvale",
+    "displayType": "Condominium",
+    "nanoId": "mycbaw",
+    "objectId": "21835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Sengkang West Way/Fernvale  793000, North (D25-28)",
+    "displayText": "Lush Acres",
+    "displayType": "Executive Condominium",
+    "nanoId": "vsacyh",
+    "objectId": "21692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "448A Sengkang West Way  791448, North (D25-28)",
+    "displayText": "448A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "ut1b09",
+    "objectId": "21617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "448B Sengkang West Way  792448, North (D25-28)",
+    "displayText": "448B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "2ix84l",
+    "objectId": "21618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "449 Sengkang West Way  790449, North (D25-28)",
+    "displayText": "449 Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "whaeov",
+    "objectId": "21619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450A Sengkang West Way  791450, North (D25-28)",
+    "displayText": "450A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "r8bfp5",
+    "objectId": "21621",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450B Sengkang West Way  792450, North (D25-28)",
+    "displayText": "450B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "8f40mc",
+    "objectId": "21622",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "450C Sengkang West Way  793450, North (D25-28)",
+    "displayText": "450C Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "44fkpr",
+    "objectId": "21623",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433B Sengkang West Way  792433, North (D25-28)",
+    "displayText": "433B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "n5ywvf",
+    "objectId": "22511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469 Sengkang West Way  790469, North (D25-28)",
+    "displayText": "469 Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "4ed5tk",
+    "objectId": "22902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469A Sengkang West Way  791469, North (D25-28)",
+    "displayText": "469A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "y2xc9j",
+    "objectId": "22903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469C Sengkang West Way  793469, North (D25-28)",
+    "displayText": "469C Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "fit6dp",
+    "objectId": "22905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "432A Sengkang West Way  791432, North (D25-28)",
+    "displayText": "432A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "9pwwoj",
+    "objectId": "23105",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "432B Sengkang West Way  792432, North (D25-28)",
+    "displayText": "432B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "yafose",
+    "objectId": "23106",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433 Sengkang West Way  790433, North (D25-28)",
+    "displayText": "433 Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "aewuou",
+    "objectId": "23107",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433A Sengkang West Way  791433, North (D25-28)",
+    "displayText": "433A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "euhllb",
+    "objectId": "23108",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "451A Sengkang West Way  791451, North (D25-28)",
+    "displayText": "451A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "sftari",
+    "objectId": "23499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "451B Sengkang West Way  792451, North (D25-28)",
+    "displayText": "451B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "d4yb82",
+    "objectId": "23500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "452A Sengkang West Way  791452, North (D25-28)",
+    "displayText": "452A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "8yz7e8",
+    "objectId": "23501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "452B Sengkang West Way  792452, North (D25-28)",
+    "displayText": "452B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "w6j0qe",
+    "objectId": "23502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "469B Sengkang West Way  792469, North (D25-28)",
+    "displayText": "469B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "hz5zu7",
+    "objectId": "23645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "460A Sengkang West Way  791460, North (D25-28)",
+    "displayText": "460A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "6go88g",
+    "objectId": "25300",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "460C Sengkang West Way  793460, North (D25-28)",
+    "displayText": "460C Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "eodtct",
+    "objectId": "25405",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461A Sengkang West Way  791461, Serangoon / Thomson (D19-20)",
+    "displayText": "461A Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "w8oeiv",
+    "objectId": "25550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461C Sengkang West Way  793461, Serangoon / Thomson (D19-20)",
+    "displayText": "461C Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "9r5oxz",
+    "objectId": "26007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "460B Sengkang West Way  792460, North (D25-28)",
+    "displayText": "460B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "tkmmb1",
+    "objectId": "26072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "459B Sengkang West Way  792459, North (D25-28)",
+    "displayText": "459B Sengkang West Way",
+    "displayType": "HDB",
+    "nanoId": "yf9tg4",
+    "objectId": "26073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Boon Lay Way",
+    "displayType": "Street",
+    "objectId": "11260",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "11 Sengkang East Avenue  544804, Serangoon / Thomson (D19-20)",
+    "displayText": "Austville Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "6bern0",
+    "objectId": "20668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Sengkang East Avenue  544740, Serangoon / Thomson (D19-20)",
+    "displayText": "Riversound Residence",
+    "displayType": "Condominium",
+    "nanoId": "cux0hd",
+    "objectId": "21119",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Sengkang East Avenue",
+    "displayType": "Street",
+    "objectId": "2919",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "279A Sengkang East Avenue  541279, Serangoon / Thomson (D19-20)",
+    "displayText": "279A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "fmjndi",
+    "objectId": "23171",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279B Sengkang East Avenue  542279, Serangoon / Thomson (D19-20)",
+    "displayText": "279B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "e3870a",
+    "objectId": "23172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279C Sengkang East Avenue  543279, Serangoon / Thomson (D19-20)",
+    "displayText": "279C Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "j9vfv8",
+    "objectId": "23173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280 Sengkang East Avenue  540280, Serangoon / Thomson (D19-20)",
+    "displayText": "280 Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "l001bm",
+    "objectId": "23174",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280A Sengkang East Avenue  541280, Serangoon / Thomson (D19-20)",
+    "displayText": "280A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "bmgjlz",
+    "objectId": "23175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280B Sengkang East Avenue  542280, Serangoon / Thomson (D19-20)",
+    "displayText": "280B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "8m7oqg",
+    "objectId": "23176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "281A Sengkang East Avenue  541281, Serangoon / Thomson (D19-20)",
+    "displayText": "281A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "z5og1r",
+    "objectId": "23177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "281B Sengkang East Avenue  542281, Serangoon / Thomson (D19-20)",
+    "displayText": "281B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "l92ejx",
+    "objectId": "23178",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282 Sengkang East Avenue  540282, Serangoon / Thomson (D19-20)",
+    "displayText": "282 Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "uoj5bh",
+    "objectId": "23179",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282A Sengkang East Avenue  541282, Serangoon / Thomson (D19-20)",
+    "displayText": "282A Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "vi2p34",
+    "objectId": "23180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282B Sengkang East Avenue  542282, Serangoon / Thomson (D19-20)",
+    "displayText": "282B Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "unrg9y",
+    "objectId": "23181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "282C Sengkang East Avenue  543282, Serangoon / Thomson (D19-20)",
+    "displayText": "282C Sengkang East Avenue",
+    "displayType": "HDB",
+    "nanoId": "ej7p8m",
+    "objectId": "23182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172A Sengkang East Drive  541172, Serangoon / Thomson (D19-20)",
+    "displayText": "172A Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "kjnq7g",
+    "objectId": "25524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "174A Sengkang East Drive  541174, Serangoon / Thomson (D19-20)",
+    "displayText": "174A Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "lhizze",
+    "objectId": "25553",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "174B Sengkang East Drive   542174, Serangoon / Thomson (D19-20)",
+    "displayText": "174B Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "drw11b",
+    "objectId": "25554",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173C Sengkang East Drive  543173, Serangoon / Thomson (D19-20)",
+    "displayText": "173C Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "5e0wxe",
+    "objectId": "25623",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175A Sengkang East Drive  541175, Serangoon / Thomson (D19-20)",
+    "displayText": "175A Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "ltklsp",
+    "objectId": "25658",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172B Sengkang East Drive  542172, Serangoon / Thomson (D19-20)",
+    "displayText": "172B Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "innynd",
+    "objectId": "25702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175B Sengkang East Drive  542175, Serangoon / Thomson (D19-20)",
+    "displayText": "175B Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "30wmt5",
+    "objectId": "25731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173B Sengkang East Drive  542173, Serangoon / Thomson (D19-20)",
+    "displayText": "173B Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "821cog",
+    "objectId": "25749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172D Sengkang East Drive  544172, Serangoon / Thomson (D19-20)",
+    "displayText": "172D Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "qzegy3",
+    "objectId": "25823",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200 Sengkang East Road  540200, Serangoon / Thomson (D19-20)",
+    "displayText": "200 Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "ebw7t1",
+    "objectId": "9927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200A Sengkang East Road  541200, Serangoon / Thomson (D19-20)",
+    "displayText": "200A Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "rz2lgx",
+    "objectId": "9929",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200B Sengkang East Road  542200, Serangoon / Thomson (D19-20)",
+    "displayText": "200B Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "pe6fvv",
+    "objectId": "9930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200C Sengkang East Road  543200, Serangoon / Thomson (D19-20)",
+    "displayText": "200C Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "p5ch34",
+    "objectId": "9931",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "200D Sengkang East Road  544200, Serangoon / Thomson (D19-20)",
+    "displayText": "200D Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "y8nm7a",
+    "objectId": "9932",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202B Sengkang East Road  542202, Serangoon / Thomson (D19-20)",
+    "displayText": "202B Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "xcedn2",
+    "objectId": "9933",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202C Sengkang East Road  543202, Serangoon / Thomson (D19-20)",
+    "displayText": "202C Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "higziq",
+    "objectId": "9934",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202D Sengkang East Road  544202, Serangoon / Thomson (D19-20)",
+    "displayText": "202D Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "n48jmv",
+    "objectId": "9935",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "1 Sengkang East Avenue",
+    "displayType": "Street",
+    "objectId": "24491",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sengkang East Drive",
+    "displayType": "Street",
+    "objectId": "2920",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sengkang East Road",
+    "displayType": "Street",
+    "objectId": "2921",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sengkang East Avenue 6",
+    "displayType": "Street",
+    "objectId": "2923",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "171B Sengkang East Drive  542171, Serangoon / Thomson (D19-20)",
+    "displayText": "171B Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "l8gcjw",
+    "objectId": "25885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173A Sengkang East Drive  541173, Serangoon / Thomson (D19-20)",
+    "displayText": "173A Sengkang East Drive",
+    "displayType": "HDB",
+    "nanoId": "eq21de",
+    "objectId": "26124",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201 Sengkang East Road  540201, Serangoon / Thomson (D19-20)",
+    "displayText": "201 Sengkang East Road",
+    "displayType": "HDB",
+    "nanoId": "3nukoh",
+    "objectId": "9928",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Lengkong Tujoh  417391, Balestier / Geylang (D12-14)",
+    "displayText": "Vacanza @ East",
+    "displayType": "Condominium",
+    "nanoId": "izl9p5",
+    "objectId": "2672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

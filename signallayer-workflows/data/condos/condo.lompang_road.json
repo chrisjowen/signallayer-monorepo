@@ -1,0 +1,1310 @@
+[
+  {
+    "displayText": "Lompang Road",
+    "displayType": "Street",
+    "objectId": "11099",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "179 Lompang Road  670179, West (D22-24)",
+    "displayText": "179 Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "nzgu7l",
+    "objectId": "8194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "174 Lompang Road  670174, West (D22-24)",
+    "displayText": "174 Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "rr7bit",
+    "objectId": "8189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "175 Lompang Road  670175, West (D22-24)",
+    "displayText": "175 Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "scl6jo",
+    "objectId": "8190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "176 Lompang Road  670176, West (D22-24)",
+    "displayText": "176 Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "4iiktk",
+    "objectId": "8191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "177 Lompang Road  670177, West (D22-24)",
+    "displayText": "177 Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "mz6zcb",
+    "objectId": "8192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178 Lompang Road  670178, West (D22-24)",
+    "displayText": "178 Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "ft9n3m",
+    "objectId": "8193",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "Sunway Wellesley Lintang Sunway Wellesley 1, Taman Sunway Wellesley  14000,",
+    "displayText": "180 Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "dwdi8a",
+    "objectId": "8195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "4fw2q",
+      "estateCodes": [
+        null,
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170A Lompang Road  671170, West (D22-24)",
+    "displayText": "170A Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "zixkm3",
+    "objectId": "8196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "177A Lompang Road  671177, West (D22-24)",
+    "displayText": "177A Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "bfh013",
+    "objectId": "8197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "177B Lompang Road  672177, West (D22-24)",
+    "displayText": "177B Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "bxp65q",
+    "objectId": "8198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180A Lompang Road  671180, West (D22-24)",
+    "displayText": "180A Lompang Road",
+    "displayType": "HDB",
+    "nanoId": "zxo6z1",
+    "objectId": "8199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "6"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Lompang",
+    "displayType": "Street",
+    "objectId": "1999",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Kuala Loyang Road",
+    "displayType": "Street",
+    "objectId": "1877",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "8F Jalan Lempeng  126740, City & South West (D01-08)",
+    "displayText": "Parc Clematis",
+    "displayType": "Condominium",
+    "nanoId": "a39bdc",
+    "objectId": "23763",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Lempeng  120000, City & South West (D01-08)",
+    "displayText": "The Trilinq",
+    "displayType": "Condominium",
+    "nanoId": "5y1dfs",
+    "objectId": "21477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Simpang Bedok  488000, East Coast (D15-16)",
+    "displayText": "Canary Park",
+    "displayType": "Terraced House",
+    "nanoId": "14kdia",
+    "objectId": "1475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Lempeng  128793, City & South West (D01-08)",
+    "displayText": "Park West",
+    "displayType": "Condominium",
+    "nanoId": "kg77fw",
+    "objectId": "342",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jalan Lempeng",
+    "displayType": "Street",
+    "objectId": "1362",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Tampang",
+    "displayType": "Street",
+    "objectId": "1492",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Simpang Bedok",
+    "displayType": "Street",
+    "objectId": "1624",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lempeng Drive",
+    "displayType": "Street",
+    "objectId": "1910",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "200 Loyang Avenue  509058, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Valley",
+    "displayType": "Condominium",
+    "nanoId": "byyd30",
+    "objectId": "306",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Loyang Rise  507000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Villas",
+    "displayType": "Terraced House",
+    "nanoId": "ya791t",
+    "objectId": "233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "179 Jalan Loyang Besar  506926, Changi / Pasir Ris (D17-18)",
+    "displayText": "Coastal View Residences",
+    "displayType": "Apartment",
+    "nanoId": "ifmq8s",
+    "objectId": "1274",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "205 Jalan Loyang Besar  509456, Changi / Pasir Ris (D17-18)",
+    "displayText": "Bluwaters 2",
+    "displayType": "Condominium",
+    "nanoId": "7p7t4g",
+    "objectId": "974",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Loyang Besar  509000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Aston Residence",
+    "displayType": "Detached House",
+    "nanoId": "88ch43",
+    "objectId": "1286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "201 Jalan Loyang Besar  509506, Changi / Pasir Ris (D17-18)",
+    "displayText": "Casa Pasir Ris",
+    "displayType": "Condominium",
+    "nanoId": "t07syf",
+    "objectId": "1429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Loyang Besar Close  509049, Changi / Pasir Ris (D17-18)",
+    "displayText": "Coastal Breeze Residences",
+    "displayType": "Condominium",
+    "nanoId": "60qlna",
+    "objectId": "1544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "45 Jalan Loyang Besar  507029, Changi / Pasir Ris (D17-18)",
+    "displayText": "Celadon View",
+    "displayType": "Condominium",
+    "nanoId": "gqctcd",
+    "objectId": "1713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28-28C Jalan Ampang  268614, Orchard / Holland (D09-10)",
+    "displayText": "Astridville",
+    "displayType": "Condominium",
+    "nanoId": "vb15ae",
+    "objectId": "1762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "43 Jalan Loyang Besar  509371, Changi / Pasir Ris (D17-18)",
+    "displayText": "Le Loyang",
+    "displayType": "Condominium",
+    "nanoId": "cgcd9q",
+    "objectId": "2126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "47- 47B Jalan Loyang Besar  509372, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Gardens",
+    "displayType": "Condominium",
+    "nanoId": "f318rg",
+    "objectId": "2155",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "207 Jalan Loyang Besar  509468, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Townhouses",
+    "displayType": "Condominium",
+    "nanoId": "2p0lr3",
+    "objectId": "2159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "173 Jalan Loyang Besar  509424, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ocean Front Suites",
+    "displayType": "Condominium",
+    "nanoId": "u9hlzr",
+    "objectId": "21594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "75 Jalan Loyang Besar  506930, Changi / Pasir Ris (D17-18)",
+    "displayText": "Casa Al Mare",
+    "displayType": "Apartment",
+    "nanoId": "kwkodx",
+    "objectId": "23482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "195B Jalan Loyang Besar  506961, Changi / Pasir Ris (D17-18)",
+    "displayText": "Bluwaters",
+    "displayType": "Apartment",
+    "nanoId": "3ubsxp",
+    "objectId": "822",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "161 Jalan Loyang Besar  509408, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Lighthouse",
+    "displayType": "Condominium",
+    "nanoId": "ag4bq6",
+    "objectId": "845",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jalan Loyang Besar",
+    "displayType": "Street",
+    "objectId": "1593",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "193 Jalan Loyang Besar  506928, Changi / Pasir Ris (D17-18)",
+    "displayText": "Riz Haven",
+    "displayType": "Condominium",
+    "nanoId": "03dfom",
+    "objectId": "1363",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "163 Jalan Loyang Besar  509413, Changi / Pasir Ris (D17-18)",
+    "displayText": "Sandy Palm",
+    "displayType": "Condominium",
+    "nanoId": "byf3gt",
+    "objectId": "1384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Loyang Besar Close  509000, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Watercrest",
+    "displayType": "Condominium",
+    "nanoId": "lltj4x",
+    "objectId": "1431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Loyang Place  508000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Clydescove",
+    "displayType": "Semi-Detached House",
+    "nanoId": "62lyaw",
+    "objectId": "1835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Loyang Besar  507000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Court",
+    "displayType": "Terraced House",
+    "nanoId": "79jxy6",
+    "objectId": "2154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "208883, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Green",
+    "displayType": "Terraced House",
+    "nanoId": "d7m52w",
+    "objectId": "2156",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Loyang Terrace  508000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "a6x9m7",
+    "objectId": "2158",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Loyang Besar  500000, Changi / Pasir Ris (D17-18)",
+    "displayText": "JLB Residences",
+    "displayType": "Apartment",
+    "nanoId": "q2r1l7",
+    "objectId": "454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "211 Jalan Loyang Besar  509504, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Edgewater",
+    "displayType": "Condominium",
+    "nanoId": "yg87tt",
+    "objectId": "831",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Loyang Besar  509000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Clydesville",
+    "displayType": "Terraced House",
+    "nanoId": "s6c43l",
+    "objectId": "862",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Jln Loyang Besar",
+    "displayType": "Street",
+    "objectId": "10555",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Besar Close",
+    "displayType": "Street",
+    "objectId": "10977",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Ampang",
+    "displayType": "Street",
+    "objectId": "1203",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Lapang",
+    "displayType": "Street",
+    "objectId": "1356",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Avenue",
+    "displayType": "Street",
+    "objectId": "2169",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Crescent",
+    "displayType": "Street",
+    "objectId": "2170",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Drive",
+    "displayType": "Street",
+    "objectId": "2171",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Lane",
+    "displayType": "Street",
+    "objectId": "2172",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Place",
+    "displayType": "Street",
+    "objectId": "2174",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Rise",
+    "displayType": "Street",
+    "objectId": "2175",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang View",
+    "displayType": "Street",
+    "objectId": "2177",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Walk",
+    "displayType": "Street",
+    "objectId": "2178",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Way",
+    "displayType": "Street",
+    "objectId": "2179",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Industrial Estate",
+    "displayType": "Street",
+    "objectId": "2181",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Villas",
+    "displayType": "Street",
+    "objectId": "4612",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "Loyang Besar Close   508860, Changi / Pasir Ris (D17-18)",
+    "displayText": "Coasta Villas",
+    "displayType": "Terraced House",
+    "nanoId": "zaa1av",
+    "objectId": "25947",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "",
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "22 Jalan Loyang Besar  508826, Changi / Pasir Ris (D17-18)",
+    "displayText": "Coastal Cabana",
+    "displayType": "Executive Condominium",
+    "nanoId": "utvxqq",
+    "objectId": "26096",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Loyang Link",
+    "displayType": "Street",
+    "objectId": "2173",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Street",
+    "displayType": "Street",
+    "objectId": "2176",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Way 1",
+    "displayType": "Street",
+    "objectId": "2182",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Loyang Way 4",
+    "displayType": "Street",
+    "objectId": "2184",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "35 Lorong Ong Lye  536443, Serangoon / Thomson (D19-20)",
+    "displayText": "Casa Rosa",
+    "displayType": "Condominium",
+    "nanoId": "us4wvc",
+    "objectId": "1004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Lower Delta Road  090000, City & South West (D01-08)",
+    "displayText": "Teresa Ville",
+    "displayType": "Condominium",
+    "nanoId": "sam3h5",
+    "objectId": "459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Mount Faber Road  099200, City & South West (D01-08)",
+    "displayText": "Mount Faber Lodge",
+    "displayType": "Condominium",
+    "nanoId": "nqkp59",
+    "objectId": "586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Nathan Road  248749, Orchard / Holland (D09-10)",
+    "displayText": "Loft @ Nathan",
+    "displayType": "Condominium",
+    "nanoId": "i3oauy",
+    "objectId": "2669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Paya Lebar Road  409050, Balestier / Geylang (D12-14)",
+    "displayText": "Lotus at Paya Lebar",
+    "displayType": "Condominium",
+    "nanoId": "pbr5sl",
+    "objectId": "22520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Lorong Ong Lye  536407, Serangoon / Thomson (D19-20)",
+    "displayText": "Rosalia Park",
+    "displayType": "Condominium",
+    "nanoId": "safuuz",
+    "objectId": "709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Kellock Road  248899, Orchard / Holland (D09-10)",
+    "displayText": "Kellock Lodge",
+    "displayType": "Apartment",
+    "nanoId": "w9ifpy",
+    "objectId": "1046",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "81 Cavenagh Road  229626, Orchard / Holland (D09-10)",
+    "displayText": "Cavenagh Lodge",
+    "displayType": "Apartment",
+    "nanoId": "et77fk",
+    "objectId": "1345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "151 Holland Road  278580, Orchard / Holland (D09-10)",
+    "displayText": "Loft@Holland",
+    "displayType": "Condominium",
+    "nanoId": "tz6upp",
+    "objectId": "20588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Dublin Road  000000, Orchard / Holland (D09-10)",
+    "displayText": "Dublin Lodge",
+    "displayType": "Apartment",
+    "nanoId": "pkd5lm",
+    "objectId": "20879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "32 Jervois Road  249015, Orchard / Holland (D09-10)",
+    "displayText": "Jervois Lodge",
+    "displayType": "Condominium",
+    "nanoId": "h062hy",
+    "objectId": "551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "300 Tanjong Katong Road  437083, East Coast (D15-16)",
+    "displayText": "Chelsea Lodge",
+    "displayType": "Condominium",
+    "nanoId": "l5nws0",
+    "objectId": "632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Chun Tin Road  599717, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Meadow Lodge",
+    "displayType": "Condominium",
+    "nanoId": "vfi1ax",
+    "objectId": "1026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "89 Rangoon Road  218375, City & South West (D01-08)",
+    "displayText": "Urban Lofts",
+    "displayType": "Condominium",
+    "nanoId": "paxjdr",
+    "objectId": "1379",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "53 Bristol Road  219855, City & South West (D01-08)",
+    "displayText": "Bristol Lodge",
+    "displayType": "Condominium",
+    "nanoId": "83mi0x",
+    "objectId": "1671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Stevens Road  257856, Orchard / Holland (D09-10)",
+    "displayText": "Loft @ Stevens",
+    "displayType": "Condominium",
+    "nanoId": "wwys8g",
+    "objectId": "20608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "183 Upper Thomson Road  574332, Serangoon / Thomson (D19-20)",
+    "displayText": "183 Longhaus",
+    "displayType": "Condominium",
+    "nanoId": "geha3f",
+    "objectId": "22438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Lorong 101 Changi Road  426657, East Coast (D15-16)",
+    "displayText": "Olloi",
+    "displayType": "Condominium",
+    "nanoId": "r9ecdt",
+    "objectId": "23711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "286 Telok Kurau Road  423911, East Coast (D15-16)",
+    "displayText": "Prestige Loft",
+    "displayType": "Apartment",
+    "nanoId": "846rs8",
+    "objectId": "2610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Oxford Road  218814, City & South West (D01-08)",
+    "displayText": "Kentish Lodge",
+    "displayType": "Apartment",
+    "nanoId": "8mk0u5",
+    "objectId": "772",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Kay Poh Road  248969, Orchard / Holland (D09-10)",
+    "displayText": "Kasturina Lodge",
+    "displayType": "Apartment",
+    "nanoId": "5xk6st",
+    "objectId": "1053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "735 Mountbatten Road  437745, East Coast (D15-16)",
+    "displayText": "Mountbatten Lodge",
+    "displayType": "Apartment",
+    "nanoId": "f5glcs",
+    "objectId": "1096",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "98 Saint Francis Road  328074, Balestier / Geylang (D12-14)",
+    "displayText": "St Francis Lodge",
+    "displayType": "Apartment",
+    "nanoId": "zgwpm6",
+    "objectId": "1233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "155 Yung Loh Road  610155, West (D22-24)",
+    "displayText": "155 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "vj05fs",
+    "objectId": "12990",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Yung Loh Road  610156, West (D22-24)",
+    "displayText": "156 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "6gq0ny",
+    "objectId": "12991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Yung Loh Road  610157, West (D22-24)",
+    "displayText": "157 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "c9dnur",
+    "objectId": "12992",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Yung Loh Road  610158, West (D22-24)",
+    "displayText": "158 Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "52skkd",
+    "objectId": "12993",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155A Yung Loh Road  611155, West (D22-24)",
+    "displayText": "155A Yung Loh Road",
+    "displayType": "HDB",
+    "nanoId": "iuu5t3",
+    "objectId": "12994",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Dunearn Road  289674, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Dunearn Lodge",
+    "displayType": "Apartment",
+    "nanoId": "3eylm9",
+    "objectId": "1430",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Lermit Road  258634, Orchard / Holland (D09-10)",
+    "displayText": "Botanic Lodge",
+    "displayType": "Apartment",
+    "nanoId": "ftt4o6",
+    "objectId": "1476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

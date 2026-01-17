@@ -1,0 +1,1468 @@
+[
+  {
+    "displayText": "Woodlands Street 82",
+    "displayType": "Street",
+    "objectId": "3709",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "816 Woodlands Street 82  730816, North (D25-28)",
+    "displayText": "816 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "tdmpj1",
+    "objectId": "12374",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "817 Woodlands Street 82  730817, North (D25-28)",
+    "displayText": "817 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "sg7z6k",
+    "objectId": "12375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "818 Woodlands Street 82  730818, North (D25-28)",
+    "displayText": "818 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "ap7mn5",
+    "objectId": "12376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "819 Woodlands Street 82  730819, North (D25-28)",
+    "displayText": "819 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "0muqfr",
+    "objectId": "12377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "820 Woodlands Street 82  730820, North (D25-28)",
+    "displayText": "820 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "zp884y",
+    "objectId": "12378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "821 Woodlands Street 82  730821, North (D25-28)",
+    "displayText": "821 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "wwc5rb",
+    "objectId": "12379",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "822 Woodlands Street 82  730822, North (D25-28)",
+    "displayText": "822 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "o1t2wu",
+    "objectId": "12380",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "823 Woodlands Street 82  730823, North (D25-28)",
+    "displayText": "823 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "zyl8fz",
+    "objectId": "12381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "837 Woodlands Street 82  730837, North (D25-28)",
+    "displayText": "837 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "7x1ii6",
+    "objectId": "12382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "838 Woodlands Street 82  730838, North (D25-28)",
+    "displayText": "838 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "178f2m",
+    "objectId": "12383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "839 Woodlands Street 82  730839, North (D25-28)",
+    "displayText": "839 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "imf33a",
+    "objectId": "12384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "840 Woodlands Street 82  730840, North (D25-28)",
+    "displayText": "840 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "k2miv1",
+    "objectId": "12385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "841 Woodlands Street 82  730841, North (D25-28)",
+    "displayText": "841 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "dlml5e",
+    "objectId": "12386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842 Woodlands Street 82  730842, North (D25-28)",
+    "displayText": "842 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "ol23f6",
+    "objectId": "12387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "843 Woodlands Street 82  730843, North (D25-28)",
+    "displayText": "843 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "z96oz3",
+    "objectId": "12388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "845 Woodlands Street 82  730845, North (D25-28)",
+    "displayText": "845 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "d24hof",
+    "objectId": "12389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "847 Woodlands Street 82  730847, North (D25-28)",
+    "displayText": "847 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "etain8",
+    "objectId": "12390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "848 Woodlands Street 82  730848, North (D25-28)",
+    "displayText": "848 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "v2ko4w",
+    "objectId": "12391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "849 Woodlands Street 82  730849, North (D25-28)",
+    "displayText": "849 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "6y0zfd",
+    "objectId": "12392",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "850 Woodlands Street 82  730850, North (D25-28)",
+    "displayText": "850 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "o8mlte",
+    "objectId": "12393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "874 Woodlands Street 82  730874, North (D25-28)",
+    "displayText": "874 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "mh2j12",
+    "objectId": "12394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "875 Woodlands Street 82  730875, North (D25-28)",
+    "displayText": "875 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "nftaym",
+    "objectId": "12395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "879 Woodlands Street 82  730879, North (D25-28)",
+    "displayText": "879 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "5q89z2",
+    "objectId": "12396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "880 Woodlands Street 82  730880, North (D25-28)",
+    "displayText": "880 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "15929f",
+    "objectId": "12397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "881 Woodlands Street 82  730881, North (D25-28)",
+    "displayText": "881 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "mkmxmp",
+    "objectId": "12398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "882 Woodlands Street 82  730882, North (D25-28)",
+    "displayText": "882 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "nmdjc8",
+    "objectId": "12399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "823A Woodlands Street 82  731823, North (D25-28)",
+    "displayText": "823A Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "uqw2rh",
+    "objectId": "12401",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "839A Woodlands Street 82  731839, North (D25-28)",
+    "displayText": "839A Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "x9j5fs",
+    "objectId": "12402",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "874A Woodlands Street 82  731874, North (D25-28)",
+    "displayText": "874A Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "k5cffa",
+    "objectId": "12403",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "881A Woodlands Street 82  731881, North (D25-28)",
+    "displayText": "881A Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "ahbkul",
+    "objectId": "12404",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "883A Woodlands Street 82  731883, North (D25-28)",
+    "displayText": "883A Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "vodg87",
+    "objectId": "12405",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "884 Woodlands Street 82  730884, North (D25-28)",
+    "displayText": "884 Woodlands Street 82",
+    "displayType": "HDB",
+    "nanoId": "5m1xfh",
+    "objectId": "12400",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "824 Woodlands Street 81  730824, North (D25-28)",
+    "displayText": "824 Woodlands Street 81",
+    "displayType": "HDB",
+    "nanoId": "quzl1z",
+    "objectId": "12364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "825 Woodlands Street 81  730825, North (D25-28)",
+    "displayText": "825 Woodlands Street 81",
+    "displayType": "HDB",
+    "nanoId": "aqbpiy",
+    "objectId": "12365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "826 Woodlands Street 81  730826, North (D25-28)",
+    "displayText": "826 Woodlands Street 81",
+    "displayType": "HDB",
+    "nanoId": "lwq4c1",
+    "objectId": "12366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "827 Woodlands Street 81  730827, North (D25-28)",
+    "displayText": "827 Woodlands Street 81",
+    "displayType": "HDB",
+    "nanoId": "bp1ol4",
+    "objectId": "12367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "828 Woodlands Street 81  730828, North (D25-28)",
+    "displayText": "828 Woodlands Street 81",
+    "displayType": "HDB",
+    "nanoId": "gbkfso",
+    "objectId": "12368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "824A Woodlands Street 81  731824, North (D25-28)",
+    "displayText": "824A Woodlands Street 81",
+    "displayType": "HDB",
+    "nanoId": "5icy27",
+    "objectId": "12373",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "829 Woodlands Street 83  730829, North (D25-28)",
+    "displayText": "829 Woodlands Street 83",
+    "displayType": "HDB",
+    "nanoId": "xwff7s",
+    "objectId": "12406",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Woodlands Street 12",
+    "displayType": "Street",
+    "objectId": "3703",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 32",
+    "displayType": "Street",
+    "objectId": "3706",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 81",
+    "displayType": "Street",
+    "objectId": "3708",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 83",
+    "displayType": "Street",
+    "objectId": "3710",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 13",
+    "displayType": "Street",
+    "objectId": "3704",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 50",
+    "displayType": "Street",
+    "objectId": "10022",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands  Street 32",
+    "displayType": "Street",
+    "objectId": "10188",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 11",
+    "displayType": "Street",
+    "objectId": "3702",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 31",
+    "displayType": "Street",
+    "objectId": "3705",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Woodlands Street 41",
+    "displayType": "Street",
+    "objectId": "3707",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 82",
+    "displayType": "Street",
+    "objectId": "3274",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "830 Tampines Street 82  520830, Changi / Pasir Ris (D17-18)",
+    "displayText": "830 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "voh81r",
+    "objectId": "11121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "832 Tampines Street 82  520832, Changi / Pasir Ris (D17-18)",
+    "displayText": "832 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "bwr2zz",
+    "objectId": "11122",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "834 Tampines Street 82  520834, Changi / Pasir Ris (D17-18)",
+    "displayText": "834 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "np6xda",
+    "objectId": "11123",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "836 Tampines Street 82  520836, Changi / Pasir Ris (D17-18)",
+    "displayText": "836 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "8f1sx0",
+    "objectId": "11124",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "838 Tampines Street 82  520838, Changi / Pasir Ris (D17-18)",
+    "displayText": "838 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "4f4lrb",
+    "objectId": "11125",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "840 Tampines Street 82  520840, Changi / Pasir Ris (D17-18)",
+    "displayText": "840 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "ie8xuw",
+    "objectId": "11126",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842 Tampines Street 82  520842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "rifbfp",
+    "objectId": "11127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "844 Tampines Street 82  520844, Changi / Pasir Ris (D17-18)",
+    "displayText": "844 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "dwoqo4",
+    "objectId": "11128",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "846 Tampines Street 82  520846, Changi / Pasir Ris (D17-18)",
+    "displayText": "846 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "71p394",
+    "objectId": "11129",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "848 Tampines Street 82  520848, Changi / Pasir Ris (D17-18)",
+    "displayText": "848 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "6mbnm1",
+    "objectId": "11130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "850 Tampines Street 82  520850, Changi / Pasir Ris (D17-18)",
+    "displayText": "850 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "h0xsn5",
+    "objectId": "11131",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "852 Tampines Street 82  520852, Changi / Pasir Ris (D17-18)",
+    "displayText": "852 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "nw054l",
+    "objectId": "11132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "854 Tampines Street 82  520854, Changi / Pasir Ris (D17-18)",
+    "displayText": "854 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "flau1q",
+    "objectId": "11133",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "856 Tampines Street 82  520856, Changi / Pasir Ris (D17-18)",
+    "displayText": "856 Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "xk98sv",
+    "objectId": "11134",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842A Tampines Street 82  521842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842A Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "bmjmsm",
+    "objectId": "11135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842B Tampines Street 82  522842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842B Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "llwknh",
+    "objectId": "11136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842C Tampines Street 82  523842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842C Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "jgtzx2",
+    "objectId": "11137",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842D Tampines Street 82  524842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842D Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "2gntrd",
+    "objectId": "11138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842E Tampines Street 82  525842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842E Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "tu4vwu",
+    "objectId": "11139",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842F Tampines Street 82  526842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842F Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "7yg0hj",
+    "objectId": "11140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842G Tampines Street 82  527842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842G Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "5cp63o",
+    "objectId": "11141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "842H Tampines Street 82  528842, Changi / Pasir Ris (D17-18)",
+    "displayText": "842H Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "1dz99g",
+    "objectId": "11142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "856A Tampines Street 82  521856, Changi / Pasir Ris (D17-18)",
+    "displayText": "856A Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "0uhafj",
+    "objectId": "11143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "856B Tampines Street 82  522856, Changi / Pasir Ris (D17-18)",
+    "displayText": "856B Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "5nx155",
+    "objectId": "11144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "856C Tampines Street 82  523856, Changi / Pasir Ris (D17-18)",
+    "displayText": "856C Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "dgkqn5",
+    "objectId": "11145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "856D Tampines Street 82  524856, Changi / Pasir Ris (D17-18)",
+    "displayText": "856D Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "mna47s",
+    "objectId": "11146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "856E Tampines Street 82  525856, Changi / Pasir Ris (D17-18)",
+    "displayText": "856E Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "g6l04f",
+    "objectId": "11147",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "856F Tampines Street 82  526856, Changi / Pasir Ris (D17-18)",
+    "displayText": "856F Tampines Street 82",
+    "displayType": "HDB",
+    "nanoId": "mtibq7",
+    "objectId": "11148",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jurong West Street 82",
+    "displayType": "Street",
+    "objectId": "1729",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "82 Punggol Central  828763, Serangoon / Thomson (D19-20)",
+    "displayText": "Twin Waterfalls",
+    "displayType": "Executive Condominium",
+    "nanoId": "uwwu97",
+    "objectId": "21140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "82 Jellicoe Road  208741, City & South West (D01-08)",
+    "displayText": "Citylights",
+    "displayType": "Condominium",
+    "nanoId": "201bcf",
+    "objectId": "64",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "82 Grange Road  249587, Orchard / Holland (D09-10)",
+    "displayText": "The Colonnade",
+    "displayType": "Condominium",
+    "nanoId": "z8y7p8",
+    "objectId": "1565",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "82 Strathmore Avenue  141082, City & South West (D01-08)",
+    "displayText": "82 Strathmore Avenue",
+    "displayType": "HDB",
+    "nanoId": "c6tj2y",
+    "objectId": "10494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Telok Blangah Drive  100082, City & South West (D01-08)",
+    "displayText": "82 Telok Blangah Drive",
+    "displayType": "HDB",
+    "nanoId": "ollrh4",
+    "objectId": "11437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Tiong Poh Road  160082, City & South West (D01-08)",
+    "displayText": "82 Tiong Poh Road",
+    "displayType": "HDB",
+    "nanoId": "8yk8p8",
+    "objectId": "11502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Whampoa Drive  320082, Balestier / Geylang (D12-14)",
+    "displayText": "82 Whampoa Drive",
+    "displayType": "HDB",
+    "nanoId": "wxdb64",
+    "objectId": "11745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Davley Road  258489, Orchard / Holland (D09-10)",
+    "displayText": "82 Dalvey Road",
+    "displayType": "Walk-up",
+    "nanoId": "xwxrfh",
+    "objectId": "21916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "82 Bedok North Road  460082, East Coast (D15-16)",
+    "displayText": "82 Bedok North Road",
+    "displayType": "HDB",
+    "nanoId": "jiv5a7",
+    "objectId": "3413",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Commonwealth Close  140082, City & South West (D01-08)",
+    "displayText": "82 Commonwealth Close",
+    "displayType": "HDB",
+    "nanoId": "x1rbua",
+    "objectId": "5499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Lorong 4 Toa Payoh  310082, Balestier / Geylang (D12-14)",
+    "displayText": "82 Lorong 4 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "prltmq",
+    "objectId": "8309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Macpherson Lane  360082, Balestier / Geylang (D12-14)",
+    "displayText": "82 Macpherson Lane",
+    "displayType": "HDB",
+    "nanoId": "7pse3n",
+    "objectId": "8462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Marine Parade Central  440082, East Coast (D15-16)",
+    "displayText": "82 Marine Parade Central",
+    "displayType": "HDB",
+    "nanoId": "lvslmf",
+    "objectId": "8504",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82 Redhill Lane  150082, City & South West (D01-08)",
+    "displayText": "82 Redhill Lane",
+    "displayType": "HDB",
+    "nanoId": "nz6hg1",
+    "objectId": "9569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tampinese St 82",
+    "displayType": "Street",
+    "objectId": "10063",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "167 Woodlands Street 11  730167, North (D25-28)",
+    "displayText": "167 Woodlands Street 11",
+    "displayType": "HDB",
+    "nanoId": "vuolfy",
+    "objectId": "12238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168 Woodlands Street 11  730168, North (D25-28)",
+    "displayText": "168 Woodlands Street 11",
+    "displayType": "HDB",
+    "nanoId": "lnidwz",
+    "objectId": "12239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169 Woodlands Street 11  730169, North (D25-28)",
+    "displayText": "169 Woodlands Street 11",
+    "displayType": "HDB",
+    "nanoId": "8nfsgv",
+    "objectId": "12240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170 Woodlands Street 11  730170, North (D25-28)",
+    "displayText": "170 Woodlands Street 11",
+    "displayType": "HDB",
+    "nanoId": "aq86hf",
+    "objectId": "12241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171 Woodlands Street 11  730171, North (D25-28)",
+    "displayText": "171 Woodlands Street 11",
+    "displayType": "HDB",
+    "nanoId": "yk1qcr",
+    "objectId": "12242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

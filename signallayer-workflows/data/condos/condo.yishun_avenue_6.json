@@ -1,0 +1,1517 @@
+[
+  {
+    "displayText": "Yishun Avenue 6",
+    "displayType": "Street",
+    "objectId": "3736",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "282 Yishun Avenue 6  760282, North (D25-28)",
+    "displayText": "282 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "dltk5b",
+    "objectId": "12528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "283 Yishun Avenue 6  760283, North (D25-28)",
+    "displayText": "283 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "d0xc37",
+    "objectId": "12529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "284 Yishun Avenue 6  760284, North (D25-28)",
+    "displayText": "284 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "go2isl",
+    "objectId": "12530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285 Yishun Avenue 6  760285, North (D25-28)",
+    "displayText": "285 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "q66689",
+    "objectId": "12531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "286 Yishun Avenue 6  760286, North (D25-28)",
+    "displayText": "286 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "niv9m3",
+    "objectId": "12532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "287 Yishun Avenue 6  760287, North (D25-28)",
+    "displayText": "287 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "5p8alf",
+    "objectId": "12533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "288 Yishun Avenue 6  760288, North (D25-28)",
+    "displayText": "288 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "bijn1r",
+    "objectId": "12534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "289 Yishun Avenue 6  760289, North (D25-28)",
+    "displayText": "289 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "e7wb99",
+    "objectId": "12535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "389 Yishun Avenue 6  760389, North (D25-28)",
+    "displayText": "389 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "7r75gm",
+    "objectId": "12537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "390 Yishun Avenue 6  760390, North (D25-28)",
+    "displayText": "390 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "y1yhar",
+    "objectId": "12538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "391 Yishun Avenue 6  760391, North (D25-28)",
+    "displayText": "391 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "emediq",
+    "objectId": "12539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "392 Yishun Avenue 6  760392, North (D25-28)",
+    "displayText": "392 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "9235t6",
+    "objectId": "12540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "393 Yishun Avenue 6  760393, North (D25-28)",
+    "displayText": "393 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "rxdqdn",
+    "objectId": "12541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "394 Yishun Avenue 6  760394, North (D25-28)",
+    "displayText": "394 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "ka93b4",
+    "objectId": "12542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "396 Yishun Avenue 6  760396, North (D25-28)",
+    "displayText": "396 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "bk59qq",
+    "objectId": "12543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "397 Yishun Avenue 6  760397, North (D25-28)",
+    "displayText": "397 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "f4q6df",
+    "objectId": "12544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "399 Yishun Avenue 6  760399, North (D25-28)",
+    "displayText": "399 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "fkw0u0",
+    "objectId": "12545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "401 Yishun Avenue 6  760401, North (D25-28)",
+    "displayText": "401 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "zcihlj",
+    "objectId": "12546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Yishun Avenue 6  760403, North (D25-28)",
+    "displayText": "403 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "ltrjjo",
+    "objectId": "12547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404 Yishun Avenue 6  760404, North (D25-28)",
+    "displayText": "404 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "vktvlu",
+    "objectId": "12548",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405 Yishun Avenue 6  760405, North (D25-28)",
+    "displayText": "405 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "jow4ak",
+    "objectId": "12549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Yishun Avenue 6  760406, North (D25-28)",
+    "displayText": "406 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "xr7pxt",
+    "objectId": "12550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407 Yishun Avenue 6  760407, North (D25-28)",
+    "displayText": "407 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "jwxu7m",
+    "objectId": "12551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Yishun Avenue 6  760408, North (D25-28)",
+    "displayText": "408 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "sroh2k",
+    "objectId": "12552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "433 Yishun Avenue 6  760433, North (D25-28)",
+    "displayText": "433 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "i1cvak",
+    "objectId": "12553",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "435 Yishun Avenue 6  760435, North (D25-28)",
+    "displayText": "435 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "jefe2f",
+    "objectId": "12554",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "437 Yishun Avenue 6  760437, North (D25-28)",
+    "displayText": "437 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "z9kemr",
+    "objectId": "12555",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461A Yishun Avenue 6  761461, North (D25-28)",
+    "displayText": "461A Blossom Spring @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "lt4bwl",
+    "objectId": "23687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "461B Yishun Avenue 6  762461, North (D25-28)",
+    "displayText": "461B Blossom Spring @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "mpbind",
+    "objectId": "23688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "462A Yishun Avenue 6  761462, North (D25-28)",
+    "displayText": "462A Blossom Spring @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "a7z8ep",
+    "objectId": "23689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "462B Yishun Avenue 6  762462, North (D25-28)",
+    "displayText": "462B Blossom Spring @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "od6z9r",
+    "objectId": "23690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "462C Yishun Avenue 6  763462, North (D25-28)",
+    "displayText": "462C Blossom Spring @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "4z0ypo",
+    "objectId": "23691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "462D Yishun Avenue 6  764462, North (D25-28)",
+    "displayText": "462D Blossom Spring @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "s6icoe",
+    "objectId": "23692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "384A Yishun Avenue 6  761384, North (D25-28)",
+    "displayText": "384A Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "63vqj9",
+    "objectId": "25507",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466A Yishun Avenue 6  761466, North (D25-28)",
+    "displayText": "466A Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "epck72",
+    "objectId": "25543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "466B Yishun Avenue 6  762466, North (D25-28)",
+    "displayText": "466B Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "jmgv9j",
+    "objectId": "25544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467A Yishun Avenue 6  761467, North (D25-28)",
+    "displayText": "467A Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "3qrcdc",
+    "objectId": "25545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467B Yishun Avenue 6  762467, North (D25-28)",
+    "displayText": "467B Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "vh4vvo",
+    "objectId": "25546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467C Yishun Avenue 6  763467, North (D25-28)",
+    "displayText": "467C Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "wfmqde",
+    "objectId": "25547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "385 Yishun Avenue 6  760385, North (D25-28)",
+    "displayText": "385 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "bihoei",
+    "objectId": "12536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "465A Yishun Avenue 6  761465, North (D25-28)",
+    "displayText": "465A Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "y0axji",
+    "objectId": "25541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "465B Yishun Avenue 6  762465, North (D25-28)",
+    "displayText": "465B Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "d78h9t",
+    "objectId": "25542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "383 Yishun Avenue 6  760383, North (D25-28)",
+    "displayText": "383 Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "s0az4v",
+    "objectId": "25939",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "383B Yishun Avenue 6  762383, North (D25-28)",
+    "displayText": "383b Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "0rj2oy",
+    "objectId": "25940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "481C Yishun Avenue 6  763481, North (D25-28)",
+    "displayText": "481C Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "0sehzl",
+    "objectId": "25955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "383A Yishun Avenue 6  761383, North (D25-28)",
+    "displayText": "383A Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "ss78wp",
+    "objectId": "25959",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "383C Yishun Avenue 6  763383, North (D25-28)",
+    "displayText": "383C Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "mp45cu",
+    "objectId": "25970",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "384B Yishun Avenue 6  762384, North (D25-28)",
+    "displayText": "384B Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "uh3de5",
+    "objectId": "25971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "482B Yishun Avenue 6   762482, North (D25-28)",
+    "displayText": "482B Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "lcv2qn",
+    "objectId": "25972",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "483B  Yishun Avenue 6  762483, North (D25-28)",
+    "displayText": "483B Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "v7ek6f",
+    "objectId": "25980",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337A Yishun Avenue 6  761337, North (D25-28)",
+    "displayText": "337A Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "zsfl5f",
+    "objectId": "26054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "482A Yishun Avenue 6  761482, North (D25-28)",
+    "displayText": "482A Yishun Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "4w5m6x",
+    "objectId": "26117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "650 Yishun Avenue 4  760650, North (D25-28)",
+    "displayText": "650 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "7ukd1v",
+    "objectId": "12474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "651 Yishun Avenue 4  760651, North (D25-28)",
+    "displayText": "651 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ai8hik",
+    "objectId": "12475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "652 Yishun Avenue 4  760652, North (D25-28)",
+    "displayText": "652 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "yg7uik",
+    "objectId": "12476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "653 Yishun Avenue 4  760653, North (D25-28)",
+    "displayText": "653 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "40f43x",
+    "objectId": "12477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "654 Yishun Avenue 4  760654, North (D25-28)",
+    "displayText": "654 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t5za9m",
+    "objectId": "12478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "655 Yishun Avenue 4  760655, North (D25-28)",
+    "displayText": "655 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "a23dsa",
+    "objectId": "12479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "657 Yishun Avenue 4  760657, North (D25-28)",
+    "displayText": "657 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "l6vpbh",
+    "objectId": "12481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "658 Yishun Avenue 4  760658, North (D25-28)",
+    "displayText": "658 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "pbfo6x",
+    "objectId": "12482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "659 Yishun Avenue 4  760659, North (D25-28)",
+    "displayText": "659 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "1ppicv",
+    "objectId": "12483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "660 Yishun Avenue 4  760660, North (D25-28)",
+    "displayText": "660 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "c2sm6p",
+    "objectId": "12484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "661 Yishun Avenue 4  760661, North (D25-28)",
+    "displayText": "661 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "gbpndy",
+    "objectId": "12485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "662 Yishun Avenue 4  760662, North (D25-28)",
+    "displayText": "662 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "nk1xhy",
+    "objectId": "12486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "663 Yishun Avenue 4  760663, North (D25-28)",
+    "displayText": "663 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "u9zopt",
+    "objectId": "12487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664 Yishun Avenue 4  760664, North (D25-28)",
+    "displayText": "664 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "wkryxh",
+    "objectId": "12488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "665 Yishun Avenue 4  760665, North (D25-28)",
+    "displayText": "665 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "um671p",
+    "objectId": "12489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "666 Yishun Avenue 4  760666, North (D25-28)",
+    "displayText": "666 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "qu9p2v",
+    "objectId": "12490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "663A Yishun Avenue 4  761663, North (D25-28)",
+    "displayText": "663A Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "35e8rp",
+    "objectId": "12498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "664A Yishun Avenue 4  761664, North (D25-28)",
+    "displayText": "664A Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "64nyt3",
+    "objectId": "12499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "666A Yishun Avenue 4  761666, North (D25-28)",
+    "displayText": "666A Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "38cgnd",
+    "objectId": "12500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "671A Yishun Avenue 4  761671, North (D25-28)",
+    "displayText": "671A Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "scwsu9",
+    "objectId": "23321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "671B Yishun Avenue 4  762671, North (D25-28)",
+    "displayText": "671B Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "rumc33",
+    "objectId": "23322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "672A Yishun Avenue 4  761672, North (D25-28)",
+    "displayText": "672A Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "oalfus",
+    "objectId": "23323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "672B Yishun Avenue 4  762672, North (D25-28)",
+    "displayText": "672B Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "klzs8l",
+    "objectId": "23324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "672C Yishun Avenue 4  763672, North (D25-28)",
+    "displayText": "672C Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "doctlh",
+    "objectId": "23325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "673B Yishun Avenue 4  762673, North (D25-28)",
+    "displayText": "673B Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "nxtipa",
+    "objectId": "23387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "673C Yishun Avenue 4  763673, North (D25-28)",
+    "displayText": "673C Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "dowkrz",
+    "objectId": "23388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "673D Yishun Avenue 4  764673, North (D25-28)",
+    "displayText": "673D Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "bgwgk7",
+    "objectId": "23389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "674A Yishun Avenue 4  761674, North (D25-28)",
+    "displayText": "674A Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "c3cd8a",
+    "objectId": "23390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "674B Yishun Avenue 4  762674, North (D25-28)",
+    "displayText": "674B Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "6q2vae",
+    "objectId": "23391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675 Yishun Avenue 4  760675, North (D25-28)",
+    "displayText": "675 Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "4txhod",
+    "objectId": "24484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675A Yishun Avenue 4  761675, North (D25-28)",
+    "displayText": "675A Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "3j4sw5",
+    "objectId": "24485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675B Yishun Avenue 4  762675, North (D25-28)",
+    "displayText": "675B Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "zoxoq5",
+    "objectId": "24486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675C Yishun Avenue 4  763675, North (D25-28)",
+    "displayText": "675C Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "3z5583",
+    "objectId": "24488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "675D Yishun Avenue 4  764675, North (D25-28)",
+    "displayText": "675D Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "6rwj8n",
+    "objectId": "24489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "674C Yishun Avenue 4  763674, North (D25-28)",
+    "displayText": "674C Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "g59i7z",
+    "objectId": "24490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "673A Yishun Avenue 4  761673, North (D25-28)",
+    "displayText": "673A Fern Grove @ Yishun",
+    "displayType": "HDB",
+    "nanoId": "z8qonz",
+    "objectId": "24491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "656 Yishun Avenue 4  760656, North (D25-28)",
+    "displayText": "656 Yishun Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "m0hywn",
+    "objectId": "12480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Yishun Avenue 4",
+    "displayType": "Street",
+    "objectId": "3734",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 1",
+    "displayType": "Street",
+    "objectId": "3730",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 2",
+    "displayType": "Street",
+    "objectId": "3732",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 3",
+    "displayType": "Street",
+    "objectId": "3733",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 5",
+    "displayType": "Street",
+    "objectId": "3735",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 7",
+    "displayType": "Street",
+    "objectId": "3737",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 9",
+    "displayType": "Street",
+    "objectId": "3738",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 11",
+    "displayType": "Street",
+    "objectId": "3731",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "550 Yishun Ave 6  768961, North (D25-28)",
+    "displayText": "Lilydale",
+    "displayType": "Condominium",
+    "nanoId": "ebo1u4",
+    "objectId": "1213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "384B Yishun Ave 6  762384, North (D25-28)",
+    "displayText": "384B Yishun Ave 6",
+    "displayType": "HDB",
+    "nanoId": "caqyhc",
+    "objectId": "25965",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

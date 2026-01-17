@@ -1,0 +1,1501 @@
+[
+  {
+    "displayText": "Hougang Street 61",
+    "displayType": "Street",
+    "objectId": "1160",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "685 Hougang Street 61  530685, Serangoon / Thomson (D19-20)",
+    "displayText": "685 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "du3qsj",
+    "objectId": "6806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "686 Hougang Street 61  530686, Serangoon / Thomson (D19-20)",
+    "displayText": "686 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "yt0gf5",
+    "objectId": "6807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "687 Hougang Street 61  530687, Serangoon / Thomson (D19-20)",
+    "displayText": "687 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "g4zhft",
+    "objectId": "6808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "688 Hougang Street 61  530688, Serangoon / Thomson (D19-20)",
+    "displayText": "688 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "m7xd0z",
+    "objectId": "6809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "689 Hougang Street 61  530689, Serangoon / Thomson (D19-20)",
+    "displayText": "689 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "6746mu",
+    "objectId": "6810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "690 Hougang Street 61  530690, Serangoon / Thomson (D19-20)",
+    "displayText": "690 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "qgl748",
+    "objectId": "6811",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "691 Hougang Street 61  530691, Serangoon / Thomson (D19-20)",
+    "displayText": "691 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "em1mt0",
+    "objectId": "6812",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "692 Hougang Street 61  530692, Serangoon / Thomson (D19-20)",
+    "displayText": "692 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "5j4bxe",
+    "objectId": "6813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "693 Hougang Street 61  530693, Serangoon / Thomson (D19-20)",
+    "displayText": "693 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "mhk5zd",
+    "objectId": "6814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "694 Hougang Street 61  530694, Serangoon / Thomson (D19-20)",
+    "displayText": "694 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "8s8rp7",
+    "objectId": "6815",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "695 Hougang Street 61  530695, Serangoon / Thomson (D19-20)",
+    "displayText": "695 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "5x74du",
+    "objectId": "6816",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "696 Hougang Street 61  530696, Serangoon / Thomson (D19-20)",
+    "displayText": "696 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "hrg0u0",
+    "objectId": "6817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "697 Hougang Street 61  530697, Serangoon / Thomson (D19-20)",
+    "displayText": "697 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "gulvvu",
+    "objectId": "6818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "698 Hougang Street 61  530698, Serangoon / Thomson (D19-20)",
+    "displayText": "698 Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "b4xr8m",
+    "objectId": "6819",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "698A Hougang Street 61  531698, Serangoon / Thomson (D19-20)",
+    "displayText": "698A Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "t00j1p",
+    "objectId": "6820",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "698B Hougang Street 61  532698, Serangoon / Thomson (D19-20)",
+    "displayText": "698B Hougang Street 61",
+    "displayType": "HDB",
+    "nanoId": "w0xk6n",
+    "objectId": "6821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Hougang Street 91",
+    "displayType": "Street",
+    "objectId": "1161",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 11",
+    "displayType": "Street",
+    "objectId": "1154",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 21",
+    "displayType": "Street",
+    "objectId": "1155",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 31",
+    "displayType": "Street",
+    "objectId": "1157",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 51",
+    "displayType": "Street",
+    "objectId": "1158",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 22",
+    "displayType": "Street",
+    "objectId": "1156",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 52",
+    "displayType": "Street",
+    "objectId": "1159",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 92",
+    "displayType": "Street",
+    "objectId": "1162",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 93",
+    "displayType": "Street",
+    "objectId": "1163",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "61 Bishan Street 21  574044, Serangoon / Thomson (D19-20)",
+    "displayText": "Bishan 8",
+    "displayType": "Condominium",
+    "nanoId": "0umjap",
+    "objectId": "532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jurong West Street 61",
+    "displayType": "Street",
+    "objectId": "1719",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "602 Yishun Street 61  760602, North (D25-28)",
+    "displayText": "602 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "ajewya",
+    "objectId": "12829",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "603 Yishun Street 61  760603, North (D25-28)",
+    "displayText": "603 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "xe0yl1",
+    "objectId": "12830",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "604 Yishun Street 61  760604, North (D25-28)",
+    "displayText": "604 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "oasjgn",
+    "objectId": "12831",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605 Yishun Street 61  760605, North (D25-28)",
+    "displayText": "605 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "n7nmf2",
+    "objectId": "12832",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606 Yishun Street 61  760606, North (D25-28)",
+    "displayText": "606 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "t211i6",
+    "objectId": "12833",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "607 Yishun Street 61  760607, North (D25-28)",
+    "displayText": "607 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "4tcjkl",
+    "objectId": "12834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608 Yishun Street 61  760608, North (D25-28)",
+    "displayText": "608 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "p88jf2",
+    "objectId": "12835",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609 Yishun Street 61  760609, North (D25-28)",
+    "displayText": "609 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "mnnht2",
+    "objectId": "12836",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "610 Yishun Street 61  760610, North (D25-28)",
+    "displayText": "610 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "zmwavo",
+    "objectId": "12837",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "611 Yishun Street 61  760611, North (D25-28)",
+    "displayText": "611 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "r64m04",
+    "objectId": "12838",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "612 Yishun Street 61  760612, North (D25-28)",
+    "displayText": "612 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "wkhpec",
+    "objectId": "12839",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613 Yishun Street 61  760613, North (D25-28)",
+    "displayText": "613 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "iqhhpj",
+    "objectId": "12840",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "614 Yishun Street 61  760614, North (D25-28)",
+    "displayText": "614 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "wm9mmg",
+    "objectId": "12841",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "625 Yishun Street 61  760625, North (D25-28)",
+    "displayText": "625 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "0xs9kw",
+    "objectId": "12842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "626 Yishun Street 61  760626, North (D25-28)",
+    "displayText": "626 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "fa9xoc",
+    "objectId": "12843",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "627 Yishun Street 61  760627, North (D25-28)",
+    "displayText": "627 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "wiwntj",
+    "objectId": "12844",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "628 Yishun Street 61  760628, North (D25-28)",
+    "displayText": "628 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "uzgwzm",
+    "objectId": "12845",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "629 Yishun Street 61  760629, North (D25-28)",
+    "displayText": "629 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "1mu118",
+    "objectId": "12846",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "630 Yishun Street 61  760630, North (D25-28)",
+    "displayText": "630 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "lpfmug",
+    "objectId": "12847",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "631 Yishun Street 61  760631, North (D25-28)",
+    "displayText": "631 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "789tq6",
+    "objectId": "12848",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "632 Yishun Street 61  760632, North (D25-28)",
+    "displayText": "632 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "1mp9b2",
+    "objectId": "12849",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633 Yishun Street 61  760633, North (D25-28)",
+    "displayText": "633 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "jcm4v4",
+    "objectId": "12850",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "634 Yishun Street 61  760634, North (D25-28)",
+    "displayText": "634 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "3s2832",
+    "objectId": "12851",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "635 Yishun Street 61  760635, North (D25-28)",
+    "displayText": "635 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "egamb2",
+    "objectId": "12852",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636 Yishun Street 61  760636, North (D25-28)",
+    "displayText": "636 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "9njz5e",
+    "objectId": "12853",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "637 Yishun Street 61  760637, North (D25-28)",
+    "displayText": "637 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "hfuxzk",
+    "objectId": "12854",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "638 Yishun Street 61  760638, North (D25-28)",
+    "displayText": "638 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "cjvj6d",
+    "objectId": "12855",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "639 Yishun Street 61  760639, North (D25-28)",
+    "displayText": "639 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "3kxjvp",
+    "objectId": "12856",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "640 Yishun Street 61  760640, North (D25-28)",
+    "displayText": "640 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "89k7ge",
+    "objectId": "12857",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "641 Yishun Street 61  760641, North (D25-28)",
+    "displayText": "641 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "8x7lmg",
+    "objectId": "12858",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "642 Yishun Street 61  760642, North (D25-28)",
+    "displayText": "642 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "khe7j4",
+    "objectId": "12859",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "643 Yishun Street 61  760643, North (D25-28)",
+    "displayText": "643 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "lygkh1",
+    "objectId": "12860",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "644 Yishun Street 61  760644, North (D25-28)",
+    "displayText": "644 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "m7bb4t",
+    "objectId": "12861",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "645 Yishun Street 61  760645, North (D25-28)",
+    "displayText": "645 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "z6q2ra",
+    "objectId": "12862",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "646 Yishun Street 61  760646, North (D25-28)",
+    "displayText": "646 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "1o601f",
+    "objectId": "12863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "647 Yishun Street 61  760647, North (D25-28)",
+    "displayText": "647 Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "humt4d",
+    "objectId": "12864",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "633A Yishun Street 61  761633, North (D25-28)",
+    "displayText": "633A Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "5f60ix",
+    "objectId": "12865",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "636A Yishun Street 61  761636, North (D25-28)",
+    "displayText": "636A Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "2fkfep",
+    "objectId": "12866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "637A Yishun Street 61  761637, North (D25-28)",
+    "displayText": "637A Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "6xz1wv",
+    "objectId": "12867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "645A Yishun Street 61  761645, North (D25-28)",
+    "displayText": "645A Yishun Street 61",
+    "displayType": "HDB",
+    "nanoId": "zofbcy",
+    "objectId": "12869",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "27"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "650 Ang Mo Kio Street 61  560650, Serangoon / Thomson (D19-20)",
+    "displayText": "650 Ang Mo Kio Street 61",
+    "displayType": "HDB",
+    "nanoId": "7w6qg5",
+    "objectId": "23814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605A Tampines Street 61  521605, Changi / Pasir Ris (D17-18)",
+    "displayText": "605A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "h1eplb",
+    "objectId": "23915",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605B Tampines Street 61  522605, Changi / Pasir Ris (D17-18)",
+    "displayText": "605B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "q2tf9f",
+    "objectId": "23917",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605D Tampines Street 61  524605, Changi / Pasir Ris (D17-18)",
+    "displayText": "605D Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "tcqwou",
+    "objectId": "23927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605C Tampines Street 61  523605, Changi / Pasir Ris (D17-18)",
+    "displayText": "605C Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "qza4es",
+    "objectId": "23930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606B Tampines Street 61  522606, Changi / Pasir Ris (D17-18)",
+    "displayText": "606B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "3meulf",
+    "objectId": "23932",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606A Tampines Street 61  521606, Changi / Pasir Ris (D17-18)",
+    "displayText": "606A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "6kapdw",
+    "objectId": "23936",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606C Tampines Street 61  523606, Changi / Pasir Ris (D17-18)",
+    "displayText": "606C Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "on13re",
+    "objectId": "23937",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606D Tampines Street 61  524606, Changi / Pasir Ris (D17-18)",
+    "displayText": "606D Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "10q2ff",
+    "objectId": "23942",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618A Tampines Street 61  521618, Changi / Pasir Ris (D17-18)",
+    "displayText": "618A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "0a3cdb",
+    "objectId": "24678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "618B Tampines Street 61  522618, Changi / Pasir Ris (D17-18)",
+    "displayText": "618B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "y80dto",
+    "objectId": "24679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619A Tampines Street 61  521619, Changi / Pasir Ris (D17-18)",
+    "displayText": "619A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "dyxgz2",
+    "objectId": "24680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "619B Tampines Street 61  522619, Changi / Pasir Ris (D17-18)",
+    "displayText": "619B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "dv1ut1",
+    "objectId": "24681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "620A Tampines Street 61  521620, Changi / Pasir Ris (D17-18)",
+    "displayText": "620A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "umqtqg",
+    "objectId": "24682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "620B Tampines Street 61  522620, Changi / Pasir Ris (D17-18)",
+    "displayText": "620B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "6z1hfp",
+    "objectId": "24683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "621A Tampines Street 61  521621, Changi / Pasir Ris (D17-18)",
+    "displayText": "621A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "i5zk6e",
+    "objectId": "24684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "621B Tampines Street 61  522621, Changi / Pasir Ris (D17-18)",
+    "displayText": "621B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "7adjk3",
+    "objectId": "24685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "625A Tampines Street 61  521625, Changi / Pasir Ris (D17-18)",
+    "displayText": "625A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "bjkge2",
+    "objectId": "24694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "625B Tampines Street 61  522625, Changi / Pasir Ris (D17-18)",
+    "displayText": "625B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "2n02bu",
+    "objectId": "24695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "626A Tampines Street 61  521626, Changi / Pasir Ris (D17-18)",
+    "displayText": "626A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "n7r8wn",
+    "objectId": "24696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "627A Tampines Street 61  521627, Changi / Pasir Ris (D17-18)",
+    "displayText": "627A Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "tva1bi",
+    "objectId": "24697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "627B Tampines Street 61  522627, Changi / Pasir Ris (D17-18)",
+    "displayText": "627B Tampines Street 61",
+    "displayType": "HDB",
+    "nanoId": "dq5tbz",
+    "objectId": "24698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "622 Jurong West Street 61  640622, West (D22-24)",
+    "displayText": "622 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "ui1oaw",
+    "objectId": "7603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "623 Jurong West Street 61  640623, West (D22-24)",
+    "displayText": "623 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "6r0og0",
+    "objectId": "7604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "624 Jurong West Street 61  640624, West (D22-24)",
+    "displayText": "624 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "8z77nq",
+    "objectId": "7605",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "625 Jurong West Street 61  640625, West (D22-24)",
+    "displayText": "625 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "pwdkge",
+    "objectId": "7606",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "637 Jurong West Street 61  640637, West (D22-24)",
+    "displayText": "637 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "zq5x0t",
+    "objectId": "7607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "638 Jurong West Street 61  640638, West (D22-24)",
+    "displayText": "638 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "apvhgd",
+    "objectId": "7608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "639 Jurong West Street 61  640639, West (D22-24)",
+    "displayText": "639 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "71edwm",
+    "objectId": "7609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "640 Jurong West Street 61  640640, West (D22-24)",
+    "displayText": "640 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "sti3s8",
+    "objectId": "7610",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "641 Jurong West Street 61  640641, West (D22-24)",
+    "displayText": "641 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "l4sxcs",
+    "objectId": "7611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "642 Jurong West Street 61  640642, West (D22-24)",
+    "displayText": "642 Jurong West Street 61",
+    "displayType": "HDB",
+    "nanoId": "c1lyjv",
+    "objectId": "7612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

@@ -1,0 +1,1586 @@
+[
+  {
+    "displayDescription": "105 Clementi Street 12  120105, City & South West (D01-08)",
+    "displayText": "105 Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "uohyen",
+    "objectId": "5431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Clementi Street 12  120106, City & South West (D01-08)",
+    "displayText": "106 Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "zajp7l",
+    "objectId": "5432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Clementi Street 12  120107, City & South West (D01-08)",
+    "displayText": "107 Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "ef2xrd",
+    "objectId": "5433",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107A Clementi Street 12  121107, City & South West (D01-08)",
+    "displayText": "107A Clementi Street 12",
+    "displayType": "HDB",
+    "nanoId": "vqlsk7",
+    "objectId": "5434",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Clementi Street 11  120108, City & South West (D01-08)",
+    "displayText": "108 Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "gkpluk",
+    "objectId": "5427",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Clementi Street 11  120109, City & South West (D01-08)",
+    "displayText": "109 Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "4cd5zc",
+    "objectId": "5428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108A Clementi Street 11  121108, City & South West (D01-08)",
+    "displayText": "108A Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "eciy1z",
+    "objectId": "5429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109A Clementi Street 11  121109, City & South West (D01-08)",
+    "displayText": "109A Clementi Street 11",
+    "displayType": "HDB",
+    "nanoId": "kya75c",
+    "objectId": "5430",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Clementi Street 13  120110, City & South West (D01-08)",
+    "displayText": "110 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "jbtn5q",
+    "objectId": "5435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Clementi Street 13  120111, City & South West (D01-08)",
+    "displayText": "111 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "eidxi9",
+    "objectId": "5436",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Clementi Street 13  120112, City & South West (D01-08)",
+    "displayText": "112 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "o8sp2o",
+    "objectId": "5437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Clementi Street 13  120113, City & South West (D01-08)",
+    "displayText": "113 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "592mmr",
+    "objectId": "5438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Clementi Street 13  120114, City & South West (D01-08)",
+    "displayText": "114 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "s8tevv",
+    "objectId": "5439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Clementi Street 13  120115, City & South West (D01-08)",
+    "displayText": "115 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "rqaaiz",
+    "objectId": "5440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Clementi Street 13  120116, City & South West (D01-08)",
+    "displayText": "116 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "vyg6at",
+    "objectId": "5441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Clementi Street 13  120117, City & South West (D01-08)",
+    "displayText": "117 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "9u8sk3",
+    "objectId": "5442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Clementi Street 13  120118, City & South West (D01-08)",
+    "displayText": "118 Clementi Street 13",
+    "displayType": "HDB",
+    "nanoId": "nb7qf7",
+    "objectId": "5443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Clementi Street 14  120101, City & South West (D01-08)",
+    "displayText": "101 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "6sxiuq",
+    "objectId": "5444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Clementi Street 14  120102, City & South West (D01-08)",
+    "displayText": "102 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "i83fbt",
+    "objectId": "5445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Clementi Street 14  120103, City & South West (D01-08)",
+    "displayText": "103 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "dkkfqh",
+    "objectId": "5446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Clementi Street 14  120104, City & South West (D01-08)",
+    "displayText": "104 Clementi Street 14",
+    "displayType": "HDB",
+    "nanoId": "qu44nr",
+    "objectId": "5447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "601 Clementi West Street 1  120601, City & South West (D01-08)",
+    "displayText": "601 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "x9sicn",
+    "objectId": "5448",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "602 Clementi West Street 1  120602, City & South West (D01-08)",
+    "displayText": "602 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "8w44rz",
+    "objectId": "5449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "603 Clementi West Street 1  120603, City & South West (D01-08)",
+    "displayText": "603 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "g66p5y",
+    "objectId": "5450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "604 Clementi West Street 1  120604, City & South West (D01-08)",
+    "displayText": "604 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "1hsce2",
+    "objectId": "5451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "605 Clementi West Street 1  120605, City & South West (D01-08)",
+    "displayText": "605 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "j0lfm1",
+    "objectId": "5452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "606 Clementi West Street 1  120606, City & South West (D01-08)",
+    "displayText": "606 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "975llk",
+    "objectId": "5453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "607 Clementi West Street 1  120607, City & South West (D01-08)",
+    "displayText": "607 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "4vvesd",
+    "objectId": "5454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "608 Clementi West Street 1  120608, City & South West (D01-08)",
+    "displayText": "608 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "y1m9az",
+    "objectId": "5455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "609 Clementi West Street 1  120609, City & South West (D01-08)",
+    "displayText": "609 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "5g0u8x",
+    "objectId": "5456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "610 Clementi West Street 1  120610, City & South West (D01-08)",
+    "displayText": "610 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "jg6q5v",
+    "objectId": "5457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "611 Clementi West Street 1  120611, City & South West (D01-08)",
+    "displayText": "611 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "24zqg4",
+    "objectId": "5458",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "612 Clementi West Street 1  120612, City & South West (D01-08)",
+    "displayText": "612 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "vvlt1n",
+    "objectId": "5459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "613 Clementi West Street 1  120613, City & South West (D01-08)",
+    "displayText": "613 Clementi West Street 1",
+    "displayType": "HDB",
+    "nanoId": "2lodm5",
+    "objectId": "5460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "705 Clementi West Street 2  120705, City & South West (D01-08)",
+    "displayText": "705 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "oys0va",
+    "objectId": "5461",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "706 Clementi West Street 2  120706, City & South West (D01-08)",
+    "displayText": "706 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "slp02o",
+    "objectId": "5462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "707 Clementi West Street 2  120707, City & South West (D01-08)",
+    "displayText": "707 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "w79ehn",
+    "objectId": "5463",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "708 Clementi West Street 2  120708, City & South West (D01-08)",
+    "displayText": "708 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "6kan4c",
+    "objectId": "5464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "709 Clementi West Street 2  120709, City & South West (D01-08)",
+    "displayText": "709 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "cokr9f",
+    "objectId": "5465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "710 Clementi West Street 2  120710, City & South West (D01-08)",
+    "displayText": "710 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "7zlw6z",
+    "objectId": "5466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "711 Clementi West Street 2  120711, City & South West (D01-08)",
+    "displayText": "711 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "tvkp29",
+    "objectId": "5467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "712 Clementi West Street 2  120712, City & South West (D01-08)",
+    "displayText": "712 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "r6fza9",
+    "objectId": "5468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "713 Clementi West Street 2  120713, City & South West (D01-08)",
+    "displayText": "713 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "exbbq1",
+    "objectId": "5469",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "714 Clementi West Street 2  120714, City & South West (D01-08)",
+    "displayText": "714 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "30uy75",
+    "objectId": "5470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "715 Clementi West Street 2  120715, City & South West (D01-08)",
+    "displayText": "715 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "rbt4cd",
+    "objectId": "5471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "716 Clementi West Street 2  120716, City & South West (D01-08)",
+    "displayText": "716 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "td1mep",
+    "objectId": "5472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "717 Clementi West Street 2  120717, City & South West (D01-08)",
+    "displayText": "717 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "xps8ee",
+    "objectId": "5473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "720 Clementi West Street 2  120720, City & South West (D01-08)",
+    "displayText": "720 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "s3aqd1",
+    "objectId": "5474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "721 Clementi West Street 2  120721, City & South West (D01-08)",
+    "displayText": "721 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "biw2vp",
+    "objectId": "5475",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "722 Clementi West Street 2  120722, City & South West (D01-08)",
+    "displayText": "722 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "12v78u",
+    "objectId": "5476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "723 Clementi West Street 2  120723, City & South West (D01-08)",
+    "displayText": "723 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "pyqpcm",
+    "objectId": "5477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "724 Clementi West Street 2  120724, City & South West (D01-08)",
+    "displayText": "724 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "avh66y",
+    "objectId": "5478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "725 Clementi West Street 2  120725, City & South West (D01-08)",
+    "displayText": "725 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "k1fqek",
+    "objectId": "5479",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "726 Clementi West Street 2  120726, City & South West (D01-08)",
+    "displayText": "726 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "5df3rg",
+    "objectId": "5480",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "727 Clementi West Street 2  120727, City & South West (D01-08)",
+    "displayText": "727 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "wc1blw",
+    "objectId": "5481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "728 Clementi West Street 2  120728, City & South West (D01-08)",
+    "displayText": "728 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "qz8aez",
+    "objectId": "5482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "729 Clementi West Street 2  120729, City & South West (D01-08)",
+    "displayText": "729 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "88wf5v",
+    "objectId": "5483",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "730 Clementi West Street 2  120730, City & South West (D01-08)",
+    "displayText": "730 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "2xcjqh",
+    "objectId": "5484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "731 Clementi West Street 2  120731, City & South West (D01-08)",
+    "displayText": "731 Clementi West Street 2",
+    "displayType": "HDB",
+    "nanoId": "0wjuc3",
+    "objectId": "5485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Clementi Street 13",
+    "displayType": "Street",
+    "objectId": "6853",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "12 Clementi Avenue 1  129632, City & South West (D01-08)",
+    "displayText": "ELTA",
+    "displayType": "Apartment",
+    "nanoId": "4sekl5",
+    "objectId": "25895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Ave 1 Clementi  120000, City & South West (D01-08)",
+    "displayText": "The Clement Canopy",
+    "displayType": "Condominium",
+    "nanoId": "ztzyd3",
+    "objectId": "22866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Simei Street 1  529940, Changi / Pasir Ris (D17-18)",
+    "displayText": "Melville Park",
+    "displayType": "Apartment",
+    "nanoId": "kzvh3f",
+    "objectId": "108",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bishan Street 12",
+    "displayType": "Street",
+    "objectId": "3892",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "140 Tampines Street 12  520140, Changi / Pasir Ris (D17-18)",
+    "displayText": "140 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "tny5f0",
+    "objectId": "10663",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Tampines Street 12  521141, Changi / Pasir Ris (D17-18)",
+    "displayText": "141 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "g2xqtw",
+    "objectId": "10664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Tampines Street 12  521142, Changi / Pasir Ris (D17-18)",
+    "displayText": "142 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "palybh",
+    "objectId": "10665",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Tampines Street 12  520143, Changi / Pasir Ris (D17-18)",
+    "displayText": "143 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "iisso3",
+    "objectId": "10666",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Tampines Street 12  521144, Changi / Pasir Ris (D17-18)",
+    "displayText": "144 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "pxa8jw",
+    "objectId": "10667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Tampines Street 12  521145, Changi / Pasir Ris (D17-18)",
+    "displayText": "145 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "zadn3u",
+    "objectId": "10668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "149 Tampines Street 12  521149, Changi / Pasir Ris (D17-18)",
+    "displayText": "149 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "b0li7m",
+    "objectId": "10669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "150 Tampines Street 12  521150, Changi / Pasir Ris (D17-18)",
+    "displayText": "150 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "m832ay",
+    "objectId": "10670",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "151 Tampines Street 12  521151, Changi / Pasir Ris (D17-18)",
+    "displayText": "151 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "m4t3za",
+    "objectId": "10671",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Tampines Street 12  521156, Changi / Pasir Ris (D17-18)",
+    "displayText": "156 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "zwvi6x",
+    "objectId": "10672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Tampines Street 12  521157, Changi / Pasir Ris (D17-18)",
+    "displayText": "157 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "f6nhg6",
+    "objectId": "10673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Tampines Street 12  521158, Changi / Pasir Ris (D17-18)",
+    "displayText": "158 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "rjxs4d",
+    "objectId": "10674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Tampines Street 12  521159, Changi / Pasir Ris (D17-18)",
+    "displayText": "159 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "bk5s5n",
+    "objectId": "10675",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Tampines Street 12  521160, Changi / Pasir Ris (D17-18)",
+    "displayText": "160 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "cfaoe5",
+    "objectId": "10676",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Tampines Street 12  521161, Changi / Pasir Ris (D17-18)",
+    "displayText": "161 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "cu9cg5",
+    "objectId": "10677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162 Tampines Street 12  521162, Changi / Pasir Ris (D17-18)",
+    "displayText": "162 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "942cvz",
+    "objectId": "10678",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Tampines Street 12  521163, Changi / Pasir Ris (D17-18)",
+    "displayText": "163 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "i2c1f8",
+    "objectId": "10679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164 Tampines Street 12  521164, Changi / Pasir Ris (D17-18)",
+    "displayText": "164 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "bkif4b",
+    "objectId": "10680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "165 Tampines Street 12  521165, Changi / Pasir Ris (D17-18)",
+    "displayText": "165 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "1wa5cr",
+    "objectId": "10681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "166 Tampines Street 12  521166, Changi / Pasir Ris (D17-18)",
+    "displayText": "166 Tampines Street 12",
+    "displayType": "HDB",
+    "nanoId": "0lzdlg",
+    "objectId": "10682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130A Ang Mo Kio Street 12  561130, Serangoon / Thomson (D19-20)",
+    "displayText": "130A Ang Mo Kio Street 12",
+    "displayType": "HDB",
+    "nanoId": "8hayfk",
+    "objectId": "3253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130B Ang Mo Kio Street 12  562130, Serangoon / Thomson (D19-20)",
+    "displayText": "130B Ang Mo Kio Street 12",
+    "displayType": "HDB",
+    "nanoId": "sqf8bv",
+    "objectId": "3254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "132A Ang Mo Kio Street 12  561132, Serangoon / Thomson (D19-20)",
+    "displayText": "132A Ang Mo Kio Street 12",
+    "displayType": "HDB",
+    "nanoId": "oe8cl9",
+    "objectId": "3255",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Bishan Street 12  570101, Serangoon / Thomson (D19-20)",
+    "displayText": "101 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "7vh8mc",
+    "objectId": "3796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Bishan Street 12  570102, Serangoon / Thomson (D19-20)",
+    "displayText": "102 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "4u9vc4",
+    "objectId": "3797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Bishan Street 12  570103, Serangoon / Thomson (D19-20)",
+    "displayText": "103 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "xt2cjk",
+    "objectId": "3798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Bishan Street 12  570104, Serangoon / Thomson (D19-20)",
+    "displayText": "104 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "x57hs6",
+    "objectId": "3799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Bishan Street 12  570105, Serangoon / Thomson (D19-20)",
+    "displayText": "105 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "g8vfqz",
+    "objectId": "3800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Bishan Street 12  570106, Serangoon / Thomson (D19-20)",
+    "displayText": "106 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "op0z8u",
+    "objectId": "3801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Bishan Street 12  570107, Serangoon / Thomson (D19-20)",
+    "displayText": "107 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "8hlgs0",
+    "objectId": "3802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Bishan Street 12  570108, Serangoon / Thomson (D19-20)",
+    "displayText": "108 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "0sqbob",
+    "objectId": "3803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Bishan Street 12  570109, Serangoon / Thomson (D19-20)",
+    "displayText": "109 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "csszp9",
+    "objectId": "3804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Bishan Street 12  570110, Serangoon / Thomson (D19-20)",
+    "displayText": "110 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "4pk7vs",
+    "objectId": "3805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Bishan Street 12  570111, Serangoon / Thomson (D19-20)",
+    "displayText": "111 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "qwh1dx",
+    "objectId": "3806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Bishan Street 12  570112, Serangoon / Thomson (D19-20)",
+    "displayText": "112 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "im3ld4",
+    "objectId": "3807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Bishan Street 12  570113, Serangoon / Thomson (D19-20)",
+    "displayText": "113 Bishan Street 12",
+    "displayType": "HDB",
+    "nanoId": "swrjk2",
+    "objectId": "3808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

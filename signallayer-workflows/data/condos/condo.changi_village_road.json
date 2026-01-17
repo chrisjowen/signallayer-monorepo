@@ -1,0 +1,1403 @@
+[
+  {
+    "displayText": "Changi Village Road",
+    "displayType": "Street",
+    "objectId": "466",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Changi Village Road  500001, Changi / Pasir Ris (D17-18)",
+    "displayText": "1 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "hpm5l7",
+    "objectId": "4781",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Changi Village Road  500002, Changi / Pasir Ris (D17-18)",
+    "displayText": "2 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "gkasl2",
+    "objectId": "4782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Changi Village Road  500003, Changi / Pasir Ris (D17-18)",
+    "displayText": "3 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "ea2ea8",
+    "objectId": "4783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Changi Village Road  500004, Changi / Pasir Ris (D17-18)",
+    "displayText": "4 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "gg1z14",
+    "objectId": "4784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Changi Village Road  500005, Changi / Pasir Ris (D17-18)",
+    "displayText": "5 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "7xi71b",
+    "objectId": "4785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "419784, Changi / Pasir Ris (D17-18)",
+    "displayText": "6 Changi Village Road",
+    "displayType": "HDB",
+    "nanoId": "io3klh",
+    "objectId": "4786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "18",
+        "18"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "430 Upper Changi Road  487048, East Coast (D15-16)",
+    "displayText": "East Village",
+    "displayType": "Condominium",
+    "nanoId": "ysqmwn",
+    "objectId": "21180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D17",
+    "displayText": "D17 Changi Airport / Changi Village",
+    "displayType": "District",
+    "objectId": "D17",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D17"
+    }
+  },
+  {
+    "displayText": "Changi Village",
+    "displayType": "Street",
+    "objectId": "465",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "55 Changi Road  419709, Balestier / Geylang (D12-14)",
+    "displayText": "Millage",
+    "displayType": "Condominium",
+    "nanoId": "syw4pt",
+    "objectId": "21177",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Old Tampines Road  509190, Changi / Pasir Ris (D17-18)",
+    "displayText": "Villas @ Old Tampines Road",
+    "displayType": "Semi-Detached House",
+    "nanoId": "m13ppj",
+    "objectId": "26028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "",
+        "",
+        ""
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "56 Farrer Road  268844, Orchard / Holland (D09-10)",
+    "displayText": "Spanish Village",
+    "displayType": "Condominium",
+    "nanoId": "cgp3iz",
+    "objectId": "1327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "417 Pasir Panjang Road  118758, City & South West (D01-08)",
+    "displayText": "Village @ Pasir Panjang",
+    "displayType": "Condominium",
+    "nanoId": "a6u9zw",
+    "objectId": "1411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2a Cambridge Road  219679, City & South West (D01-08)",
+    "displayText": "Cambridge Village",
+    "displayType": "Condominium",
+    "nanoId": "joaope",
+    "objectId": "1685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D08",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "108A Coronation Road  269510, Orchard / Holland (D09-10)",
+    "displayText": "Coronation Village",
+    "displayType": "Condominium",
+    "nanoId": "opq49m",
+    "objectId": "20866",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Vanda Road  000000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Orchid Village",
+    "displayType": "Terraced House",
+    "nanoId": "2tukvq",
+    "objectId": "20996",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Loyang Rise  507000, Changi / Pasir Ris (D17-18)",
+    "displayText": "Loyang Villas",
+    "displayType": "Terraced House",
+    "nanoId": "ya791t",
+    "objectId": "233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "Loyang Besar Close   508860, Changi / Pasir Ris (D17-18)",
+    "displayText": "Coasta Villas",
+    "displayType": "Terraced House",
+    "nanoId": "zaa1av",
+    "objectId": "25947",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "",
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "5 Holland Village Way  275752, Orchard / Holland (D09-10)",
+    "displayText": "One Holland Village Residences",
+    "displayType": "Condominium",
+    "nanoId": "m5pruq",
+    "objectId": "23836",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Holland Village",
+    "displayType": "Street",
+    "objectId": "7556",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "5 Holland Village Way  275752, Orchard / Holland (D09-10)",
+    "displayText": "Quincy House Singapore",
+    "displayType": "Apartment",
+    "nanoId": "9t2dkw",
+    "objectId": "25801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Mount Sinai Rise  276955, Orchard / Holland (D09-10)",
+    "displayText": "Village Tower",
+    "displayType": "Condominium",
+    "nanoId": "31fdnf",
+    "objectId": "1745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jambol Place  119000, City & South West (D01-08)",
+    "displayText": "Chelsea Village",
+    "displayType": "Terraced House",
+    "nanoId": "16b4zt",
+    "objectId": "1808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "119 Lorong K Telok Kurau  425760, East Coast (D15-16)",
+    "displayText": "Evans Lodge @ East Theme Village",
+    "displayType": "Walk-up",
+    "nanoId": "m8sbsy",
+    "objectId": "22594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Alexandra Village",
+    "displayType": "Street",
+    "objectId": "23",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bugis Village",
+    "displayType": "Street",
+    "objectId": "5994",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Holland Village Way  279035, Orchard / Holland (D09-10)",
+    "displayText": "Skye at Holland",
+    "displayType": "Condominium",
+    "nanoId": "8hkn46",
+    "objectId": "26021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        "",
+        "",
+        ""
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tanglin Village",
+    "displayType": "Street",
+    "objectId": "3300",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "23 Toh Drive  507875, Changi / Pasir Ris (D17-18)",
+    "displayText": "Victory Ville",
+    "displayType": "Cluster House",
+    "nanoId": "wtbltj",
+    "objectId": "21924",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Gilstead Road  309000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Villas @ Gilstead",
+    "displayType": "Town House",
+    "nanoId": "beuivo",
+    "objectId": "21092",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "TOWN",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "366 Upper East Coast Road  466472, East Coast (D15-16)",
+    "displayText": "Villas Laguna",
+    "displayType": "Condominium",
+    "nanoId": "7wf8g5",
+    "objectId": "1230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Whitley Road  297000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Whitley Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "mwncvl",
+    "objectId": "1288",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "116 Bukit Teresa Road  099758, City & South West (D01-08)",
+    "displayText": "Teresa Villas",
+    "displayType": "Cluster House",
+    "nanoId": "enud0a",
+    "objectId": "21075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "36A Kovan Road  544870, Serangoon / Thomson (D19-20)",
+    "displayText": "Water Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "78f9oc",
+    "objectId": "2633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Lloyd Road Singapore  239000, Orchard / Holland (D09-10)",
+    "displayText": "Brentwood Villas",
+    "displayType": "Cluster House",
+    "nanoId": "b264x1",
+    "objectId": "1566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Bukit Sedap Road  279000, Orchard / Holland (D09-10)",
+    "displayText": "Villas Holland",
+    "displayType": "Detached House",
+    "nanoId": "shdcc0",
+    "objectId": "2033",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Gallop Park Road  258000, Orchard / Holland (D09-10)",
+    "displayText": "Gallop Villas",
+    "displayType": "Detached House",
+    "nanoId": "bni7yo",
+    "objectId": "20906",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Serangoon Road  534000, Serangoon / Thomson (D19-20)",
+    "displayText": "Surin Villas",
+    "displayType": "Terraced House",
+    "nanoId": "qbb9yj",
+    "objectId": "21067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Tembeling Road  423000, East Coast (D15-16)",
+    "displayText": "Tembeling Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "jfyq9q",
+    "objectId": "21074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "00 Chancery Hill Road  307000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Chancery Hill Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "lq83em",
+    "objectId": "22152",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Shelford Road  288000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "sd31ur",
+    "objectId": "2417",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "71-85 24 Phoenix Road  668378, West (D22-24)",
+    "displayText": "Phoenix Villas",
+    "displayType": "Condominium",
+    "nanoId": "tvt8ku",
+    "objectId": "25080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "250 Pasir Panjang Road  117622, City & South West (D01-08)",
+    "displayText": "Villas Six",
+    "displayType": "Condominium",
+    "nanoId": "8a7awl",
+    "objectId": "2521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8A Orange Grove Road  258343, Orchard / Holland (D09-10)",
+    "displayText": "D'Grove Villas",
+    "displayType": "Condominium",
+    "nanoId": "r88efj",
+    "objectId": "640",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Swettenham Road  248000, Orchard / Holland (D09-10)",
+    "displayText": "Peirce Villas",
+    "displayType": "Detached House",
+    "nanoId": "u2s2z5",
+    "objectId": "863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Wimborne Road  436000, East Coast (D15-16)",
+    "displayText": "WIMBORNE VILLAS",
+    "displayType": "Terraced House",
+    "nanoId": "huthhq",
+    "objectId": "1617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "20 Newton Road  307953, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Amaryllis Ville",
+    "displayType": "Condominium",
+    "nanoId": "slt3yf",
+    "objectId": "35",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1U Hillcrest Road  286657, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Hillcrest Villa",
+    "displayType": "Cluster House",
+    "nanoId": "qm4fzl",
+    "objectId": "1245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "LCLUS",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Lower Delta Road  090000, City & South West (D01-08)",
+    "displayText": "Teresa Ville",
+    "displayType": "Condominium",
+    "nanoId": "sam3h5",
+    "objectId": "459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35D Nim Road  804967, North (D25-28)",
+    "displayText": "Este Villa",
+    "displayType": "Cluster House",
+    "nanoId": "dnm7x8",
+    "objectId": "20804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Martia Road  424808, East Coast (D15-16)",
+    "displayText": "Villa Martia",
+    "displayType": "Condominium",
+    "nanoId": "ewku36",
+    "objectId": "867",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "385 Pasir Panjang Road  118719, City & South West (D01-08)",
+    "displayText": "Villa De West",
+    "displayType": "Condominium",
+    "nanoId": "4heu5e",
+    "objectId": "1419",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "125 Whitley Road  297820, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Villa Des Flores",
+    "displayType": "Condominium",
+    "nanoId": "1oa1hx",
+    "objectId": "1447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Barker Road  307000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Barker Ville",
+    "displayType": "Semi-Detached House",
+    "nanoId": "4dai9p",
+    "objectId": "20632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "9 Holt Road  249446, Orchard / Holland (D09-10)",
+    "displayText": "Sheares Ville",
+    "displayType": "Condominium",
+    "nanoId": "beeipw",
+    "objectId": "317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Kim Yam Road  239328, Orchard / Holland (D09-10)",
+    "displayText": "Langston Ville",
+    "displayType": "Apartment",
+    "nanoId": "s99vsz",
+    "objectId": "781",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "310 River Valley Road  238351, Orchard / Holland (D09-10)",
+    "displayText": "Ville Royale",
+    "displayType": "Apartment",
+    "nanoId": "lbr2wt",
+    "objectId": "895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "336 Pasir Panjang Road  118668, City & South West (D01-08)",
+    "displayText": "Luxe Ville",
+    "displayType": "Condominium",
+    "nanoId": "n9t5nb",
+    "objectId": "1583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Keng Chin Road  258707, Orchard / Holland (D09-10)",
+    "displayText": "Century Ville",
+    "displayType": "Condominium",
+    "nanoId": "1q6f1p",
+    "objectId": "1723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73 Coronation Road  269470, Orchard / Holland (D09-10)",
+    "displayText": "Coronation Ville",
+    "displayType": "Condominium",
+    "nanoId": "fj8bk4",
+    "objectId": "1842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "314 Shunfu Road  570314, Serangoon / Thomson (D19-20)",
+    "displayText": "Shunfu Ville",
+    "displayType": "Executive Condominium",
+    "nanoId": "wsmjls",
+    "objectId": "20542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "86 - 88 Tanjong Katong Road  436958, East Coast (D15-16)",
+    "displayText": "Katong Ville",
+    "displayType": "Condominium",
+    "nanoId": "1a0pra",
+    "objectId": "2078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jervois Road  249000, Orchard / Holland (D09-10)",
+    "displayText": "Jervois Ville",
+    "displayType": "Terraced House",
+    "nanoId": "4tmz3c",
+    "objectId": "20941",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "128 Sophia Road  228184, Orchard / Holland (D09-10)",
+    "displayText": "Sophia Villa",
+    "displayType": "Apartment",
+    "nanoId": "5tfjgz",
+    "objectId": "21048",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6C -6D Tanjong Rhu Road  436885, East Coast (D15-16)",
+    "displayText": "La Ville",
+    "displayType": "Condominium",
+    "nanoId": "r1pwr0",
+    "objectId": "2121",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Oxley Road  238000, Orchard / Holland (D09-10)",
+    "displayText": "Villa Madeleine",
+    "displayType": "Town House",
+    "nanoId": "d1f4f9",
+    "objectId": "21607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "TOWN",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "281 Telok Kurau Road  423847, East Coast (D15-16)",
+    "displayText": "Merlot Ville",
+    "displayType": "Apartment",
+    "nanoId": "as4zl1",
+    "objectId": "2200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "56 Minbu Road  308185, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Minbu Villa",
+    "displayType": "Apartment",
+    "nanoId": "10j211",
+    "objectId": "2204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "63A Bournemouth Road  436603, East Coast (D15-16)",
+    "displayText": "Sayang Villa",
+    "displayType": "Detached House",
+    "nanoId": "xwkpve",
+    "objectId": "2393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "DETAC",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "338 Upper East Coast Road  466458, East Coast (D15-16)",
+    "displayText": "Teck Guan Ville",
+    "displayType": "Condominium",
+    "nanoId": "d5ugnx",
+    "objectId": "2471",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "418  Upper Paya Lebar Road  534996, Serangoon / Thomson (D19-20)",
+    "displayText": "Charles Ville",
+    "displayType": "Apartment",
+    "nanoId": "n5d407",
+    "objectId": "25173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8A Keng Chin Road  258710, Orchard / Holland (D09-10)",
+    "displayText": "Villa Margaux",
+    "displayType": "Apartment",
+    "nanoId": "6rtirk",
+    "objectId": "2518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "275 Thomson Road  307645, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Novena Ville",
+    "displayType": "Apartment",
+    "nanoId": "9kqiie",
+    "objectId": "25180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 St. Michael's Road  327977, Balestier / Geylang (D12-14)",
+    "displayText": "St. Michael's Villa",
+    "displayType": "Apartment",
+    "nanoId": "ttj4mt",
+    "objectId": "25223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 Saint Patrick's Road  424164, East Coast (D15-16)",
+    "displayText": "St Patrick's Villa",
+    "displayType": "Apartment",
+    "nanoId": "feb381",
+    "objectId": "674",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Chancery Hill Road  309657, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Villa Chancerita",
+    "displayType": "Condominium",
+    "nanoId": "e96geo",
+    "objectId": "788",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Rosyth Road  546134, Serangoon / Thomson (D19-20)",
+    "displayText": "Rosyth Ville",
+    "displayType": "Apartment",
+    "nanoId": "jw27ds",
+    "objectId": "879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Labrador Villa Road",
+    "displayType": "Street",
+    "objectId": "1886",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Tamarind Road  806000, North (D25-28)",
+    "displayText": "Washingtonia Villa",
+    "displayType": "Semi-Detached House",
+    "nanoId": "mhdzu4",
+    "objectId": "2552",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "31 Oei Tiong Ham Park  267036, Orchard / Holland (D09-10)",
+    "displayText": "Villaea Vista",
+    "displayType": "Walk-up",
+    "nanoId": "du5074",
+    "objectId": "21091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "WALK",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "959 Upper Changi Road North  506787, Changi / Pasir Ris (D17-18)",
+    "displayText": "Parc Komo",
+    "displayType": "Condominium",
+    "nanoId": "y8b7j9",
+    "objectId": "23712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        "",
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 - 72 Elias Road  510623, Changi / Pasir Ris (D17-18)",
+    "displayText": "Oasis @ Elias",
+    "displayType": "Condominium",
+    "nanoId": "9y69yu",
+    "objectId": "2253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Elias Road  519929, Changi / Pasir Ris (D17-18)",
+    "displayText": "Ris Grandeur",
+    "displayType": "Condominium",
+    "nanoId": "5uy0sn",
+    "objectId": "97",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Flora Road  506999, Changi / Pasir Ris (D17-18)",
+    "displayText": "Edelweiss Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "1k54qu",
+    "objectId": "140",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "64 Flora Road  506911, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Gale",
+    "displayType": "Condominium",
+    "nanoId": "6b4q7c",
+    "objectId": "1526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Elias Road  519945, Changi / Pasir Ris (D17-18)",
+    "displayText": "Stratum",
+    "displayType": "Condominium",
+    "nanoId": "npiwrq",
+    "objectId": "21593",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "698 Upper Changi Road East  486828, East Coast (D15-16)",
+    "displayText": "Changi Court",
+    "displayType": "Condominium",
+    "nanoId": "kgwxqa",
+    "objectId": "523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "781 Upper Changi Road East  486069, East Coast (D15-16)",
+    "displayText": "Sunhaven",
+    "displayType": "Condominium",
+    "nanoId": "lvj82e",
+    "objectId": "441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "712 Upper Changi Road East  486842, East Coast (D15-16)",
+    "displayText": "Changi Green",
+    "displayType": "Condominium",
+    "nanoId": "55o7v6",
+    "objectId": "655",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 - 27 Flora Road  509738, Changi / Pasir Ris (D17-18)",
+    "displayText": "Estella Gardens",
+    "displayType": "Condominium",
+    "nanoId": "aaa0jh",
+    "objectId": "416",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Flora Road  509725, Changi / Pasir Ris (D17-18)",
+    "displayText": "Azalea Park Condo",
+    "displayType": "Condominium",
+    "nanoId": "cxsdu3",
+    "objectId": "539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Flora Road  509732, Changi / Pasir Ris (D17-18)",
+    "displayText": "Avila Gardens",
+    "displayType": "Condominium",
+    "nanoId": "gpwz7t",
+    "objectId": "9",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Changi Road East  486000, East Coast (D15-16)",
+    "displayText": "Summer Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "d3dxi0",
+    "objectId": "729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "730 Upper Changi Road East  486858, East Coast (D15-16)",
+    "displayText": "Cascadale",
+    "displayType": "Condominium",
+    "nanoId": "1d1hxp",
+    "objectId": "719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "226 Changi Road  419740, Balestier / Geylang (D12-14)",
+    "displayText": "Suites@Changi",
+    "displayType": "Apartment",
+    "nanoId": "azub9f",
+    "objectId": "21058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Lorong 101 Changi Road  426657, East Coast (D15-16)",
+    "displayText": "Olloi",
+    "displayType": "Condominium",
+    "nanoId": "r9ecdt",
+    "objectId": "23711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "326 Changi Road  419801, Balestier / Geylang (D12-14)",
+    "displayText": "Tedge",
+    "displayType": "Condominium",
+    "nanoId": "v9o2h6",
+    "objectId": "23889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "396 Changi Road  415899, Balestier / Geylang (D12-14)",
+    "displayText": "The Lenox",
+    "displayType": "Apartment",
+    "nanoId": "xdzj3d",
+    "objectId": "2611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "581A Upper Changi Road  486993, East Coast (D15-16)",
+    "displayText": "Apollo Gardens",
+    "displayType": "Apartment",
+    "nanoId": "mwbwiq",
+    "objectId": "44",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

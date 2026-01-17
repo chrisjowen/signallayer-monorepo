@@ -1,0 +1,1433 @@
+[
+  {
+    "displayText": "Shunfu Road",
+    "displayType": "Street",
+    "objectId": "2978",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "314 Shunfu Road  570314, Serangoon / Thomson (D19-20)",
+    "displayText": "JadeScape",
+    "displayType": "Condominium",
+    "nanoId": "9dt6ad",
+    "objectId": "23491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "301 Shunfu Road  570301, Serangoon / Thomson (D19-20)",
+    "displayText": "301 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "qnngv1",
+    "objectId": "10253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302 Shunfu Road  570302, Serangoon / Thomson (D19-20)",
+    "displayText": "302 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "raj1ch",
+    "objectId": "10254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303 Shunfu Road  570303, Serangoon / Thomson (D19-20)",
+    "displayText": "303 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "kk4mkm",
+    "objectId": "10255",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304 Shunfu Road  570304, Serangoon / Thomson (D19-20)",
+    "displayText": "304 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "egdox4",
+    "objectId": "10256",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305 Shunfu Road  570305, Serangoon / Thomson (D19-20)",
+    "displayText": "305 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "b3mhgy",
+    "objectId": "10257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306 Shunfu Road  570306, Serangoon / Thomson (D19-20)",
+    "displayText": "306 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "5pboky",
+    "objectId": "10258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307 Shunfu Road  570307, Serangoon / Thomson (D19-20)",
+    "displayText": "307 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "u3q8a9",
+    "objectId": "10259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308 Shunfu Road  570308, Serangoon / Thomson (D19-20)",
+    "displayText": "308 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "w3jjab",
+    "objectId": "10260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "309 Shunfu Road  570309, Serangoon / Thomson (D19-20)",
+    "displayText": "309 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "d007mj",
+    "objectId": "10261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310 Shunfu Road  570310, Serangoon / Thomson (D19-20)",
+    "displayText": "310 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "0thr01",
+    "objectId": "10262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311 Shunfu Road  570311, Serangoon / Thomson (D19-20)",
+    "displayText": "311 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "y511n9",
+    "objectId": "10263",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312 Shunfu Road  570312, Serangoon / Thomson (D19-20)",
+    "displayText": "312 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "62iplo",
+    "objectId": "10264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313 Shunfu Road  570313, Serangoon / Thomson (D19-20)",
+    "displayText": "313 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "dfxgih",
+    "objectId": "10265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Shunfu Road  570314, Serangoon / Thomson (D19-20)",
+    "displayText": "314 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "x4unh6",
+    "objectId": "10266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "316 Shunfu Road  570316, Serangoon / Thomson (D19-20)",
+    "displayText": "316 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "h9iz6a",
+    "objectId": "10268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "317 Shunfu Road  570317, Serangoon / Thomson (D19-20)",
+    "displayText": "317 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "2grscv",
+    "objectId": "10269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "318 Shunfu Road  570318, Serangoon / Thomson (D19-20)",
+    "displayText": "318 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "e1c8mp",
+    "objectId": "10270",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319 Shunfu Road  570319, Serangoon / Thomson (D19-20)",
+    "displayText": "319 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "zu9fxa",
+    "objectId": "10271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Shunfu Road  570314, Serangoon / Thomson (D19-20)",
+    "displayText": "Shunfu Ville",
+    "displayType": "Executive Condominium",
+    "nanoId": "wsmjls",
+    "objectId": "20542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "315 Shunfu Road  570315, Serangoon / Thomson (D19-20)",
+    "displayText": "315 Shunfu Road",
+    "displayType": "HDB",
+    "nanoId": "rq2csp",
+    "objectId": "10267",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "3"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "81 Amber Road  439893, East Coast (D15-16)",
+    "displayText": "The Shore Residences",
+    "displayType": "Condominium",
+    "nanoId": "b1azxc",
+    "objectId": "2511",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1C Shelford Road  286888, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Shelford",
+    "displayType": "Condominium",
+    "nanoId": "vhjt1p",
+    "objectId": "312",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Shelford Road  288408, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Nineteen Shelford",
+    "displayType": "Condominium",
+    "nanoId": "3yzfgu",
+    "objectId": "407",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Shelford Road  288431, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Watten House",
+    "displayType": "Condominium",
+    "nanoId": "utldl9",
+    "objectId": "25549",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Shanghai Road  248201, Orchard / Holland (D09-10)",
+    "displayText": "The Mercury",
+    "displayType": "Condominium",
+    "nanoId": "k202dr",
+    "objectId": "1535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Shan Road  328107, Balestier / Geylang (D12-14)",
+    "displayText": "Pinnacle 16",
+    "displayType": "Condominium",
+    "nanoId": "y9gypm",
+    "objectId": "785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16B Shelford Road  286653, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Suites",
+    "displayType": "Apartment",
+    "nanoId": "extmdi",
+    "objectId": "1318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Shelford Road  288353, Newton / Bt. Timah (D11, 21)",
+    "displayText": "10 Shelford",
+    "displayType": "Apartment",
+    "nanoId": "xjg3wg",
+    "objectId": "20822",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Shanghai Road  248209, Orchard / Holland (D09-10)",
+    "displayText": "RV Edge",
+    "displayType": "Condominium",
+    "nanoId": "nwkqfe",
+    "objectId": "2625",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "65 Shelford Road  288455, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Regency",
+    "displayType": "Condominium",
+    "nanoId": "n0nrw3",
+    "objectId": "930",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Shan Road  328108, Balestier / Geylang (D12-14)",
+    "displayText": "The Marque at Irrawaddy",
+    "displayType": "Apartment",
+    "nanoId": "ys041d",
+    "objectId": "984",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Shelford Road  288352, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Green",
+    "displayType": "Condominium",
+    "nanoId": "q764im",
+    "objectId": "1116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Shelford Road  288422, Newton / Bt. Timah (D11, 21)",
+    "displayText": "28 Shelford",
+    "displayType": "Condominium",
+    "nanoId": "q27ttp",
+    "objectId": "1645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Shelford Road  288415, Newton / Bt. Timah (D11, 21)",
+    "displayText": "D' Chateau @ Shelford",
+    "displayType": "Condominium",
+    "nanoId": "0p73xu",
+    "objectId": "1855",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Shrewsbury Road  307818, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Ikigai",
+    "displayType": "Condominium",
+    "nanoId": "vv80hs",
+    "objectId": "25278",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Holt Road  249446, Orchard / Holland (D09-10)",
+    "displayText": "Sheares Ville",
+    "displayType": "Condominium",
+    "nanoId": "beeipw",
+    "objectId": "317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Shanghai Road  248196, Orchard / Holland (D09-10)",
+    "displayText": "Studio 3",
+    "displayType": "Apartment",
+    "nanoId": "vdlp7h",
+    "objectId": "386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Shanghai Road  248180, Orchard / Holland (D09-10)",
+    "displayText": "Shanghai One",
+    "displayType": "Apartment",
+    "nanoId": "u4e40q",
+    "objectId": "528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Shelford Road  288407, Newton / Bt. Timah (D11, 21)",
+    "displayText": "18 Shelford",
+    "displayType": "Condominium",
+    "nanoId": "igiij4",
+    "objectId": "583",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Shelford Road",
+    "displayType": "Street",
+    "objectId": "2972",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "10 Shanghai Road  248184, Orchard / Holland (D09-10)",
+    "displayText": "Charleston",
+    "displayType": "Apartment",
+    "nanoId": "g3v2ra",
+    "objectId": "1196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "177 Yung Sheng Road  610177, West (D22-24)",
+    "displayText": "177 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "cgup9k",
+    "objectId": "13003",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "178 Yung Sheng Road  610178, West (D22-24)",
+    "displayText": "178 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "c3n4it",
+    "objectId": "13004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "179 Yung Sheng Road  610179, West (D22-24)",
+    "displayText": "179 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "mp5ztu",
+    "objectId": "13005",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "180 Yung Sheng Road  610180, West (D22-24)",
+    "displayText": "180 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "g93ips",
+    "objectId": "13006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "181 Yung Sheng Road  610181, West (D22-24)",
+    "displayText": "181 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "enmq5h",
+    "objectId": "13007",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182 Yung Sheng Road  610182, West (D22-24)",
+    "displayText": "182 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "24udpp",
+    "objectId": "13008",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "183 Yung Sheng Road  610183, West (D22-24)",
+    "displayText": "183 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "mmue3w",
+    "objectId": "13009",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "184 Yung Sheng Road  610184, West (D22-24)",
+    "displayText": "184 Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "5szhhg",
+    "objectId": "13010",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "182A Yung Sheng Road  611182, West (D22-24)",
+    "displayText": "182A Yung Sheng Road",
+    "displayType": "HDB",
+    "nanoId": "yc9zzv",
+    "objectId": "13011",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "14"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Shan Road  328106, Balestier / Geylang (D12-14)",
+    "displayText": "Le Shantier",
+    "displayType": "Condominium",
+    "nanoId": "z3ffza",
+    "objectId": "1457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23A Shelford Road  286655, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford 23",
+    "displayType": "Apartment",
+    "nanoId": "idhhyv",
+    "objectId": "1493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Koon Seng Road  427026, East Coast (D15-16)",
+    "displayText": "Yong Shuey Lodge",
+    "displayType": "Apartment",
+    "nanoId": "vli0cl",
+    "objectId": "1604",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Shrewsbury Road  307842, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Suites @ Shrewsbury",
+    "displayType": "Condominium",
+    "nanoId": "xx1w4m",
+    "objectId": "20607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Shan Road  328103, Balestier / Geylang (D12-14)",
+    "displayText": "Shan Gate Apartments",
+    "displayType": "Apartment",
+    "nanoId": "b2qeu7",
+    "objectId": "21034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1C Shelford Road  286888, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Condominium",
+    "displayType": "Condominium",
+    "nanoId": "5tt31y",
+    "objectId": "21035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Shrewsbury Road  307811, Newton / Bt. Timah (D11, 21)",
+    "displayText": "La Nouvelle",
+    "displayType": "Condominium",
+    "nanoId": "h8v69k",
+    "objectId": "2116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Inggu Road  757000, North (D25-28)",
+    "displayText": "The Shoreline Residences I",
+    "displayType": "Terraced House",
+    "nanoId": "4qf3jy",
+    "objectId": "21239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "248 Pasir Panjang Road  118608, City & South West (D01-08)",
+    "displayText": "West Shore Residences",
+    "displayType": "Cluster House",
+    "nanoId": "21jslh",
+    "objectId": "21435",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Shelford Road  288423, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Point Loma",
+    "displayType": "Apartment",
+    "nanoId": "70t0lz",
+    "objectId": "21761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Shan Road  328105, Balestier / Geylang (D12-14)",
+    "displayText": "12 On Shan",
+    "displayType": "Condominium",
+    "nanoId": "2jo12p",
+    "objectId": "22149",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 - 14 Shan Road  328105, Balestier / Geylang (D12-14)",
+    "displayText": "Shan Court",
+    "displayType": "Condominium",
+    "nanoId": "eihpen",
+    "objectId": "2358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17E Shelford Road  288388, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Garden",
+    "displayType": "Condominium",
+    "nanoId": "e6f9o1",
+    "objectId": "2377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Carpmael Road  429777, East Coast (D15-16)",
+    "displayText": "Sheba Lodge",
+    "displayType": "Apartment",
+    "nanoId": "brluea",
+    "objectId": "2413",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Shelford Road  288421, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Mansions",
+    "displayType": "Apartment",
+    "nanoId": "11qycj",
+    "objectId": "2414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Shelford Road  288415, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Residences",
+    "displayType": "Apartment",
+    "nanoId": "o466iq",
+    "objectId": "2415",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Shelford Road  288420, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford View",
+    "displayType": "Condominium",
+    "nanoId": "f21eon",
+    "objectId": "2416",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Shelford Road  288000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "sd31ur",
+    "objectId": "2417",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "296 Upper Paya Lebar Road  534930, Serangoon / Thomson (D19-20)",
+    "displayText": "Tai Keng Shopping Centre",
+    "displayType": "Apartment",
+    "nanoId": "w5rojm",
+    "objectId": "2456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "115 Shrewsbury Road  307856, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Treasure Loft",
+    "displayType": "Condominium",
+    "nanoId": "4uicq0",
+    "objectId": "2460",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Anderson Road  259983, Orchard / Holland (D09-10)",
+    "displayText": "Shangri-La Apartments",
+    "displayType": "Apartment",
+    "nanoId": "9cahtg",
+    "objectId": "24727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1A Lady Hill Road  258685, Orchard / Holland (D09-10)",
+    "displayText": "Shangri-La Residences",
+    "displayType": "Condominium",
+    "nanoId": "viz1dp",
+    "objectId": "24745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 East Coast Road  428722, East Coast (D15-16)",
+    "displayText": "Odeon Katong Shopping Complex",
+    "displayType": "Apartment",
+    "nanoId": "632mnw",
+    "objectId": "25023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Shelford Road  288407, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Shelford Vale",
+    "displayType": "Apartment",
+    "nanoId": "0fmnhc",
+    "objectId": "25172",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Shan Road  328105, Balestier / Geylang (D12-14)",
+    "displayText": "Ariva on Shan",
+    "displayType": "Apartment",
+    "nanoId": "3c8p3f",
+    "objectId": "25196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "13 13 Mar Thoma Road  328693, Balestier / Geylang (D12-14)",
+    "displayText": "Kai Sheng Court",
+    "displayType": "Apartment",
+    "nanoId": "66r234",
+    "objectId": "25204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "587 Bukit Timah Road  269707, Orchard / Holland (D09-10)",
+    "displayText": "Coronation Shopping Plaza",
+    "displayType": "Apartment",
+    "nanoId": "e1d52a",
+    "objectId": "25398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Shanghai Road  248191, Orchard / Holland (D09-10)",
+    "displayText": "Regency Lodge",
+    "displayType": "Apartment",
+    "nanoId": "kxnv6i",
+    "objectId": "680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Shanghai Road  248185, Orchard / Holland (D09-10)",
+    "displayText": "Queensberry Lodge",
+    "displayType": "Apartment",
+    "nanoId": "ibmlnw",
+    "objectId": "703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Shelford Road  288411, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Kellett Court",
+    "displayType": "Condominium",
+    "nanoId": "3d3ou0",
+    "objectId": "902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Shangai Road",
+    "displayType": "Street",
+    "objectId": "11212",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yuan Sheng Road",
+    "displayType": "Street",
+    "objectId": "13459",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Shan Road",
+    "displayType": "Street",
+    "objectId": "2967",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Shanghai Road",
+    "displayType": "Street",
+    "objectId": "2968",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Shaw Road",
+    "displayType": "Street",
+    "objectId": "2971",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Shrewsbury Road",
+    "displayType": "Street",
+    "objectId": "2977",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "1 Shanghai Road",
+    "displayType": "Street",
+    "objectId": "24810",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Shipyard Road",
+    "displayType": "Street",
+    "objectId": "2975",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "5 Shenton Way  068808, City & South West (D01-08)",
+    "displayText": "V on Shenton",
+    "displayType": "Condominium",
+    "nanoId": "qkbsao",
+    "objectId": "21235",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Shenton Way  068803, City & South West (D01-08)",
+    "displayText": "One Shenton",
+    "displayType": "Condominium",
+    "nanoId": "1anch6",
+    "objectId": "135",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4   Tai Thong Crescent  347838, Balestier / Geylang (D12-14)",
+    "displayText": "The Venue Residences and Shoppes",
+    "displayType": "Apartment",
+    "nanoId": "3zke4r",
+    "objectId": "21762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "76 Shenton Way  079119, City & South West (D01-08)",
+    "displayText": "76 Shenton",
+    "displayType": "Apartment",
+    "nanoId": "ekn6i7",
+    "objectId": "2631",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Anak Bukit  588996, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Sherwood Towers",
+    "displayType": "Apartment",
+    "nanoId": "ydympx",
+    "objectId": "266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Miltonia Close  768187, North (D25-28)",
+    "displayText": "The Shaughnessy",
+    "displayType": "Terraced House",
+    "nanoId": "fx405g",
+    "objectId": "74",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "70 Shenton Way  079118, City & South West (D01-08)",
+    "displayText": "Eon Shenton",
+    "displayType": "Condominium",
+    "nanoId": "sr4mpw",
+    "objectId": "21146",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "169 Jalan Jurong Kechil  598669, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Sherwood Condo",
+    "displayType": "Condominium",
+    "nanoId": "804gyk",
+    "objectId": "764",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Lorong Melayu  417026, Balestier / Geylang (D12-14)",
+    "displayText": "East Shine",
+    "displayType": "Apartment",
+    "nanoId": "o4x6jo",
+    "objectId": "1428",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Shamah Terrace  597000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Gao Min Hua Yuan",
+    "displayType": "Terraced House",
+    "nanoId": "x5f3un",
+    "objectId": "20907",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+# fly.toml configuration for SignalLayer Workflows
+
+app = "signallayer-workflows"
+primary_region = "sin"
+
+[processes]
+  web = "uvicorn src.web.main:app --host 0.0.0.0 --port 8080"
+  worker = "python -m src.worker.main"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "suspend"
+  auto_start_machines = true
+  min_machines_running = 1
+  processes = ["web"]
+
+[[http_service.checks]]
+  grace_period = "10s"
+  interval = "30s"
+  method = "GET"
+  path = "/health"
+  protocol = "http"
+  timeout = "5s"
+
+[env]
+  WEB_PORT = "8080"
+  WEB_TEMPORAL_LOCAL = "false"
+  WORKER_TEMPORAL_LOCAL = "false"
+  WORKER_TASK_QUEUE = "signallayer-queue"
+  WEB_TEMPORAL_NAMESPACE = "default"
+  WORKER_TEMPORAL_NAMESPACE = "default"
+
+# Scaling instructions (run after deployment):
+# fly scale count web=2 worker=4 --process-groups

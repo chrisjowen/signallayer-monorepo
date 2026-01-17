@@ -1,0 +1,1322 @@
+[
+  {
+    "displayText": "Aljunied Road",
+    "displayType": "Street",
+    "objectId": "31",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "125 Aljunied Road  380125, Balestier / Geylang (D12-14)",
+    "displayText": "125 Aljunied Road",
+    "displayType": "HDB",
+    "nanoId": "cvylhu",
+    "objectId": "2760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Aljunied Road  380126, Balestier / Geylang (D12-14)",
+    "displayText": "126 Aljunied Road",
+    "displayType": "HDB",
+    "nanoId": "6gnllz",
+    "objectId": "2761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Upper Aljunied Road",
+    "displayType": "Street",
+    "objectId": "3514",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "233A Upper Aljunied Road  361233, Balestier / Geylang (D12-14)",
+    "displayText": "233A Upper Aljunied",
+    "displayType": "HDB",
+    "nanoId": "dv0ym8",
+    "objectId": "26034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Ajunied Road",
+    "displayType": "Street",
+    "objectId": "4844",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Rd",
+    "displayType": "Street",
+    "objectId": "10183",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aijunied Road",
+    "displayType": "Street",
+    "objectId": "8544",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljuned Road",
+    "displayType": "Street",
+    "objectId": "8556",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Upper Aljunied Lane  360007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "nmzrcs",
+    "objectId": "23132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Aljunied Rd  389799, Balestier / Geylang (D12-14)",
+    "displayText": "Avant Residences",
+    "displayType": "Apartment",
+    "nanoId": "cr22sn",
+    "objectId": "23399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Upper Aljunied Lane  360001, Balestier / Geylang (D12-14)",
+    "displayText": "1 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "6yd5lq",
+    "objectId": "11645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Upper Aljunied Lane  360002, Balestier / Geylang (D12-14)",
+    "displayText": "2 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "cjz2wu",
+    "objectId": "11646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Upper Aljunied Lane  360003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "yfmm20",
+    "objectId": "11647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Upper Aljunied Lane  360004, Balestier / Geylang (D12-14)",
+    "displayText": "4 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "eumtd8",
+    "objectId": "11648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Upper Aljunied Lane  360005, Balestier / Geylang (D12-14)",
+    "displayText": "5 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "zry47z",
+    "objectId": "11649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "349385, Balestier / Geylang (D12-14)",
+    "displayText": "2A Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "vg8d4r",
+    "objectId": "11650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Aljunied Avenue 2  380113, Balestier / Geylang (D12-14)",
+    "displayText": "113 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "5dnjtm",
+    "objectId": "2734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Aljunied Avenue 2  380115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "4j6tnm",
+    "objectId": "2736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Aljunied Avenue 2  380117, Balestier / Geylang (D12-14)",
+    "displayText": "117 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "jy2xao",
+    "objectId": "2738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Aljunied Avenue 2  380118, Balestier / Geylang (D12-14)",
+    "displayText": "118 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0am36c",
+    "objectId": "2739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Aljunied Avenue 2  380119, Balestier / Geylang (D12-14)",
+    "displayText": "119 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "79hg28",
+    "objectId": "2740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95 Aljunied Crescent  380095, Balestier / Geylang (D12-14)",
+    "displayText": "95 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "r4rnkd",
+    "objectId": "2741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96 Aljunied Crescent  380096, Balestier / Geylang (D12-14)",
+    "displayText": "96 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "muy7t8",
+    "objectId": "2742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "97 Aljunied Crescent  380097, Balestier / Geylang (D12-14)",
+    "displayText": "97 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "na5kqx",
+    "objectId": "2743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98 Aljunied Crescent  380098, Balestier / Geylang (D12-14)",
+    "displayText": "98 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "xiwd4w",
+    "objectId": "2744",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "99 Aljunied Crescent  380099, Balestier / Geylang (D12-14)",
+    "displayText": "99 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "qhuhvv",
+    "objectId": "2745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "100 Aljunied Crescent  380100, Balestier / Geylang (D12-14)",
+    "displayText": "100 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "a13vtc",
+    "objectId": "2746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Aljunied Crescent  380101, Balestier / Geylang (D12-14)",
+    "displayText": "101 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "wn3n54",
+    "objectId": "2747",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Aljunied Crescent  380102, Balestier / Geylang (D12-14)",
+    "displayText": "102 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ilr1f8",
+    "objectId": "2748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Aljunied Crescent  380103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "r4sbgg",
+    "objectId": "2749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Aljunied Crescent  380104, Balestier / Geylang (D12-14)",
+    "displayText": "104 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "7owjdi",
+    "objectId": "2750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Aljunied Crescent  380105, Balestier / Geylang (D12-14)",
+    "displayText": "105 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "nim9am",
+    "objectId": "2751",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Aljunied Crescent  380106, Balestier / Geylang (D12-14)",
+    "displayText": "106 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "z08ehj",
+    "objectId": "2752",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Aljunied Crescent  380107, Balestier / Geylang (D12-14)",
+    "displayText": "107 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ei7zvr",
+    "objectId": "2753",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Aljunied Crescent  380108, Balestier / Geylang (D12-14)",
+    "displayText": "108 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "dygwa6",
+    "objectId": "2754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Aljunied Crescent  380109, Balestier / Geylang (D12-14)",
+    "displayText": "109 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "kswlfo",
+    "objectId": "2755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Aljunied Crescent  380110, Balestier / Geylang (D12-14)",
+    "displayText": "110 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "12mzp3",
+    "objectId": "2756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Aljunied Crescent  380111, Balestier / Geylang (D12-14)",
+    "displayText": "111 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "oupaut",
+    "objectId": "2757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Aljunied Crescent  380112, Balestier / Geylang (D12-14)",
+    "displayText": "112 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "majtsr",
+    "objectId": "2758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98A Aljunied Crescent  381098, Balestier / Geylang (D12-14)",
+    "displayText": "98A Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ayqfa7",
+    "objectId": "2759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Aljunied Cresent",
+    "displayType": "Street",
+    "objectId": "10603",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 2",
+    "displayType": "Street",
+    "objectId": "26",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Industrial Estate",
+    "displayType": "Street",
+    "objectId": "30",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Lane",
+    "displayType": "Street",
+    "objectId": "3512",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Link",
+    "displayType": "Street",
+    "objectId": "3513",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Crescent",
+    "displayType": "Street",
+    "objectId": "3853",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Link",
+    "displayType": "Street",
+    "objectId": "6748",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied",
+    "displayType": "Street",
+    "objectId": "7498",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "114 Aljunied Avenue 2  380114, Balestier / Geylang (D12-14)",
+    "displayText": "114 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zlme08",
+    "objectId": "2735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Aljunied Avenue 2  380116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "2u0wx1",
+    "objectId": "2737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Aljunied Avenue 1",
+    "displayType": "Street",
+    "objectId": "25",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 3",
+    "displayType": "Street",
+    "objectId": "27",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 4",
+    "displayType": "Street",
+    "objectId": "28",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 5",
+    "displayType": "Street",
+    "objectId": "29",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Rd",
+    "displayType": "Street",
+    "objectId": "8398",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "370 Alexandra Road  159953, City & South West (D01-08)",
+    "displayText": "The Anchorage",
+    "displayType": "Condominium",
+    "nanoId": "7qskjl",
+    "objectId": "195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "356 Alexandra Road  159949, City & South West (D01-08)",
+    "displayText": "Alexis",
+    "displayType": "Condominium",
+    "nanoId": "nt9bb6",
+    "objectId": "1403",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "344 River Valley Road  238385, Orchard / Holland (D09-10)",
+    "displayText": "RV Altitude",
+    "displayType": "Condominium",
+    "nanoId": "he4a8u",
+    "objectId": "23567",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "361 Holland Road  278637, Orchard / Holland (D09-10)",
+    "displayText": "Allsworth Park",
+    "displayType": "Condominium",
+    "nanoId": "z13f46",
+    "objectId": "3",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Alexandra Road  159967, City & South West (D01-08)",
+    "displayText": "Alessandrea",
+    "displayType": "Apartment",
+    "nanoId": "bhv9br",
+    "objectId": "30",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "98 Koon Seng Road  427037, East Coast (D15-16)",
+    "displayText": "Alpha Apartments",
+    "displayType": "Condominium",
+    "nanoId": "wsjo8j",
+    "objectId": "1491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Sommerville Road  358262, Balestier / Geylang (D12-14)",
+    "displayText": "D' Almira",
+    "displayType": "Condominium",
+    "nanoId": "kyloae",
+    "objectId": "1513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "323C thomson road  307669, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Alegria Boutique Apartments",
+    "displayType": "Condominium",
+    "nanoId": "888xos",
+    "objectId": "1654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "474 Upper East Coast Road  466515, East Coast (D15-16)",
+    "displayText": "Aldea Blanca",
+    "displayType": "Condominium",
+    "nanoId": "3txted",
+    "objectId": "25187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "King Albert Park Road",
+    "displayType": "Street",
+    "objectId": "10614",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Alexandra Road",
+    "displayType": "Street",
+    "objectId": "21",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Syed Alwi Road",
+    "displayType": "Street",
+    "objectId": "3189",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Allenby Road",
+    "displayType": "Street",
+    "objectId": "35",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Alnwick Road",
+    "displayType": "Street",
+    "objectId": "39",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Alexandr Road",
+    "displayType": "Street",
+    "objectId": "5149",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Alexander Road",
+    "displayType": "Street",
+    "objectId": "9060",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D3",
+    "displayText": "D03 Alexandra / Commonwealth",
+    "displayType": "District",
+    "objectId": "D03",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D03"
+    }
+  },
+  {
+    "displayDescription": "6 Alexandra View  158746, City & South West (D01-08)",
+    "displayText": "The Metropolitan Condominium",
+    "displayType": "Condominium",
+    "nanoId": "3lnrik",
+    "objectId": "89",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Alexandra View  158748, City & South West (D01-08)",
+    "displayText": "Ascentia Sky",
+    "displayType": "Apartment",
+    "nanoId": "2tr663",
+    "objectId": "1529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Alexandra View  158741, City & South West (D01-08)",
+    "displayText": "Echelon",
+    "displayType": "Condominium",
+    "nanoId": "2kf1ry",
+    "objectId": "21386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Tampines Avenue 10  519999, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Alps Residences",
+    "displayType": "Condominium",
+    "nanoId": "mf4dmg",
+    "objectId": "22742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Alexandra View  158736, City & South West (D01-08)",
+    "displayText": "Artra",
+    "displayType": "Condominium",
+    "nanoId": "s96oe7",
+    "objectId": "22927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Alexandra View  158744, City & South West (D01-08)",
+    "displayText": "Alex Residences",
+    "displayType": "Apartment",
+    "nanoId": "xx8h28",
+    "objectId": "21791",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Enggor Street  079717, City & South West (D01-08)",
+    "displayText": "Altez",
+    "displayType": "Condominium",
+    "nanoId": "e4q4u4",
+    "objectId": "2651",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D02",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 King Albert Park  598292, Newton / Bt. Timah (D11, 21)",
+    "displayText": "KAP Residences",
+    "displayType": "Condominium",
+    "nanoId": "czr5vu",
+    "objectId": "21589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 King Albert Park  598326, Newton / Bt. Timah (D11, 21)",
+    "displayText": "1 King Albert Park",
+    "displayType": "Condominium",
+    "nanoId": "8e6u92",
+    "objectId": "12",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Lorong 27 Geylang Singapore  388199, Balestier / Geylang (D12-14)",
+    "displayText": "The Alcove",
+    "displayType": "Condominium",
+    "nanoId": "a5d0jm",
+    "objectId": "467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sunrise Terrace  804000, North (D25-28)",
+    "displayText": "Alana",
+    "displayType": "Terraced House",
+    "nanoId": "qwlnb7",
+    "objectId": "21801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "35 Jalan Haji Alias  268535, Orchard / Holland (D09-10)",
+    "displayText": "Corona Ville",
+    "displayType": "Condominium",
+    "nanoId": "c5k4ml",
+    "objectId": "1456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Cairnhill Rise  229743, Orchard / Holland (D09-10)",
+    "displayText": "Alba",
+    "displayType": "Condominium",
+    "nanoId": "r25zc8",
+    "objectId": "2307",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "75 Jalan Loyang Besar  506930, Changi / Pasir Ris (D17-18)",
+    "displayText": "Casa Al Mare",
+    "displayType": "Apartment",
+    "nanoId": "kwkodx",
+    "objectId": "23482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D17",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "111 Bukit Batok West Ave. 8  659857, West (D22-24)",
+    "displayText": "Altura",
+    "displayType": "Executive Condominium",
+    "nanoId": "52darf",
+    "objectId": "25499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 - 18A Jalan Haji Alias  268507, Orchard / Holland (D09-10)",
+    "displayText": "Corona Court",
+    "displayType": "Condominium",
+    "nanoId": "bx3ot7",
+    "objectId": "1839",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Allamanda Grove  269000, Orchard / Holland (D09-10)",
+    "displayText": "Allamanda Grove",
+    "displayType": "Terraced House",
+    "nanoId": "34gu6h",
+    "objectId": "20830",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Almond Avenue  677000, West (D22-24)",
+    "displayText": "Michaels' Residences",
+    "displayType": "Semi-Detached House",
+    "nanoId": "yvh0u9",
+    "objectId": "21436",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "00 JALAN HAJI ALIAS  269999, Orchard / Holland (D09-10)",
+    "displayText": "Alias Villas",
+    "displayType": "Cluster House",
+    "nanoId": "rqmrmp",
+    "objectId": "22068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "115 Alkaff Crescent  340115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "0sl2io",
+    "objectId": "24612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115A Alkaff Crescent  341115, Balestier / Geylang (D12-14)",
+    "displayText": "115A Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "pviikf",
+    "objectId": "24613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115B Alkaff Crescent  342115, Balestier / Geylang (D12-14)",
+    "displayText": "115B Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "lxw5ew",
+    "objectId": "24614",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115C Alkaff Crescent  343115, Balestier / Geylang (D12-14)",
+    "displayText": "115C Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "9ozqkd",
+    "objectId": "24615",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Alkaff Crescent  340116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "mclun3",
+    "objectId": "24616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Alkaff Crescent  340118, Balestier / Geylang (D12-14)",
+    "displayText": "118 Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "z2mi83",
+    "objectId": "24617",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118A Alkaff Crescent  341118, Balestier / Geylang (D12-14)",
+    "displayText": "118A Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "hhq1mi",
+    "objectId": "24618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114B Alkaff Crescent  342114, Balestier / Geylang (D12-14)",
+    "displayText": "114B Alkaff Crescent",
+    "displayType": "HDB",
+    "nanoId": "2oh389",
+    "objectId": "25275",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

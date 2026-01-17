@@ -1,0 +1,1484 @@
+[
+  {
+    "displayText": "West Coast Drive",
+    "displayType": "Street",
+    "objectId": "3589",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Westcoast Way",
+    "displayType": "Street",
+    "objectId": "9785",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "81 West Coast Drive  127997, City & South West (D01-08)",
+    "displayText": "Hundred Trees",
+    "displayType": "Condominium",
+    "nanoId": "6n3ilu",
+    "objectId": "1589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "276 Ocean Drive  098449, City & South West (D01-08)",
+    "displayText": "The Coast at Sentosa Cove",
+    "displayType": "Condominium",
+    "nanoId": "6pvzbk",
+    "objectId": "87",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 West Coast Drive  128021, City & South West (D01-08)",
+    "displayText": "NEWest",
+    "displayType": "Apartment",
+    "nanoId": "9k7u4k",
+    "objectId": "21602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "501 West Coast Drive  120501, City & South West (D01-08)",
+    "displayText": "501 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "5xin95",
+    "objectId": "11717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 West Coast Drive  120502, City & South West (D01-08)",
+    "displayText": "502 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "oiwzwq",
+    "objectId": "11718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 West Coast Drive  120503, City & South West (D01-08)",
+    "displayText": "503 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "f7l1el",
+    "objectId": "11719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 West Coast Drive  120504, City & South West (D01-08)",
+    "displayText": "504 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "hxdo2u",
+    "objectId": "11720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 West Coast Drive  120505, City & South West (D01-08)",
+    "displayText": "505 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "2d3xku",
+    "objectId": "11721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 West Coast Drive  120506, City & South West (D01-08)",
+    "displayText": "506 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "3ain7r",
+    "objectId": "11722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 West Coast Drive  120507, City & South West (D01-08)",
+    "displayText": "507 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "urj8kj",
+    "objectId": "11723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 West Coast Drive  120508, City & South West (D01-08)",
+    "displayText": "508 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "v0ppu0",
+    "objectId": "11724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 West Coast Drive  120509, City & South West (D01-08)",
+    "displayText": "509 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "vajz6n",
+    "objectId": "11725",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 West Coast Drive  120510, City & South West (D01-08)",
+    "displayText": "510 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "kk0k71",
+    "objectId": "11726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 West Coast Drive  120511, City & South West (D01-08)",
+    "displayText": "511 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "pxcyij",
+    "objectId": "11727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 West Coast Drive  120512, City & South West (D01-08)",
+    "displayText": "512 West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "b3enur",
+    "objectId": "11728",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502A West Coast Drive  121502, City & South West (D01-08)",
+    "displayText": "502A West Coast Drive",
+    "displayType": "HDB",
+    "nanoId": "p7397o",
+    "objectId": "11729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "West Coast Grove",
+    "displayType": "Street",
+    "objectId": "3591",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "East Coast Drive",
+    "displayType": "Street",
+    "objectId": "757",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "West Coast Rise",
+    "displayType": "Street",
+    "objectId": "3597",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "14 Bedok North Drive  465493, East Coast (D15-16)",
+    "displayText": "Bedok Residences",
+    "displayType": "Condominium",
+    "nanoId": "fbqjc4",
+    "objectId": "21109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Riviera Drive  467202, East Coast (D15-16)",
+    "displayText": "Riviera Residences",
+    "displayType": "Condominium",
+    "nanoId": "ja9444",
+    "objectId": "249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Siglap Drive  456192, East Coast (D15-16)",
+    "displayText": "Bowmont centre",
+    "displayType": "Condominium",
+    "nanoId": "3jaeam",
+    "objectId": "1664",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Keris Drive  456964, East Coast (D15-16)",
+    "displayText": "Cathay Gardens",
+    "displayType": "Condominium",
+    "nanoId": "9uxgtj",
+    "objectId": "1711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Haigsville Drive  438719, East Coast (D15-16)",
+    "displayText": "Haig Ten",
+    "displayType": "Apartment",
+    "nanoId": "2mbrdk",
+    "objectId": "2000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Haigsville Drive  438000, East Coast (D15-16)",
+    "displayText": "Haigsville",
+    "displayType": "Terraced House",
+    "nanoId": "0znoeu",
+    "objectId": "2001",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "3 Haigsville Drive  438702, East Coast (D15-16)",
+    "displayText": "Tropics @ Haigsville",
+    "displayType": "Condominium",
+    "nanoId": "fnycan",
+    "objectId": "20594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Kew Drive  467000, East Coast (D15-16)",
+    "displayText": "Kew Grove",
+    "displayType": "Terraced House",
+    "nanoId": "h73ipt",
+    "objectId": "2088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "3 East Coast Drive  459140, East Coast (D15-16)",
+    "displayText": "Eastrees",
+    "displayType": "Cluster House",
+    "nanoId": "apek6t",
+    "objectId": "21292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "222B Bedok North Drive   462222, East Coast (D15-16)",
+    "displayText": "222B Bedok North Drive",
+    "displayType": "HDB",
+    "nanoId": "5k66am",
+    "objectId": "25372",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222A Bedok North Drive  461222, East Coast (D15-16)",
+    "displayText": "222A Bedok North Drive",
+    "displayType": "HDB",
+    "nanoId": "7975vq",
+    "objectId": "25567",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Chai Chee Drive  460055, East Coast (D15-16)",
+    "displayText": "55 Chai Chee Drive",
+    "displayType": "HDB",
+    "nanoId": "x93qo6",
+    "objectId": "4731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Chai Chee Drive  460056, East Coast (D15-16)",
+    "displayText": "56 Chai Chee Drive",
+    "displayType": "HDB",
+    "nanoId": "xig8vv",
+    "objectId": "4732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "57 Chai Chee Drive  460057, East Coast (D15-16)",
+    "displayText": "57 Chai Chee Drive",
+    "displayType": "HDB",
+    "nanoId": "4j0kwi",
+    "objectId": "4733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Chai Chee Drive  460058, East Coast (D15-16)",
+    "displayText": "58 Chai Chee Drive",
+    "displayType": "HDB",
+    "nanoId": "4dofa5",
+    "objectId": "4734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Kew Drive  000000, East Coast (D15-16)",
+    "displayText": "Kew Vale",
+    "displayType": "Semi-Detached House",
+    "nanoId": "4fz577",
+    "objectId": "724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "60 Marine Drive  440060, East Coast (D15-16)",
+    "displayText": "60 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "0fdln6",
+    "objectId": "8484",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 Marine Drive  440061, East Coast (D15-16)",
+    "displayText": "61 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "2anzn2",
+    "objectId": "8485",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "62 Marine Drive  440062, East Coast (D15-16)",
+    "displayText": "62 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "o9j4uw",
+    "objectId": "8486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Marine Drive  440063, East Coast (D15-16)",
+    "displayText": "63 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "uiop8c",
+    "objectId": "8487",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "64 Marine Drive  440064, East Coast (D15-16)",
+    "displayText": "64 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "o9kgp7",
+    "objectId": "8488",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65 Marine Drive  440065, East Coast (D15-16)",
+    "displayText": "65 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "2wd69s",
+    "objectId": "8489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "66 Marine Drive  440066, East Coast (D15-16)",
+    "displayText": "66 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "bf97up",
+    "objectId": "8490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "67 Marine Drive  440067, East Coast (D15-16)",
+    "displayText": "67 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "9w0p99",
+    "objectId": "8491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "71 Marine Drive  440071, East Coast (D15-16)",
+    "displayText": "71 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "8pmkxd",
+    "objectId": "8492",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "72 Marine Drive  440072, East Coast (D15-16)",
+    "displayText": "72 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "0ilt4j",
+    "objectId": "8493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73 Marine Drive  440073, East Coast (D15-16)",
+    "displayText": "73 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "1cee9i",
+    "objectId": "8494",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "74 Marine Drive  440074, East Coast (D15-16)",
+    "displayText": "74 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "ek0yte",
+    "objectId": "8495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "75 Marine Drive  440075, East Coast (D15-16)",
+    "displayText": "75 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "28vrl7",
+    "objectId": "8496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "76 Marine Drive  440076, East Coast (D15-16)",
+    "displayText": "76 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "rzslqm",
+    "objectId": "8497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "77 Marine Drive  440077, East Coast (D15-16)",
+    "displayText": "77 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "uwrrm6",
+    "objectId": "8498",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "78 Marine Drive  440078, East Coast (D15-16)",
+    "displayText": "78 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "i4g8sp",
+    "objectId": "8499",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "79 Marine Drive  440079, East Coast (D15-16)",
+    "displayText": "79 Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "ag4afv",
+    "objectId": "8500",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "65A Marine Drive  441065, East Coast (D15-16)",
+    "displayText": "65A Marine Drive",
+    "displayType": "HDB",
+    "nanoId": "c5x1a4",
+    "objectId": "8501",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "17"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222C Bedok North Drive  463222, East Coast (D15-16)",
+    "displayText": "222C Bedok North Drive",
+    "displayType": "HDB",
+    "nanoId": "sys1gy",
+    "objectId": "26076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "D5",
+    "displayText": "D05 Buona Vista / West Coast / Clementi New Town",
+    "displayType": "District",
+    "objectId": "D05",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D05"
+    }
+  },
+  {
+    "displayDescription": "101 West Coast Vale  126753, City & South West (D01-08)",
+    "displayText": "Parc Riviera",
+    "displayType": "Condominium",
+    "nanoId": "1y03r5",
+    "objectId": "22647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 West Coast Walk  127140, City & South West (D01-08)",
+    "displayText": "The Parc Condominium",
+    "displayType": "Condominium",
+    "nanoId": "tbdge6",
+    "objectId": "960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "107 West Coast Vale  126751, City & South West (D01-08)",
+    "displayText": "Whistler Grand",
+    "displayType": "Condominium",
+    "nanoId": "gs0t8e",
+    "objectId": "23540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 West Coast Vale  126755, City & South West (D01-08)",
+    "displayText": "Twin VEW",
+    "displayType": "Condominium",
+    "nanoId": "uxiycf",
+    "objectId": "23424",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "76 West Coast Road  126826, City & South West (D01-08)",
+    "displayText": "Varsity Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "tzl22z",
+    "objectId": "80",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 West Coast Park  127647, City & South West (D01-08)",
+    "displayText": "Botannia",
+    "displayType": "Condominium",
+    "nanoId": "sg8q6f",
+    "objectId": "756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 West Coast Crescent  126000, City & South West (D01-08)",
+    "displayText": "Seahill",
+    "displayType": "Condominium",
+    "nanoId": "knya7s",
+    "objectId": "21244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 West Coast Crescent  128045, City & South West (D01-08)",
+    "displayText": "Blue Horizon",
+    "displayType": "Condominium",
+    "nanoId": "yfk7qi",
+    "objectId": "151",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 West Coast Way  127015, City & South West (D01-08)",
+    "displayText": "Carabelle",
+    "displayType": "Condominium",
+    "nanoId": "wezfd2",
+    "objectId": "744",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39A West Coast Park  127712, City & South West (D01-08)",
+    "displayText": "The Infiniti",
+    "displayType": "Condominium",
+    "nanoId": "kcf17y",
+    "objectId": "101",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73 West Coast Crescent  126790, City & South West (D01-08)",
+    "displayText": "The Vision",
+    "displayType": "Condominium",
+    "nanoId": "m1lsay",
+    "objectId": "2638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 West Coast Road  126000, City & South West (D01-08)",
+    "displayText": "ClementiWoods Condominium",
+    "displayType": "Condominium",
+    "nanoId": "erpas4",
+    "objectId": "109",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 West Coast Crescent  128035, City & South West (D01-08)",
+    "displayText": "West Bay Condo",
+    "displayType": "Condominium",
+    "nanoId": "coicwr",
+    "objectId": "252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 West Coast Crescent  128041, City & South West (D01-08)",
+    "displayText": "Westcove Condo",
+    "displayType": "Condominium",
+    "nanoId": "2bvllw",
+    "objectId": "352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 West Coast Rise  127464, City & South West (D01-08)",
+    "displayText": "Monterey Park Condominium",
+    "displayType": "Condominium",
+    "nanoId": "0oou8g",
+    "objectId": "115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20A West Coast Road  126820, City & South West (D01-08)",
+    "displayText": "The Stellar",
+    "displayType": "Condominium",
+    "nanoId": "3hoxwt",
+    "objectId": "96",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "55 West Coast Road  127365, City & South West (D01-08)",
+    "displayText": "The Sorrento",
+    "displayType": "Condominium",
+    "nanoId": "7p4wab",
+    "objectId": "21182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "360 Pasir Panjang Road  118699, City & South West (D01-08)",
+    "displayText": "Gold Coast Condo",
+    "displayType": "Condominium",
+    "nanoId": "i6dv8b",
+    "objectId": "1238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "051262, City & South West (D01-08)",
+    "displayText": "West Coast Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "yovh6c",
+    "objectId": "574",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "513 West Coast Road  120513, City & South West (D01-08)",
+    "displayText": "513 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "jvz4de",
+    "objectId": "11730",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 West Coast Road  120514, City & South West (D01-08)",
+    "displayText": "514 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "ri93ad",
+    "objectId": "11731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10",
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 West Coast Road  120515, City & South West (D01-08)",
+    "displayText": "515 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "8wu8oi",
+    "objectId": "11732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 West Coast Road  120516, City & South West (D01-08)",
+    "displayText": "516 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "20jy6n",
+    "objectId": "11733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 West Coast Road  120517, City & South West (D01-08)",
+    "displayText": "517 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "w975sk",
+    "objectId": "11734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 West Coast Road  120518, City & South West (D01-08)",
+    "displayText": "518 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "9gijmt",
+    "objectId": "11735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519 West Coast Road  120519, City & South West (D01-08)",
+    "displayText": "519 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "8enaks",
+    "objectId": "11736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "520 West Coast Road  120520, City & South West (D01-08)",
+    "displayText": "520 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "lwrr2o",
+    "objectId": "11737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "701 West Coast Road  120701, City & South West (D01-08)",
+    "displayText": "701 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "ljewv3",
+    "objectId": "11738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "702 West Coast Road  120702, City & South West (D01-08)",
+    "displayText": "702 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "jwok3w",
+    "objectId": "11739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "703 West Coast Road  120703, City & South West (D01-08)",
+    "displayText": "703 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "wcsdza",
+    "objectId": "11740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "704 West Coast Road  120704, City & South West (D01-08)",
+    "displayText": "704 West Coast Road",
+    "displayType": "HDB",
+    "nanoId": "v3n6ul",
+    "objectId": "11741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "17B West Coast Road  126805, City & South West (D01-08)",
+    "displayText": "Westmont",
+    "displayType": "Cluster House",
+    "nanoId": "7tg9j7",
+    "objectId": "1440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 West Coast Road  127325, City & South West (D01-08)",
+    "displayText": "Westside 33",
+    "displayType": "Cluster House",
+    "nanoId": "jlmoad",
+    "objectId": "1628",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 West Coast Road  127000, City & South West (D01-08)",
+    "displayText": "Westpoint Pearl Garden",
+    "displayType": "Semi-Detached House",
+    "nanoId": "1wkvbg",
+    "objectId": "1632",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "14 West Coast Road  127298, City & South West (D01-08)",
+    "displayText": "Greenacres",
+    "displayType": "Condominium",
+    "nanoId": "5zfpx5",
+    "objectId": "1982",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "41 West Coast Way  127010, City & South West (D01-08)",
+    "displayText": "Hin Seng Garden",
+    "displayType": "Condominium",
+    "nanoId": "wxa9mv",
+    "objectId": "2026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 West Coast Walk  127000, City & South West (D01-08)",
+    "displayText": "Westpeak Terrace",
+    "displayType": "Terraced House",
+    "nanoId": "xumjm0",
+    "objectId": "21099",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "74 West Coast Terrace  127267, City & South West (D01-08)",
+    "displayText": "Hong Leong Garden Condo",
+    "displayType": "Condominium",
+    "nanoId": "jiuhk5",
+    "objectId": "21298",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 West Coast Park  127639, City & South West (D01-08)",
+    "displayText": "Parkview Condo",
+    "displayType": "Condominium",
+    "nanoId": "uxl2b5",
+    "objectId": "2277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 West Coast Rise  127462, West (D22-24)",
+    "displayText": "Tat Lee Court",
+    "displayType": "Condominium",
+    "nanoId": "7j29p1",
+    "objectId": "2470",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "53 West Coast Road  127364, City & South West (D01-08)",
+    "displayText": "Regent Gardens",
+    "displayType": "Condominium",
+    "nanoId": "97hldh",
+    "objectId": "25227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "801C West Coast Crescent  123801, City & South West (D01-08)",
+    "displayText": "801C West Coast Crescent",
+    "displayType": "HDB",
+    "nanoId": "ycpak5",
+    "objectId": "25648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "801 West Coast Crescent   120801, City & South West (D01-08)",
+    "displayText": "801 West Coast Crescent",
+    "displayType": "HDB",
+    "nanoId": "vgnipe",
+    "objectId": "25697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

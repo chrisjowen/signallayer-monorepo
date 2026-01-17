@@ -1,0 +1,1453 @@
+[
+  {
+    "displayText": "Tampines Avenue 4",
+    "displayType": "Street",
+    "objectId": "3237",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "801 Tampines Avenue 4  520801, Changi / Pasir Ris (D17-18)",
+    "displayText": "801 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "f2m6ok",
+    "objectId": "10526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "802 Tampines Avenue 4  520802, Changi / Pasir Ris (D17-18)",
+    "displayText": "802 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ha6l9q",
+    "objectId": "10527",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "803 Tampines Avenue 4  520803, Changi / Pasir Ris (D17-18)",
+    "displayText": "803 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "glk1l4",
+    "objectId": "10528",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "804 Tampines Avenue 4  520804, Changi / Pasir Ris (D17-18)",
+    "displayText": "804 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "rqkkbm",
+    "objectId": "10529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "805 Tampines Avenue 4  520805, Changi / Pasir Ris (D17-18)",
+    "displayText": "805 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "juq2fl",
+    "objectId": "10530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "806 Tampines Avenue 4  520806, Changi / Pasir Ris (D17-18)",
+    "displayText": "806 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "fsdwkr",
+    "objectId": "10531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "807 Tampines Avenue 4  520807, Changi / Pasir Ris (D17-18)",
+    "displayText": "807 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "oplvjf",
+    "objectId": "10532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "808 Tampines Avenue 4  520808, Changi / Pasir Ris (D17-18)",
+    "displayText": "808 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "afcoe7",
+    "objectId": "10533",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "809 Tampines Avenue 4  520809, Changi / Pasir Ris (D17-18)",
+    "displayText": "809 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "lanjdm",
+    "objectId": "10534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "810 Tampines Avenue 4  520810, Changi / Pasir Ris (D17-18)",
+    "displayText": "810 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "gyqjkf",
+    "objectId": "10535",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "811 Tampines Avenue 4  520811, Changi / Pasir Ris (D17-18)",
+    "displayText": "811 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vq56by",
+    "objectId": "10536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "812 Tampines Avenue 4  520812, Changi / Pasir Ris (D17-18)",
+    "displayText": "812 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ylnt4q",
+    "objectId": "10537",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "815 Tampines Avenue 4  520815, Changi / Pasir Ris (D17-18)",
+    "displayText": "815 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "lgae2q",
+    "objectId": "10538",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "816 Tampines Avenue 4  520816, Changi / Pasir Ris (D17-18)",
+    "displayText": "816 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ihhcqo",
+    "objectId": "10539",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "902 Tampines Avenue 4  520902, Changi / Pasir Ris (D17-18)",
+    "displayText": "902 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "17yhpw",
+    "objectId": "10540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "903 Tampines Avenue 4  520903, Changi / Pasir Ris (D17-18)",
+    "displayText": "903 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "446p0h",
+    "objectId": "10541",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "906 Tampines Avenue 4  520906, Changi / Pasir Ris (D17-18)",
+    "displayText": "906 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "7b6xec",
+    "objectId": "10542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "907 Tampines Avenue 4  520907, Changi / Pasir Ris (D17-18)",
+    "displayText": "907 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t84v90",
+    "objectId": "10543",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "908 Tampines Avenue 4  520908, Changi / Pasir Ris (D17-18)",
+    "displayText": "908 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "pbussr",
+    "objectId": "10544",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "909 Tampines Avenue 4  520909, Changi / Pasir Ris (D17-18)",
+    "displayText": "909 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "butbt3",
+    "objectId": "10545",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "945 Tampines Avenue 4  520945, Changi / Pasir Ris (D17-18)",
+    "displayText": "945 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "p0jghm",
+    "objectId": "10546",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "946 Tampines Avenue 4  520946, Changi / Pasir Ris (D17-18)",
+    "displayText": "946 Tampines Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "1rqr7e",
+    "objectId": "10547",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tampines Ind Avenue 4",
+    "displayType": "Street",
+    "objectId": "3252",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "485B Tampines Avenue 9  521485, Changi / Pasir Ris (D17-18)",
+    "displayText": "485B Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "axiyq4",
+    "objectId": "10589",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "486B Tampines Avenue 9  521486, Changi / Pasir Ris (D17-18)",
+    "displayText": "486B Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "uihmh4",
+    "objectId": "10591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "486C Tampines Avenue 9  522486, Changi / Pasir Ris (D17-18)",
+    "displayText": "486C Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "0zumho",
+    "objectId": "10592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "487A Tampines Avenue 9  520487, Changi / Pasir Ris (D17-18)",
+    "displayText": "487A Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "gt9ond",
+    "objectId": "10594",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "488A Tampines Avenue 9  520488, Changi / Pasir Ris (D17-18)",
+    "displayText": "488A Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "zhcb87",
+    "objectId": "10595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "491B Tampines Avenue 9  521491, Changi / Pasir Ris (D17-18)",
+    "displayText": "491B Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "e36889",
+    "objectId": "10596",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "492B Tampines Avenue 9  520492, Changi / Pasir Ris (D17-18)",
+    "displayText": "492B Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "l426ca",
+    "objectId": "10597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "493B Tampines Avenue 9  521493, Changi / Pasir Ris (D17-18)",
+    "displayText": "493B Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "s7nosb",
+    "objectId": "10598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "494B Tampines Avenue 9  520494, Changi / Pasir Ris (D17-18)",
+    "displayText": "494B Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "nx2qvb",
+    "objectId": "10599",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "496D Tampines Avenue 9  520496, Changi / Pasir Ris (D17-18)",
+    "displayText": "496D Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "gf8zkd",
+    "objectId": "10600",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "496E Tampines Avenue 9  521496, Changi / Pasir Ris (D17-18)",
+    "displayText": "496E Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "h3id93",
+    "objectId": "10601",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "496F Tampines Avenue 9  522496, Changi / Pasir Ris (D17-18)",
+    "displayText": "496F Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "gg1tnz",
+    "objectId": "10602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "496G Tampines Avenue 9  527496, Changi / Pasir Ris (D17-18)",
+    "displayText": "496G Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "629k06",
+    "objectId": "10603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "486A Tampines Avenue 9  520486, Changi / Pasir Ris (D17-18)",
+    "displayText": "486A Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "g11mkx",
+    "objectId": "20566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "493A Tampines Avenue 9  520493, Changi / Pasir Ris (D17-18)",
+    "displayText": "493A Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "5gdkn6",
+    "objectId": "20598",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "485A Tampines Avenue 9  520485, Changi / Pasir Ris (D17-18)",
+    "displayText": "485A Tampines Ave 9",
+    "displayType": "HDB",
+    "nanoId": "wkpkcr",
+    "objectId": "20680",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "499A Tampines Avenue 9  521499, Changi / Pasir Ris (D17-18)",
+    "displayText": "499A Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "dd8qgv",
+    "objectId": "22644",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "491A Tampines Avenue 9  520491, Changi / Pasir Ris (D17-18)",
+    "displayText": "491A Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "ykmc0d",
+    "objectId": "22645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "499B Tampines Avenue 9  522499, Changi / Pasir Ris (D17-18)",
+    "displayText": "499B Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "x90sco",
+    "objectId": "23590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "499C Tampines Avenue 9  523499, Changi / Pasir Ris (D17-18)",
+    "displayText": "499C Tampines Avenue 9",
+    "displayType": "HDB",
+    "nanoId": "bv1nfu",
+    "objectId": "23591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tampines Avenue 9",
+    "displayType": "Street",
+    "objectId": "3242",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 1",
+    "displayType": "Street",
+    "objectId": "3232",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 2",
+    "displayType": "Street",
+    "objectId": "3235",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 3",
+    "displayType": "Street",
+    "objectId": "3236",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 5",
+    "displayType": "Street",
+    "objectId": "3238",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 6",
+    "displayType": "Street",
+    "objectId": "3239",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 7",
+    "displayType": "Street",
+    "objectId": "3240",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 8",
+    "displayType": "Street",
+    "objectId": "3241",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 10",
+    "displayType": "Street",
+    "objectId": "3233",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Avenue 12",
+    "displayType": "Street",
+    "objectId": "3234",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Central 4",
+    "displayType": "Street",
+    "objectId": "3246",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "4 Makeway Avenue  228605, Orchard / Holland (D09-10)",
+    "displayText": "Kopar At Newton",
+    "displayType": "Condominium",
+    "nanoId": "y1japb",
+    "objectId": "23902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311C Clementi Avenue 4  123311, City & South West (D01-08)",
+    "displayText": "311C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vpdjy7",
+    "objectId": "23490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311A Clementi Avenue 4  121311, City & South West (D01-08)",
+    "displayText": "311A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x55i4m",
+    "objectId": "20894",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312A Clementi Avenue 4  121312, City & South West (D01-08)",
+    "displayText": "312A Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x1msjn",
+    "objectId": "22765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312C Clementi Avenue 4  123312, City & South West (D01-08)",
+    "displayText": "312C Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xfdwml",
+    "objectId": "22766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312B Clementi Avenue 4  122312, City & South West (D01-08)",
+    "displayText": "312B Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t83d0f",
+    "objectId": "23201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311B Clementi Avenue 4  122311, City & South West (D01-08)",
+    "displayText": "311B Clementi Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "mm7adl",
+    "objectId": "23489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        "10"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Serangoon North Avenue 4",
+    "displayType": "Street",
+    "objectId": "10426",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Serangoon Avenue 4",
+    "displayType": "Street",
+    "objectId": "10803",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Yishun Avenue 4",
+    "displayType": "Street",
+    "objectId": "3734",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Clementi Avenue 4",
+    "displayType": "Street",
+    "objectId": "3891",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "211 Serangoon Avenue 4  550211, Serangoon / Thomson (D19-20)",
+    "displayText": "211 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "8jaw0m",
+    "objectId": "10070",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212 Serangoon Avenue 4  550212, Serangoon / Thomson (D19-20)",
+    "displayText": "212 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "l8u7bj",
+    "objectId": "10071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Serangoon Avenue 4  550213, Serangoon / Thomson (D19-20)",
+    "displayText": "213 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ltsz7t",
+    "objectId": "10072",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214 Serangoon Avenue 4  550214, Serangoon / Thomson (D19-20)",
+    "displayText": "214 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x18j6o",
+    "objectId": "10073",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215 Serangoon Avenue 4  550215, Serangoon / Thomson (D19-20)",
+    "displayText": "215 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "lzv8qn",
+    "objectId": "10074",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216 Serangoon Avenue 4  550216, Serangoon / Thomson (D19-20)",
+    "displayText": "216 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "k4duqz",
+    "objectId": "10075",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217 Serangoon Avenue 4  550217, Serangoon / Thomson (D19-20)",
+    "displayText": "217 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "p8rqc0",
+    "objectId": "10076",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218 Serangoon Avenue 4  550218, Serangoon / Thomson (D19-20)",
+    "displayText": "218 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x4kktn",
+    "objectId": "10077",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "219 Serangoon Avenue 4  550219, Serangoon / Thomson (D19-20)",
+    "displayText": "219 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "wyfc5w",
+    "objectId": "10078",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220 Serangoon Avenue 4  550220, Serangoon / Thomson (D19-20)",
+    "displayText": "220 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "kxwq4q",
+    "objectId": "10079",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221 Serangoon Avenue 4  550221, Serangoon / Thomson (D19-20)",
+    "displayText": "221 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "q78nl7",
+    "objectId": "10080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222 Serangoon Avenue 4  550222, Serangoon / Thomson (D19-20)",
+    "displayText": "222 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "qp4y4u",
+    "objectId": "10081",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "223 Serangoon Avenue 4  550223, Serangoon / Thomson (D19-20)",
+    "displayText": "223 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "smi1j5",
+    "objectId": "10082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "224 Serangoon Avenue 4  550224, Serangoon / Thomson (D19-20)",
+    "displayText": "224 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "aqlo1n",
+    "objectId": "10083",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "225 Serangoon Avenue 4  550225, Serangoon / Thomson (D19-20)",
+    "displayText": "225 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "o5sfe4",
+    "objectId": "10084",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "226 Serangoon Avenue 4  550226, Serangoon / Thomson (D19-20)",
+    "displayText": "226 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "spuxad",
+    "objectId": "10085",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "227 Serangoon Avenue 4  550227, Serangoon / Thomson (D19-20)",
+    "displayText": "227 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "za5ql2",
+    "objectId": "10086",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "228 Serangoon Avenue 4  550228, Serangoon / Thomson (D19-20)",
+    "displayText": "228 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "1eddvw",
+    "objectId": "10087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "229 Serangoon Avenue 4  550229, Serangoon / Thomson (D19-20)",
+    "displayText": "229 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "t5wv7u",
+    "objectId": "10088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230 Serangoon Avenue 4  550230, Serangoon / Thomson (D19-20)",
+    "displayText": "230 Serangoon Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vbw7ms",
+    "objectId": "10089",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "500 Serangoon North Avenue 4  550500, Serangoon / Thomson (D19-20)",
+    "displayText": "500 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "e53urf",
+    "objectId": "10205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501 Serangoon North Avenue 4  550501, Serangoon / Thomson (D19-20)",
+    "displayText": "501 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "6tutit",
+    "objectId": "10206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Serangoon North Avenue 4  550502, Serangoon / Thomson (D19-20)",
+    "displayText": "502 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "eq38zf",
+    "objectId": "10207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Serangoon North Avenue 4  550503, Serangoon / Thomson (D19-20)",
+    "displayText": "503 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ujkbfr",
+    "objectId": "10208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23",
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Serangoon North Avenue 4  550504, Serangoon / Thomson (D19-20)",
+    "displayText": "504 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "baycs2",
+    "objectId": "10209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Serangoon North Avenue 4  550505, Serangoon / Thomson (D19-20)",
+    "displayText": "505 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "yl7uoa",
+    "objectId": "10210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Serangoon North Avenue 4  550506, Serangoon / Thomson (D19-20)",
+    "displayText": "506 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "pvt8vs",
+    "objectId": "10211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Serangoon North Avenue 4  550507, Serangoon / Thomson (D19-20)",
+    "displayText": "507 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "u0hkv7",
+    "objectId": "10212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Serangoon North Avenue 4  550508, Serangoon / Thomson (D19-20)",
+    "displayText": "508 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "i8klp7",
+    "objectId": "10213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Serangoon North Avenue 4  550510, Serangoon / Thomson (D19-20)",
+    "displayText": "510 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "r1nart",
+    "objectId": "10215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Serangoon North Avenue 4  550511, Serangoon / Thomson (D19-20)",
+    "displayText": "511 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "4eykn7",
+    "objectId": "10216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Serangoon North Avenue 4  550512, Serangoon / Thomson (D19-20)",
+    "displayText": "512 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "5a16lh",
+    "objectId": "10217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Serangoon North Avenue 4  550515, Serangoon / Thomson (D19-20)",
+    "displayText": "515 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "fmf4af",
+    "objectId": "10219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Serangoon North Avenue 4  550516, Serangoon / Thomson (D19-20)",
+    "displayText": "516 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "wnzvhb",
+    "objectId": "10220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

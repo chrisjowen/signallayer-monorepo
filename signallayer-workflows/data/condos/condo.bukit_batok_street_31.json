@@ -1,0 +1,1545 @@
+[
+  {
+    "displayText": "Bukit Batok Street 31",
+    "displayType": "Street",
+    "objectId": "11376",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "50 Bukit Batok Street 31  659442, West (D22-24)",
+    "displayText": "The Madeira",
+    "displayType": "Condominium",
+    "nanoId": "5bimdh",
+    "objectId": "243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "377 Bukit Batok Street 31  650377, West (D22-24)",
+    "displayText": "377 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "qjlouu",
+    "objectId": "25408",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301 Bukit Batok Street 31  650301, West (D22-24)",
+    "displayText": "301 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "dhvwyt",
+    "objectId": "4315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302 Bukit Batok Street 31  650302, West (D22-24)",
+    "displayText": "302 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "43fr6v",
+    "objectId": "4316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303 Bukit Batok Street 31  650303, West (D22-24)",
+    "displayText": "303 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "t4cee5",
+    "objectId": "4317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304 Bukit Batok Street 31  650304, West (D22-24)",
+    "displayText": "304 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "vxmlz2",
+    "objectId": "4318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305 Bukit Batok Street 31  650305, West (D22-24)",
+    "displayText": "305 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "v721y0",
+    "objectId": "4319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306 Bukit Batok Street 31  650306, West (D22-24)",
+    "displayText": "306 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "bnah86",
+    "objectId": "4320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307 Bukit Batok Street 31  650307, West (D22-24)",
+    "displayText": "307 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "972sb7",
+    "objectId": "4321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308 Bukit Batok Street 31  650308, West (D22-24)",
+    "displayText": "308 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "h0vux6",
+    "objectId": "4322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "309 Bukit Batok Street 31  650309, West (D22-24)",
+    "displayText": "309 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "w96lo6",
+    "objectId": "4323",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "354 Bukit Batok Street 31  650354, West (D22-24)",
+    "displayText": "354 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "e55hyx",
+    "objectId": "4324",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "355 Bukit Batok Street 31  650355, West (D22-24)",
+    "displayText": "355 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "i3fwav",
+    "objectId": "4325",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "356 Bukit Batok Street 31  650356, West (D22-24)",
+    "displayText": "356 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "uqajhe",
+    "objectId": "4326",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "358 Bukit Batok Street 31  650358, West (D22-24)",
+    "displayText": "358 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "3cu2ss",
+    "objectId": "4328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "359 Bukit Batok Street 31  650359, West (D22-24)",
+    "displayText": "359 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "s6h9m8",
+    "objectId": "4329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "360 Bukit Batok Street 31  650360, West (D22-24)",
+    "displayText": "360 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "go0iua",
+    "objectId": "4330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "361 Bukit Batok Street 31  650361, West (D22-24)",
+    "displayText": "361 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "vv9yc4",
+    "objectId": "4331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "362 Bukit Batok Street 31  650362, West (D22-24)",
+    "displayText": "362 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "hnsawg",
+    "objectId": "4332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "363 Bukit Batok Street 31  650363, West (D22-24)",
+    "displayText": "363 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "r2qyw8",
+    "objectId": "4333",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "364 Bukit Batok Street 31  650364, West (D22-24)",
+    "displayText": "364 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "no5mox",
+    "objectId": "4334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365 Bukit Batok Street 31  650365, West (D22-24)",
+    "displayText": "365 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "el4uho",
+    "objectId": "4335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "366 Bukit Batok Street 31  650366, West (D22-24)",
+    "displayText": "366 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "p9wl1v",
+    "objectId": "4336",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "367 Bukit Batok Street 31  650367, West (D22-24)",
+    "displayText": "367 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "543e5w",
+    "objectId": "4337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "368 Bukit Batok Street 31  650368, West (D22-24)",
+    "displayText": "368 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "na1tn5",
+    "objectId": "4338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "369 Bukit Batok Street 31  650369, West (D22-24)",
+    "displayText": "369 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "sjkeu7",
+    "objectId": "4339",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "370 Bukit Batok Street 31  650370, West (D22-24)",
+    "displayText": "370 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "dcoq8z",
+    "objectId": "4340",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "371 Bukit Batok Street 31  650371, West (D22-24)",
+    "displayText": "371 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "4t75cw",
+    "objectId": "4341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "372 Bukit Batok Street 31  650372, West (D22-24)",
+    "displayText": "372 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "akms59",
+    "objectId": "4342",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "374 Bukit Batok Street 31  650374, West (D22-24)",
+    "displayText": "374 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "exdwsk",
+    "objectId": "4344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "375 Bukit Batok Street 31  650375, West (D22-24)",
+    "displayText": "375 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "s8g6or",
+    "objectId": "4345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "357 Bukit Batok Street 31  650357, West (D22-24)",
+    "displayText": "357 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "c62lwo",
+    "objectId": "4327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "373 Bukit Batok Street 31  650373, West (D22-24)",
+    "displayText": "373 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "qaj9gc",
+    "objectId": "4343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376 Bukit Batok Street 31  650376, West (D22-24)",
+    "displayText": "376 Bukit Batok Street 31",
+    "displayType": "HDB",
+    "nanoId": "5leigv",
+    "objectId": "4346",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310 Bukit Batok Street 32  650310, West (D22-24)",
+    "displayText": "310 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "kl20de",
+    "objectId": "4347",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311 Bukit Batok Street 32  650311, West (D22-24)",
+    "displayText": "311 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "j8ccv9",
+    "objectId": "4348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312 Bukit Batok Street 32  650312, West (D22-24)",
+    "displayText": "312 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "owxr6c",
+    "objectId": "4349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "313 Bukit Batok Street 32  650313, West (D22-24)",
+    "displayText": "313 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "hh5l11",
+    "objectId": "4350",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Bukit Batok Street 32  650314, West (D22-24)",
+    "displayText": "314 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "s2nwvo",
+    "objectId": "4351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "315 Bukit Batok Street 32  650315, West (D22-24)",
+    "displayText": "315 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "eo1az1",
+    "objectId": "4352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "316 Bukit Batok Street 32  650316, West (D22-24)",
+    "displayText": "316 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "wl1lwh",
+    "objectId": "4353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "318 Bukit Batok Street 32  650318, West (D22-24)",
+    "displayText": "318 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "xr26is",
+    "objectId": "4355",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319 Bukit Batok Street 33  650319, West (D22-24)",
+    "displayText": "319 Bukit Batok Street 33",
+    "displayType": "HDB",
+    "nanoId": "ciyvkc",
+    "objectId": "4361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "317 Bukit Batok Street 32  650317, West (D22-24)",
+    "displayText": "317 Bukit Batok Street 32",
+    "displayType": "HDB",
+    "nanoId": "x3vrtq",
+    "objectId": "4354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bukit Batok Street 21",
+    "displayType": "Street",
+    "objectId": "5874",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok Street 11",
+    "displayType": "Street",
+    "objectId": "12086",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok Street 52",
+    "displayType": "Street",
+    "objectId": "4961",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok Street 25",
+    "displayType": "Street",
+    "objectId": "6401",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "31 Bukit Batok East Avenue 6  659763, West (D22-24)",
+    "displayText": "Park Natura",
+    "displayType": "Condominium",
+    "nanoId": "yl2izh",
+    "objectId": "1144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Bukit Batok Street 41  657977, West (D22-24)",
+    "displayText": "Le Quest",
+    "displayType": "Condominium",
+    "nanoId": "pf0x5q",
+    "objectId": "23163",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Bukit Batok Street 52  659244, West (D22-24)",
+    "displayText": "Guilin View",
+    "displayType": "Condominium",
+    "nanoId": "ytag2f",
+    "objectId": "290",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Bukit Batok Street 25  658880, West (D22-24)",
+    "displayText": "Parkview Apartments",
+    "displayType": "Apartment",
+    "nanoId": "51itga",
+    "objectId": "213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "296C Bukit Batok Street 22  653296, West (D22-24)",
+    "displayText": "296C Bukit Batok Street 22",
+    "displayType": "HDB",
+    "nanoId": "23nf1u",
+    "objectId": "23129",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "296B Bukit Batok Street 22  652296, West (D22-24)",
+    "displayText": "296B Bukit Batok Street 22",
+    "displayType": "HDB",
+    "nanoId": "m8djmb",
+    "objectId": "23127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "296A Bukit Batok Street 22  651296, West (D22-24)",
+    "displayText": "296A Bukit Batok Street 22",
+    "displayType": "HDB",
+    "nanoId": "krcvcx",
+    "objectId": "23128",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293A Bukit Batok Street 21  651293, West (D22-24)",
+    "displayText": "293A Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "sj0dqj",
+    "objectId": "23333",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293B Bukit Batok Street 21  652293, West (D22-24)",
+    "displayText": "293B Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "on5kjj",
+    "objectId": "23334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293C Bukit Batok Street 21  653293, West (D22-24)",
+    "displayText": "293C Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "hejn3r",
+    "objectId": "23335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "293D Bukit Batok Street 21  654293, West (D22-24)",
+    "displayText": "293D Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "n5qt9w",
+    "objectId": "23336",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "530 Bukit Batok Street 23  659548, West (D22-24)",
+    "displayText": "Acacia Lodge",
+    "displayType": "Apartment",
+    "nanoId": "gsrut9",
+    "objectId": "1482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "296D Bukit Batok Street 22  654296, West (D22-24)",
+    "displayText": "296D Bukit Batok Street 22",
+    "displayType": "HDB",
+    "nanoId": "vkyafx",
+    "objectId": "23130",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "294 Bukit Batok Street 21  650294, West (D22-24)",
+    "displayText": "294 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "76cirr",
+    "objectId": "23337",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463B Bukit Batok Street 41  652463, West (D22-24)",
+    "displayText": "463B Bukit Batok Street 41",
+    "displayType": "HDB",
+    "nanoId": "df3zkg",
+    "objectId": "25529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "463A Bukit Batok Street 41  651463, West (D22-24)",
+    "displayText": "463A Bukit Batok Street 41",
+    "displayType": "HDB",
+    "nanoId": "rcqplk",
+    "objectId": "25530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "140 Bukit Batok Street 11  650140, West (D22-24)",
+    "displayText": "140 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "50qjjz",
+    "objectId": "4244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Bukit Batok Street 11  650141, West (D22-24)",
+    "displayText": "141 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "i64tv9",
+    "objectId": "4245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Bukit Batok Street 11  650142, West (D22-24)",
+    "displayText": "142 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "ht543u",
+    "objectId": "4246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Bukit Batok Street 11  650143, West (D22-24)",
+    "displayText": "143 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "lei1ih",
+    "objectId": "4247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Bukit Batok Street 11  650145, West (D22-24)",
+    "displayText": "145 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "gc1akt",
+    "objectId": "4248",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "150 Bukit Batok Street 11  650150, West (D22-24)",
+    "displayText": "150 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "a4n5qr",
+    "objectId": "4249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "151 Bukit Batok Street 11  650151, West (D22-24)",
+    "displayText": "151 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "j56xv4",
+    "objectId": "4250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Bukit Batok Street 11  650152, West (D22-24)",
+    "displayText": "152 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "bzvrw8",
+    "objectId": "4251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153 Bukit Batok Street 11  650153, West (D22-24)",
+    "displayText": "153 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "otnek4",
+    "objectId": "4252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154 Bukit Batok Street 11  650154, West (D22-24)",
+    "displayText": "154 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "or1z8x",
+    "objectId": "4253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Bukit Batok Street 11  650157, West (D22-24)",
+    "displayText": "157 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "y4rof9",
+    "objectId": "4256",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Bukit Batok Street 11  650158, West (D22-24)",
+    "displayText": "158 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "gveegl",
+    "objectId": "4257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Bukit Batok Street 11  650159, West (D22-24)",
+    "displayText": "159 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "4dkjlb",
+    "objectId": "4258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Bukit Batok Street 11  650160, West (D22-24)",
+    "displayText": "160 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "irqpm1",
+    "objectId": "4259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Bukit Batok Street 11  650161, West (D22-24)",
+    "displayText": "161 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "5tlu53",
+    "objectId": "4260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "162 Bukit Batok Street 11  650162, West (D22-24)",
+    "displayText": "162 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "fxgn4i",
+    "objectId": "4261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Bukit Batok Street 11  650163, West (D22-24)",
+    "displayText": "163 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "sspyga",
+    "objectId": "4262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "164 Bukit Batok Street 11  650164, West (D22-24)",
+    "displayText": "164 Bukit Batok Street 11",
+    "displayType": "HDB",
+    "nanoId": "4xbed1",
+    "objectId": "4263",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201 Bukit Batok Street 21  650201, West (D22-24)",
+    "displayText": "201 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "vdkqp1",
+    "objectId": "4264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202 Bukit Batok Street 21  650202, West (D22-24)",
+    "displayText": "202 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "obby8c",
+    "objectId": "4265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203 Bukit Batok Street 21  650203, West (D22-24)",
+    "displayText": "203 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "evi6wn",
+    "objectId": "4266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "204 Bukit Batok Street 21  650204, West (D22-24)",
+    "displayText": "204 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "njbevb",
+    "objectId": "4267",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205 Bukit Batok Street 21  650205, West (D22-24)",
+    "displayText": "205 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "sarwfc",
+    "objectId": "4268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206 Bukit Batok Street 21  650206, West (D22-24)",
+    "displayText": "206 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "gffqmo",
+    "objectId": "4269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 Bukit Batok Street 21  650207, West (D22-24)",
+    "displayText": "207 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "x8dey6",
+    "objectId": "4270",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208 Bukit Batok Street 21  650208, West (D22-24)",
+    "displayText": "208 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "3d1udm",
+    "objectId": "4271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209 Bukit Batok Street 21  650209, West (D22-24)",
+    "displayText": "209 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "f7h244",
+    "objectId": "4272",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210 Bukit Batok Street 21  650210, West (D22-24)",
+    "displayText": "210 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "g880mc",
+    "objectId": "4273",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211 Bukit Batok Street 21  650211, West (D22-24)",
+    "displayText": "211 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "w2d7h0",
+    "objectId": "4274",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212 Bukit Batok Street 21  650212, West (D22-24)",
+    "displayText": "212 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "w41v1k",
+    "objectId": "4275",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Bukit Batok Street 21  650213, West (D22-24)",
+    "displayText": "213 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "qohom5",
+    "objectId": "4276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214 Bukit Batok Street 21  650214, West (D22-24)",
+    "displayText": "214 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "r113uj",
+    "objectId": "4277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215 Bukit Batok Street 21  650215, West (D22-24)",
+    "displayText": "215 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "nyumy5",
+    "objectId": "4278",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216 Bukit Batok Street 21  650216, West (D22-24)",
+    "displayText": "216 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "tu27y8",
+    "objectId": "4279",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217 Bukit Batok Street 21  650217, West (D22-24)",
+    "displayText": "217 Bukit Batok Street 21",
+    "displayType": "HDB",
+    "nanoId": "akoud0",
+    "objectId": "4280",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

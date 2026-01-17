@@ -1,0 +1,1355 @@
+[
+  {
+    "displayText": "Tampines Street 32",
+    "displayType": "Street",
+    "objectId": "3262",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "301 Tampines Street 32  520301, Changi / Pasir Ris (D17-18)",
+    "displayText": "301 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "t5ffw4",
+    "objectId": "10795",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302 Tampines Street 32  520302, Changi / Pasir Ris (D17-18)",
+    "displayText": "302 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "e2wwmp",
+    "objectId": "10796",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303 Tampines Street 32  520303, Changi / Pasir Ris (D17-18)",
+    "displayText": "303 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "cm4n8t",
+    "objectId": "10797",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304 Tampines Street 32  520304, Changi / Pasir Ris (D17-18)",
+    "displayText": "304 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "iavmr4",
+    "objectId": "10798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305 Tampines Street 32  520305, Changi / Pasir Ris (D17-18)",
+    "displayText": "305 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "yfh671",
+    "objectId": "10799",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306 Tampines Street 32  520306, Changi / Pasir Ris (D17-18)",
+    "displayText": "306 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "3nyqlm",
+    "objectId": "10800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307 Tampines Street 32  520307, Changi / Pasir Ris (D17-18)",
+    "displayText": "307 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "y0aq5h",
+    "objectId": "10801",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308 Tampines Street 32  520308, Changi / Pasir Ris (D17-18)",
+    "displayText": "308 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "sgwvq6",
+    "objectId": "10802",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "309 Tampines Street 32  520309, Changi / Pasir Ris (D17-18)",
+    "displayText": "309 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "yejnn9",
+    "objectId": "10803",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310 Tampines Street 32  520310, Changi / Pasir Ris (D17-18)",
+    "displayText": "310 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "fjoel4",
+    "objectId": "10804",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Tampines Street 32  520324, Changi / Pasir Ris (D17-18)",
+    "displayText": "324 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "aar1dl",
+    "objectId": "10805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Tampines Street 32  520325, Changi / Pasir Ris (D17-18)",
+    "displayText": "325 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "7nv4o6",
+    "objectId": "10806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Tampines Street 32  520326, Changi / Pasir Ris (D17-18)",
+    "displayText": "326 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "zbxp47",
+    "objectId": "10807",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "327 Tampines Street 32  520327, Changi / Pasir Ris (D17-18)",
+    "displayText": "327 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "hydhiy",
+    "objectId": "10808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Tampines Street 32  520328, Changi / Pasir Ris (D17-18)",
+    "displayText": "328 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "9mbb39",
+    "objectId": "10809",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "329 Tampines Street 32  520329, Changi / Pasir Ris (D17-18)",
+    "displayText": "329 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "j1dy73",
+    "objectId": "10810",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330 Tampines Street 32  520330, Changi / Pasir Ris (D17-18)",
+    "displayText": "330 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "fr0v1x",
+    "objectId": "10811",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331 Tampines Street 32  520331, Changi / Pasir Ris (D17-18)",
+    "displayText": "331 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "n56kwv",
+    "objectId": "10812",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "332 Tampines Street 32  520332, Changi / Pasir Ris (D17-18)",
+    "displayText": "332 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "0z9as5",
+    "objectId": "10813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333 Tampines Street 32  520333, Changi / Pasir Ris (D17-18)",
+    "displayText": "333 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "lzykq2",
+    "objectId": "10814",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334 Tampines Street 32  520334, Changi / Pasir Ris (D17-18)",
+    "displayText": "334 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "6y2rqo",
+    "objectId": "10815",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Tampines Street 32  520335, Changi / Pasir Ris (D17-18)",
+    "displayText": "335 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "nl1lre",
+    "objectId": "10816",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "336 Tampines Street 32  520336, Changi / Pasir Ris (D17-18)",
+    "displayText": "336 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "st67g1",
+    "objectId": "10817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "337 Tampines Street 32  520337, Changi / Pasir Ris (D17-18)",
+    "displayText": "337 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "fbj0dv",
+    "objectId": "10818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "381 Tampines Street 32  520381, Changi / Pasir Ris (D17-18)",
+    "displayText": "381 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "o5ohlc",
+    "objectId": "10819",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "382 Tampines Street 32  520382, Changi / Pasir Ris (D17-18)",
+    "displayText": "382 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "6ts79d",
+    "objectId": "10820",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "383 Tampines Street 32  520383, Changi / Pasir Ris (D17-18)",
+    "displayText": "383 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "ylw5un",
+    "objectId": "10821",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "384 Tampines Street 32  520384, Changi / Pasir Ris (D17-18)",
+    "displayText": "384 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "es71x6",
+    "objectId": "10822",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "385 Tampines Street 32  520385, Changi / Pasir Ris (D17-18)",
+    "displayText": "385 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "njqbb4",
+    "objectId": "10823",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "386 Tampines Street 32  520386, Changi / Pasir Ris (D17-18)",
+    "displayText": "386 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "ifj3iy",
+    "objectId": "10824",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "387 Tampines Street 32  520387, Changi / Pasir Ris (D17-18)",
+    "displayText": "387 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "v32u2s",
+    "objectId": "10825",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "388 Tampines Street 32  520388, Changi / Pasir Ris (D17-18)",
+    "displayText": "388 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "hh7iim",
+    "objectId": "10826",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "389 Tampines Street 32  520389, Changi / Pasir Ris (D17-18)",
+    "displayText": "389 Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "tccu0q",
+    "objectId": "10827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307A Tampines Street 32  521307, Changi / Pasir Ris (D17-18)",
+    "displayText": "307A Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "y88rma",
+    "objectId": "10828",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "330A Tampines Street 32  521330, Changi / Pasir Ris (D17-18)",
+    "displayText": "330A Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "z37y2a",
+    "objectId": "10829",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "331A Tampines Street 32  521331, Changi / Pasir Ris (D17-18)",
+    "displayText": "331A Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "bluw33",
+    "objectId": "10830",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "384A Tampines Street 32  521384, Changi / Pasir Ris (D17-18)",
+    "displayText": "384A Tampines Street 32",
+    "displayType": "HDB",
+    "nanoId": "2axqgq",
+    "objectId": "10831",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320 Tampines Street 33  520320, Changi / Pasir Ris (D17-18)",
+    "displayText": "320 Tampines Street 33",
+    "displayType": "HDB",
+    "nanoId": "7ys6nq",
+    "objectId": "10841",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Tampines Street 33  520321, Changi / Pasir Ris (D17-18)",
+    "displayText": "321 Tampines Street 33",
+    "displayType": "HDB",
+    "nanoId": "p0hv04",
+    "objectId": "10842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322 Tampines Street 33  520322, Changi / Pasir Ris (D17-18)",
+    "displayText": "322 Tampines Street 33",
+    "displayType": "HDB",
+    "nanoId": "z6qqwl",
+    "objectId": "10843",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Tampines Street 33  520323, Changi / Pasir Ris (D17-18)",
+    "displayText": "323 Tampines Street 33",
+    "displayType": "HDB",
+    "nanoId": "xmhb31",
+    "objectId": "10844",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tampines Street 82",
+    "displayType": "Street",
+    "objectId": "3274",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 12",
+    "displayType": "Street",
+    "objectId": "3256",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 22",
+    "displayType": "Street",
+    "objectId": "3258",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 23",
+    "displayType": "Street",
+    "objectId": "3259",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 31",
+    "displayType": "Street",
+    "objectId": "3261",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 33",
+    "displayType": "Street",
+    "objectId": "3263",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 34",
+    "displayType": "Street",
+    "objectId": "3264",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 42",
+    "displayType": "Street",
+    "objectId": "3266",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 72",
+    "displayType": "Street",
+    "objectId": "3271",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 92",
+    "displayType": "Street",
+    "objectId": "3279",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 11",
+    "displayType": "Street",
+    "objectId": "3255",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 21",
+    "displayType": "Street",
+    "objectId": "3257",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 45",
+    "displayType": "Street",
+    "objectId": "3269",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 71",
+    "displayType": "Street",
+    "objectId": "3270",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 81",
+    "displayType": "Street",
+    "objectId": "3273",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 10",
+    "displayType": "Street",
+    "objectId": "12339",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 24",
+    "displayType": "Street",
+    "objectId": "3260",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 41",
+    "displayType": "Street",
+    "objectId": "3265",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 43",
+    "displayType": "Street",
+    "objectId": "3267",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 44",
+    "displayType": "Street",
+    "objectId": "3268",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 73",
+    "displayType": "Street",
+    "objectId": "3272",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 83",
+    "displayType": "Street",
+    "objectId": "3275",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 84",
+    "displayType": "Street",
+    "objectId": "3276",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 91",
+    "displayType": "Street",
+    "objectId": "3278",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 93",
+    "displayType": "Street",
+    "objectId": "3280",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines St 32",
+    "displayType": "Street",
+    "objectId": "8997",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Hougang Street 32  534000, Serangoon / Thomson (D19-20)",
+    "displayText": "Parc Vera",
+    "displayType": "Condominium",
+    "nanoId": "01d05f",
+    "objectId": "20783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jurong East Street 32  609477, West (D22-24)",
+    "displayText": "The Mayfair",
+    "displayType": "Condominium",
+    "nanoId": "par472",
+    "objectId": "176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "354 Ang Mo Kio Street 32  560354, Serangoon / Thomson (D19-20)",
+    "displayText": "354 Ang Mo Kio Street 32",
+    "displayType": "HDB",
+    "nanoId": "yxlbad",
+    "objectId": "3273",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "350 Ang Mo Kio Street 32  560350, Serangoon / Thomson (D19-20)",
+    "displayText": "350 Ang Mo Kio Street 32",
+    "displayType": "HDB",
+    "nanoId": "8uqmzx",
+    "objectId": "3269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "351 Ang Mo Kio Street 32  560351, Serangoon / Thomson (D19-20)",
+    "displayText": "351 Ang Mo Kio Street 32",
+    "displayType": "HDB",
+    "nanoId": "xpd4pf",
+    "objectId": "3270",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "352 Ang Mo Kio Street 32  560352, Serangoon / Thomson (D19-20)",
+    "displayText": "352 Ang Mo Kio Street 32",
+    "displayType": "HDB",
+    "nanoId": "xq8pgq",
+    "objectId": "3271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "353 Ang Mo Kio Street 32  560353, Serangoon / Thomson (D19-20)",
+    "displayText": "353 Ang Mo Kio Street 32",
+    "displayType": "HDB",
+    "nanoId": "weoztq",
+    "objectId": "3272",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "1"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "73A Telok Blangah Street 32  101073, City & South West (D01-08)",
+    "displayText": "73A Telok Blangah Street 32",
+    "displayType": "HDB",
+    "nanoId": "9nhvgf",
+    "objectId": "11477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "78A Telok Blangah Street 32  101078, City & South West (D01-08)",
+    "displayText": "78A Telok Blangah Street 32",
+    "displayType": "HDB",
+    "nanoId": "myvvk3",
+    "objectId": "11478",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "320 Woodlands Street 32  730320, North (D25-28)",
+    "displayText": "320 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "q2nbk0",
+    "objectId": "12306",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Woodlands Street 32  730321, North (D25-28)",
+    "displayText": "321 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "779hio",
+    "objectId": "12307",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "322 Woodlands Street 32  730322, North (D25-28)",
+    "displayText": "322 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "ywnwa5",
+    "objectId": "12308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "323 Woodlands Street 32  730323, North (D25-28)",
+    "displayText": "323 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "vi28vh",
+    "objectId": "12309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "324 Woodlands Street 32  730324, North (D25-28)",
+    "displayText": "324 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "f9tzwm",
+    "objectId": "12310",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "325 Woodlands Street 32  730325, North (D25-28)",
+    "displayText": "325 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "sacu5w",
+    "objectId": "12311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "326 Woodlands Street 32  730326, North (D25-28)",
+    "displayText": "326 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "i2nobl",
+    "objectId": "12312",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "328 Woodlands Street 32  730328, North (D25-28)",
+    "displayText": "328 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "2iqdor",
+    "objectId": "12314",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "333 Woodlands Street 32  730333, North (D25-28)",
+    "displayText": "333 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "8br7b2",
+    "objectId": "12316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "334 Woodlands Street 32  730334, North (D25-28)",
+    "displayText": "334 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "da8lci",
+    "objectId": "12317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "335 Woodlands Street 32  730335, North (D25-28)",
+    "displayText": "335 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "vukfft",
+    "objectId": "12318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "344 Woodlands Street 32  730344, North (D25-28)",
+    "displayText": "344 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "n0yn5m",
+    "objectId": "12319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "345 Woodlands Street 32  730345, North (D25-28)",
+    "displayText": "345 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "4sv9g2",
+    "objectId": "12320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "346 Woodlands Street 32  730346, North (D25-28)",
+    "displayText": "346 Woodlands Street 32",
+    "displayType": "HDB",
+    "nanoId": "xv14fg",
+    "objectId": "12321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "372 Jurong East Street 32  600372, West (D22-24)",
+    "displayText": "372 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "qmauef",
+    "objectId": "22308",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "371 Jurong East Street 32  600371, West (D22-24)",
+    "displayText": "371 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "klk4lk",
+    "objectId": "22309",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "373 Jurong East Street 32  600373, West (D22-24)",
+    "displayText": "373 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "z98plt",
+    "objectId": "22310",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "374 Jurong East Street 32  600374, West (D22-24)",
+    "displayText": "374 Jurong East Street 32",
+    "displayType": "HDB",
+    "nanoId": "f6290f",
+    "objectId": "22311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D22",
+      "estateCodes": [
+        "13"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376C Hougang Street 32   533376, Serangoon / Thomson (D19-20)",
+    "displayText": "376C Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "jhff4p",
+    "objectId": "23592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376A Hougang Street 32  531376, Serangoon / Thomson (D19-20)",
+    "displayText": "376A Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "gnwfc6",
+    "objectId": "23953",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376B Hougang Street 32  532376, Serangoon / Thomson (D19-20)",
+    "displayText": "376B Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "h3b94a",
+    "objectId": "23954",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376D Hougang Street 32  537376, Serangoon / Thomson (D19-20)",
+    "displayText": "376D Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "a2cjof",
+    "objectId": "23955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "377B Hougang Street 32  532377, Serangoon / Thomson (D19-20)",
+    "displayText": "377B Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "6sjdkt",
+    "objectId": "25382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

@@ -1,0 +1,1482 @@
+[
+  {
+    "displayText": "Upper Serangoon Crescent",
+    "displayType": "Street",
+    "objectId": "28527",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "24 Upper Serangoon Crescent  534024, Serangoon / Thomson (D19-20)",
+    "displayText": "Riversails",
+    "displayType": "Condominium",
+    "nanoId": "lcxu3g",
+    "objectId": "21301",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "475A Upper Serangoon Crescent  531475, Serangoon / Thomson (D19-20)",
+    "displayText": "475A Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "9xz56q",
+    "objectId": "20890",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "475B Upper Serangoon Crescent  532475, Serangoon / Thomson (D19-20)",
+    "displayText": "475B Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "gmuzth",
+    "objectId": "23495",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470C Upper Serangoon Crescent  533470, Serangoon / Thomson (D19-20)",
+    "displayText": "470C Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "7dn4kn",
+    "objectId": "21906",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471B Upper Serangoon Crescent  532471, Serangoon / Thomson (D19-20)",
+    "displayText": "471B Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "kdm1yk",
+    "objectId": "22206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471A Upper Serangoon Crescent  531471, Serangoon / Thomson (D19-20)",
+    "displayText": "471A Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "t6whkd",
+    "objectId": "22225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "473C Upper Serangoon Crescent  533473, Serangoon / Thomson (D19-20)",
+    "displayText": "473C Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "wm67j5",
+    "objectId": "22513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "473A Upper Serangoon Crescent  531473, Serangoon / Thomson (D19-20)",
+    "displayText": "473A Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "3yzq35",
+    "objectId": "22514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "473B Upper Serangoon Crescent  532473, Serangoon / Thomson (D19-20)",
+    "displayText": "473B Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "7mm9th",
+    "objectId": "22515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "473D Upper Serangoon Crescent  538473, Serangoon / Thomson (D19-20)",
+    "displayText": "473D Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "coe42m",
+    "objectId": "22516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "474 Upper Serangoon Crescent  530474, Serangoon / Thomson (D19-20)",
+    "displayText": "474 Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "0k1qxh",
+    "objectId": "22517",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470A Upper Serangoon Crescent  531470, Serangoon / Thomson (D19-20)",
+    "displayText": "470A Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "r11lu0",
+    "objectId": "23142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "470B Upper Serangoon Crescent  532470, Serangoon / Thomson (D19-20)",
+    "displayText": "470B Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "32yng2",
+    "objectId": "23143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "471 Upper Serangoon Crescent  530471, Serangoon / Thomson (D19-20)",
+    "displayText": "471 Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "km48pt",
+    "objectId": "23144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "475C Upper Serangoon Crescent  533475, Serangoon / Thomson (D19-20)",
+    "displayText": "475C Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "p7v4z7",
+    "objectId": "23496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "475D Upper Serangoon Crescent  537475, Serangoon / Thomson (D19-20)",
+    "displayText": "475D Upper Serangoon Crescent",
+    "displayType": "HDB",
+    "nanoId": "3nwduv",
+    "objectId": "23497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Upper Paya Lebar Crescent",
+    "displayType": "Street",
+    "objectId": "7877",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "17 Upper East Coast Road  455208, East Coast (D15-16)",
+    "displayText": "Crescendo Building",
+    "displayType": "Apartment",
+    "nanoId": "oidnai",
+    "objectId": "1846",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "239 Upper Paya Lebar Road  533866, Serangoon / Thomson (D19-20)",
+    "displayText": "Botanique at Bartley",
+    "displayType": "Condominium",
+    "nanoId": "1ukoq7",
+    "objectId": "22082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "84 Upper Serangoon View  533876, Serangoon / Thomson (D19-20)",
+    "displayText": "Kingsford Waterbay",
+    "displayType": "Condominium",
+    "nanoId": "deb1k2",
+    "objectId": "22069",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Serangoon View  530000, Serangoon / Thomson (D19-20)",
+    "displayText": "Heron Bay",
+    "displayType": "Executive Condominium",
+    "nanoId": "k08vef",
+    "objectId": "21335",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "984 Upper Serangoon Road  533854, Serangoon / Thomson (D19-20)",
+    "displayText": "Stars of Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ohgzu6",
+    "objectId": "22474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33 Upper Serangoon View  534042, Serangoon / Thomson (D19-20)",
+    "displayText": "Boathouse Residences",
+    "displayType": "Condominium",
+    "nanoId": "xe8ffw",
+    "objectId": "20733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Upper Serangoon View  534198, Serangoon / Thomson (D19-20)",
+    "displayText": "Rio Vista",
+    "displayType": "Condominium",
+    "nanoId": "9lujzs",
+    "objectId": "240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1189 Upper Serangoon Road  534785, Serangoon / Thomson (D19-20)",
+    "displayText": "Midtown Residences",
+    "displayType": "Condominium",
+    "nanoId": "tzdnhn",
+    "objectId": "21584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "97A Upper Thomson Road  574327, Serangoon / Thomson (D19-20)",
+    "displayText": "Lakeview Estate",
+    "displayType": "Apartment",
+    "nanoId": "1l7vbb",
+    "objectId": "938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "420 Upper Paya Lebar Road  534049, Serangoon / Thomson (D19-20)",
+    "displayText": "Suites @ Paya Lebar",
+    "displayType": "Condominium",
+    "nanoId": "b2zmgk",
+    "objectId": "20732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311 Upper Thomson Road  574409, Serangoon / Thomson (D19-20)",
+    "displayText": "Three 11",
+    "displayType": "Apartment",
+    "nanoId": "89xg9d",
+    "objectId": "21667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "571 Upper Serangoon Road  534798, Serangoon / Thomson (D19-20)",
+    "displayText": "The Yardley",
+    "displayType": "Condominium",
+    "nanoId": "eigt4j",
+    "objectId": "1259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Upper Thomson Road  574424, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Imperial Court",
+    "displayType": "Condominium",
+    "nanoId": "snyroc",
+    "objectId": "1393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "767 Upper Serangoon Road  534635, Serangoon / Thomson (D19-20)",
+    "displayText": "Spazio @ Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ggjikb",
+    "objectId": "21465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "389 Upper Paya Lebar Road  534979, Serangoon / Thomson (D19-20)",
+    "displayText": "Evania",
+    "displayType": "Apartment",
+    "nanoId": "s8odl6",
+    "objectId": "1283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "803 Upper Serangoon Road  534163, Serangoon / Thomson (D19-20)",
+    "displayText": "D'Pavilion",
+    "displayType": "Apartment",
+    "nanoId": "7li4jy",
+    "objectId": "1490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "357 Upper Paya Lebar Road  534959, Serangoon / Thomson (D19-20)",
+    "displayText": "Fragrant Gardens",
+    "displayType": "Condominium",
+    "nanoId": "7wxtrq",
+    "objectId": "1938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "355 Upper Paya Lebar Road  534958, Serangoon / Thomson (D19-20)",
+    "displayText": "The Vue",
+    "displayType": "Condominium",
+    "nanoId": "g3lhsz",
+    "objectId": "20705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "831 Upper Serangoon Road  534679, Serangoon / Thomson (D19-20)",
+    "displayText": "Park Residences Kovan",
+    "displayType": "Condominium",
+    "nanoId": "hzl62n",
+    "objectId": "20754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "528 Upper Serangoon Road  534543, Serangoon / Thomson (D19-20)",
+    "displayText": "Presto @ Upper Serangoon",
+    "displayType": "Condominium",
+    "nanoId": "yt3bs6",
+    "objectId": "21214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "488 Upper Serangoon Road  534519, Serangoon / Thomson (D19-20)",
+    "displayText": "Vibes @ Upper Serangoon",
+    "displayType": "Apartment",
+    "nanoId": "ijqf59",
+    "objectId": "21245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Old Upper Thomson Road  573868, Serangoon / Thomson (D19-20)",
+    "displayText": "Adana @ Thomson",
+    "displayType": "Condominium",
+    "nanoId": "ec42zx",
+    "objectId": "22118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "183 Upper Thomson Road  574332, Serangoon / Thomson (D19-20)",
+    "displayText": "183 Longhaus",
+    "displayType": "Condominium",
+    "nanoId": "geha3f",
+    "objectId": "22438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "365B Upper Serangoon Road  532365, Serangoon / Thomson (D19-20)",
+    "displayText": "365B Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "1bdtsk",
+    "objectId": "22842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "557 Upper Thomson Road  574418, Serangoon / Thomson (D19-20)",
+    "displayText": "Peirce View",
+    "displayType": "Condominium",
+    "nanoId": "dht1b3",
+    "objectId": "854",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Upper Serangoon View",
+    "displayType": "Street",
+    "objectId": "10509",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Serangoon Road",
+    "displayType": "Street",
+    "objectId": "10646",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "464 Upper Serangoon Road  530464, Serangoon / Thomson (D19-20)",
+    "displayText": "464 Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "mo8owl",
+    "objectId": "11681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "465 Upper Serangoon Road  530465, Serangoon / Thomson (D19-20)",
+    "displayText": "465 Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "z6fgej",
+    "objectId": "11682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "465A Upper Serangoon Road  531465, Serangoon / Thomson (D19-20)",
+    "displayText": "465A Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "xmxmyb",
+    "objectId": "11683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "815 Upper Serangoon Road  534676, Serangoon / Thomson (D19-20)",
+    "displayText": "Grand Regalia",
+    "displayType": "Apartment",
+    "nanoId": "08qt9s",
+    "objectId": "1462",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "371 Upper Paya Lebar Road  534969, Serangoon / Thomson (D19-20)",
+    "displayText": "Yi Kai Court",
+    "displayType": "Apartment",
+    "nanoId": "qv2st2",
+    "objectId": "1608",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "391 Upper Paya Lebar Road  534981, Serangoon / Thomson (D19-20)",
+    "displayText": "Calisay",
+    "displayType": "Condominium",
+    "nanoId": "73as2g",
+    "objectId": "1683",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "981 Upper Serangoon Road  534729, Serangoon / Thomson (D19-20)",
+    "displayText": "Suites @ Kovan",
+    "displayType": "Condominium",
+    "nanoId": "bgt1gs",
+    "objectId": "20624",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "813 Upper Serangoon Road  534085, Serangoon / Thomson (D19-20)",
+    "displayText": "Sanctuary @813",
+    "displayType": "Apartment",
+    "nanoId": "p68m26",
+    "objectId": "20716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "780 Upper Serangoon Road  534649, Serangoon / Thomson (D19-20)",
+    "displayText": "Choon Kim House",
+    "displayType": "Apartment",
+    "nanoId": "8je5mn",
+    "objectId": "20786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "873A Upper Serangoon Road  534700, Serangoon / Thomson (D19-20)",
+    "displayText": "Lowland Court",
+    "displayType": "Apartment",
+    "nanoId": "00q3m0",
+    "objectId": "20962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Paya Lebar Road  534000, Serangoon / Thomson (D19-20)",
+    "displayText": "Paya Lebar Gardens",
+    "displayType": "Terraced House",
+    "nanoId": "mrl372",
+    "objectId": "21006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "777 Upper Serangoon Road  534645, Serangoon / Thomson (D19-20)",
+    "displayText": "Sai Ho Building",
+    "displayType": "Apartment",
+    "nanoId": "uwecgh",
+    "objectId": "21023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Serangoon Road  534000, Serangoon / Thomson (D19-20)",
+    "displayText": "Silver Hill",
+    "displayType": "Terraced House",
+    "nanoId": "4jy4g2",
+    "objectId": "21043",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Upper Serangoon Road  534000, Serangoon / Thomson (D19-20)",
+    "displayText": "Surin Villas",
+    "displayType": "Terraced House",
+    "nanoId": "qbb9yj",
+    "objectId": "21067",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "343 Upper Paya Lebar Road  534954, Serangoon / Thomson (D19-20)",
+    "displayText": "La Dolce Vita",
+    "displayType": "Condominium",
+    "nanoId": "rxxphz",
+    "objectId": "2115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "398 Upper Paya Lebar Road  534986, Serangoon / Thomson (D19-20)",
+    "displayText": "Prestige Point",
+    "displayType": "Apartment",
+    "nanoId": "itcyiv",
+    "objectId": "21848",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "477C Upper Serangoon View  533477, Serangoon / Thomson (D19-20)",
+    "displayText": "477C Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "sxac09",
+    "objectId": "22123",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "476A Upper Serangoon View  531476, Serangoon / Thomson (D19-20)",
+    "displayText": "476A Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "0i8b47",
+    "objectId": "22189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "476B Upper Serangoon View  532476, Serangoon / Thomson (D19-20)",
+    "displayText": "476B Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "izrz47",
+    "objectId": "22190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "476C Upper Serangoon View  533476, Serangoon / Thomson (D19-20)",
+    "displayText": "476C Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "77o9qa",
+    "objectId": "22268",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "476D Upper Serangoon View  537476, Serangoon / Thomson (D19-20)",
+    "displayText": "476D Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "pwb5wx",
+    "objectId": "22269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "477A Upper Serangoon View  531477, Serangoon / Thomson (D19-20)",
+    "displayText": "477A Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "soed8z",
+    "objectId": "22270",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "477B Upper Serangoon View  532477, Serangoon / Thomson (D19-20)",
+    "displayText": "477B Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "tb5p3b",
+    "objectId": "22271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "477 Upper Serangoon View  530477, Serangoon / Thomson (D19-20)",
+    "displayText": "477 Upper Serangoon View",
+    "displayType": "HDB",
+    "nanoId": "lklm7v",
+    "objectId": "22272",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "364A Upper Serangoon Road  531364, Serangoon / Thomson (D19-20)",
+    "displayText": "364A Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "omvfie",
+    "objectId": "22839",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365A Upper Serangoon Road  531365, Serangoon / Thomson (D19-20)",
+    "displayText": "365A Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "3a043m",
+    "objectId": "22840",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "364B Upper Serangoon Road  532364, Serangoon / Thomson (D19-20)",
+    "displayText": "364B Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "jr0svk",
+    "objectId": "22841",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "365C Upper Serangoon Road  533365, Serangoon / Thomson (D19-20)",
+    "displayText": "365C Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "hgepv9",
+    "objectId": "22843",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Upper Serangoon Road  534530, Serangoon / Thomson (D19-20)",
+    "displayText": "Sunshine Lodge",
+    "displayType": "Condominium",
+    "nanoId": "pwc55m",
+    "objectId": "2449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "296 Upper Paya Lebar Road  534930, Serangoon / Thomson (D19-20)",
+    "displayText": "Tai Keng Shopping Centre",
+    "displayType": "Apartment",
+    "nanoId": "w5rojm",
+    "objectId": "2456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1011 Upper Serangoon Road  534749, Serangoon / Thomson (D19-20)",
+    "displayText": "The Old House",
+    "displayType": "Apartment",
+    "nanoId": "gebmsl",
+    "objectId": "24607",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "365D Upper Serangoon Road  537365, Serangoon / Thomson (D19-20)",
+    "displayText": "365D Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "ip9tta",
+    "objectId": "24646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418  Upper Paya Lebar Road  534996, Serangoon / Thomson (D19-20)",
+    "displayText": "Charles Ville",
+    "displayType": "Apartment",
+    "nanoId": "n5d407",
+    "objectId": "25173",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311 Upper Thomson Road  574409, Serangoon / Thomson (D19-20)",
+    "displayText": "Jasmine Court",
+    "displayType": "Condominium",
+    "nanoId": "r6yq1u",
+    "objectId": "25197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1019 Upper Serangoon Road  534757, Serangoon / Thomson (D19-20)",
+    "displayText": "1019 Upper Serangoon Road",
+    "displayType": "Apartment",
+    "nanoId": "8utod3",
+    "objectId": "25258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "780 Upper Serangoon Road   534649, Serangoon / Thomson (D19-20)",
+    "displayText": "USR Junction",
+    "displayType": "Apartment",
+    "nanoId": "d9w7kw",
+    "objectId": "25934",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1017 Upper Serangoon Road  534755, Serangoon / Thomson (D19-20)",
+    "displayText": "1017 Upper Serangoon Road",
+    "displayType": "Apartment",
+    "nanoId": "ivk62f",
+    "objectId": "26011",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        ""
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Anchorvale Crescent  544614, Serangoon / Thomson (D19-20)",
+    "displayText": "Treasure Crest",
+    "displayType": "Executive Condominium",
+    "nanoId": "yl1pbc",
+    "objectId": "22591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Anchorvale Crescent  544649, Serangoon / Thomson (D19-20)",
+    "displayText": "Bellewaters",
+    "displayType": "Executive Condominium",
+    "nanoId": "yhjkpn",
+    "objectId": "22000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "79 Anchorvale Crescent  544624, Serangoon / Thomson (D19-20)",
+    "displayText": "The Vales",
+    "displayType": "Condominium",
+    "nanoId": "zxij9z",
+    "objectId": "22100",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Anchorvale Crescent  544558, Serangoon / Thomson (D19-20)",
+    "displayText": "OLA",
+    "displayType": "Executive Condominium",
+    "nanoId": "vtix9b",
+    "objectId": "23864",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Rivervale Crescent  545084, Serangoon / Thomson (D19-20)",
+    "displayText": "Rivervale Crest",
+    "displayType": "Condominium",
+    "nanoId": "4vn9ls",
+    "objectId": "289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Paya Lebar Crescent  534239, Serangoon / Thomson (D19-20)",
+    "displayText": "Tangerine Grove",
+    "displayType": "Condominium",
+    "nanoId": "lptvdf",
+    "objectId": "375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "338A Anchorvale Crescent  541338, Serangoon / Thomson (D19-20)",
+    "displayText": "338A Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "qbm25o",
+    "objectId": "20612",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Robey Crescent  546256, Serangoon / Thomson (D19-20)",
+    "displayText": "One Robey",
+    "displayType": "Condominium",
+    "nanoId": "dvidyk",
+    "objectId": "21357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "334B Anchorvale Crescent  542334, Serangoon / Thomson (D19-20)",
+    "displayText": "334B Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "14febn",
+    "objectId": "22199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1 Seraya Crescent  575811, Serangoon / Thomson (D19-20)",
+    "displayText": "Lattice One",
+    "displayType": "Condominium",
+    "nanoId": "k08dfn",
+    "objectId": "23758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "997B Buangkok Crescent  532997, Serangoon / Thomson (D19-20)",
+    "displayText": "997B Buangkok Crescent",
+    "displayType": "HDB",
+    "nanoId": "wgcpfk",
+    "objectId": "24438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "338B Anchorvale Crescent  542338, Serangoon / Thomson (D19-20)",
+    "displayText": "338B Anchorvale Crescent",
+    "displayType": "HDB",
+    "nanoId": "jnw8ge",
+    "objectId": "1343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "61 - 61K Paya Lebar Crescent  534210, Serangoon / Thomson (D19-20)",
+    "displayText": "TRUSSVILLE",
+    "displayType": "Condominium",
+    "nanoId": "gnfp01",
+    "objectId": "1588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31A Brighton Crescent  554720, Serangoon / Thomson (D19-20)",
+    "displayText": "Brighton Crest",
+    "displayType": "Cluster House",
+    "nanoId": "9lfspf",
+    "objectId": "1668",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12A Bright Hill Crescent  573983, Serangoon / Thomson (D19-20)",
+    "displayText": "Centurion 12",
+    "displayType": "Cluster House",
+    "nanoId": "7u2w8m",
+    "objectId": "1722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "63 Paya Lebar Crescent  536139, Serangoon / Thomson (D19-20)",
+    "displayText": "Hua Court",
+    "displayType": "Apartment",
+    "nanoId": "37wux8",
+    "objectId": "2041",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Robey Crescent  546290, Serangoon / Thomson (D19-20)",
+    "displayText": "D'Zire",
+    "displayType": "Condominium",
+    "nanoId": "qnozqq",
+    "objectId": "20806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60E Paya Lebar Crescent, Singapore  534113, Serangoon / Thomson (D19-20)",
+    "displayText": "Aston Green",
+    "displayType": "Cluster House",
+    "nanoId": "lsdb1v",
+    "objectId": "20827",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

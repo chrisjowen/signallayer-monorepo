@@ -1,0 +1,1524 @@
+[
+  {
+    "displayText": "Lorong 3 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10460",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Lorong 3 Toa Payoh  319581, Balestier / Geylang (D12-14)",
+    "displayText": "Trevista",
+    "displayType": "Condominium",
+    "nanoId": "22x4ye",
+    "objectId": "1573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "91 Lorong 3 Toa Payoh  310091, Balestier / Geylang (D12-14)",
+    "displayText": "91 Lorong 3 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "3jvvqq",
+    "objectId": "8294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96 Lorong 3 Toa Payoh  310096, Balestier / Geylang (D12-14)",
+    "displayText": "96 Lorong 3 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "v9oz0l",
+    "objectId": "8295",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "97 Lorong 3 Toa Payoh  310097, Balestier / Geylang (D12-14)",
+    "displayText": "97 Lorong 3 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "idsxr6",
+    "objectId": "8296",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Lorong 7 Toa Payoh  310003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Lorong 7 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "y9svti",
+    "objectId": "8371",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Lorong 4 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10319",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong 8 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10396",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong 2 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10523",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong 5 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10347",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong 1 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10376",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong 6 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10413",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Lorong 7 Toa Payoh",
+    "displayType": "Street",
+    "objectId": "10888",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "700 Toa Payoh Lorong 1  319773, Balestier / Geylang (D12-14)",
+    "displayText": "Trellis Towers",
+    "displayType": "Condominium",
+    "nanoId": "rjxv2r",
+    "objectId": "432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "911 Lorong 1 Toa Payoh  319771, Balestier / Geylang (D12-14)",
+    "displayText": "Oleander Towers",
+    "displayType": "Apartment",
+    "nanoId": "1fb3bk",
+    "objectId": "303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "138A Lorong 1A Toa Payoh  311138, Balestier / Geylang (D12-14)",
+    "displayText": "138A Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "6rwg6m",
+    "objectId": "1579",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130A Lorong 1 Toa Payoh  311130, Balestier / Geylang (D12-14)",
+    "displayText": "130A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "w0v7mq",
+    "objectId": "23087",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130B Lorong 1 Toa Payoh  312130, Balestier / Geylang (D12-14)",
+    "displayText": "130B Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "ksnnix",
+    "objectId": "23088",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131A Lorong 1 Toa Payoh  311131, Balestier / Geylang (D12-14)",
+    "displayText": "131A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "ds648o",
+    "objectId": "23091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131B Lorong 1 Toa Payoh  312131, Balestier / Geylang (D12-14)",
+    "displayText": "131B Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "bvgwqs",
+    "objectId": "23092",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138B Lorong 1A Toa Payoh  312138, Balestier / Geylang (D12-14)",
+    "displayText": "138B Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "8xjnsv",
+    "objectId": "23700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138C Lorong 1A Toa Payoh  313138, Balestier / Geylang (D12-14)",
+    "displayText": "138C Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "fklzlp",
+    "objectId": "23701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139A Lorong 1A Toa Payoh  311139, Balestier / Geylang (D12-14)",
+    "displayText": "139A Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "g5yk65",
+    "objectId": "23703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139B Lorong 1A Toa Payoh  312139, Balestier / Geylang (D12-14)",
+    "displayText": "139B Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "9tpbvm",
+    "objectId": "23704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "173 Lorong 1 Toa Payoh  310173, Balestier / Geylang (D12-14)",
+    "displayText": "173 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "vhofun",
+    "objectId": "8240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "121 Lorong 2 Toa Payoh  310121, Balestier / Geylang (D12-14)",
+    "displayText": "121 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "8tuyh1",
+    "objectId": "8260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "122 Lorong 2 Toa Payoh  310122, Balestier / Geylang (D12-14)",
+    "displayText": "122 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "zjl40d",
+    "objectId": "8261",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Lorong 2 Toa Payoh  310152, Balestier / Geylang (D12-14)",
+    "displayText": "152 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "yts1uk",
+    "objectId": "8269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "99A Lorong 2 Toa Payoh  310099, Balestier / Geylang (D12-14)",
+    "displayText": "99A Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "dg0t15",
+    "objectId": "20526",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "130C Lorong 1 Toa Payoh  313130, Balestier / Geylang (D12-14)",
+    "displayText": "130C Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "lz6n5e",
+    "objectId": "23089",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Lorong 1 Toa Payoh  310131, Balestier / Geylang (D12-14)",
+    "displayText": "131 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "ot6252",
+    "objectId": "23090",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131C Lorong 1 Toa Payoh  313131, Balestier / Geylang (D12-14)",
+    "displayText": "131C Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "fkrxec",
+    "objectId": "23093",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "85 Lorong 4 Toa Payoh  310085, Balestier / Geylang (D12-14)",
+    "displayText": "85 Lorong 4 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "kalyvn",
+    "objectId": "23189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Lorong 1A Toa Payoh  310139, Balestier / Geylang (D12-14)",
+    "displayText": "139 Lorong 1A Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "gbuxps",
+    "objectId": "23702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "Blk 2 Lorong 7 Toa Payoh  310002, Balestier / Geylang (D12-14)",
+    "displayText": "Kim Keat Court",
+    "displayType": "HDB",
+    "nanoId": "l4y1aw",
+    "objectId": "24755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Lorong 5 Toa Payoh  310049, Balestier / Geylang (D12-14)",
+    "displayText": "East Payoh Palm",
+    "displayType": "HDB",
+    "nanoId": "djtgaq",
+    "objectId": "24913",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98 Lorong 1 Toa Payoh  310098, Balestier / Geylang (D12-14)",
+    "displayText": "98 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "3u57ol",
+    "objectId": "8200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "100 Lorong 1 Toa Payoh  310100, Balestier / Geylang (D12-14)",
+    "displayText": "100 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "zm0ksk",
+    "objectId": "8201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Lorong 1 Toa Payoh  310103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "up8wb0",
+    "objectId": "8202",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Lorong 1 Toa Payoh  310104, Balestier / Geylang (D12-14)",
+    "displayText": "104 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "dnhjau",
+    "objectId": "8203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Lorong 1 Toa Payoh  310105, Balestier / Geylang (D12-14)",
+    "displayText": "105 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "bqi2o7",
+    "objectId": "8204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Lorong 1 Toa Payoh  310106, Balestier / Geylang (D12-14)",
+    "displayText": "106 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "yd9jof",
+    "objectId": "8205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Lorong 1 Toa Payoh  310107, Balestier / Geylang (D12-14)",
+    "displayText": "107 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "rn1ych",
+    "objectId": "8206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Lorong 1 Toa Payoh  310108, Balestier / Geylang (D12-14)",
+    "displayText": "108 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "fglxt4",
+    "objectId": "8207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Lorong 1 Toa Payoh  310109, Balestier / Geylang (D12-14)",
+    "displayText": "109 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "obcdgc",
+    "objectId": "8208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Lorong 1 Toa Payoh  310110, Balestier / Geylang (D12-14)",
+    "displayText": "110 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "4vw3re",
+    "objectId": "8209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Lorong 1 Toa Payoh  310111, Balestier / Geylang (D12-14)",
+    "displayText": "111 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "mctlw7",
+    "objectId": "8210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Lorong 1 Toa Payoh  310112, Balestier / Geylang (D12-14)",
+    "displayText": "112 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "b7gpzk",
+    "objectId": "8211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "113 Lorong 1 Toa Payoh  310113, Balestier / Geylang (D12-14)",
+    "displayText": "113 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "6hq11b",
+    "objectId": "8212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Lorong 1 Toa Payoh  310114, Balestier / Geylang (D12-14)",
+    "displayText": "114 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "bhmhqa",
+    "objectId": "8213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Lorong 1 Toa Payoh  310115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "7sskbh",
+    "objectId": "8214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Lorong 1 Toa Payoh  310117, Balestier / Geylang (D12-14)",
+    "displayText": "117 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "xwknmk",
+    "objectId": "8215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Lorong 1 Toa Payoh  310118, Balestier / Geylang (D12-14)",
+    "displayText": "118 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "nd1nqe",
+    "objectId": "8216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Lorong 1 Toa Payoh  310119, Balestier / Geylang (D12-14)",
+    "displayText": "119 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "aswvg6",
+    "objectId": "8217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "123 Lorong 1 Toa Payoh  310123, Balestier / Geylang (D12-14)",
+    "displayText": "123 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "3plf80",
+    "objectId": "8218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "124 Lorong 1 Toa Payoh  310124, Balestier / Geylang (D12-14)",
+    "displayText": "124 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "lxc5om",
+    "objectId": "8219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Lorong 1 Toa Payoh  310125, Balestier / Geylang (D12-14)",
+    "displayText": "125 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "8w8d4t",
+    "objectId": "8220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Lorong 1 Toa Payoh  310126, Balestier / Geylang (D12-14)",
+    "displayText": "126 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "jf3gd5",
+    "objectId": "8221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "127 Lorong 1 Toa Payoh  310127, Balestier / Geylang (D12-14)",
+    "displayText": "127 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "az3tb2",
+    "objectId": "8222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128 Lorong 1 Toa Payoh  310128, Balestier / Geylang (D12-14)",
+    "displayText": "128 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "3adn48",
+    "objectId": "8223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "148 Lorong 1 Toa Payoh  310148, Balestier / Geylang (D12-14)",
+    "displayText": "148 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "yjfeib",
+    "objectId": "8224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "149 Lorong 1 Toa Payoh  310149, Balestier / Geylang (D12-14)",
+    "displayText": "149 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "h7p1db",
+    "objectId": "8225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "150 Lorong 1 Toa Payoh  310150, Balestier / Geylang (D12-14)",
+    "displayText": "150 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "yykj0n",
+    "objectId": "8226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Lorong 1 Toa Payoh  310155, Balestier / Geylang (D12-14)",
+    "displayText": "155 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "ibcet8",
+    "objectId": "8227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Lorong 1 Toa Payoh  310156, Balestier / Geylang (D12-14)",
+    "displayText": "156 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "g2awmb",
+    "objectId": "8228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Lorong 1 Toa Payoh  310157, Balestier / Geylang (D12-14)",
+    "displayText": "157 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "8sbey0",
+    "objectId": "8229",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Lorong 1 Toa Payoh  310158, Balestier / Geylang (D12-14)",
+    "displayText": "158 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "yr4myz",
+    "objectId": "8230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Lorong 1 Toa Payoh  310159, Balestier / Geylang (D12-14)",
+    "displayText": "159 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "ru3xzv",
+    "objectId": "8231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Lorong 1 Toa Payoh  310160, Balestier / Geylang (D12-14)",
+    "displayText": "160 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "e3deo8",
+    "objectId": "8232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Lorong 1 Toa Payoh  310161, Balestier / Geylang (D12-14)",
+    "displayText": "161 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "5efl4r",
+    "objectId": "8233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "163 Lorong 1 Toa Payoh  310163, Balestier / Geylang (D12-14)",
+    "displayText": "163 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "hq3n8v",
+    "objectId": "8234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "168 Lorong 1 Toa Payoh  310168, Balestier / Geylang (D12-14)",
+    "displayText": "168 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "akn0hx",
+    "objectId": "8235",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "169 Lorong 1 Toa Payoh  310169, Balestier / Geylang (D12-14)",
+    "displayText": "169 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "hd3mq3",
+    "objectId": "8236",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "170 Lorong 1 Toa Payoh  310170, Balestier / Geylang (D12-14)",
+    "displayText": "170 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "mace92",
+    "objectId": "8237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171 Lorong 1 Toa Payoh  310171, Balestier / Geylang (D12-14)",
+    "displayText": "171 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "lbjauf",
+    "objectId": "8238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172 Lorong 1 Toa Payoh  310172, Balestier / Geylang (D12-14)",
+    "displayText": "172 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "48x7nv",
+    "objectId": "8239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "174 Lorong 1 Toa Payoh  310174, Balestier / Geylang (D12-14)",
+    "displayText": "174 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "etsm9a",
+    "objectId": "8241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Lorong 1 Toa Payoh  310236, Balestier / Geylang (D12-14)",
+    "displayText": "236 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "efwktm",
+    "objectId": "8242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Lorong 1 Toa Payoh  310237, Balestier / Geylang (D12-14)",
+    "displayText": "237 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "vfu7sc",
+    "objectId": "8243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238 Lorong 1 Toa Payoh  310238, Balestier / Geylang (D12-14)",
+    "displayText": "238 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "z7ihoq",
+    "objectId": "8244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "239 Lorong 1 Toa Payoh  310239, Balestier / Geylang (D12-14)",
+    "displayText": "239 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "wpsyz7",
+    "objectId": "8245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Lorong 1 Toa Payoh  310240, Balestier / Geylang (D12-14)",
+    "displayText": "240 Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "icqxie",
+    "objectId": "8246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110A Lorong 1 Toa Payoh  311110, Balestier / Geylang (D12-14)",
+    "displayText": "110A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "kn0gsb",
+    "objectId": "8247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118A Lorong 1 Toa Payoh  311118, Balestier / Geylang (D12-14)",
+    "displayText": "118A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "b46iyl",
+    "objectId": "8248",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "128A Lorong 1 Toa Payoh  311128, Balestier / Geylang (D12-14)",
+    "displayText": "128A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "4e3gvr",
+    "objectId": "8249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153A Lorong 1 Toa Payoh  311153, Balestier / Geylang (D12-14)",
+    "displayText": "153A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "mxlwnz",
+    "objectId": "8250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156A Lorong 1 Toa Payoh  311156, Balestier / Geylang (D12-14)",
+    "displayText": "156A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "75m9wv",
+    "objectId": "8251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "171A Lorong 1 Toa Payoh  311171, Balestier / Geylang (D12-14)",
+    "displayText": "171A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "dctei5",
+    "objectId": "8253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "172A Lorong 1 Toa Payoh  311172, Balestier / Geylang (D12-14)",
+    "displayText": "172A Lorong 1 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "q9qdkz",
+    "objectId": "8254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "83 Lorong 2 Toa Payoh  310083, Balestier / Geylang (D12-14)",
+    "displayText": "83 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "zotmo3",
+    "objectId": "8255",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Lorong 2 Toa Payoh  310084, Balestier / Geylang (D12-14)",
+    "displayText": "84 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "0g6kum",
+    "objectId": "8256",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86 Lorong 2 Toa Payoh  310086, Balestier / Geylang (D12-14)",
+    "displayText": "86 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "89izf5",
+    "objectId": "8257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Lorong 2 Toa Payoh  310116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "4h4ypf",
+    "objectId": "8258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "120 Lorong 2 Toa Payoh  310120, Balestier / Geylang (D12-14)",
+    "displayText": "120 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "brhzrr",
+    "objectId": "8259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "141 Lorong 2 Toa Payoh  311141, Balestier / Geylang (D12-14)",
+    "displayText": "141 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "3hz71b",
+    "objectId": "8262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "142 Lorong 2 Toa Payoh  310142, Balestier / Geylang (D12-14)",
+    "displayText": "142 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "gvxdju",
+    "objectId": "8263",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "143 Lorong 2 Toa Payoh  310143, Balestier / Geylang (D12-14)",
+    "displayText": "143 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "xzb9sq",
+    "objectId": "8264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "144 Lorong 2 Toa Payoh  310144, Balestier / Geylang (D12-14)",
+    "displayText": "144 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "wumvky",
+    "objectId": "8265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "145 Lorong 2 Toa Payoh  310145, Balestier / Geylang (D12-14)",
+    "displayText": "145 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "o1pv27",
+    "objectId": "8266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "146 Lorong 2 Toa Payoh  310146, Balestier / Geylang (D12-14)",
+    "displayText": "146 Lorong 2 Toa Payoh",
+    "displayType": "HDB",
+    "nanoId": "dc0k7i",
+    "objectId": "8267",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

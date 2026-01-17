@@ -1,0 +1,1549 @@
+[
+  {
+    "displayDescription": "50 Bukit Batok East Avenue 5  659801, West (D22-24)",
+    "displayText": "Regent Heights",
+    "displayType": "Condominium",
+    "nanoId": "q0l9o3",
+    "objectId": "187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "231 Bukit Batok East Avenue 5  650231, West (D22-24)",
+    "displayText": "231 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "yqad7c",
+    "objectId": "4221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "232 Bukit Batok East Avenue 5  650232, West (D22-24)",
+    "displayText": "232 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "hzoq56",
+    "objectId": "4222",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "233 Bukit Batok East Avenue 5  650233, West (D22-24)",
+    "displayText": "233 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "w71i91",
+    "objectId": "4223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "234 Bukit Batok East Avenue 5  650234, West (D22-24)",
+    "displayText": "234 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "1u79z9",
+    "objectId": "4224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "235 Bukit Batok East Avenue 5  650235, West (D22-24)",
+    "displayText": "235 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "v1qgwv",
+    "objectId": "4225",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Bukit Batok East Avenue 5  650236, West (D22-24)",
+    "displayText": "236 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "9evqf8",
+    "objectId": "4226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Bukit Batok East Avenue 5  650237, West (D22-24)",
+    "displayText": "237 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "exfpt7",
+    "objectId": "4227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238 Bukit Batok East Avenue 5  650238, West (D22-24)",
+    "displayText": "238 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "lr7ix0",
+    "objectId": "4228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "239 Bukit Batok East Avenue 5  650239, West (D22-24)",
+    "displayText": "239 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "3zycji",
+    "objectId": "4229",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Bukit Batok East Avenue 5  650240, West (D22-24)",
+    "displayText": "240 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "cyyvhq",
+    "objectId": "4230",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Bukit Batok East Avenue 5  650241, West (D22-24)",
+    "displayText": "241 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "mjcrlj",
+    "objectId": "4231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Bukit Batok East Avenue 5  650242, West (D22-24)",
+    "displayText": "242 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "v9vcbs",
+    "objectId": "4232",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Bukit Batok East Avenue 5  650243, West (D22-24)",
+    "displayText": "243 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "ndh137",
+    "objectId": "4233",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Bukit Batok East Avenue 5  650244, West (D22-24)",
+    "displayText": "244 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "s41no7",
+    "objectId": "4234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246 Bukit Batok East Avenue 5  650246, West (D22-24)",
+    "displayText": "246 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "e5yg7w",
+    "objectId": "4236",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "247 Bukit Batok East Avenue 5  650247, West (D22-24)",
+    "displayText": "247 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "fshpzp",
+    "objectId": "4237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "248 Bukit Batok East Avenue 5  650248, West (D22-24)",
+    "displayText": "248 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "hehw5f",
+    "objectId": "4238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "249 Bukit Batok East Avenue 5  650249, West (D22-24)",
+    "displayText": "249 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "la0tc3",
+    "objectId": "4239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "250 Bukit Batok East Avenue 5  650250, West (D22-24)",
+    "displayText": "250 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "a9x25o",
+    "objectId": "4240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "251 Bukit Batok East Avenue 5  650251, West (D22-24)",
+    "displayText": "251 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "um3062",
+    "objectId": "4241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "253 Bukit Batok East Avenue 5  650253, West (D22-24)",
+    "displayText": "253 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "d2ccir",
+    "objectId": "4243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Bukit Batok East Avenue 5  650245, West (D22-24)",
+    "displayText": "245 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "7mez4a",
+    "objectId": "4235",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "252 Bukit Batok East Avenue 5  650252, West (D22-24)",
+    "displayText": "252 Bukit Batok East Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "9c7bol",
+    "objectId": "4242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bukit Batok East Avenue 2",
+    "displayType": "Street",
+    "objectId": "7956",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok East Ave 5",
+    "displayType": "Street",
+    "objectId": "5144",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "435A Bukit Batok West Avenue 5  651435, West (D22-24)",
+    "displayText": "435A Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "oss49z",
+    "objectId": "23746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "435B Bukit Batok West Avenue 5  652435, West (D22-24)",
+    "displayText": "435B Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "ovmxpa",
+    "objectId": "23747",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "435C Bukit Batok West Avenue 5  653435, West (D22-24)",
+    "displayText": "435C Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "nb47ha",
+    "objectId": "23748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "436A Bukit Batok West Avenue 5  651436, West (D22-24)",
+    "displayText": "436A Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "wq1dzu",
+    "objectId": "23749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "437A Bukit Batok West Avenue 5  651437, West (D22-24)",
+    "displayText": "437A Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "m4ajj6",
+    "objectId": "23750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "383 Bukit Batok West Avenue 5  650383, West (D22-24)",
+    "displayText": "383 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "yqnfts",
+    "objectId": "4440",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "384 Bukit Batok West Avenue 5  650384, West (D22-24)",
+    "displayText": "384 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "lva18a",
+    "objectId": "4441",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "385 Bukit Batok West Avenue 5  650385, West (D22-24)",
+    "displayText": "385 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "r2l5v9",
+    "objectId": "4442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "386 Bukit Batok West Avenue 5  650386, West (D22-24)",
+    "displayText": "386 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "j0b45f",
+    "objectId": "4443",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "387 Bukit Batok West Avenue 5  650387, West (D22-24)",
+    "displayText": "387 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "n56kua",
+    "objectId": "4444",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "388 Bukit Batok West Avenue 5  650388, West (D22-24)",
+    "displayText": "388 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "n1bglr",
+    "objectId": "4445",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "389 Bukit Batok West Avenue 5  650389, West (D22-24)",
+    "displayText": "389 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "dddyh4",
+    "objectId": "4446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "390 Bukit Batok West Avenue 5  650390, West (D22-24)",
+    "displayText": "390 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "sb1p34",
+    "objectId": "4447",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "391 Bukit Batok West Avenue 5  650391, West (D22-24)",
+    "displayText": "391 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "bl223g",
+    "objectId": "4448",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "392 Bukit Batok West Avenue 5  650392, West (D22-24)",
+    "displayText": "392 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "f4bcws",
+    "objectId": "4449",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "393 Bukit Batok West Avenue 5  650393, West (D22-24)",
+    "displayText": "393 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "yaou1n",
+    "objectId": "4450",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "394 Bukit Batok West Avenue 5  650394, West (D22-24)",
+    "displayText": "394 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "r2tvdi",
+    "objectId": "4451",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "395 Bukit Batok West Avenue 5  650395, West (D22-24)",
+    "displayText": "395 Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "ch64x5",
+    "objectId": "4452",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "383A Bukit Batok West Avenue 5  651383, West (D22-24)",
+    "displayText": "383A Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "35pxy2",
+    "objectId": "4453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "388A Bukit Batok West Avenue 5  651388, West (D22-24)",
+    "displayText": "388A Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "my4bj3",
+    "objectId": "4454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "391A Bukit Batok West Avenue 5  651391, West (D22-24)",
+    "displayText": "391A Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "b4kyve",
+    "objectId": "4455",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "395A Bukit Batok West Avenue 5  651395, West (D22-24)",
+    "displayText": "395A Bukit Batok West Avenue 5",
+    "displayType": "HDB",
+    "nanoId": "j9y1ob",
+    "objectId": "4456",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 Bukit Batok East Avenue 2  659920, West (D22-24)",
+    "displayText": "Hillview Regency",
+    "displayType": "Condominium",
+    "nanoId": "kw2stx",
+    "objectId": "162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Bukit Batok East Avenue 6  659763, West (D22-24)",
+    "displayText": "Park Natura",
+    "displayType": "Condominium",
+    "nanoId": "yl2izh",
+    "objectId": "1144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "292B Bukit Batok East Avenue 6  652292, West (D22-24)",
+    "displayText": "292B Bukit Batok East Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "85dqj4",
+    "objectId": "23330",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "292A Bukit Batok East Avenue 6  651292, West (D22-24)",
+    "displayText": "292A Bukit Batok East Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "1zlr69",
+    "objectId": "23329",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "292C Bukit Batok East Avenue 6  653292, West (D22-24)",
+    "displayText": "292C Bukit Batok East Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "vhmz6e",
+    "objectId": "23331",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "292D Bukit Batok East Avenue 6  654292, West (D22-24)",
+    "displayText": "292D Bukit Batok East Avenue 6",
+    "displayType": "HDB",
+    "nanoId": "ssgjgt",
+    "objectId": "23332",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220 Bukit Batok East Avenue 3  650220, West (D22-24)",
+    "displayText": "220 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "l97wtn",
+    "objectId": "4180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221 Bukit Batok East Avenue 3  650221, West (D22-24)",
+    "displayText": "221 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "lcj8cu",
+    "objectId": "4181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222 Bukit Batok East Avenue 3  650222, West (D22-24)",
+    "displayText": "222 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "midzab",
+    "objectId": "4182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "223 Bukit Batok East Avenue 3  650223, West (D22-24)",
+    "displayText": "223 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "8keftf",
+    "objectId": "4183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "229 Bukit Batok East Avenue 3  650229, West (D22-24)",
+    "displayText": "229 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "nrs9bv",
+    "objectId": "4184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230 Bukit Batok East Avenue 3  650230, West (D22-24)",
+    "displayText": "230 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "x18c1u",
+    "objectId": "4185",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "277 Bukit Batok East Avenue 3  650277, West (D22-24)",
+    "displayText": "277 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "nt5vx4",
+    "objectId": "4186",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "278 Bukit Batok East Avenue 3  650278, West (D22-24)",
+    "displayText": "278 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ydy9b0",
+    "objectId": "4187",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "279 Bukit Batok East Avenue 3  650279, West (D22-24)",
+    "displayText": "279 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sr9bl7",
+    "objectId": "4188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "280 Bukit Batok East Avenue 3  650280, West (D22-24)",
+    "displayText": "280 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "uyh57d",
+    "objectId": "4189",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "281 Bukit Batok East Avenue 3  650281, West (D22-24)",
+    "displayText": "281 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "w3wjw6",
+    "objectId": "4190",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "283 Bukit Batok East Avenue 3  650283, West (D22-24)",
+    "displayText": "283 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "hqj1y8",
+    "objectId": "4191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "284 Bukit Batok East Avenue 3  650284, West (D22-24)",
+    "displayText": "284 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "bhis4w",
+    "objectId": "4192",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285 Bukit Batok East Avenue 3  650285, West (D22-24)",
+    "displayText": "285 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sz6iz8",
+    "objectId": "4193",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "286 Bukit Batok East Avenue 3  650286, West (D22-24)",
+    "displayText": "286 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "qgeeoq",
+    "objectId": "4194",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "287 Bukit Batok East Avenue 3  650287, West (D22-24)",
+    "displayText": "287 Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "m6rj19",
+    "objectId": "4195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "285A Bukit Batok East Avenue 3  651285, West (D22-24)",
+    "displayText": "285A Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "sj4yz2",
+    "objectId": "4196",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "290C Bukit Batok East Avenue 3  650290, West (D22-24)",
+    "displayText": "290C Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "k10y59",
+    "objectId": "4197",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "290D Bukit Batok East Avenue 3  651290, West (D22-24)",
+    "displayText": "290D Bukit Batok East Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "1e6ly8",
+    "objectId": "4198",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "254 Bukit Batok East Avenue 4  650254, West (D22-24)",
+    "displayText": "254 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "sp2r42",
+    "objectId": "4199",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "255 Bukit Batok East Avenue 4  650255, West (D22-24)",
+    "displayText": "255 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "s8k6sk",
+    "objectId": "4200",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "256 Bukit Batok East Avenue 4  650256, West (D22-24)",
+    "displayText": "256 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "8jpi81",
+    "objectId": "4201",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "257 Bukit Batok East Avenue 4  650257, West (D22-24)",
+    "displayText": "257 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "rbcins",
+    "objectId": "4202",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258 Bukit Batok East Avenue 4  650258, West (D22-24)",
+    "displayText": "258 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "5q2pnx",
+    "objectId": "4203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259 Bukit Batok East Avenue 4  650259, West (D22-24)",
+    "displayText": "259 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "7eh8jl",
+    "objectId": "4204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Bukit Batok East Avenue 4  650260, West (D22-24)",
+    "displayText": "260 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "4yikq4",
+    "objectId": "4205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261 Bukit Batok East Avenue 4  650261, West (D22-24)",
+    "displayText": "261 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "zylaf9",
+    "objectId": "4206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "262 Bukit Batok East Avenue 4  650262, West (D22-24)",
+    "displayText": "262 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "n4lxxr",
+    "objectId": "4207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "263 Bukit Batok East Avenue 4  650263, West (D22-24)",
+    "displayText": "263 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "3t47ts",
+    "objectId": "4208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264 Bukit Batok East Avenue 4  650264, West (D22-24)",
+    "displayText": "264 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "gkjdhr",
+    "objectId": "4209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265 Bukit Batok East Avenue 4  650265, West (D22-24)",
+    "displayText": "265 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "hjxblo",
+    "objectId": "4210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266 Bukit Batok East Avenue 4  650266, West (D22-24)",
+    "displayText": "266 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "2msul2",
+    "objectId": "4211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267 Bukit Batok East Avenue 4  650267, West (D22-24)",
+    "displayText": "267 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "9vpw03",
+    "objectId": "4212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268 Bukit Batok East Avenue 4  650268, West (D22-24)",
+    "displayText": "268 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vfqw8o",
+    "objectId": "4213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269 Bukit Batok East Avenue 4  650269, West (D22-24)",
+    "displayText": "269 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "2xsgm6",
+    "objectId": "4214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271 Bukit Batok East Avenue 4  650271, West (D22-24)",
+    "displayText": "271 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "r937zp",
+    "objectId": "4215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "272 Bukit Batok East Avenue 4  650272, West (D22-24)",
+    "displayText": "272 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ig3kwr",
+    "objectId": "4216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "273 Bukit Batok East Avenue 4  650273, West (D22-24)",
+    "displayText": "273 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "okzbkh",
+    "objectId": "4217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "274 Bukit Batok East Avenue 4  650274, West (D22-24)",
+    "displayText": "274 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xeekbi",
+    "objectId": "4218",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "275 Bukit Batok East Avenue 4  650275, West (D22-24)",
+    "displayText": "275 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "yeeump",
+    "objectId": "4219",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "276 Bukit Batok East Avenue 4  650276, West (D22-24)",
+    "displayText": "276 Bukit Batok East Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "7y0rp6",
+    "objectId": "4220",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        "4"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Bukit Batok Street 25  658880, West (D22-24)",
+    "displayText": "Parkview Apartments",
+    "displayType": "Apartment",
+    "nanoId": "51itga",
+    "objectId": "213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Bukit Batok West Ave. 5  250294, West (D22-24)",
+    "displayText": "Lumina Grand",
+    "displayType": "Condominium",
+    "nanoId": "kf0r4y",
+    "objectId": "25635",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Bukit Batok East Ave 6",
+    "displayType": "Street",
+    "objectId": "10432",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit  Batok East Ave 3",
+    "displayType": "Street",
+    "objectId": "11076",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Batok East Ave 3",
+    "displayType": "Street",
+    "objectId": "4222",
+    "objectType": "STREET",
+    "properties": {}
+  }
+]

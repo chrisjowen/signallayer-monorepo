@@ -1,0 +1,1457 @@
+[
+  {
+    "displayText": "Aljunied Avenue 2",
+    "displayType": "Street",
+    "objectId": "26",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "113 Aljunied Avenue 2  380113, Balestier / Geylang (D12-14)",
+    "displayText": "113 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "5dnjtm",
+    "objectId": "2734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "115 Aljunied Avenue 2  380115, Balestier / Geylang (D12-14)",
+    "displayText": "115 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "4j6tnm",
+    "objectId": "2736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "117 Aljunied Avenue 2  380117, Balestier / Geylang (D12-14)",
+    "displayText": "117 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "jy2xao",
+    "objectId": "2738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "118 Aljunied Avenue 2  380118, Balestier / Geylang (D12-14)",
+    "displayText": "118 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0am36c",
+    "objectId": "2739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "119 Aljunied Avenue 2  380119, Balestier / Geylang (D12-14)",
+    "displayText": "119 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "79hg28",
+    "objectId": "2740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "114 Aljunied Avenue 2  380114, Balestier / Geylang (D12-14)",
+    "displayText": "114 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zlme08",
+    "objectId": "2735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "116 Aljunied Avenue 2  380116, Balestier / Geylang (D12-14)",
+    "displayText": "116 Aljunied Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "2u0wx1",
+    "objectId": "2737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Aljunied Avenue 1",
+    "displayType": "Street",
+    "objectId": "25",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 3",
+    "displayType": "Street",
+    "objectId": "27",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 4",
+    "displayType": "Street",
+    "objectId": "28",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Avenue 5",
+    "displayType": "Street",
+    "objectId": "29",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Upper Aljunied Lane  360002, Balestier / Geylang (D12-14)",
+    "displayText": "2 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "cjz2wu",
+    "objectId": "11646",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Upper Aljunied Lane  360007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "nmzrcs",
+    "objectId": "23132",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Aljunied Rd  389799, Balestier / Geylang (D12-14)",
+    "displayText": "Avant Residences",
+    "displayType": "Apartment",
+    "nanoId": "cr22sn",
+    "objectId": "23399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Upper Aljunied Lane  360001, Balestier / Geylang (D12-14)",
+    "displayText": "1 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "6yd5lq",
+    "objectId": "11645",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Upper Aljunied Lane  360003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "yfmm20",
+    "objectId": "11647",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Upper Aljunied Lane  360004, Balestier / Geylang (D12-14)",
+    "displayText": "4 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "eumtd8",
+    "objectId": "11648",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Upper Aljunied Lane  360005, Balestier / Geylang (D12-14)",
+    "displayText": "5 Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "zry47z",
+    "objectId": "11649",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "349385, Balestier / Geylang (D12-14)",
+    "displayText": "2A Upper Aljunied Lane",
+    "displayType": "HDB",
+    "nanoId": "vg8d4r",
+    "objectId": "11650",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11",
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95 Aljunied Crescent  380095, Balestier / Geylang (D12-14)",
+    "displayText": "95 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "r4rnkd",
+    "objectId": "2741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96 Aljunied Crescent  380096, Balestier / Geylang (D12-14)",
+    "displayText": "96 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "muy7t8",
+    "objectId": "2742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "97 Aljunied Crescent  380097, Balestier / Geylang (D12-14)",
+    "displayText": "97 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "na5kqx",
+    "objectId": "2743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98 Aljunied Crescent  380098, Balestier / Geylang (D12-14)",
+    "displayText": "98 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "xiwd4w",
+    "objectId": "2744",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "99 Aljunied Crescent  380099, Balestier / Geylang (D12-14)",
+    "displayText": "99 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "qhuhvv",
+    "objectId": "2745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "100 Aljunied Crescent  380100, Balestier / Geylang (D12-14)",
+    "displayText": "100 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "a13vtc",
+    "objectId": "2746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Aljunied Crescent  380101, Balestier / Geylang (D12-14)",
+    "displayText": "101 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "wn3n54",
+    "objectId": "2747",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Aljunied Crescent  380102, Balestier / Geylang (D12-14)",
+    "displayText": "102 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ilr1f8",
+    "objectId": "2748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Aljunied Crescent  380103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "r4sbgg",
+    "objectId": "2749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Aljunied Crescent  380104, Balestier / Geylang (D12-14)",
+    "displayText": "104 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "7owjdi",
+    "objectId": "2750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Aljunied Crescent  380105, Balestier / Geylang (D12-14)",
+    "displayText": "105 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "nim9am",
+    "objectId": "2751",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Aljunied Crescent  380106, Balestier / Geylang (D12-14)",
+    "displayText": "106 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "z08ehj",
+    "objectId": "2752",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "107 Aljunied Crescent  380107, Balestier / Geylang (D12-14)",
+    "displayText": "107 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ei7zvr",
+    "objectId": "2753",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "108 Aljunied Crescent  380108, Balestier / Geylang (D12-14)",
+    "displayText": "108 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "dygwa6",
+    "objectId": "2754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "109 Aljunied Crescent  380109, Balestier / Geylang (D12-14)",
+    "displayText": "109 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "kswlfo",
+    "objectId": "2755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "110 Aljunied Crescent  380110, Balestier / Geylang (D12-14)",
+    "displayText": "110 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "12mzp3",
+    "objectId": "2756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "111 Aljunied Crescent  380111, Balestier / Geylang (D12-14)",
+    "displayText": "111 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "oupaut",
+    "objectId": "2757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "112 Aljunied Crescent  380112, Balestier / Geylang (D12-14)",
+    "displayText": "112 Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "majtsr",
+    "objectId": "2758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98A Aljunied Crescent  381098, Balestier / Geylang (D12-14)",
+    "displayText": "98A Aljunied Crescent",
+    "displayType": "HDB",
+    "nanoId": "ayqfa7",
+    "objectId": "2759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "125 Aljunied Road  380125, Balestier / Geylang (D12-14)",
+    "displayText": "125 Aljunied Road",
+    "displayType": "HDB",
+    "nanoId": "cvylhu",
+    "objectId": "2760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "126 Aljunied Road  380126, Balestier / Geylang (D12-14)",
+    "displayText": "126 Aljunied Road",
+    "displayType": "HDB",
+    "nanoId": "6gnllz",
+    "objectId": "2761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Aljunied Cresent",
+    "displayType": "Street",
+    "objectId": "10603",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Industrial Estate",
+    "displayType": "Street",
+    "objectId": "30",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Road",
+    "displayType": "Street",
+    "objectId": "31",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Lane",
+    "displayType": "Street",
+    "objectId": "3512",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Link",
+    "displayType": "Street",
+    "objectId": "3513",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Road",
+    "displayType": "Street",
+    "objectId": "3514",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Crescent",
+    "displayType": "Street",
+    "objectId": "3853",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Aljunied Link",
+    "displayType": "Street",
+    "objectId": "6748",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied",
+    "displayType": "Street",
+    "objectId": "7498",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "233A Upper Aljunied Road  361233, Balestier / Geylang (D12-14)",
+    "displayText": "233A Upper Aljunied",
+    "displayType": "HDB",
+    "nanoId": "dv0ym8",
+    "objectId": "26034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Aljunied Rd",
+    "displayType": "Street",
+    "objectId": "10183",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Upper Aljunied Rd",
+    "displayType": "Street",
+    "objectId": "8398",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Harbourfront Avenue  097991, City & South West (D01-08)",
+    "displayText": "The Reef at King's Dock",
+    "displayType": "Condominium",
+    "nanoId": "ftth5a",
+    "objectId": "25429",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Fourth Avenue  268660, Orchard / Holland (D09-10)",
+    "displayText": "Fourth Avenue Residences",
+    "displayType": "Condominium",
+    "nanoId": "x8apjd",
+    "objectId": "23566",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Serangoon Avenue 2  556130, Serangoon / Thomson (D19-20)",
+    "displayText": "Sunglade",
+    "displayType": "Condominium",
+    "nanoId": "zel5nu",
+    "objectId": "277",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Geylang East Avenue 2  389754, Balestier / Geylang (D12-14)",
+    "displayText": "Simsville",
+    "displayType": "Condominium",
+    "nanoId": "7fe744",
+    "objectId": "286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Bukit Batok East Avenue 2  659920, West (D22-24)",
+    "displayText": "Hillview Regency",
+    "displayType": "Condominium",
+    "nanoId": "kw2stx",
+    "objectId": "162",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Makeway Avenue  228599, Orchard / Holland (D09-10)",
+    "displayText": "The Atelier",
+    "displayType": "Condominium",
+    "nanoId": "7i2bfk",
+    "objectId": "24597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Anamalai Avenue  279988, Orchard / Holland (D09-10)",
+    "displayText": "Royalgreen",
+    "displayType": "Condominium",
+    "nanoId": "vjpr69",
+    "objectId": "23808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "341 Ang Mo Kio Avenue 2  567826, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Gardens",
+    "displayType": "Cluster House",
+    "nanoId": "8h09ov",
+    "objectId": "627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Ang Mo Kio Avenue 2  567000, Serangoon / Thomson (D19-20)",
+    "displayText": "Horizon Green",
+    "displayType": "Terraced House",
+    "nanoId": "1bjq7s",
+    "objectId": "1071",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "2 Fifth Avenue  268800, Orchard / Holland (D09-10)",
+    "displayText": "Fifth Avenue Condominium",
+    "displayType": "Condominium",
+    "nanoId": "gl5mtg",
+    "objectId": "25210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Geylang East Avenue 2  389760, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Edge",
+    "displayType": "Condominium",
+    "nanoId": "ekbwcw",
+    "objectId": "20679",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Ford Avenue  268686, Orchard / Holland (D09-10)",
+    "displayText": "Urban Edge @ Holland V",
+    "displayType": "Apartment",
+    "nanoId": "sjc135",
+    "objectId": "446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Serangoon Avenue 2",
+    "displayType": "Street",
+    "objectId": "10294",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Avenue 2",
+    "displayType": "Street",
+    "objectId": "1145",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "238 Serangoon Avenue 2  550238, Serangoon / Thomson (D19-20)",
+    "displayText": "238 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "czyk55",
+    "objectId": "10015",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "239 Serangoon Avenue 2  550239, Serangoon / Thomson (D19-20)",
+    "displayText": "239 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ne9b3o",
+    "objectId": "10016",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Serangoon Avenue 2  550240, Serangoon / Thomson (D19-20)",
+    "displayText": "240 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "8ud4fd",
+    "objectId": "10017",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Serangoon Avenue 2  550243, Serangoon / Thomson (D19-20)",
+    "displayText": "243 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "nm3xnv",
+    "objectId": "10018",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Serangoon Avenue 2  550245, Serangoon / Thomson (D19-20)",
+    "displayText": "245 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "3vpp7k",
+    "objectId": "10020",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "301 Serangoon Avenue 2  550301, Serangoon / Thomson (D19-20)",
+    "displayText": "301 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "2q3391",
+    "objectId": "10021",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "302 Serangoon Avenue 2  550302, Serangoon / Thomson (D19-20)",
+    "displayText": "302 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "tbxgrb",
+    "objectId": "10022",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "303 Serangoon Avenue 2  550303, Serangoon / Thomson (D19-20)",
+    "displayText": "303 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "qq3abh",
+    "objectId": "10023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "304 Serangoon Avenue 2  550304, Serangoon / Thomson (D19-20)",
+    "displayText": "304 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "1veip9",
+    "objectId": "10024",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "305 Serangoon Avenue 2  550305, Serangoon / Thomson (D19-20)",
+    "displayText": "305 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "80n3gy",
+    "objectId": "10025",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "306 Serangoon Avenue 2  550306, Serangoon / Thomson (D19-20)",
+    "displayText": "306 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l3514o",
+    "objectId": "10026",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "307 Serangoon Avenue 2  550307, Serangoon / Thomson (D19-20)",
+    "displayText": "307 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "qdjrq0",
+    "objectId": "10027",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "308 Serangoon Avenue 2  550308, Serangoon / Thomson (D19-20)",
+    "displayText": "308 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "wilcg0",
+    "objectId": "10028",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "309 Serangoon Avenue 2  550309, Serangoon / Thomson (D19-20)",
+    "displayText": "309 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "cpgmgb",
+    "objectId": "10029",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "310 Serangoon Avenue 2  550310, Serangoon / Thomson (D19-20)",
+    "displayText": "310 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "rql6ve",
+    "objectId": "10030",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "311 Serangoon Avenue 2  550311, Serangoon / Thomson (D19-20)",
+    "displayText": "311 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "lw74bs",
+    "objectId": "10031",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "312 Serangoon Avenue 2  550312, Serangoon / Thomson (D19-20)",
+    "displayText": "312 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "iycah1",
+    "objectId": "10032",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Serangoon Avenue 2  550314, Serangoon / Thomson (D19-20)",
+    "displayText": "314 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "emf1nk",
+    "objectId": "10034",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "315 Serangoon Avenue 2  550315, Serangoon / Thomson (D19-20)",
+    "displayText": "315 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "arozy6",
+    "objectId": "10035",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "316 Serangoon Avenue 2  550316, Serangoon / Thomson (D19-20)",
+    "displayText": "316 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "r3ccqv",
+    "objectId": "10036",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "317 Serangoon Avenue 2  550317, Serangoon / Thomson (D19-20)",
+    "displayText": "317 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "t3pprb",
+    "objectId": "10037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "318 Serangoon Avenue 2  550318, Serangoon / Thomson (D19-20)",
+    "displayText": "318 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "7ic2ol",
+    "objectId": "10038",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "319 Serangoon Avenue 2  550319, Serangoon / Thomson (D19-20)",
+    "displayText": "319 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "qrclfv",
+    "objectId": "10039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "321 Serangoon Avenue 2  550321, Serangoon / Thomson (D19-20)",
+    "displayText": "321 Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "bzlfsv",
+    "objectId": "10040",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "232A Serangoon Avenue 2  551232, Serangoon / Thomson (D19-20)",
+    "displayText": "232A Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "mogro6",
+    "objectId": "10041",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "234A Serangoon Avenue 2  551234, Serangoon / Thomson (D19-20)",
+    "displayText": "234A Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "41bbyk",
+    "objectId": "10042",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236A Serangoon Avenue 2  551236, Serangoon / Thomson (D19-20)",
+    "displayText": "236A Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "v685df",
+    "objectId": "10043",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238A Serangoon Avenue 2  551238, Serangoon / Thomson (D19-20)",
+    "displayText": "238A Serangoon Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "qbyp1p",
+    "objectId": "10044",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "135 Serangoon North Avenue 2  550135, Serangoon / Thomson (D19-20)",
+    "displayText": "135 Serangoon North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "wrpl6k",
+    "objectId": "10180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Serangoon North Avenue 2  550136, Serangoon / Thomson (D19-20)",
+    "displayText": "136 Serangoon North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "nbqxvn",
+    "objectId": "10181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Serangoon North Avenue 2  550137, Serangoon / Thomson (D19-20)",
+    "displayText": "137 Serangoon North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "uwfu8v",
+    "objectId": "10182",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "138 Serangoon North Avenue 2  550138, Serangoon / Thomson (D19-20)",
+    "displayText": "138 Serangoon North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "tazzjz",
+    "objectId": "10183",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Serangoon North Avenue 2  550139, Serangoon / Thomson (D19-20)",
+    "displayText": "139 Serangoon North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "xawn4z",
+    "objectId": "10184",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

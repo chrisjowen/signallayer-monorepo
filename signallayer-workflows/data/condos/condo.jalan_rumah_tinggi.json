@@ -1,0 +1,1405 @@
+[
+  {
+    "displayText": "Jalan Rumah Tinggi",
+    "displayType": "Street",
+    "objectId": "1619",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "8 Jalan Rumah Tinggi  150008, City & South West (D01-08)",
+    "displayText": "8 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "3412co",
+    "objectId": "7050",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Jalan Rumah Tinggi  150009, City & South West (D01-08)",
+    "displayText": "9 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "xcy0aj",
+    "objectId": "7051",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "10 Jalan Rumah Tinggi  150010, City & South West (D01-08)",
+    "displayText": "10 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "4wlbvl",
+    "objectId": "7052",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "35 Jalan Rumah Tinggi  150035, City & South West (D01-08)",
+    "displayText": "35 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "jvbict",
+    "objectId": "7053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Jalan Rumah Tinggi  150036, City & South West (D01-08)",
+    "displayText": "36 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "5o5fuq",
+    "objectId": "7054",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37 Jalan Rumah Tinggi  150037, City & South West (D01-08)",
+    "displayText": "37 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "y4slhy",
+    "objectId": "7055",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "38 Jalan Rumah Tinggi  150038, City & South West (D01-08)",
+    "displayText": "38 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "8h07jl",
+    "objectId": "7056",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39 Jalan Rumah Tinggi  151039, City & South West (D01-08)",
+    "displayText": "39 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "x62q4g",
+    "objectId": "7057",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "40 Jalan Rumah Tinggi  150040, City & South West (D01-08)",
+    "displayText": "40 Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "lgvzl9",
+    "objectId": "7058",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "37A Jalan Rumah Tinggi  151037, City & South West (D01-08)",
+    "displayText": "37A Jalan Rumah Tinggi",
+    "displayType": "HDB",
+    "nanoId": "g7otn4",
+    "objectId": "7059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Minggu",
+    "displayType": "Street",
+    "objectId": "1387",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Bukit Tinggi Road",
+    "displayType": "Street",
+    "objectId": "360",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Jalan Rumbia  239616, Orchard / Holland (D09-10)",
+    "displayText": "The Imperial",
+    "displayType": "Condominium",
+    "nanoId": "xuyoxs",
+    "objectId": "129",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Jalan Rukam",
+    "displayType": "Street",
+    "objectId": "1441",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Rumia",
+    "displayType": "Street",
+    "objectId": "1443",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Rumbia",
+    "displayType": "Street",
+    "objectId": "1442",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "0 Inggu Road  757000, North (D25-28)",
+    "displayText": "The Oasis of the North",
+    "displayType": "Terraced House",
+    "nanoId": "uri3ds",
+    "objectId": "20529",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Inggu Road  757000, North (D25-28)",
+    "displayText": "The Shoreline Residences I",
+    "displayType": "Terraced House",
+    "nanoId": "4qf3jy",
+    "objectId": "21239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Inggu Road",
+    "displayType": "Street",
+    "objectId": "4672",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "500 Guillimard Road  399839, Balestier / Geylang (D12-14)",
+    "displayText": "Esta Ruby",
+    "displayType": "Condominium",
+    "nanoId": "yo7ady",
+    "objectId": "1161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 - 29C Kim Keat Close  328934, Balestier / Geylang (D12-14)",
+    "displayText": "Ruby Apartments",
+    "displayType": "Condominium",
+    "nanoId": "qmpw7q",
+    "objectId": "24991",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "205 Balestier Road  329682, Balestier / Geylang (D12-14)",
+    "displayText": "Ruby Plaza",
+    "displayType": "Apartment",
+    "nanoId": "1hr9yq",
+    "objectId": "24999",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Ruby Lane",
+    "displayType": "Street",
+    "objectId": "2832",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Russels Road",
+    "displayType": "Street",
+    "objectId": "2833",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "966 Dunearn Road  589488, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Jardin",
+    "displayType": "Condominium",
+    "nanoId": "v9zsod",
+    "objectId": "1159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Jalan Anak Bukit  589604, Newton / Bt. Timah (D11, 21)",
+    "displayText": "The Reserve Residences",
+    "displayType": "Condominium",
+    "nanoId": "lbjpwb",
+    "objectId": "25466",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Anak Bukit  588996, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Sherwood Towers",
+    "displayType": "Apartment",
+    "nanoId": "ydympx",
+    "objectId": "266",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "319 Jalan Kampong Chantek  587868, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Binjai Crest",
+    "displayType": "Terraced House",
+    "nanoId": "v5upbs",
+    "objectId": "569",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "169 Jalan Jurong Kechil  598669, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Sherwood Condo",
+    "displayType": "Condominium",
+    "nanoId": "804gyk",
+    "objectId": "764",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Jalan Jurong Kechil  596180, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Suites at Bukit Timah",
+    "displayType": "Condominium",
+    "nanoId": "87jgs6",
+    "objectId": "20813",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Anak Bukit  588997, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Suites De Laurel",
+    "displayType": "Condominium",
+    "nanoId": "0jfdcd",
+    "objectId": "2654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Merlimau  308729, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Novena Lodge",
+    "displayType": "Condominium",
+    "nanoId": "ucvu5a",
+    "objectId": "1037",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "431 Bukit Timah Road  259738, Orchard / Holland (D09-10)",
+    "displayText": "Jaya Tower",
+    "displayType": "Apartment",
+    "nanoId": "keoz73",
+    "objectId": "1180",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Rajawali  598435, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Grand Chateau",
+    "displayType": "Condominium",
+    "nanoId": "kbz6px",
+    "objectId": "842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Tiga Ratus  488067, East Coast (D15-16)",
+    "displayText": "Tropicana Condominium",
+    "displayType": "Condominium",
+    "nanoId": "vm3a6i",
+    "objectId": "940",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Novena Barat  308603, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Novena Court",
+    "displayType": "Apartment",
+    "nanoId": "6lywhn",
+    "objectId": "986",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "167 Jalan Jurong Kechil  598671, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Charisma View",
+    "displayType": "Condominium",
+    "nanoId": "2p8j6u",
+    "objectId": "1228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Jalan Rajawali  598433, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Regis Mansions",
+    "displayType": "Condominium",
+    "nanoId": "03fklc",
+    "objectId": "1234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Jalan Rajawali  598436, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Royal Court Condo",
+    "displayType": "Condominium",
+    "nanoId": "t2vbge",
+    "objectId": "1315",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Jalan Rajawali  598431, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Grand Regency",
+    "displayType": "Condominium",
+    "nanoId": "144nb6",
+    "objectId": "1464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "33B Jalan Novena  308651, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Novena Hill",
+    "displayType": "Apartment",
+    "nanoId": "4xe2hv",
+    "objectId": "1519",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Selanting  598368, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Selanting Green",
+    "displayType": "Condominium",
+    "nanoId": "vt8yma",
+    "objectId": "1531",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Novena Utara  308000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Eng Aun Park",
+    "displayType": "Semi-Detached House",
+    "nanoId": "k2tbhu",
+    "objectId": "20885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Senandong  288000, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Swiss Club Park",
+    "displayType": "Good Class Bungalow",
+    "nanoId": "h3xd9g",
+    "objectId": "21068",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "BUNG",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "7 Jalan Rajawali  598429, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Palm Residence",
+    "displayType": "Condominium",
+    "nanoId": "yi2qtv",
+    "objectId": "2269",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50A-50B Jalan Jurong Kechil  598578, Newton / Bt. Timah (D11, 21)",
+    "displayText": "JK Building",
+    "displayType": "Apartment",
+    "nanoId": "ju3qc6",
+    "objectId": "24794",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Jalan Rajawali  598436, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Royal Court",
+    "displayType": "Apartment",
+    "nanoId": "lnom1h",
+    "objectId": "25213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Jalan Rajawali  598434, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Patent Place",
+    "displayType": "Condominium",
+    "nanoId": "0vwzts",
+    "objectId": "2560",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D21",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "39 Jalan Tiga  390039, Balestier / Geylang (D12-14)",
+    "displayText": "39 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "o9fldf",
+    "objectId": "7113",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "41 Jalan Tiga  390041, Balestier / Geylang (D12-14)",
+    "displayText": "41 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "1g4bf8",
+    "objectId": "7114",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Jalan Tiga  390043, Balestier / Geylang (D12-14)",
+    "displayText": "43 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "0rx1h0",
+    "objectId": "7115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Jalan Tiga  390045, Balestier / Geylang (D12-14)",
+    "displayText": "45 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "klbjy7",
+    "objectId": "7116",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Jalan Tiga  390047, Balestier / Geylang (D12-14)",
+    "displayText": "47 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "kfv0cv",
+    "objectId": "7117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49 Jalan Tiga  390049, Balestier / Geylang (D12-14)",
+    "displayText": "49 Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "33k8an",
+    "objectId": "7118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43A Jalan Tiga  391043, Balestier / Geylang (D12-14)",
+    "displayText": "43A Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "6bigud",
+    "objectId": "7119",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "49A Jalan Tiga  391049, Balestier / Geylang (D12-14)",
+    "displayText": "49A Jalan Tiga",
+    "displayType": "HDB",
+    "nanoId": "98347c",
+    "objectId": "7120",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Jalan Lengkong Tiga",
+    "displayType": "Street",
+    "objectId": "12612",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Tiga",
+    "displayType": "Street",
+    "objectId": "1516",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Bintang Tiga",
+    "displayType": "Street",
+    "objectId": "1539",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Kilang Timor",
+    "displayType": "Street",
+    "objectId": "1573",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Tiga Ratus",
+    "displayType": "Street",
+    "objectId": "1641",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "1 Jalan Kilang Timor",
+    "displayType": "Street",
+    "objectId": "24416",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Novena Timor",
+    "displayType": "Street",
+    "objectId": "1605",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "8F Jalan Lempeng  126740, City & South West (D01-08)",
+    "displayText": "Parc Clematis",
+    "displayType": "Condominium",
+    "nanoId": "a39bdc",
+    "objectId": "23763",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Lempeng  120000, City & South West (D01-08)",
+    "displayText": "The Trilinq",
+    "displayType": "Condominium",
+    "nanoId": "5y1dfs",
+    "objectId": "21477",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "332 Jalan Eunos  415816, Balestier / Geylang (D12-14)",
+    "displayText": "Euhabitat",
+    "displayType": "Condominium",
+    "nanoId": "s3ojyb",
+    "objectId": "20741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "94 Jalan Tembusu  438669, East Coast (D15-16)",
+    "displayText": "Tembusu Grand",
+    "displayType": "Condominium",
+    "nanoId": "mo78mb",
+    "objectId": "25433",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Jalan Raja Udang  329215, Balestier / Geylang (D12-14)",
+    "displayText": "The Arte",
+    "displayType": "Condominium",
+    "nanoId": "l3175a",
+    "objectId": "1437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "93 Jalan Sendudok  769472, North (D25-28)",
+    "displayText": "The Nautical",
+    "displayType": "Condominium",
+    "nanoId": "61iz9u",
+    "objectId": "21123",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "Jalan Tembusu  438235, East Coast (D15-16)",
+    "displayText": "Emerald of Katong",
+    "displayType": "Condominium",
+    "nanoId": "rpw7n7",
+    "objectId": "25798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Membina  169479, City & South West (D01-08)",
+    "displayText": "Central Green",
+    "displayType": "Condominium",
+    "nanoId": "veof5a",
+    "objectId": "300",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Jalan Kemaman  329325, Balestier / Geylang (D12-14)",
+    "displayText": "Verticus",
+    "displayType": "Condominium",
+    "nanoId": "wl22ow",
+    "objectId": "23888",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Jalan Datoh  329425, Balestier / Geylang (D12-14)",
+    "displayText": "Vista Residences",
+    "displayType": "Condominium",
+    "nanoId": "yfgqwz",
+    "objectId": "1521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "301 Jalan Bukit Ho Swee  169568, City & South West (D01-08)",
+    "displayText": "Meraprime",
+    "displayType": "Condominium",
+    "nanoId": "sh3czj",
+    "objectId": "181",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "52 Jalan Bunga Rampai  538416, Serangoon / Thomson (D19-20)",
+    "displayText": "Oasis Garden",
+    "displayType": "Condominium",
+    "nanoId": "8c7ucf",
+    "objectId": "1240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Kembangan  419154, Balestier / Geylang (D12-14)",
+    "displayText": "The Trumps",
+    "displayType": "Condominium",
+    "nanoId": "gna708",
+    "objectId": "125",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "207 Jalan Eunos  415799, Balestier / Geylang (D12-14)",
+    "displayText": "Urban Treasures",
+    "displayType": "Condominium",
+    "nanoId": "snk9qk",
+    "objectId": "23806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "183 Jalan Pelikat  537643, Serangoon / Thomson (D19-20)",
+    "displayText": "The Promenade @ Pelikat",
+    "displayType": "Condominium",
+    "nanoId": "hyi66x",
+    "objectId": "21188",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Jalan Rebana  576988, Serangoon / Thomson (D19-20)",
+    "displayText": "Faber Garden Condominium",
+    "displayType": "Condominium",
+    "nanoId": "hd9umq",
+    "objectId": "2639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Jalan Mutiara  249188, Orchard / Holland (D09-10)",
+    "displayText": "The Montana",
+    "displayType": "Condominium",
+    "nanoId": "yyz8zv",
+    "objectId": "1362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Jalan Mutiara  249206, Orchard / Holland (D09-10)",
+    "displayText": "Latitude",
+    "displayType": "Condominium",
+    "nanoId": "q1k6ts",
+    "objectId": "1433",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Mata Ayer  759075, North (D25-28)",
+    "displayText": "Euphony Gardens",
+    "displayType": "Condominium",
+    "nanoId": "m9z8hf",
+    "objectId": "434",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Jalan Hajijah  468698, East Coast (D15-16)",
+    "displayText": "Landbay Condo",
+    "displayType": "Condominium",
+    "nanoId": "5hhdud",
+    "objectId": "486",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Jalan Lokam  537846, Serangoon / Thomson (D19-20)",
+    "displayText": "Kensington Square",
+    "displayType": "Apartment",
+    "nanoId": "rjsfmd",
+    "objectId": "21710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Jalan Daud  419591, Balestier / Geylang (D12-14)",
+    "displayText": "Windy Heights",
+    "displayType": "Condominium",
+    "nanoId": "gxdgla",
+    "objectId": "400",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "69 Jalan Tua Kong  457264, East Coast (D15-16)",
+    "displayText": "Park East",
+    "displayType": "Condominium",
+    "nanoId": "9ft7jj",
+    "objectId": "412",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23 Jalan Merah Saga  278102, Orchard / Holland (D09-10)",
+    "displayText": "The Merasaga",
+    "displayType": "Condominium",
+    "nanoId": "k6oxq2",
+    "objectId": "493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Jintan  229001, Orchard / Holland (D09-10)",
+    "displayText": "Kim Sia Court",
+    "displayType": "Apartment",
+    "nanoId": "4xpfcd",
+    "objectId": "512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Jalan Rajah  329137, Balestier / Geylang (D12-14)",
+    "displayText": "SkySuites 17",
+    "displayType": "Apartment",
+    "nanoId": "aaotcx",
+    "objectId": "20627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Jalan Bangsawan  000000, East Coast (D15-16)",
+    "displayText": "Opera Estate",
+    "displayType": "Terraced House",
+    "nanoId": "409igj",
+    "objectId": "211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        null,
+        null,
+        null,
+        "",
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Naung  537670, Serangoon / Thomson (D19-20)",
+    "displayText": "Naung Residence",
+    "displayType": "Apartment",
+    "nanoId": "rs9fjv",
+    "objectId": "21203",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Dusun  329363, Balestier / Geylang (D12-14)",
+    "displayText": "One Dusun Residences",
+    "displayType": "Condominium",
+    "nanoId": "jdv0d4",
+    "objectId": "21327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Jalan Bunga Rampai  538310, Serangoon / Thomson (D19-20)",
+    "displayText": "Bartley Vue",
+    "displayType": "Condominium",
+    "nanoId": "4864f8",
+    "objectId": "24630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Jalan Sultan  199018, City & South West (D01-08)",
+    "displayText": "Textile Centre",
+    "displayType": "Apartment",
+    "nanoId": "l3x6z5",
+    "objectId": "316",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Gembira  000001, Balestier / Geylang (D12-14)",
+    "displayText": "MacPherson Garden Estate",
+    "displayType": "Terraced House",
+    "nanoId": "6zqnd4",
+    "objectId": "393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "20 Jalan Hajijah  468726, East Coast (D15-16)",
+    "displayText": "Laguna Green",
+    "displayType": "Condominium",
+    "nanoId": "d55x7x",
+    "objectId": "581",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Jalan Mata Ayer  757487, North (D25-28)",
+    "displayText": "Northwood",
+    "displayType": "Condominium",
+    "nanoId": "sy1zuf",
+    "objectId": "963",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "6 Jalan Tua Kong  457269, East Coast (D15-16)",
+    "displayText": "Crescendo Park",
+    "displayType": "Condominium",
+    "nanoId": "26rp9a",
+    "objectId": "1066",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Taman  329022, Balestier / Geylang (D12-14)",
+    "displayText": "St Michael's Place",
+    "displayType": "Condominium",
+    "nanoId": "8utbci",
+    "objectId": "1115",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

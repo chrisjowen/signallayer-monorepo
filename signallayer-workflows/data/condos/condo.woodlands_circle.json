@@ -1,0 +1,1488 @@
+[
+  {
+    "displayText": "Woodlands Circle",
+    "displayType": "Street",
+    "objectId": "3651",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "721 Woodlands Circle  730721, North (D25-28)",
+    "displayText": "721 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "3p029b",
+    "objectId": "11878",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "726 Woodlands Circle  730726, North (D25-28)",
+    "displayText": "726 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "wepl7l",
+    "objectId": "11879",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "727 Woodlands Circle  730727, North (D25-28)",
+    "displayText": "727 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "5crl4n",
+    "objectId": "11880",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "728 Woodlands Circle  730728, North (D25-28)",
+    "displayText": "728 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "wkv6wa",
+    "objectId": "11881",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "729 Woodlands Circle  730729, North (D25-28)",
+    "displayText": "729 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "8wxfo1",
+    "objectId": "11882",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "730 Woodlands Circle  730730, North (D25-28)",
+    "displayText": "730 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "nblc0f",
+    "objectId": "11883",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "731 Woodlands Circle  730731, North (D25-28)",
+    "displayText": "731 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "196ya2",
+    "objectId": "11884",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "732 Woodlands Circle  730732, North (D25-28)",
+    "displayText": "732 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "zl026q",
+    "objectId": "11885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "733 Woodlands Circle  730733, North (D25-28)",
+    "displayText": "733 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "84gf06",
+    "objectId": "11886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "734 Woodlands Circle  730734, North (D25-28)",
+    "displayText": "734 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "571o5i",
+    "objectId": "11887",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "735 Woodlands Circle  730735, North (D25-28)",
+    "displayText": "735 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "pc6erf",
+    "objectId": "11888",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "736 Woodlands Circle  730736, North (D25-28)",
+    "displayText": "736 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "pwe065",
+    "objectId": "11889",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "737 Woodlands Circle  730737, North (D25-28)",
+    "displayText": "737 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "wwgxch",
+    "objectId": "11890",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "738 Woodlands Circle  730738, North (D25-28)",
+    "displayText": "738 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "r5cy3j",
+    "objectId": "11891",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "739 Woodlands Circle  730739, North (D25-28)",
+    "displayText": "739 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "o54p3n",
+    "objectId": "11892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "740 Woodlands Circle  730740, North (D25-28)",
+    "displayText": "740 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "yrc8a2",
+    "objectId": "11893",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "741 Woodlands Circle  730741, North (D25-28)",
+    "displayText": "741 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "xrpdc7",
+    "objectId": "11894",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "742 Woodlands Circle  730742, North (D25-28)",
+    "displayText": "742 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "r3qwie",
+    "objectId": "11895",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "743 Woodlands Circle  730743, North (D25-28)",
+    "displayText": "743 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "zb62x9",
+    "objectId": "11896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "744 Woodlands Circle  730744, North (D25-28)",
+    "displayText": "744 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "ymuq43",
+    "objectId": "11897",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "745 Woodlands Circle  730745, North (D25-28)",
+    "displayText": "745 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "6cqsru",
+    "objectId": "11898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "746 Woodlands Circle  730746, North (D25-28)",
+    "displayText": "746 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "af9j55",
+    "objectId": "11899",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "747 Woodlands Circle  730747, North (D25-28)",
+    "displayText": "747 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "jtvn5h",
+    "objectId": "11900",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "748 Woodlands Circle  730748, North (D25-28)",
+    "displayText": "748 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "yz3d5w",
+    "objectId": "11901",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "749 Woodlands Circle  730749, North (D25-28)",
+    "displayText": "749 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "oefdom",
+    "objectId": "11902",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "751 Woodlands Circle  730751, North (D25-28)",
+    "displayText": "751 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "qgg8ft",
+    "objectId": "11903",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "752 Woodlands Circle  730752, North (D25-28)",
+    "displayText": "752 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "9pvsyp",
+    "objectId": "11904",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "753 Woodlands Circle  730753, North (D25-28)",
+    "displayText": "753 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "qs2axj",
+    "objectId": "11905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "754 Woodlands Circle  731754, North (D25-28)",
+    "displayText": "754 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "lwr2y0",
+    "objectId": "11906",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "764 Woodlands Circle  730764, North (D25-28)",
+    "displayText": "764 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "uaxscu",
+    "objectId": "11907",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "765 Woodlands Circle  730765, North (D25-28)",
+    "displayText": "765 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "j2rutg",
+    "objectId": "11908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "766 Woodlands Circle  730766, North (D25-28)",
+    "displayText": "766 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "e7o3dx",
+    "objectId": "11909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "767 Woodlands Circle  730767, North (D25-28)",
+    "displayText": "767 Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "tgmjwn",
+    "objectId": "11910",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "728A Woodlands Circle  731728, North (D25-28)",
+    "displayText": "728A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "lbguqa",
+    "objectId": "11911",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "737A Woodlands Circle  731737, North (D25-28)",
+    "displayText": "737A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "wxrr48",
+    "objectId": "11914",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "739A Woodlands Circle  731739, North (D25-28)",
+    "displayText": "739A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "k03dfu",
+    "objectId": "11915",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "740A Woodlands Circle  731740, North (D25-28)",
+    "displayText": "740A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "4vtzwy",
+    "objectId": "11916",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "747A Woodlands Circle  731747, North (D25-28)",
+    "displayText": "747A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "wpngqv",
+    "objectId": "11917",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "748A Woodlands Circle  731748, North (D25-28)",
+    "displayText": "748A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "4c2ton",
+    "objectId": "11918",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "754A Woodlands Circle  730754, North (D25-28)",
+    "displayText": "754A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "6w4arf",
+    "objectId": "11920",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "764A Woodlands Circle  731764, North (D25-28)",
+    "displayText": "764A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "yp810t",
+    "objectId": "11921",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "765A Woodlands Circle  731765, North (D25-28)",
+    "displayText": "765A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "i6cubf",
+    "objectId": "11922",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "766A Woodlands Circle  731766, North (D25-28)",
+    "displayText": "766A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "1lpmyg",
+    "objectId": "11923",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "764B Woodlands Circle  732764, North (D25-28)",
+    "displayText": "764B Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "b2otg6",
+    "objectId": "25334",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "732A Woodlands Circle  731732, North (D25-28)",
+    "displayText": "732A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "n3m6mq",
+    "objectId": "11912",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "736A Woodlands Circle  731736, North (D25-28)",
+    "displayText": "736A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "6t6lmv",
+    "objectId": "11913",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "749A Woodlands Circle  731749, North (D25-28)",
+    "displayText": "749A Woodlands Circle",
+    "displayType": "HDB",
+    "nanoId": "ixcnb7",
+    "objectId": "11919",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        "26"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "99 Cairnhill Circle  229808, Orchard / Holland (D09-10)",
+    "displayText": "Hilltops",
+    "displayType": "Condominium",
+    "nanoId": "bbgloj",
+    "objectId": "1142",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Cairnhill Circle  229811, Orchard / Holland (D09-10)",
+    "displayText": "Cairnhill Crest",
+    "displayType": "Condominium",
+    "nanoId": "0wn9s3",
+    "objectId": "76",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Pavilion Circle  658000, West (D22-24)",
+    "displayText": "Pavilion Park",
+    "displayType": "Semi-Detached House",
+    "nanoId": "jnizvo",
+    "objectId": "849",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "15 Cairnhill Circle  229815, Orchard / Holland (D09-10)",
+    "displayText": "Helios Residences",
+    "displayType": "Condominium",
+    "nanoId": "o0sbjm",
+    "objectId": "970",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Cairnhill Circle  229774, Orchard / Holland (D09-10)",
+    "displayText": "Cairnhill Residences",
+    "displayType": "Apartment",
+    "nanoId": "08ni02",
+    "objectId": "234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Cairnhill Circle  229784, Orchard / Holland (D09-10)",
+    "displayText": "The Peak @ Cairnhill I",
+    "displayType": "Condominium",
+    "nanoId": "0e19od",
+    "objectId": "20568",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Cairnhill Circle  229789, Orchard / Holland (D09-10)",
+    "displayText": "The Peak @ Cairnhill II",
+    "displayType": "Condominium",
+    "nanoId": "esk8og",
+    "objectId": "22167",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "501 Wellington Circle  750501, North (D25-28)",
+    "displayText": "501 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "anq5bh",
+    "objectId": "11694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Wellington Circle  750502, North (D25-28)",
+    "displayText": "502 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "yabc38",
+    "objectId": "11695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Wellington Circle  750506, North (D25-28)",
+    "displayText": "506 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "ayox0j",
+    "objectId": "11696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Wellington Circle  750507, North (D25-28)",
+    "displayText": "507 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "aei9nd",
+    "objectId": "11697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Wellington Circle  750508, North (D25-28)",
+    "displayText": "508 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "lztktk",
+    "objectId": "11698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509 Wellington Circle  750509, North (D25-28)",
+    "displayText": "509 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "xcxrdf",
+    "objectId": "11699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501A Wellington Circle  751501, North (D25-28)",
+    "displayText": "501A Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "vblnq0",
+    "objectId": "11700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501B Wellington Circle  752501, North (D25-28)",
+    "displayText": "501B Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "tgy03c",
+    "objectId": "11701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501C Wellington Circle  753501, North (D25-28)",
+    "displayText": "501C Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "5l10xm",
+    "objectId": "11702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501D Wellington Circle  754501, North (D25-28)",
+    "displayText": "501D Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "ufbzzw",
+    "objectId": "11703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502A Wellington Circle  751502, North (D25-28)",
+    "displayText": "502A Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "2gunlq",
+    "objectId": "11704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506A Wellington Circle  751506, North (D25-28)",
+    "displayText": "506A Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "bhzwyu",
+    "objectId": "11705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507A Wellington Circle  751507, North (D25-28)",
+    "displayText": "507A Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "u67rbw",
+    "objectId": "11706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507B Wellington Circle  752507, North (D25-28)",
+    "displayText": "507B Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "6nmvdg",
+    "objectId": "11707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507C Wellington Circle  753507, North (D25-28)",
+    "displayText": "507C Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "08os7o",
+    "objectId": "11708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507D Wellington Circle  754507, North (D25-28)",
+    "displayText": "507D Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "tlrz1g",
+    "objectId": "11709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508A Wellington Circle  751508, North (D25-28)",
+    "displayText": "508A Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "ufclhy",
+    "objectId": "11710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508B Wellington Circle  752508, North (D25-28)",
+    "displayText": "508B Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "ya2rsk",
+    "objectId": "11711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508C Wellington Circle  753508, North (D25-28)",
+    "displayText": "508C Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "x4hj66",
+    "objectId": "11712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509A Wellington Circle  751509, North (D25-28)",
+    "displayText": "509A Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "enfb9r",
+    "objectId": "11713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "509B Wellington Circle  752509, North (D25-28)",
+    "displayText": "509B Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "aqnexf",
+    "objectId": "11714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510A Wellington Circle  751510, North (D25-28)",
+    "displayText": "510A Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "9akpca",
+    "objectId": "11715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510B Wellington Circle  752510, North (D25-28)",
+    "displayText": "510B Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "2cjod7",
+    "objectId": "11716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Conway Circle  558000, Serangoon / Thomson (D19-20)",
+    "displayText": "Garden View Estate",
+    "displayType": "Semi-Detached House",
+    "nanoId": "rmsgb3",
+    "objectId": "20908",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "512 Wellington Circle  750512, North (D25-28)",
+    "displayText": "512 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "ajkgcm",
+    "objectId": "23274",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Wellington Circle  750513, North (D25-28)",
+    "displayText": "513 Wellington Circle",
+    "displayType": "HDB",
+    "nanoId": "m49f8x",
+    "objectId": "23275",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [
+        "21"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "63 Cairnhill Circle  229790, Orchard / Holland (D09-10)",
+    "displayText": "The Promont",
+    "displayType": "Condominium",
+    "nanoId": "solqop",
+    "objectId": "2637",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Gul Circle",
+    "displayType": "Street",
+    "objectId": "1024",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Wellington Circle",
+    "displayType": "Street",
+    "objectId": "10617",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Joo Koon Circle",
+    "displayType": "Street",
+    "objectId": "11098",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Conway Circle",
+    "displayType": "Street",
+    "objectId": "18989",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Sunbird Circle",
+    "displayType": "Street",
+    "objectId": "3134",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Cairnhill Circle",
+    "displayType": "Street",
+    "objectId": "381",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "61 Media Circle  139815, City & South West (D01-08)",
+    "displayText": "Bloomsbury Residences",
+    "displayType": "Apartment",
+    "nanoId": "atwe69",
+    "objectId": "25951",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Newton Circus",
+    "displayType": "Street",
+    "objectId": "10898",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Serangoon Garden Circus",
+    "displayType": "Street",
+    "objectId": "11476",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "D25",
+    "displayText": "D25 Admiralty / Woodlands",
+    "displayType": "District",
+    "objectId": "D25",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D25"
+    }
+  },
+  {
+    "displayText": "Woodlands",
+    "displayType": "HDB Estate",
+    "objectId": "26",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "48 Woodlands Drive 16  737763, North (D25-28)",
+    "displayText": "Forestville",
+    "displayType": "Executive Condominium",
+    "nanoId": "wl2w79",
+    "objectId": "21431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Woodlands Avenue 6  738992, North (D25-28)",
+    "displayText": "Twin Fountains",
+    "displayType": "Executive Condominium",
+    "nanoId": "zpnmjt",
+    "objectId": "21588",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Woodlands Avenue 5  739010, North (D25-28)",
+    "displayText": "Bellewoods",
+    "displayType": "Executive Condominium",
+    "nanoId": "hqajlm",
+    "objectId": "21960",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "111 Woodlands View  737703, North (D25-28)",
+    "displayText": "Northwave EC",
+    "displayType": "Executive Condominium",
+    "nanoId": "rzqcpc",
+    "objectId": "22602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Woodlands Drive 72  738089, North (D25-28)",
+    "displayText": "Woodsvale",
+    "displayType": "Condominium",
+    "nanoId": "vhx3fm",
+    "objectId": "138",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3A Woodlands Road  677727, West (D22-24)",
+    "displayText": "The Tennery",
+    "displayType": "Condominium",
+    "nanoId": "hqx080",
+    "objectId": "21082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Woodlands Drive 16  737892, North (D25-28)",
+    "displayText": "La Casa",
+    "displayType": "Condominium",
+    "nanoId": "kn1ogv",
+    "objectId": "110",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D25",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

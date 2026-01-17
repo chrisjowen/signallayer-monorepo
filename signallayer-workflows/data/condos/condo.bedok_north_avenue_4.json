@@ -1,0 +1,1567 @@
+[
+  {
+    "displayText": "Bedok North Avenue 4",
+    "displayType": "Street",
+    "objectId": "187",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "92 Bedok North Avenue 4  460092, East Coast (D15-16)",
+    "displayText": "92 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "at7d5a",
+    "objectId": "3386",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "93 Bedok North Avenue 4  460093, East Coast (D15-16)",
+    "displayText": "93 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ckqgo1",
+    "objectId": "3387",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "95 Bedok North Avenue 4  460095, East Coast (D15-16)",
+    "displayText": "95 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "pzkvrj",
+    "objectId": "3388",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "96 Bedok North Avenue 4  460096, East Coast (D15-16)",
+    "displayText": "96 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "axgtk9",
+    "objectId": "3389",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "97 Bedok North Avenue 4  460097, East Coast (D15-16)",
+    "displayText": "97 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "zs42c7",
+    "objectId": "3390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "98 Bedok North Avenue 4  460098, East Coast (D15-16)",
+    "displayText": "98 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "wpjyv2",
+    "objectId": "3391",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "99 Bedok North Avenue 4  460099, East Coast (D15-16)",
+    "displayText": "99 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "v3ni4h",
+    "objectId": "3392",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "100 Bedok North Avenue 4  460100, East Coast (D15-16)",
+    "displayText": "100 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "xez5ay",
+    "objectId": "3393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "102 Bedok North Avenue 4  460102, East Coast (D15-16)",
+    "displayText": "102 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "1dwjev",
+    "objectId": "3395",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Bedok North Avenue 4  460103, East Coast (D15-16)",
+    "displayText": "103 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "3q7uzb",
+    "objectId": "3396",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "104 Bedok North Avenue 4  460104, East Coast (D15-16)",
+    "displayText": "104 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "x3z0kt",
+    "objectId": "3397",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "105 Bedok North Avenue 4  460105, East Coast (D15-16)",
+    "displayText": "105 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "2ce5m5",
+    "objectId": "3398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "106 Bedok North Avenue 4  460106, East Coast (D15-16)",
+    "displayText": "106 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "vsfg9e",
+    "objectId": "3399",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94B Bedok North Avenue 4  461094, East Coast (D15-16)",
+    "displayText": "94B Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "tsujrr",
+    "objectId": "3400",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94C Bedok North Avenue 4  462094, East Coast (D15-16)",
+    "displayText": "94C Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "6cq8d5",
+    "objectId": "3401",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94D Bedok North Avenue 4  463094, East Coast (D15-16)",
+    "displayText": "94D Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "c4xa8t",
+    "objectId": "3402",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "94E Bedok North Avenue 4  464094, East Coast (D15-16)",
+    "displayText": "94E Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "gbpfo8",
+    "objectId": "3403",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Bedok North Avenue 4  460101, East Coast (D15-16)",
+    "displayText": "101 Bedok North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "af7glv",
+    "objectId": "3394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "547B Bedok North Avenue 1  462547, East Coast (D15-16)",
+    "displayText": "547B Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "bwent5",
+    "objectId": "25439",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "423 Bedok North Avenue 1  460423, East Coast (D15-16)",
+    "displayText": "423 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "qxhm71",
+    "objectId": "3340",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "424 Bedok North Avenue 1  460424, East Coast (D15-16)",
+    "displayText": "424 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "ryqa5p",
+    "objectId": "3341",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "519 Bedok North Avenue 1  460519, East Coast (D15-16)",
+    "displayText": "519 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "r45gja",
+    "objectId": "3342",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "520 Bedok North Avenue 1  460520, East Coast (D15-16)",
+    "displayText": "520 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "lvmv81",
+    "objectId": "3343",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "521 Bedok North Avenue 1  460521, East Coast (D15-16)",
+    "displayText": "521 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "u4xb4a",
+    "objectId": "3344",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "522 Bedok North Avenue 1  460522, East Coast (D15-16)",
+    "displayText": "522 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "57qp48",
+    "objectId": "3345",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "548 Bedok North Avenue 1  460548, East Coast (D15-16)",
+    "displayText": "548 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "8prtow",
+    "objectId": "3346",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "549 Bedok North Avenue 1  460549, East Coast (D15-16)",
+    "displayText": "549 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "iyuhee",
+    "objectId": "3347",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "550 Bedok North Avenue 1  460550, East Coast (D15-16)",
+    "displayText": "550 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "9oo1gi",
+    "objectId": "3348",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "551 Bedok North Avenue 1  460551, East Coast (D15-16)",
+    "displayText": "551 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "dsc8up",
+    "objectId": "3349",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "552 Bedok North Avenue 1  460552, East Coast (D15-16)",
+    "displayText": "552 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "kga2pm",
+    "objectId": "3350",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "553 Bedok North Avenue 1  460553, East Coast (D15-16)",
+    "displayText": "553 Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "rpqefz",
+    "objectId": "3351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "408 Bedok North Avenue 2  460408, East Coast (D15-16)",
+    "displayText": "408 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l2jdun",
+    "objectId": "3352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "409 Bedok North Avenue 2  460409, East Coast (D15-16)",
+    "displayText": "409 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "e9ie8a",
+    "objectId": "3353",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "410 Bedok North Avenue 2  460410, East Coast (D15-16)",
+    "displayText": "410 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "htnglh",
+    "objectId": "3354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "411 Bedok North Avenue 2  460411, East Coast (D15-16)",
+    "displayText": "411 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pjh1pe",
+    "objectId": "3355",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "412 Bedok North Avenue 2  460412, East Coast (D15-16)",
+    "displayText": "412 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "zrwoc6",
+    "objectId": "3356",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "413 Bedok North Avenue 2  460413, East Coast (D15-16)",
+    "displayText": "413 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "q8ipbj",
+    "objectId": "3357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "414 Bedok North Avenue 2  460414, East Coast (D15-16)",
+    "displayText": "414 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "vtg6eh",
+    "objectId": "3358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "415 Bedok North Avenue 2  460415, East Coast (D15-16)",
+    "displayText": "415 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "gt4fs5",
+    "objectId": "3359",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "416 Bedok North Avenue 2  460416, East Coast (D15-16)",
+    "displayText": "416 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ut50pn",
+    "objectId": "3360",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "417 Bedok North Avenue 2  460417, East Coast (D15-16)",
+    "displayText": "417 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "ey46kg",
+    "objectId": "3361",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "418 Bedok North Avenue 2  460418, East Coast (D15-16)",
+    "displayText": "418 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "wyi8k2",
+    "objectId": "3362",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Bedok North Avenue 2  460512, East Coast (D15-16)",
+    "displayText": "512 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "7n334i",
+    "objectId": "3363",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "513 Bedok North Avenue 2  460513, East Coast (D15-16)",
+    "displayText": "513 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "pso9md",
+    "objectId": "3364",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "514 Bedok North Avenue 2  460514, East Coast (D15-16)",
+    "displayText": "514 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "l5vjev",
+    "objectId": "3365",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "515 Bedok North Avenue 2  460515, East Coast (D15-16)",
+    "displayText": "515 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "vo8xi4",
+    "objectId": "3366",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "516 Bedok North Avenue 2  460516, East Coast (D15-16)",
+    "displayText": "516 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "n195oc",
+    "objectId": "3367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "517 Bedok North Avenue 2  460517, East Coast (D15-16)",
+    "displayText": "517 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "0lb6ys",
+    "objectId": "3368",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "518 Bedok North Avenue 2  460518, East Coast (D15-16)",
+    "displayText": "518 Bedok North Avenue 2",
+    "displayType": "HDB",
+    "nanoId": "du8b06",
+    "objectId": "3369",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "131 Bedok North Avenue 3  460131, East Coast (D15-16)",
+    "displayText": "131 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "cq62av",
+    "objectId": "3370",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "133 Bedok North Avenue 3  460133, East Coast (D15-16)",
+    "displayText": "133 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "aj4o1j",
+    "objectId": "3371",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "136 Bedok North Avenue 3  460136, East Coast (D15-16)",
+    "displayText": "136 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "diduns",
+    "objectId": "3372",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "137 Bedok North Avenue 3  460137, East Coast (D15-16)",
+    "displayText": "137 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "ea6co3",
+    "objectId": "3373",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "139 Bedok North Avenue 3  460139, East Coast (D15-16)",
+    "displayText": "139 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "wpux9u",
+    "objectId": "3374",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "401 Bedok North Avenue 3  460401, East Coast (D15-16)",
+    "displayText": "401 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "04sua4",
+    "objectId": "3375",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "402 Bedok North Avenue 3  460402, East Coast (D15-16)",
+    "displayText": "402 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "6fhgpj",
+    "objectId": "3376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "403 Bedok North Avenue 3  460403, East Coast (D15-16)",
+    "displayText": "403 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "y8jh56",
+    "objectId": "3377",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "404 Bedok North Avenue 3  460404, East Coast (D15-16)",
+    "displayText": "404 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "v3b5tm",
+    "objectId": "3378",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "405 Bedok North Avenue 3  460405, East Coast (D15-16)",
+    "displayText": "405 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "nsbpe4",
+    "objectId": "3379",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "406 Bedok North Avenue 3  460406, East Coast (D15-16)",
+    "displayText": "406 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "75wf1g",
+    "objectId": "3380",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "407 Bedok North Avenue 3  460407, East Coast (D15-16)",
+    "displayText": "407 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "9fn9hq",
+    "objectId": "3381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Bedok North Avenue 3  460505, East Coast (D15-16)",
+    "displayText": "505 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "v46k71",
+    "objectId": "3382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Bedok North Avenue 3  460506, East Coast (D15-16)",
+    "displayText": "506 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "zw9gxw",
+    "objectId": "3383",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Bedok North Avenue 3  460507, East Coast (D15-16)",
+    "displayText": "507 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "npke1j",
+    "objectId": "3384",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Bedok North Avenue 3  460508, East Coast (D15-16)",
+    "displayText": "508 Bedok North Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "9v0tz3",
+    "objectId": "3385",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "547A Bedok North Avenue 1  461547, East Coast (D15-16)",
+    "displayText": "547A Bedok North Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "u1t659",
+    "objectId": "26122",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bedok North Avenue 2",
+    "displayType": "Street",
+    "objectId": "11463",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "186A Bedok North Street 4  461186, East Coast (D15-16)",
+    "displayText": "186A Fengshan GreenVille",
+    "displayType": "HDB",
+    "nanoId": "12z03a",
+    "objectId": "23408",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "186B Bedok North Street 4  462186, East Coast (D15-16)",
+    "displayText": "186B Fengshan GreenVille",
+    "displayType": "HDB",
+    "nanoId": "tq2ti5",
+    "objectId": "23409",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "187A Bedok North Street 4  461187, East Coast (D15-16)",
+    "displayText": "187A Fengshan GreenVille",
+    "displayType": "HDB",
+    "nanoId": "63ugl2",
+    "objectId": "23411",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "187B Bedok North Street 4  462187, East Coast (D15-16)",
+    "displayText": "187B Fengshan GreenVille",
+    "displayType": "HDB",
+    "nanoId": "c31fvk",
+    "objectId": "23412",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188A Bedok North Street 4  461188, East Coast (D15-16)",
+    "displayText": "188A Fengshan GreenVille",
+    "displayType": "HDB",
+    "nanoId": "hmb0bv",
+    "objectId": "23413",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188B Bedok North Street 4  462188, East Coast (D15-16)",
+    "displayText": "188B Fengshan GreenVille",
+    "displayType": "HDB",
+    "nanoId": "d8jezb",
+    "objectId": "23414",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188C Bedok North Street 4  463188, East Coast (D15-16)",
+    "displayText": "188C Fengshan GreenVille",
+    "displayType": "HDB",
+    "nanoId": "a6d058",
+    "objectId": "23415",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188D Bedok North Street 4  464188, East Coast (D15-16)",
+    "displayText": "188D Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "r81gp1",
+    "objectId": "23416",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "188D Bedok North Street 4  464188, East Coast (D15-16)",
+    "displayText": "Fengshan Greenville",
+    "displayType": "HDB",
+    "nanoId": "vohxy8",
+    "objectId": "24724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "84 Bedok North Street 4  460084, East Coast (D15-16)",
+    "displayText": "84 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "8rvcuu",
+    "objectId": "3512",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "85 Bedok North Street 4  460085, East Coast (D15-16)",
+    "displayText": "85 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "ix8op4",
+    "objectId": "3513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "86 Bedok North Street 4  460086, East Coast (D15-16)",
+    "displayText": "86 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "akad54",
+    "objectId": "3514",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "87 Bedok North Street 4  460087, East Coast (D15-16)",
+    "displayText": "87 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "e8nqow",
+    "objectId": "3515",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "88 Bedok North Street 4  460088, East Coast (D15-16)",
+    "displayText": "88 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "dkk8a6",
+    "objectId": "3516",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "89 Bedok North Street 4  460089, East Coast (D15-16)",
+    "displayText": "89 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "3vrla2",
+    "objectId": "3517",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "90 Bedok North Street 4  460090, East Coast (D15-16)",
+    "displayText": "90 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "7u2sle",
+    "objectId": "3518",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "91 Bedok North Street 4  460091, East Coast (D15-16)",
+    "displayText": "91 Bedok North Street 4",
+    "displayType": "HDB",
+    "nanoId": "0s55c7",
+    "objectId": "3519",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Bedok North Street 4",
+    "displayType": "Street",
+    "objectId": "191",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "4 Bedok South Avenue 1  460004, East Coast (D15-16)",
+    "displayText": "4 Bedok South Avenue 1",
+    "displayType": "HDB",
+    "nanoId": "gtihzs",
+    "objectId": "3677",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        "2"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Serangoon North Avenue 4",
+    "displayType": "Street",
+    "objectId": "10426",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "500 Serangoon North Avenue 4  550500, Serangoon / Thomson (D19-20)",
+    "displayText": "500 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "e53urf",
+    "objectId": "10205",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "501 Serangoon North Avenue 4  550501, Serangoon / Thomson (D19-20)",
+    "displayText": "501 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "6tutit",
+    "objectId": "10206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "502 Serangoon North Avenue 4  550502, Serangoon / Thomson (D19-20)",
+    "displayText": "502 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "eq38zf",
+    "objectId": "10207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "503 Serangoon North Avenue 4  550503, Serangoon / Thomson (D19-20)",
+    "displayText": "503 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "ujkbfr",
+    "objectId": "10208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23",
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "504 Serangoon North Avenue 4  550504, Serangoon / Thomson (D19-20)",
+    "displayText": "504 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "baycs2",
+    "objectId": "10209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "505 Serangoon North Avenue 4  550505, Serangoon / Thomson (D19-20)",
+    "displayText": "505 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "yl7uoa",
+    "objectId": "10210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "506 Serangoon North Avenue 4  550506, Serangoon / Thomson (D19-20)",
+    "displayText": "506 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "pvt8vs",
+    "objectId": "10211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "507 Serangoon North Avenue 4  550507, Serangoon / Thomson (D19-20)",
+    "displayText": "507 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "u0hkv7",
+    "objectId": "10212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "508 Serangoon North Avenue 4  550508, Serangoon / Thomson (D19-20)",
+    "displayText": "508 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "i8klp7",
+    "objectId": "10213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "510 Serangoon North Avenue 4  550510, Serangoon / Thomson (D19-20)",
+    "displayText": "510 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "r1nart",
+    "objectId": "10215",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "511 Serangoon North Avenue 4  550511, Serangoon / Thomson (D19-20)",
+    "displayText": "511 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "4eykn7",
+    "objectId": "10216",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "512 Serangoon North Avenue 4  550512, Serangoon / Thomson (D19-20)",
+    "displayText": "512 Serangoon North Avenue 4",
+    "displayType": "HDB",
+    "nanoId": "5a16lh",
+    "objectId": "10217",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "23"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

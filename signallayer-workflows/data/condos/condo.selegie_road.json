@@ -1,0 +1,1450 @@
+[
+  {
+    "displayText": "Selegie Road",
+    "displayType": "Street",
+    "objectId": "2877",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "9 Selegie Road  180009, City & South West (D01-08)",
+    "displayText": "9 Selegie Road",
+    "displayType": "HDB",
+    "nanoId": "arghnj",
+    "objectId": "21616",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Selegie Road  180008, City & South West (D01-08)",
+    "displayText": "8 Selegie Road",
+    "displayType": "HDB",
+    "nanoId": "b0ojq9",
+    "objectId": "9818",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "189 Selegie Road  188332, City & South West (D01-08)",
+    "displayText": "Selegie Centre",
+    "displayType": "Apartment",
+    "nanoId": "qzt4y0",
+    "objectId": "2400",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Selegie Road  180010, City & South West (D01-08)",
+    "displayText": "10 Selegie Road",
+    "displayType": "HDB",
+    "nanoId": "23swro",
+    "objectId": "9820",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D07",
+      "estateCodes": [
+        "8"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "314 Shunfu Road  570314, Serangoon / Thomson (D19-20)",
+    "displayText": "JadeScape",
+    "displayType": "Condominium",
+    "nanoId": "9dt6ad",
+    "objectId": "23491",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "276 Yio Chu Kang Road  544604, Serangoon / Thomson (D19-20)",
+    "displayText": "Hundred Palms Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "di3fnu",
+    "objectId": "23145",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "239 Upper Paya Lebar Road  533866, Serangoon / Thomson (D19-20)",
+    "displayText": "Botanique at Bartley",
+    "displayType": "Condominium",
+    "nanoId": "1ukoq7",
+    "objectId": "22082",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Compassvale Road  544749, Serangoon / Thomson (D19-20)",
+    "displayText": "The Luxurie",
+    "displayType": "Condominium",
+    "nanoId": "kjcgzi",
+    "objectId": "20766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "29 Amber Road  439942, East Coast (D15-16)",
+    "displayText": "The Sea View",
+    "displayType": "Condominium",
+    "nanoId": "685qz3",
+    "objectId": "66",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Kovan Road  544894, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Residences",
+    "displayType": "Condominium",
+    "nanoId": "t1hgwl",
+    "objectId": "1338",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "112 Kim Seng Road  239432, Orchard / Holland (D09-10)",
+    "displayText": "The Trillium",
+    "displayType": "Condominium",
+    "nanoId": "ck22xu",
+    "objectId": "746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Meyer Road  437878, East Coast (D15-16)",
+    "displayText": "The Seafront on Meyer",
+    "displayType": "Condominium",
+    "nanoId": "sgzjkm",
+    "objectId": "749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Kovan Road  545018, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Melody",
+    "displayType": "Condominium",
+    "nanoId": "ypwolj",
+    "objectId": "84",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "107D Tampines Road  534006, Serangoon / Thomson (D19-20)",
+    "displayText": "The Tembusu",
+    "displayType": "Condominium",
+    "nanoId": "anbyzx",
+    "objectId": "21457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Segar Road  677721, West (D22-24)",
+    "displayText": "Blossom Residences",
+    "displayType": "Executive Condominium",
+    "nanoId": "qexql4",
+    "objectId": "20698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D23",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "984 Upper Serangoon Road  533854, Serangoon / Thomson (D19-20)",
+    "displayText": "Stars of Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ohgzu6",
+    "objectId": "22474",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Kim Seng Road  239471, Orchard / Holland (D09-10)",
+    "displayText": "The Cosmopolitan",
+    "displayType": "Condominium",
+    "nanoId": "u6mgp2",
+    "objectId": "81",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Seletar Road  807019, North (D25-28)",
+    "displayText": "Seletar Park Residence",
+    "displayType": "Condominium",
+    "nanoId": "f23v1n",
+    "objectId": "21127",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "532 Joo Chiat Road  427711, East Coast (D15-16)",
+    "displayText": "Parc Seabreeze",
+    "displayType": "Condominium",
+    "nanoId": "m4bj7i",
+    "objectId": "1299",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Yio Chu Kang Road  544773, Serangoon / Thomson (D19-20)",
+    "displayText": "Terrasse",
+    "displayType": "Condominium",
+    "nanoId": "cx4kxe",
+    "objectId": "20654",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Kim Seng Road  239426, Orchard / Holland (D09-10)",
+    "displayText": "Mirage Tower",
+    "displayType": "Condominium",
+    "nanoId": "1b7m0v",
+    "objectId": "287",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Kim Seng Road  239497, Orchard / Holland (D09-10)",
+    "displayText": "Tribeca by the Waterfront",
+    "displayType": "Condominium",
+    "nanoId": "388qcf",
+    "objectId": "136",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "115 Tampines Road  533901, Serangoon / Thomson (D19-20)",
+    "displayText": "Trilive",
+    "displayType": "Condominium",
+    "nanoId": "xxju8w",
+    "objectId": "1489",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "70 Saint Patrick's Road  424175, East Coast (D15-16)",
+    "displayText": "Seventy St Patrick's",
+    "displayType": "Condominium",
+    "nanoId": "xvds1s",
+    "objectId": "1540",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Seletar Road  807011, North (D25-28)",
+    "displayText": "The Greenwich",
+    "displayType": "Condominium",
+    "nanoId": "m9uk80",
+    "objectId": "20585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Kim Seng Road  239427, Orchard / Holland (D09-10)",
+    "displayText": "Centennia Suites",
+    "displayType": "Condominium",
+    "nanoId": "9qbyub",
+    "objectId": "20611",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "491 Yio Chu Kang Road  787078, North (D25-28)",
+    "displayText": "Seasons Park",
+    "displayType": "Condominium",
+    "nanoId": "l0gqrg",
+    "objectId": "264",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D26",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "161 Poh Huat Road West  546692, Serangoon / Thomson (D19-20)",
+    "displayText": "The Waterline",
+    "displayType": "Condominium",
+    "nanoId": "137xj6",
+    "objectId": "20602",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Lim Tua Tow Road  547726, Serangoon / Thomson (D19-20)",
+    "displayText": "Casa Cambio",
+    "displayType": "Condominium",
+    "nanoId": "g4t7na",
+    "objectId": "21154",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1189 Upper Serangoon Road  534785, Serangoon / Thomson (D19-20)",
+    "displayText": "Midtown Residences",
+    "displayType": "Condominium",
+    "nanoId": "tzdnhn",
+    "objectId": "21584",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1091 Serangoon Road  328190, Balestier / Geylang (D12-14)",
+    "displayText": "Regent Residences",
+    "displayType": "Condominium",
+    "nanoId": "e4st3k",
+    "objectId": "20805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Bartley Road  539763, Serangoon / Thomson (D19-20)",
+    "displayText": "The Quinn",
+    "displayType": "Apartment",
+    "nanoId": "qaurk2",
+    "objectId": "21669",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Lorong Ong Lye  536443, Serangoon / Thomson (D19-20)",
+    "displayText": "Casa Rosa",
+    "displayType": "Condominium",
+    "nanoId": "us4wvc",
+    "objectId": "1004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1177 Serangoon Road  328231, Balestier / Geylang (D12-14)",
+    "displayText": "Jui Residences",
+    "displayType": "Condominium",
+    "nanoId": "vwdmsc",
+    "objectId": "23525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "501 Sembawang Road  757706, North (D25-28)",
+    "displayText": "Seletaris",
+    "displayType": "Condominium",
+    "nanoId": "9eoo19",
+    "objectId": "424",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D27",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "97A Upper Thomson Road  574327, Serangoon / Thomson (D19-20)",
+    "displayText": "Lakeview Estate",
+    "displayType": "Apartment",
+    "nanoId": "1l7vbb",
+    "objectId": "938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "15 Amber Road  439865, East Coast (D15-16)",
+    "displayText": "Seaview Point",
+    "displayType": "Condominium",
+    "nanoId": "f90k0q",
+    "objectId": "1508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Yio Chu Kang Road  545523, Serangoon / Thomson (D19-20)",
+    "displayText": "Space @ Kovan",
+    "displayType": "Apartment",
+    "nanoId": "hxsj5q",
+    "objectId": "20577",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "420 Upper Paya Lebar Road  534049, Serangoon / Thomson (D19-20)",
+    "displayText": "Suites @ Paya Lebar",
+    "displayType": "Condominium",
+    "nanoId": "b2zmgk",
+    "objectId": "20732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "311 Upper Thomson Road  574409, Serangoon / Thomson (D19-20)",
+    "displayText": "Three 11",
+    "displayType": "Apartment",
+    "nanoId": "89xg9d",
+    "objectId": "21667",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Kovan Road  548534, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Jewel",
+    "displayType": "Condominium",
+    "nanoId": "gdch3t",
+    "objectId": "25371",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1037 Serangoon Road  328170, Balestier / Geylang (D12-14)",
+    "displayText": "The Arcady At Boon Keng",
+    "displayType": "Condominium",
+    "nanoId": "tbe8db",
+    "objectId": "25639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Lorong Ong Lye  536407, Serangoon / Thomson (D19-20)",
+    "displayText": "Rosalia Park",
+    "displayType": "Condominium",
+    "nanoId": "safuuz",
+    "objectId": "709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "131 Poh Huat Road West  546684, Serangoon / Thomson (D19-20)",
+    "displayText": "Nouvelle Park",
+    "displayType": "Condominium",
+    "nanoId": "uf3ue1",
+    "objectId": "905",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Poh Huat Road West  540000, Serangoon / Thomson (D19-20)",
+    "displayText": "Fontaine Parry",
+    "displayType": "Condominium",
+    "nanoId": "9i1cq2",
+    "objectId": "971",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Senja Road",
+    "displayType": "Street",
+    "objectId": "2925",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "109 Tampines Road  535131, Serangoon / Thomson (D19-20)",
+    "displayText": "Fortune Park",
+    "displayType": "Condominium",
+    "nanoId": "ai6ouq",
+    "objectId": "1006",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "571 Upper Serangoon Road  534798, Serangoon / Thomson (D19-20)",
+    "displayText": "The Yardley",
+    "displayType": "Condominium",
+    "nanoId": "eigt4j",
+    "objectId": "1259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "200 Upper Thomson Road  574424, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Imperial Court",
+    "displayType": "Condominium",
+    "nanoId": "snyroc",
+    "objectId": "1393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "118 Tampines Road  535193, Serangoon / Thomson (D19-20)",
+    "displayText": "Kovan Grandeur",
+    "displayType": "Condominium",
+    "nanoId": "jw7527",
+    "objectId": "20557",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "93 Kovan Road  548178, Serangoon / Thomson (D19-20)",
+    "displayText": "Vibes @ Kovan",
+    "displayType": "Condominium",
+    "nanoId": "9rspti",
+    "objectId": "20590",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "252 Pasir Panjang Road  118617, City & South West (D01-08)",
+    "displayText": "SeaSuites",
+    "displayType": "Apartment",
+    "nanoId": "7q94sd",
+    "objectId": "21453",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "767 Upper Serangoon Road  534635, Serangoon / Thomson (D19-20)",
+    "displayText": "Spazio @ Kovan",
+    "displayType": "Condominium",
+    "nanoId": "ggjikb",
+    "objectId": "21465",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31  How Sun Road  538500, Serangoon / Thomson (D19-20)",
+    "displayText": "The Lilium",
+    "displayType": "Condominium",
+    "nanoId": "0luhqm",
+    "objectId": "23694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Sin Ming Road  000000, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson Garden Estate",
+    "displayType": "Terraced House",
+    "nanoId": "u0bjne",
+    "objectId": "2523",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        "",
+        ""
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "58 Seng Poh Road  160058, City & South West (D01-08)",
+    "displayText": "Tiong Bahru Estate",
+    "displayType": "Apartment",
+    "nanoId": "jvqgqa",
+    "objectId": "2532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        null,
+        null,
+        "5"
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "458A Sengkang West Road  791458, North (D25-28)",
+    "displayText": "458A Sengkang West Road",
+    "displayType": "HDB",
+    "nanoId": "mrobko",
+    "objectId": "25704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "30 32 Yio Chu Kang Road  545550, Serangoon / Thomson (D19-20)",
+    "displayText": "Residences Botanique",
+    "displayType": "Condominium",
+    "nanoId": "0x43hm",
+    "objectId": "2591",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Sin Ming Road  575583, Serangoon / Thomson (D19-20)",
+    "displayText": "Sin Ming Plaza",
+    "displayType": "Apartment",
+    "nanoId": "ktbhgt",
+    "objectId": "587",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "157A Tamarind Road  806105, North (D25-28)",
+    "displayText": "Serenity Park",
+    "displayType": "Condominium",
+    "nanoId": "o074b2",
+    "objectId": "732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Segar Road",
+    "displayType": "Street",
+    "objectId": "7913",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "7 Holt Road  249445, Orchard / Holland (D09-10)",
+    "displayText": "Seven Holt Road",
+    "displayType": "Condominium",
+    "nanoId": "4c7f6y",
+    "objectId": "1117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "68 Florence Road  549555, Serangoon / Thomson (D19-20)",
+    "displayText": "The Florentine",
+    "displayType": "Apartment",
+    "nanoId": "9gb4hf",
+    "objectId": "1271",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "389 Upper Paya Lebar Road  534979, Serangoon / Thomson (D19-20)",
+    "displayText": "Evania",
+    "displayType": "Apartment",
+    "nanoId": "s8odl6",
+    "objectId": "1283",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Sandilands Road  546066, Serangoon / Thomson (D19-20)",
+    "displayText": "3 @ Sandilands",
+    "displayType": "Apartment",
+    "nanoId": "b7hlax",
+    "objectId": "1302",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "803 Upper Serangoon Road  534163, Serangoon / Thomson (D19-20)",
+    "displayText": "D'Pavilion",
+    "displayType": "Apartment",
+    "nanoId": "7li4jy",
+    "objectId": "1490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "357 Upper Paya Lebar Road  534959, Serangoon / Thomson (D19-20)",
+    "displayText": "Fragrant Gardens",
+    "displayType": "Condominium",
+    "nanoId": "7wxtrq",
+    "objectId": "1938",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "126 Koon Seng Road  427059, East Coast (D15-16)",
+    "displayText": "Tivoli Grande",
+    "displayType": "Condominium",
+    "nanoId": "3z0f6v",
+    "objectId": "20530",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "24 GLASGOW ROAD  549340, Serangoon / Thomson (D19-20)",
+    "displayText": "iSuites @ Palm",
+    "displayType": "Condominium",
+    "nanoId": "kb07xa",
+    "objectId": "20596",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Rosyth Road  546133, Serangoon / Thomson (D19-20)",
+    "displayText": "One Rosyth",
+    "displayType": "Apartment",
+    "nanoId": "876naz",
+    "objectId": "20603",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "355 Upper Paya Lebar Road  534958, Serangoon / Thomson (D19-20)",
+    "displayText": "The Vue",
+    "displayType": "Condominium",
+    "nanoId": "g3lhsz",
+    "objectId": "20705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "831 Upper Serangoon Road  534679, Serangoon / Thomson (D19-20)",
+    "displayText": "Park Residences Kovan",
+    "displayType": "Condominium",
+    "nanoId": "hzl62n",
+    "objectId": "20754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11A Kang Choo Bin Road  548271, Serangoon / Thomson (D19-20)",
+    "displayText": "Summer Scent",
+    "displayType": "Condominium",
+    "nanoId": "uk6tpr",
+    "objectId": "21059",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "528 Upper Serangoon Road  534543, Serangoon / Thomson (D19-20)",
+    "displayText": "Presto @ Upper Serangoon",
+    "displayType": "Condominium",
+    "nanoId": "yt3bs6",
+    "objectId": "21214",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "488 Upper Serangoon Road  534519, Serangoon / Thomson (D19-20)",
+    "displayText": "Vibes @ Upper Serangoon",
+    "displayType": "Apartment",
+    "nanoId": "ijqf59",
+    "objectId": "21245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Robey Crescent  546256, Serangoon / Thomson (D19-20)",
+    "displayText": "One Robey",
+    "displayType": "Condominium",
+    "nanoId": "dvidyk",
+    "objectId": "21357",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "305A Punggol Road  821305, Serangoon / Thomson (D19-20)",
+    "displayText": "305A Punggol Road",
+    "displayType": "HDB",
+    "nanoId": "5kazk2",
+    "objectId": "21446",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "19"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Lim Tua Tow Road  547791, Serangoon / Thomson (D19-20)",
+    "displayText": "Cambio Suites",
+    "displayType": "Apartment",
+    "nanoId": "zns6si",
+    "objectId": "21638",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Kovan Road  544694, Serangoon / Thomson (D19-20)",
+    "displayText": "The Bently Residences@Kovan",
+    "displayType": "Apartment",
+    "nanoId": "o1tveo",
+    "objectId": "21724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "103 Haig Road  438750, East Coast (D15-16)",
+    "displayText": "The Serenno",
+    "displayType": "Apartment",
+    "nanoId": "xlqbja",
+    "objectId": "21863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Crescent Road  439999, East Coast (D15-16)",
+    "displayText": "Seven Crescent",
+    "displayType": "Cluster House",
+    "nanoId": "7wf1hj",
+    "objectId": "21962",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CLUS",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Old Upper Thomson Road  573868, Serangoon / Thomson (D19-20)",
+    "displayText": "Adana @ Thomson",
+    "displayType": "Condominium",
+    "nanoId": "ec42zx",
+    "objectId": "22118",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "183 Upper Thomson Road  574332, Serangoon / Thomson (D19-20)",
+    "displayText": "183 Longhaus",
+    "displayType": "Condominium",
+    "nanoId": "geha3f",
+    "objectId": "22438",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "365B Upper Serangoon Road  532365, Serangoon / Thomson (D19-20)",
+    "displayText": "365B Upper Serangoon Road",
+    "displayType": "HDB",
+    "nanoId": "1bdtsk",
+    "objectId": "22842",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Joo Seng Road  360009, Balestier / Geylang (D12-14)",
+    "displayText": "9 Joo Seng Road",
+    "displayType": "HDB",
+    "nanoId": "8wqlyg",
+    "objectId": "23352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "494 Upper East Coast Road  466522, East Coast (D15-16)",
+    "displayText": "Sea Pavilion Residences",
+    "displayType": "Condominium",
+    "nanoId": "y9idp9",
+    "objectId": "23442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D16",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "208 Yio Chu Kang Road  545653, Serangoon / Thomson (D19-20)",
+    "displayText": "Parkwood Residences",
+    "displayType": "Condominium",
+    "nanoId": "vqhgl0",
+    "objectId": "23536",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Nassim Road  258374, Orchard / Holland (D09-10)",
+    "displayText": "Seven Nassim",
+    "displayType": "Condominium",
+    "nanoId": "0qqc3l",
+    "objectId": "2376",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "440 Tanjong Katong Road  437149, East Coast (D15-16)",
+    "displayText": "Seaview Park",
+    "displayType": "Condominium",
+    "nanoId": "v769ho",
+    "objectId": "2398",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Cactus Road  809000, North (D25-28)",
+    "displayText": "Seletar Garden",
+    "displayType": "Terraced House",
+    "nanoId": "vi6ycw",
+    "objectId": "2401",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "2 Kovan Road  548008, Serangoon / Thomson (D19-20)",
+    "displayText": "Simon Plaza",
+    "displayType": "Apartment",
+    "nanoId": "4ntwkb",
+    "objectId": "2422",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "458C Sengkang West Road  793458, North (D25-28)",
+    "displayText": "458C Sengkang West Road",
+    "displayType": "HDB",
+    "nanoId": "8tw0p0",
+    "objectId": "25817",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D28",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "28 Yio Chu Kang Road  545678, Serangoon / Thomson (D19-20)",
+    "displayText": "Wembly Residences",
+    "displayType": "Apartment",
+    "nanoId": "rlzbh8",
+    "objectId": "2613",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "36A Kovan Road  544870, Serangoon / Thomson (D19-20)",
+    "displayText": "Water Villas",
+    "displayType": "Semi-Detached House",
+    "nanoId": "78f9oc",
+    "objectId": "2633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "SEMI",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "203D Compassvale Road  544203, Serangoon / Thomson (D19-20)",
+    "displayText": "203D Compassvale Road",
+    "displayType": "HDB",
+    "nanoId": "rxrokz",
+    "objectId": "5682",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "22"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Windsor Park Road  000001, Serangoon / Thomson (D19-20)",
+    "displayText": "Windsor Park Estate",
+    "displayType": "Bungalow House",
+    "nanoId": "869kwa",
+    "objectId": "629",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "LBUNG",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "557 Upper Thomson Road  574418, Serangoon / Thomson (D19-20)",
+    "displayText": "Peirce View",
+    "displayType": "Condominium",
+    "nanoId": "dht1b3",
+    "objectId": "854",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Evelyn Road  309304, Newton / Bt. Timah (D11, 21)",
+    "displayText": "Setia Residences",
+    "displayType": "Apartment",
+    "nanoId": "e1wn82",
+    "objectId": "934",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D11",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Sin Ming Road  575629, Serangoon / Thomson (D19-20)",
+    "displayText": "Thomson V Two",
+    "displayType": "Condominium",
+    "nanoId": "fxxjr9",
+    "objectId": "964",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

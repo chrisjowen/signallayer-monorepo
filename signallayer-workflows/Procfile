@@ -1,0 +1,3 @@
+
+web: DOTENV_FILE=.env.development uv run uvicorn src.web.main:app --reload
+worker: DOTENV_FILE=.env.development uv run python -m src.worker.main

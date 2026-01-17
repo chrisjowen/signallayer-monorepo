@@ -1,0 +1,1454 @@
+[
+  {
+    "displayText": "Haig Road",
+    "displayType": "Street",
+    "objectId": "1043",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Haig Road  430001, East Coast (D15-16)",
+    "displayText": "1 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "f5dunv",
+    "objectId": "6244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Haig Road  430002, East Coast (D15-16)",
+    "displayText": "2 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "4or813",
+    "objectId": "6245",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Haig Road  430003, East Coast (D15-16)",
+    "displayText": "3 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "thjqmm",
+    "objectId": "6246",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "4 Haig Road  430004, East Coast (D15-16)",
+    "displayText": "4 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "wo4cnd",
+    "objectId": "6247",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "5 Haig Road  430005, East Coast (D15-16)",
+    "displayText": "5 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "ift9uj",
+    "objectId": "6248",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Haig Road  430006, East Coast (D15-16)",
+    "displayText": "6 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "ut874d",
+    "objectId": "6249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "7 Haig Road  430007, East Coast (D15-16)",
+    "displayText": "7 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "az6adk",
+    "objectId": "6250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "8 Haig Road  430008, East Coast (D15-16)",
+    "displayText": "8 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "4mk689",
+    "objectId": "6251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "9 Haig Road  430009, East Coast (D15-16)",
+    "displayText": "9 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "44m0nq",
+    "objectId": "6252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Haig Road  438791, East Coast (D15-16)",
+    "displayText": "Haig Court",
+    "displayType": "Condominium",
+    "nanoId": "ug2g30",
+    "objectId": "206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "100 Haig Road  438797, East Coast (D15-16)",
+    "displayText": "Dunman View",
+    "displayType": "Condominium",
+    "nanoId": "9kjksl",
+    "objectId": "354",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "162 Haig Road  438773, East Coast (D15-16)",
+    "displayText": "Haig 162",
+    "displayType": "Condominium",
+    "nanoId": "7194e5",
+    "objectId": "20521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "163 Haig Road  438774, East Coast (D15-16)",
+    "displayText": "Haig Residences",
+    "displayType": "Condominium",
+    "nanoId": "6u3h86",
+    "objectId": "20630",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "103 Haig Road  438750, East Coast (D15-16)",
+    "displayText": "The Serenno",
+    "displayType": "Apartment",
+    "nanoId": "xlqbja",
+    "objectId": "21863",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "181 Haig Road  438780, East Coast (D15-16)",
+    "displayText": "Ardor Residence",
+    "displayType": "Apartment",
+    "nanoId": "u3c76a",
+    "objectId": "25660",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "185 Haig Road  438782, East Coast (D15-16)",
+    "displayText": "Haig Apartments",
+    "displayType": "Apartment",
+    "nanoId": "hkuuyj",
+    "objectId": "1995",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "139 Haig Road  438768, East Coast (D15-16)",
+    "displayText": "Haig Lodge",
+    "displayType": "Apartment",
+    "nanoId": "70u2ri",
+    "objectId": "1997",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "141 Haig Road  438769, East Coast (D15-16)",
+    "displayText": "Spring Gardens",
+    "displayType": "Apartment",
+    "nanoId": "jm3k4d",
+    "objectId": "2431",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "161 Haig Road  438772, East Coast (D15-16)",
+    "displayText": "Taipan Regency",
+    "displayType": "Apartment",
+    "nanoId": "87x0ji",
+    "objectId": "2459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "105 Haig Road   438751, East Coast (D15-16)",
+    "displayText": "Haig Mansions",
+    "displayType": "Apartment",
+    "nanoId": "ayk5p9",
+    "objectId": "24886",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Haig Road  430010, East Coast (D15-16)",
+    "displayText": "10 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "clj78n",
+    "objectId": "6253",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "11 Haig Road  430011, East Coast (D15-16)",
+    "displayText": "11 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "ge3wui",
+    "objectId": "6254",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "12 Haig Road  430012, East Coast (D15-16)",
+    "displayText": "12 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "lv7qo5",
+    "objectId": "6255",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "13 Haig Road  430013, East Coast (D15-16)",
+    "displayText": "13 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "xjc0u9",
+    "objectId": "6256",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "14 Haig Road  430014, East Coast (D15-16)",
+    "displayText": "14 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "5g0sfm",
+    "objectId": "6257",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "21 Haig Road  430021, East Coast (D15-16)",
+    "displayText": "21 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "7twgqw",
+    "objectId": "6258",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "22 Haig Road  430022, East Coast (D15-16)",
+    "displayText": "22 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "c7hd4v",
+    "objectId": "6259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "23 Haig Road  430023, East Coast (D15-16)",
+    "displayText": "23 Haig Road",
+    "displayType": "HDB",
+    "nanoId": "g4gh41",
+    "objectId": "6260",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "101 Haig Road  438749, East Coast (D15-16)",
+    "displayText": "The Prominence",
+    "displayType": "Condominium",
+    "nanoId": "a0z01m",
+    "objectId": "892",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "135 Haig Road  438789, East Coast (D15-16)",
+    "displayText": "D'Focus",
+    "displayType": "Apartment",
+    "nanoId": "c53di6",
+    "objectId": "1856",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Craig Road",
+    "displayType": "Street",
+    "objectId": "641",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "29A Ipoh Lane  438627, East Coast (D15-16)",
+    "displayText": "Versilia On Haig",
+    "displayType": "Condominium",
+    "nanoId": "c5w7a0",
+    "objectId": "1143",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "12 Haig Avenue  438867, East Coast (D15-16)",
+    "displayText": "Esterina",
+    "displayType": "Condominium",
+    "nanoId": "j8ed7u",
+    "objectId": "1578",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Haigsville Drive  438719, East Coast (D15-16)",
+    "displayText": "Haig Ten",
+    "displayType": "Apartment",
+    "nanoId": "2mbrdk",
+    "objectId": "2000",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Haig Avenue  438859, East Coast (D15-16)",
+    "displayText": "EiS Residences",
+    "displayType": "Condominium",
+    "nanoId": "2zv4it",
+    "objectId": "20619",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Haig Avenue  438865, East Coast (D15-16)",
+    "displayText": "Rose Maison",
+    "displayType": "Apartment",
+    "nanoId": "5c3vfy",
+    "objectId": "2367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Haig Avenue  438840, East Coast (D15-16)",
+    "displayText": "Haig Grove (SCK Ville)",
+    "displayType": "Apartment",
+    "nanoId": "ivjl0o",
+    "objectId": "2394",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "16 Haig Lane  438818, East Coast (D15-16)",
+    "displayText": "The Silverton",
+    "displayType": "Apartment",
+    "nanoId": "5jebpx",
+    "objectId": "2513",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Haig Lane  438803, East Coast (D15-16)",
+    "displayText": "Royal Hallmark",
+    "displayType": "Condominium",
+    "nanoId": "5mnurp",
+    "objectId": "25289",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Haig Avenue  438866, East Coast (D15-16)",
+    "displayText": "Haig Eleven",
+    "displayType": "Condominium",
+    "nanoId": "7nqh1w",
+    "objectId": "885",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Haig Avenue",
+    "displayType": "Street",
+    "objectId": "1041",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Haig Lane",
+    "displayType": "Street",
+    "objectId": "1042",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "150 South Bridge Road  058727, City & South West (D01-08)",
+    "displayText": "Fook Hai Building",
+    "displayType": "Apartment",
+    "nanoId": "igkdrc",
+    "objectId": "23800",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Hai Sing Road",
+    "displayType": "Street",
+    "objectId": "1040",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Jalan Hang Jebat",
+    "displayType": "Street",
+    "objectId": "1555",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "536457, Serangoon / Thomson (D19-20)",
+    "displayText": "Hai Sing Park",
+    "displayType": "Terraced House",
+    "nanoId": "o5l7p8",
+    "objectId": "20927",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayText": "Hai Sing Crescent",
+    "displayType": "Street",
+    "objectId": "1039",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "60 Havelock Road  169658, City & South West (D01-08)",
+    "displayText": "River Place",
+    "displayType": "Condominium",
+    "nanoId": "buxdnl",
+    "objectId": "191",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Handy Road  229239, Orchard / Holland (D09-10)",
+    "displayText": "Suites at Orchard",
+    "displayType": "Condominium",
+    "nanoId": "mrua0c",
+    "objectId": "20724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Handy Road  229240, Orchard / Holland (D09-10)",
+    "displayText": "Haus On Handy",
+    "displayType": "Condominium",
+    "nanoId": "wrdix8",
+    "objectId": "23737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "66 Telok Blangah Road  098830, City & South West (D01-08)",
+    "displayText": "Harbourlights",
+    "displayType": "Apartment",
+    "nanoId": "9k6zdc",
+    "objectId": "1039",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "73 Meyer Road  437898, East Coast (D15-16)",
+    "displayText": "Hawaii Tower",
+    "displayType": "Condominium",
+    "nanoId": "kpy6bj",
+    "objectId": "457",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Peck Hay Road  228307, Orchard / Holland (D09-10)",
+    "displayText": "Vida",
+    "displayType": "Condominium",
+    "nanoId": "hukvm5",
+    "objectId": "472",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Handy Road  229236, Orchard / Holland (D09-10)",
+    "displayText": "Nomu",
+    "displayType": "Apartment",
+    "nanoId": "ou9tqj",
+    "objectId": "262",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Ewe Boon Road  259325, Orchard / Holland (D09-10)",
+    "displayText": "Hallmark Residences",
+    "displayType": "Condominium",
+    "nanoId": "w0jem7",
+    "objectId": "21468",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "37 Scotts Road  228229, Orchard / Holland (D09-10)",
+    "displayText": "Reignwood Hamilton Scotts",
+    "displayType": "Apartment",
+    "nanoId": "80c7xw",
+    "objectId": "1311",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "221 Pasir Panjang Road  118574, City & South West (D01-08)",
+    "displayText": "Harbour View Gardens",
+    "displayType": "Apartment",
+    "nanoId": "qhho15",
+    "objectId": "2004",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Tomlinson Road  247857, Orchard / Holland (D09-10)",
+    "displayText": "Hana",
+    "displayType": "Apartment",
+    "nanoId": "1wq48x",
+    "objectId": "21909",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "101 Dalvey Road Singapore  259514, Orchard / Holland (D09-10)",
+    "displayText": "Dalvey Haus",
+    "displayType": "Condominium",
+    "nanoId": "fomlpc",
+    "objectId": "23896",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "28 Havelock Road,  059765, City & South West (D01-08)",
+    "displayText": "Union Square Residences",
+    "displayType": "Condominium",
+    "nanoId": "m3steb",
+    "objectId": "25826",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Peck Hay Road  228305, Orchard / Holland (D09-10)",
+    "displayText": "Casa Cairnhill",
+    "displayType": "Condominium",
+    "nanoId": "snqo8x",
+    "objectId": "490",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "550 Havelock Road  169638, City & South West (D01-08)",
+    "displayText": "Harvest Mansions",
+    "displayType": "Apartment",
+    "nanoId": "8gyvku",
+    "objectId": "662",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "89 Tanglin Halt Road  141089, City & South West (D01-08)",
+    "displayText": "89 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "acgjx7",
+    "objectId": "11250",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "90 Tanglin Halt Road  141090, City & South West (D01-08)",
+    "displayText": "90 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "g6ncej",
+    "objectId": "11251",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "91 Tanglin Halt Road  142091, City & South West (D01-08)",
+    "displayText": "91 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "o1cf5w",
+    "objectId": "11252",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "522 KAMPONG BAHRU ROAD  099454, City & South West (D01-08)",
+    "displayText": "Harbour Suites @ Kampong Bahru",
+    "displayType": "Condominium",
+    "nanoId": "vuk953",
+    "objectId": "20618",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "54 Havelock Road  161054, City & South West (D01-08)",
+    "displayText": "54 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "8lsv43",
+    "objectId": "21318",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "6 Handy Road  229234, Orchard / Holland (D09-10)",
+    "displayText": "The Luxe",
+    "displayType": "Condominium",
+    "nanoId": "rfhgry",
+    "objectId": "22601",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "95 Havelock Road  160095, City & South West (D01-08)",
+    "displayText": "95 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "kbjmbj",
+    "objectId": "6265",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "0 Peck Hay Road  220000, Orchard / Holland (D09-10)",
+    "displayText": "CityVista Residences",
+    "displayType": "Apartment",
+    "nanoId": "ntbyzm",
+    "objectId": "973",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Havelock Road",
+    "displayType": "Street",
+    "objectId": "1070",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tanglin Halt Road",
+    "displayType": "Street",
+    "objectId": "3298",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "28 Tanglin Halt Road  140028, City & South West (D01-08)",
+    "displayText": "28 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "yedypi",
+    "objectId": "11223",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "29 Tanglin Halt Road  141029, City & South West (D01-08)",
+    "displayText": "29 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "2jcd4k",
+    "objectId": "11224",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "31 Tanglin Halt Road  141031, City & South West (D01-08)",
+    "displayText": "31 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "9wz20u",
+    "objectId": "11226",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "32 Tanglin Halt Road  142032, City & South West (D01-08)",
+    "displayText": "32 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "ky5tqa",
+    "objectId": "11227",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "33 Tanglin Halt Road  142033, City & South West (D01-08)",
+    "displayText": "33 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "od4gn2",
+    "objectId": "11228",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "36 Tanglin Halt Road  141036, City & South West (D01-08)",
+    "displayText": "36 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "0o6cg4",
+    "objectId": "11231",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "39 Tanglin Halt Road  143039, City & South West (D01-08)",
+    "displayText": "39 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "2enuax",
+    "objectId": "11234",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "42 Tanglin Halt Road  141042, City & South West (D01-08)",
+    "displayText": "42 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "z5nj64",
+    "objectId": "11237",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "43 Tanglin Halt Road  142043, City & South West (D01-08)",
+    "displayText": "43 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "xhe66h",
+    "objectId": "11238",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "44 Tanglin Halt Road  142044, City & South West (D01-08)",
+    "displayText": "44 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "w01zx0",
+    "objectId": "11239",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "45 Tanglin Halt Road  141045, City & South West (D01-08)",
+    "displayText": "45 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "6zyuv7",
+    "objectId": "11240",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "46 Tanglin Halt Road  142046, City & South West (D01-08)",
+    "displayText": "46 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "ozrw4z",
+    "objectId": "11241",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "47 Tanglin Halt Road  141047, City & South West (D01-08)",
+    "displayText": "47 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "o9qptu",
+    "objectId": "11242",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "48 Tanglin Halt Road  142048, City & South West (D01-08)",
+    "displayText": "48 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "xxut2e",
+    "objectId": "11243",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "88 Tanglin Halt Road  141088, City & South West (D01-08)",
+    "displayText": "88 Tanglin Halt Road",
+    "displayType": "HDB",
+    "nanoId": "s8tjwy",
+    "objectId": "11249",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "20"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "20 Havelock Road  059765, City & South West (D01-08)",
+    "displayText": "Central Square",
+    "displayType": "Condominium",
+    "nanoId": "693g5f",
+    "objectId": "1720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "57 Havelock Road  161057, City & South West (D01-08)",
+    "displayText": "57 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "q8ic0c",
+    "objectId": "21176",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "53 Havelock Road  161053, City & South West (D01-08)",
+    "displayText": "53 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "but1o2",
+    "objectId": "21294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "52 Havelock Road  161052, City & South West (D01-08)",
+    "displayText": "52 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "n4wm0m",
+    "objectId": "21317",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "55 Havelock Road  161055, City & South West (D01-08)",
+    "displayText": "55 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "0omi9f",
+    "objectId": "21319",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "56 Havelock Road  161056, City & South West (D01-08)",
+    "displayText": "56 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "260l6v",
+    "objectId": "21320",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "58 Havelock Road  161058, City & South West (D01-08)",
+    "displayText": "58 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "zhbbcu",
+    "objectId": "21321",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "51 Havelock Road  161051, City & South West (D01-08)",
+    "displayText": "51 Havelock Road",
+    "displayType": "HDB",
+    "nanoId": "btdkpq",
+    "objectId": "21322",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D03",
+      "estateCodes": [
+        "5"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "15 Peck Hay Road  228312, Orchard / Holland (D09-10)",
+    "displayText": "Peck Hay Mansions",
+    "displayType": "Apartment",
+    "nanoId": "iiwesb",
+    "objectId": "2292",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D09",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "552 Kampong Bahru Roa  099454, City & South West (D01-08)",
+    "displayText": "Harbourside Apartments",
+    "displayType": "Condominium",
+    "nanoId": "jgtksk",
+    "objectId": "24898",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D04",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "32 DUKU ROAD  429190, East Coast (D15-16)",
+    "displayText": "Harmony Mansion",
+    "displayType": "Condominium",
+    "nanoId": "f91gg6",
+    "objectId": "25175",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D15",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Pasir Panjang Road  000000, City & South West (D01-08)",
+    "displayText": "The Harbour Residences",
+    "displayType": "Terraced House",
+    "nanoId": "4l5kdp",
+    "objectId": "25834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D05",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  }
+]

@@ -1,0 +1,1490 @@
+[
+  {
+    "displayText": "Geylang Serai",
+    "displayType": "Street",
+    "objectId": "950",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "1 Geylang Serai  402001, Balestier / Geylang (D12-14)",
+    "displayText": "1 Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "034afr",
+    "objectId": "6206",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2 Geylang Serai  402002, Balestier / Geylang (D12-14)",
+    "displayText": "2 Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "vtan52",
+    "objectId": "6207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3 Geylang Serai  401003, Balestier / Geylang (D12-14)",
+    "displayText": "3 Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "o0djuu",
+    "objectId": "6208",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2A Geylang Serai  403002, Balestier / Geylang (D12-14)",
+    "displayText": "2A Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "y0r5su",
+    "objectId": "6209",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2B Geylang Serai  404002, Balestier / Geylang (D12-14)",
+    "displayText": "2B Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "n9e4m2",
+    "objectId": "6210",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2C Geylang Serai  405002, Balestier / Geylang (D12-14)",
+    "displayText": "2C Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "bcc8fz",
+    "objectId": "6211",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2D Geylang Serai  406002, Balestier / Geylang (D12-14)",
+    "displayText": "2D Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "v7jlvj",
+    "objectId": "6212",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "3A Geylang Serai  402003, Balestier / Geylang (D12-14)",
+    "displayText": "3A Sri Geylang Serai",
+    "displayType": "HDB",
+    "nanoId": "2uz8gj",
+    "objectId": "6213",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "2A Wolskel Road  357958, Balestier / Geylang (D12-14)",
+    "displayText": "Seran Court",
+    "displayType": "Apartment",
+    "nanoId": "po6zht",
+    "objectId": "20681",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Taman Serasi  257717, Orchard / Holland (D09-10)",
+    "displayText": "Botanic Gardens View",
+    "displayType": "Apartment",
+    "nanoId": "2duvrf",
+    "objectId": "1080",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Taman Serasi  257718, Orchard / Holland (D09-10)",
+    "displayText": "Botanic Gardens Mansion",
+    "displayType": "Apartment",
+    "nanoId": "7sjkvt",
+    "objectId": "556",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D10",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Taman Serasi",
+    "displayType": "Street",
+    "objectId": "4792",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "8 Geylong Lor 35  387940, Balestier / Geylang (D12-14)",
+    "displayText": "Baode Apartment",
+    "displayType": "Apartment",
+    "nanoId": "2qhde6",
+    "objectId": "1782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "D14",
+    "displayText": "D14 Eunos / Geylang / Paya Lebar",
+    "displayType": "District",
+    "objectId": "D14",
+    "objectType": "DISTRICT",
+    "properties": {
+      "district": "D14"
+    }
+  },
+  {
+    "displayDescription": "822 Sims Avenue  400822, Balestier / Geylang (D12-14)",
+    "displayText": "Parc Esta",
+    "displayType": "Condominium",
+    "nanoId": "c9dwl0",
+    "objectId": "23534",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Geylang",
+    "displayType": "HDB Estate",
+    "objectId": "11",
+    "objectType": "HDB_ESTATE",
+    "properties": {}
+  },
+  {
+    "displayDescription": "2 Whampoa East  338517, Balestier / Geylang (D12-14)",
+    "displayText": "Eight Riversuites",
+    "displayType": "Condominium",
+    "nanoId": "l0tbsk",
+    "objectId": "21204",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Woodleigh Lane  357657, Balestier / Geylang (D12-14)",
+    "displayText": "Park Colonial",
+    "displayType": "Condominium",
+    "nanoId": "0phrvr",
+    "objectId": "23459",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Sims Drive  387386, Balestier / Geylang (D12-14)",
+    "displayText": "Sims Urban Oasis",
+    "displayType": "Condominium",
+    "nanoId": "grb4fv",
+    "objectId": "22053",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Bidadari Park Drive  341105, Balestier / Geylang (D12-14)",
+    "displayText": "The Woodleigh Residences",
+    "displayType": "Apartment",
+    "nanoId": "s6h3kh",
+    "objectId": "23532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Sims Drive  387395, Balestier / Geylang (D12-14)",
+    "displayText": "Penrose",
+    "displayType": "Condominium",
+    "nanoId": "ntn5a0",
+    "objectId": "24454",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4 Meyappa Chettiar Road  358453, Balestier / Geylang (D12-14)",
+    "displayText": "The Poiz Residences",
+    "displayType": "Condominium",
+    "nanoId": "mtmehz",
+    "objectId": "22276",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Lorong 3 Toa Payoh  319581, Balestier / Geylang (D12-14)",
+    "displayText": "Trevista",
+    "displayType": "Condominium",
+    "nanoId": "22x4ye",
+    "objectId": "1573",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "319456, Balestier / Geylang (D12-14)",
+    "displayText": "Gem Residences",
+    "displayType": "Condominium",
+    "nanoId": "0stl20",
+    "objectId": "22508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "25 Dakota Crescent  390025, Balestier / Geylang (D12-14)",
+    "displayText": "Waterbank at Dakota",
+    "displayType": "Condominium",
+    "nanoId": "8ihh6z",
+    "objectId": "2642",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Mount Vernon Road  368055, Balestier / Geylang (D12-14)",
+    "displayText": "Bartley Ridge",
+    "displayType": "Condominium",
+    "nanoId": "16nu26",
+    "objectId": "21497",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Paya Lebar Road  409053, Balestier / Geylang (D12-14)",
+    "displayText": "Park Place Residences",
+    "displayType": "Condominium",
+    "nanoId": "leem6w",
+    "objectId": "22798",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Potong Pasir Avenue 1  358391, Balestier / Geylang (D12-14)",
+    "displayText": "The Tre Ver",
+    "displayType": "Condominium",
+    "nanoId": "5su0gv",
+    "objectId": "23476",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "332 Jalan Eunos  415816, Balestier / Geylang (D12-14)",
+    "displayText": "Euhabitat",
+    "displayType": "Condominium",
+    "nanoId": "s3ojyb",
+    "objectId": "20741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "34 Dakota Crescent  399936, Balestier / Geylang (D12-14)",
+    "displayText": "Dakota Residences",
+    "displayType": "Condominium",
+    "nanoId": "2p1awc",
+    "objectId": "1294",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Lorong 40 Geylang  398075, Balestier / Geylang (D12-14)",
+    "displayText": "The Waterina",
+    "displayType": "Apartment",
+    "nanoId": "no1gau",
+    "objectId": "221",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "700 Toa Payoh Lorong 1  319773, Balestier / Geylang (D12-14)",
+    "displayText": "Trellis Towers",
+    "displayType": "Condominium",
+    "nanoId": "rjxv2r",
+    "objectId": "432",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Jalan Raja Udang  329215, Balestier / Geylang (D12-14)",
+    "displayText": "The Arte",
+    "displayType": "Condominium",
+    "nanoId": "l3175a",
+    "objectId": "1437",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "51 Kampong Bugis  338986, Balestier / Geylang (D12-14)",
+    "displayText": "Kallang Riverside",
+    "displayType": "Condominium",
+    "nanoId": "udtwu1",
+    "objectId": "20165",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Pheng Geck Avenue  348226, Balestier / Geylang (D12-14)",
+    "displayText": "Sennett Residence",
+    "displayType": "Condominium",
+    "nanoId": "mh37wn",
+    "objectId": "21367",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "19 Mattar Road  387728, Balestier / Geylang (D12-14)",
+    "displayText": "The Antares",
+    "displayType": "Condominium",
+    "nanoId": "eh7t2u",
+    "objectId": "23784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Geylang East Avenue 2  389754, Balestier / Geylang (D12-14)",
+    "displayText": "Simsville",
+    "displayType": "Condominium",
+    "nanoId": "7fe744",
+    "objectId": "286",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Woodleigh Close  357900, Balestier / Geylang (D12-14)",
+    "displayText": "8 @ Woodleigh",
+    "displayType": "Condominium",
+    "nanoId": "1nqp4z",
+    "objectId": "1524",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Pheng Geck Avenue  348196, Balestier / Geylang (D12-14)",
+    "displayText": "Sant Ritz",
+    "displayType": "Condominium",
+    "nanoId": "1q7b93",
+    "objectId": "21464",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Geylang East Avenue 1  389782, Balestier / Geylang (D12-14)",
+    "displayText": "Tre Residences",
+    "displayType": "Condominium",
+    "nanoId": "6pci1q",
+    "objectId": "22023",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "5 Jalan Kemaman  329325, Balestier / Geylang (D12-14)",
+    "displayText": "Verticus",
+    "displayType": "Condominium",
+    "nanoId": "wl22ow",
+    "objectId": "23888",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "36 Lengkong Tujoh  417391, Balestier / Geylang (D12-14)",
+    "displayText": "Vacanza @ East",
+    "displayType": "Condominium",
+    "nanoId": "izl9p5",
+    "objectId": "2672",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "10 Woodleigh Close  357905, Balestier / Geylang (D12-14)",
+    "displayText": "Blossoms @ Woodleigh",
+    "displayType": "Condominium",
+    "nanoId": "zxgof1",
+    "objectId": "102",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Jalan Datoh  329425, Balestier / Geylang (D12-14)",
+    "displayText": "Vista Residences",
+    "displayType": "Condominium",
+    "nanoId": "yfgqwz",
+    "objectId": "1521",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Lorong 40 Geylang  398074, Balestier / Geylang (D12-14)",
+    "displayText": "The Sunny Spring",
+    "displayType": "Apartment",
+    "nanoId": "otd5bz",
+    "objectId": "509",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Lorong Mydin  416825, Balestier / Geylang (D12-14)",
+    "displayText": "Astoria Park",
+    "displayType": "Condominium",
+    "nanoId": "70eyua",
+    "objectId": "6",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Leicester Road  358828, Balestier / Geylang (D12-14)",
+    "displayText": "One Leicester",
+    "displayType": "Condominium",
+    "nanoId": "obdfcl",
+    "objectId": "94",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Kembangan  419154, Balestier / Geylang (D12-14)",
+    "displayText": "The Trumps",
+    "displayType": "Condominium",
+    "nanoId": "gna708",
+    "objectId": "125",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "83 Pheng Geck Avenue  348270, Balestier / Geylang (D12-14)",
+    "displayText": "Nin Residence",
+    "displayType": "Condominium",
+    "nanoId": "wyua1y",
+    "objectId": "20586",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "4   Tai Thong Crescent  347838, Balestier / Geylang (D12-14)",
+    "displayText": "The Venue Residences and Shoppes",
+    "displayType": "Apartment",
+    "nanoId": "3zke4r",
+    "objectId": "21762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "911 Lorong 1 Toa Payoh  319771, Balestier / Geylang (D12-14)",
+    "displayText": "Oleander Towers",
+    "displayType": "Apartment",
+    "nanoId": "1fb3bk",
+    "objectId": "303",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "233 Paya Lebar Road  409044, Balestier / Geylang (D12-14)",
+    "displayText": "Le Crescendo",
+    "displayType": "Condominium",
+    "nanoId": "ae5ecx",
+    "objectId": "328",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "207 Jalan Eunos  415799, Balestier / Geylang (D12-14)",
+    "displayText": "Urban Treasures",
+    "displayType": "Condominium",
+    "nanoId": "snk9qk",
+    "objectId": "23806",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "389777, Balestier / Geylang (D12-14)",
+    "displayText": "Central Grove",
+    "displayType": "Condominium",
+    "nanoId": "s763a4",
+    "objectId": "481",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "398 Kallang Road  339098, Balestier / Geylang (D12-14)",
+    "displayText": "The Riverine By The Park",
+    "displayType": "Apartment",
+    "nanoId": "buu3nl",
+    "objectId": "968",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Mar Thoma Road  328689, Balestier / Geylang (D12-14)",
+    "displayText": "Beacon Heights",
+    "displayType": "Condominium",
+    "nanoId": "jkjsw9",
+    "objectId": "1352",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1091 Serangoon Road  328190, Balestier / Geylang (D12-14)",
+    "displayText": "Regent Residences",
+    "displayType": "Condominium",
+    "nanoId": "e4st3k",
+    "objectId": "20805",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Lorong 30 Geylang  398371, Balestier / Geylang (D12-14)",
+    "displayText": "Guillemard Edge",
+    "displayType": "Condominium",
+    "nanoId": "4ol569",
+    "objectId": "21144",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "568 Macpherson Green  368236, Balestier / Geylang (D12-14)",
+    "displayText": "Sky Green",
+    "displayType": "Condominium",
+    "nanoId": "z3t7av",
+    "objectId": "21390",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1177 Serangoon Road  328231, Balestier / Geylang (D12-14)",
+    "displayText": "Jui Residences",
+    "displayType": "Condominium",
+    "nanoId": "vwdmsc",
+    "objectId": "23525",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "9 Meyappa Chettiar Road  358456, Balestier / Geylang (D12-14)",
+    "displayText": "Myra",
+    "displayType": "Condominium",
+    "nanoId": "98zi8b",
+    "objectId": "24502",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Youngberg Terrace  357741, Balestier / Geylang (D12-14)",
+    "displayText": "Avon Park",
+    "displayType": "Condominium",
+    "nanoId": "ef8wel",
+    "objectId": "508",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "27 Paya Lebar Road  409042, Balestier / Geylang (D12-14)",
+    "displayText": "Paya Lebar Residences",
+    "displayType": "Apartment",
+    "nanoId": "xyhizq",
+    "objectId": "1195",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "205 Balestier Road  329682, Balestier / Geylang (D12-14)",
+    "displayText": "The Mezzo",
+    "displayType": "Apartment",
+    "nanoId": "s4dwez",
+    "objectId": "1551",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Kim Keat Road  328805, Balestier / Geylang (D12-14)",
+    "displayText": "The Interweave",
+    "displayType": "Condominium",
+    "nanoId": "behq5l",
+    "objectId": "20673",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "30 Braddell Road  359946, Balestier / Geylang (D12-14)",
+    "displayText": "E Maisons (The Maisons)",
+    "displayType": "Apartment",
+    "nanoId": "4rooca",
+    "objectId": "21493",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "213 Guillemard Road  399733, Balestier / Geylang (D12-14)",
+    "displayText": "Guillemard Suites",
+    "displayType": "Apartment",
+    "nanoId": "4eszkf",
+    "objectId": "21808",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "20 Guillemard Crescent  399915, Balestier / Geylang (D12-14)",
+    "displayText": "Arena Residences",
+    "displayType": "Condominium",
+    "nanoId": "xufnz6",
+    "objectId": "23550",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "288 Lavender street  338804, Balestier / Geylang (D12-14)",
+    "displayText": "Lavender Residence",
+    "displayType": "Condominium",
+    "nanoId": "1xg6zr",
+    "objectId": "25482",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Mattar Road  387716, Balestier / Geylang (D12-14)",
+    "displayText": "Mattar Residences",
+    "displayType": "Condominium",
+    "nanoId": "k1ok7h",
+    "objectId": "25519",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "348 Balestier Road  329778, Balestier / Geylang (D12-14)",
+    "displayText": "Prestige Heights",
+    "displayType": "Apartment",
+    "nanoId": "t0wxa3",
+    "objectId": "2609",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "60 Lengkong Tiga  417454, Balestier / Geylang (D12-14)",
+    "displayText": "Starville",
+    "displayType": "Condominium",
+    "nanoId": "o58zte",
+    "objectId": "381",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "80 Jalan Daud  419591, Balestier / Geylang (D12-14)",
+    "displayText": "Windy Heights",
+    "displayType": "Condominium",
+    "nanoId": "gxdgla",
+    "objectId": "400",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Sommerville Road  358246, Balestier / Geylang (D12-14)",
+    "displayText": "The Acacias",
+    "displayType": "Apartment",
+    "nanoId": "26kkar",
+    "objectId": "767",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Saint Michael's Road  328006, Balestier / Geylang (D12-14)",
+    "displayText": "One St Michael's",
+    "displayType": "Condominium",
+    "nanoId": "3tq9ak",
+    "objectId": "1091",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "500 Guillimard Road  399839, Balestier / Geylang (D12-14)",
+    "displayText": "Esta Ruby",
+    "displayType": "Condominium",
+    "nanoId": "yo7ady",
+    "objectId": "1161",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "26 Woodsville Close  357774, Balestier / Geylang (D12-14)",
+    "displayText": "Woodsville 28",
+    "displayType": "Condominium",
+    "nanoId": "qpmlf8",
+    "objectId": "1380",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "8 Irrawaddy Road  329564, Balestier / Geylang (D12-14)",
+    "displayText": "Domus",
+    "displayType": "Condominium",
+    "nanoId": "ktua6j",
+    "objectId": "1542",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "7 Boon Keng Road  330007, Balestier / Geylang (D12-14)",
+    "displayText": "7 Boon Keng Road",
+    "displayType": "HDB",
+    "nanoId": "n77k4y",
+    "objectId": "1585",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26 St Michael's Road  327994, Balestier / Geylang (D12-14)",
+    "displayText": "Airstream",
+    "displayType": "Condominium",
+    "nanoId": "16da0a",
+    "objectId": "1653",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "320 Guillemard Road  399746, Balestier / Geylang (D12-14)",
+    "displayText": "Cassia View",
+    "displayType": "Condominium",
+    "nanoId": "4k5pdt",
+    "objectId": "1709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "262 BALESTIER ROAD  329714, Balestier / Geylang (D12-14)",
+    "displayText": "Okio",
+    "displayType": "Condominium",
+    "nanoId": "k7ffab",
+    "objectId": "20597",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "17 Jalan Rajah  329137, Balestier / Geylang (D12-14)",
+    "displayText": "SkySuites 17",
+    "displayType": "Apartment",
+    "nanoId": "aaotcx",
+    "objectId": "20627",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "38 Mar Thoma Road  328712, Balestier / Geylang (D12-14)",
+    "displayText": "Riviera 38",
+    "displayType": "Condominium",
+    "nanoId": "buxi5q",
+    "objectId": "20811",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "18 Woodsville Close  357799, Balestier / Geylang (D12-14)",
+    "displayText": "18 Woodsville",
+    "displayType": "Condominium",
+    "nanoId": "zq3ws6",
+    "objectId": "21159",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "3 Foo Kim Lin Road  419679, Balestier / Geylang (D12-14)",
+    "displayText": "Tropika East",
+    "displayType": "Condominium",
+    "nanoId": "8alwr1",
+    "objectId": "21259",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null,
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "1 Jalan Dusun  329363, Balestier / Geylang (D12-14)",
+    "displayText": "One Dusun Residences",
+    "displayType": "Condominium",
+    "nanoId": "jdv0d4",
+    "objectId": "21327",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "35 Daisy Road Singapore  359455, Balestier / Geylang (D12-14)",
+    "displayText": "Daisy Suites",
+    "displayType": "Apartment",
+    "nanoId": "89vl5l",
+    "objectId": "21358",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "23 Mar Thoma Road  328704, Balestier / Geylang (D12-14)",
+    "displayText": "RiverBay",
+    "displayType": "Condominium",
+    "nanoId": "is2wgd",
+    "objectId": "21595",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "11 Paya Lebar Road  409050, Balestier / Geylang (D12-14)",
+    "displayText": "Lotus at Paya Lebar",
+    "displayType": "Condominium",
+    "nanoId": "pbr5sl",
+    "objectId": "22520",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "82A Circuit Road  371082, Balestier / Geylang (D12-14)",
+    "displayText": "82A Circuit Road",
+    "displayType": "HDB",
+    "nanoId": "pvx803",
+    "objectId": "23853",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "82B Circuit Road  372082, Balestier / Geylang (D12-14)",
+    "displayText": "82B Circuit Road",
+    "displayType": "HDB",
+    "nanoId": "4k3ftq",
+    "objectId": "23854",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        "11"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "103 Bidadari Park Drive  340103, Balestier / Geylang (D12-14)",
+    "displayText": "103 Bidadari Park Drive",
+    "displayType": "HDB",
+    "nanoId": "9nxri5",
+    "objectId": "24473",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "25"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "26B Saint George's Lane  322026, Balestier / Geylang (D12-14)",
+    "displayText": "26B Saint George's Lane",
+    "displayType": "HDB",
+    "nanoId": "aejnaj",
+    "objectId": "25351",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        "15"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "1037 Serangoon Road  328170, Balestier / Geylang (D12-14)",
+    "displayText": "The Arcady At Boon Keng",
+    "displayType": "Condominium",
+    "nanoId": "tbe8db",
+    "objectId": "25639",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "00 Jalan Gembira  000001, Balestier / Geylang (D12-14)",
+    "displayText": "MacPherson Garden Estate",
+    "displayType": "Terraced House",
+    "nanoId": "6zqnd4",
+    "objectId": "393",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D13",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "TERRA",
+      "propertyTypeGroup": "LANDED"
+    }
+  },
+  {
+    "displayDescription": "10 Lorong 27 Geylang Singapore  388199, Balestier / Geylang (D12-14)",
+    "displayText": "The Alcove",
+    "displayType": "Condominium",
+    "nanoId": "a5d0jm",
+    "objectId": "467",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "512 GEYLANG ROAD  389468, Balestier / Geylang (D12-14)",
+    "displayText": "Atrium Residences",
+    "displayType": "Apartment",
+    "nanoId": "b1yxzd",
+    "objectId": "56",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D14",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "90 Saint Francis Road  328071, Balestier / Geylang (D12-14)",
+    "displayText": "St Francis Court",
+    "displayType": "Apartment",
+    "nanoId": "9y4wdc",
+    "objectId": "633",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D12",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]

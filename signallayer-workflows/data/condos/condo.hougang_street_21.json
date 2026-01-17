@@ -1,0 +1,1508 @@
+[
+  {
+    "displayText": "Hougang Street 21",
+    "displayType": "Street",
+    "objectId": "1155",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "222222, Serangoon / Thomson (D19-20)",
+    "displayText": "201 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "mckzoj",
+    "objectId": "6722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12",
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "202 Hougang Street 21  530202, Serangoon / Thomson (D19-20)",
+    "displayText": "202 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "0ky48e",
+    "objectId": "6723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203 Hougang Street 21  530203, Serangoon / Thomson (D19-20)",
+    "displayText": "203 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "xe7ues",
+    "objectId": "6724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "204 Hougang Street 21  530204, Serangoon / Thomson (D19-20)",
+    "displayText": "204 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "9hxw9o",
+    "objectId": "6725",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206 Hougang Street 21  530206, Serangoon / Thomson (D19-20)",
+    "displayText": "206 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "4zuvvu",
+    "objectId": "6726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 Hougang Street 21  530207, Serangoon / Thomson (D19-20)",
+    "displayText": "207 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "h7is4f",
+    "objectId": "6727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208 Hougang Street 21  530208, Serangoon / Thomson (D19-20)",
+    "displayText": "208 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "r3qwpp",
+    "objectId": "6728",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209 Hougang Street 21  530209, Serangoon / Thomson (D19-20)",
+    "displayText": "209 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "ebfk29",
+    "objectId": "6729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210 Hougang Street 21  530210, Serangoon / Thomson (D19-20)",
+    "displayText": "210 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "32k8r7",
+    "objectId": "6730",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211 Hougang Street 21  530211, Serangoon / Thomson (D19-20)",
+    "displayText": "211 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "4vxbl4",
+    "objectId": "6731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212 Hougang Street 21  530212, Serangoon / Thomson (D19-20)",
+    "displayText": "212 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "094999",
+    "objectId": "6732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Hougang Street 21  530213, Serangoon / Thomson (D19-20)",
+    "displayText": "213 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "7rufhw",
+    "objectId": "6733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220 Hougang Street 21  530220, Serangoon / Thomson (D19-20)",
+    "displayText": "220 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "7g88nh",
+    "objectId": "6734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "221 Hougang Street 21  530221, Serangoon / Thomson (D19-20)",
+    "displayText": "221 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "5zie87",
+    "objectId": "6735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "222 Hougang Street 21  530222, Serangoon / Thomson (D19-20)",
+    "displayText": "222 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "rgouse",
+    "objectId": "6736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "231 Hougang Street 21  530231, Serangoon / Thomson (D19-20)",
+    "displayText": "231 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "jb84mo",
+    "objectId": "6737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "233 Hougang Street 21  530233, Serangoon / Thomson (D19-20)",
+    "displayText": "233 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "adbhpb",
+    "objectId": "6738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "235 Hougang Street 21  530235, Serangoon / Thomson (D19-20)",
+    "displayText": "235 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "xypv9s",
+    "objectId": "6739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "467353, Serangoon / Thomson (D19-20)",
+    "displayText": "237 Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "wpjwr7",
+    "objectId": "6740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12",
+        "12",
+        "12",
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "220A Hougang Street 21  531220, Serangoon / Thomson (D19-20)",
+    "displayText": "220A Hougang Street 21",
+    "displayType": "HDB",
+    "nanoId": "qp6ipp",
+    "objectId": "6741",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Hougang Street 91",
+    "displayType": "Street",
+    "objectId": "1161",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 11",
+    "displayType": "Street",
+    "objectId": "1154",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 22",
+    "displayType": "Street",
+    "objectId": "1156",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 31",
+    "displayType": "Street",
+    "objectId": "1157",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 51",
+    "displayType": "Street",
+    "objectId": "1158",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 61",
+    "displayType": "Street",
+    "objectId": "1160",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 52",
+    "displayType": "Street",
+    "objectId": "1159",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 92",
+    "displayType": "Street",
+    "objectId": "1162",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Hougang Street 93",
+    "displayType": "Street",
+    "objectId": "1163",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Hougang Avenue 3  530021, Serangoon / Thomson (D19-20)",
+    "displayText": "21 Hougang Avenue 3",
+    "displayType": "HDB",
+    "nanoId": "9hl3jv",
+    "objectId": "6442",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "147 Hougang Street 11  530147, Serangoon / Thomson (D19-20)",
+    "displayText": "The Minton",
+    "displayType": "Condominium",
+    "nanoId": "v3sjhl",
+    "objectId": "2652",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "0 Hougang Street 32  534000, Serangoon / Thomson (D19-20)",
+    "displayText": "Parc Vera",
+    "displayType": "Condominium",
+    "nanoId": "01d05f",
+    "objectId": "20783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "2 Hougang Street 92  538683, Serangoon / Thomson (D19-20)",
+    "displayText": "Regentville",
+    "displayType": "Condominium",
+    "nanoId": "cag1yu",
+    "objectId": "244",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "50 Hougang Street 11  538749, Serangoon / Thomson (D19-20)",
+    "displayText": "Central View",
+    "displayType": "Condominium",
+    "nanoId": "i5pmm0",
+    "objectId": "834",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "146 Hougang Street 11  530146, Serangoon / Thomson (D19-20)",
+    "displayText": "Minton Rise Condominium",
+    "displayType": "Condominium",
+    "nanoId": "u5q7az",
+    "objectId": "2207",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "376C Hougang Street 32   533376, Serangoon / Thomson (D19-20)",
+    "displayText": "376C Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "jhff4p",
+    "objectId": "23592",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376A Hougang Street 32  531376, Serangoon / Thomson (D19-20)",
+    "displayText": "376A Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "gnwfc6",
+    "objectId": "23953",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376B Hougang Street 32  532376, Serangoon / Thomson (D19-20)",
+    "displayText": "376B Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "h3b94a",
+    "objectId": "23954",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "376D Hougang Street 32  537376, Serangoon / Thomson (D19-20)",
+    "displayText": "376D Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "a2cjof",
+    "objectId": "23955",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "377B Hougang Street 32  532377, Serangoon / Thomson (D19-20)",
+    "displayText": "377B Hougang Street 32",
+    "displayType": "HDB",
+    "nanoId": "6sjdkt",
+    "objectId": "25382",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "150 Hougang Street 11  530150, Serangoon / Thomson (D19-20)",
+    "displayText": "150 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "i1r5iv",
+    "objectId": "6709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "151 Hougang Street 11  530151, Serangoon / Thomson (D19-20)",
+    "displayText": "151 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "uk8yjl",
+    "objectId": "6710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "152 Hougang Street 11  530152, Serangoon / Thomson (D19-20)",
+    "displayText": "152 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "9cwopv",
+    "objectId": "6711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "153 Hougang Street 11  530153, Serangoon / Thomson (D19-20)",
+    "displayText": "153 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "l2yljm",
+    "objectId": "6712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "154 Hougang Street 11  530154, Serangoon / Thomson (D19-20)",
+    "displayText": "154 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "o3gyoh",
+    "objectId": "6713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "155 Hougang Street 11  530155, Serangoon / Thomson (D19-20)",
+    "displayText": "155 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "n0870n",
+    "objectId": "6714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "156 Hougang Street 11  530156, Serangoon / Thomson (D19-20)",
+    "displayText": "156 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "m13s17",
+    "objectId": "6715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "157 Hougang Street 11  530157, Serangoon / Thomson (D19-20)",
+    "displayText": "157 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "6tiunf",
+    "objectId": "6716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "158 Hougang Street 11  530158, Serangoon / Thomson (D19-20)",
+    "displayText": "158 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "sa1uh5",
+    "objectId": "6717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159 Hougang Street 11  530159, Serangoon / Thomson (D19-20)",
+    "displayText": "159 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "g3bojw",
+    "objectId": "6718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "160 Hougang Street 11  530160, Serangoon / Thomson (D19-20)",
+    "displayText": "160 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "wl2xd7",
+    "objectId": "6719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "161 Hougang Street 11  530161, Serangoon / Thomson (D19-20)",
+    "displayText": "161 Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "i9kyl0",
+    "objectId": "6720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "159A Hougang Street 11  531159, Serangoon / Thomson (D19-20)",
+    "displayText": "159A Hougang Street 11",
+    "displayType": "HDB",
+    "nanoId": "q2b4k6",
+    "objectId": "6721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "239 Hougang Street 22  530239, Serangoon / Thomson (D19-20)",
+    "displayText": "239 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "q2farg",
+    "objectId": "6742",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Hougang Street 22  530240, Serangoon / Thomson (D19-20)",
+    "displayText": "240 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "058gsg",
+    "objectId": "6743",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Hougang Street 22  530241, Serangoon / Thomson (D19-20)",
+    "displayText": "241 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "h6ces4",
+    "objectId": "6744",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Hougang Street 22  530242, Serangoon / Thomson (D19-20)",
+    "displayText": "242 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "cxr7wm",
+    "objectId": "6745",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Hougang Street 22  530243, Serangoon / Thomson (D19-20)",
+    "displayText": "243 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "eijv9r",
+    "objectId": "6746",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Hougang Street 22  530244, Serangoon / Thomson (D19-20)",
+    "displayText": "244 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "xzqfa5",
+    "objectId": "6747",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Hougang Street 22  530245, Serangoon / Thomson (D19-20)",
+    "displayText": "245 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "34b53w",
+    "objectId": "6748",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246 Hougang Street 22  530246, Serangoon / Thomson (D19-20)",
+    "displayText": "246 Hougang Street 22",
+    "displayType": "HDB",
+    "nanoId": "pketja",
+    "objectId": "6749",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "370 Hougang Street 31  530370, Serangoon / Thomson (D19-20)",
+    "displayText": "370 Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "bkywdm",
+    "objectId": "6750",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "371 Hougang Street 31  530371, Serangoon / Thomson (D19-20)",
+    "displayText": "371 Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "356zib",
+    "objectId": "6751",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "372 Hougang Street 31  530372, Serangoon / Thomson (D19-20)",
+    "displayText": "372 Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "lsmg3e",
+    "objectId": "6752",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "373 Hougang Street 31  530373, Serangoon / Thomson (D19-20)",
+    "displayText": "373 Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "yy92fd",
+    "objectId": "6753",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "374 Hougang Street 31  530374, Serangoon / Thomson (D19-20)",
+    "displayText": "374 Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "tul8q0",
+    "objectId": "6754",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "375 Hougang Street 31  530375, Serangoon / Thomson (D19-20)",
+    "displayText": "375 Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "2tgtws",
+    "objectId": "6755",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "373A Hougang Street 31  531373, Serangoon / Thomson (D19-20)",
+    "displayText": "373A Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "q06asi",
+    "objectId": "6756",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "373B Hougang Street 31  532373, Serangoon / Thomson (D19-20)",
+    "displayText": "373B Hougang Street 31",
+    "displayType": "HDB",
+    "nanoId": "upfvea",
+    "objectId": "6757",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "546 Hougang Street 51  530546, Serangoon / Thomson (D19-20)",
+    "displayText": "546 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "9px7sz",
+    "objectId": "6758",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "547 Hougang Street 51  530547, Serangoon / Thomson (D19-20)",
+    "displayText": "547 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "klzkuc",
+    "objectId": "6759",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "548 Hougang Street 51  530548, Serangoon / Thomson (D19-20)",
+    "displayText": "548 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "hue5wb",
+    "objectId": "6760",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "549 Hougang Street 51  530549, Serangoon / Thomson (D19-20)",
+    "displayText": "549 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "jwgwvl",
+    "objectId": "6761",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "550 Hougang Street 51  530550, Serangoon / Thomson (D19-20)",
+    "displayText": "550 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "wkbhwq",
+    "objectId": "6762",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "551 Hougang Street 51  530551, Serangoon / Thomson (D19-20)",
+    "displayText": "551 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "vlxzp4",
+    "objectId": "6763",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "552 Hougang Street 51  530552, Serangoon / Thomson (D19-20)",
+    "displayText": "552 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "3no16v",
+    "objectId": "6764",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "553 Hougang Street 51  530553, Serangoon / Thomson (D19-20)",
+    "displayText": "553 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "voqu0j",
+    "objectId": "6765",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "554 Hougang Street 51  530554, Serangoon / Thomson (D19-20)",
+    "displayText": "554 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "2atl2x",
+    "objectId": "6766",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "555 Hougang Street 51  530555, Serangoon / Thomson (D19-20)",
+    "displayText": "555 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "u0clx7",
+    "objectId": "6767",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "556 Hougang Street 51  530556, Serangoon / Thomson (D19-20)",
+    "displayText": "556 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "r70vxw",
+    "objectId": "6768",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "557 Hougang Street 51  530557, Serangoon / Thomson (D19-20)",
+    "displayText": "557 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "jmd6y0",
+    "objectId": "6769",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "558 Hougang Street 51  530558, Serangoon / Thomson (D19-20)",
+    "displayText": "558 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "yyp9ug",
+    "objectId": "6770",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "559 Hougang Street 51  530559, Serangoon / Thomson (D19-20)",
+    "displayText": "559 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "o8yatj",
+    "objectId": "6771",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "560 Hougang Street 51  530560, Serangoon / Thomson (D19-20)",
+    "displayText": "560 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "lqem6o",
+    "objectId": "6772",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "561 Hougang Street 51  530561, Serangoon / Thomson (D19-20)",
+    "displayText": "561 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "n4b5pj",
+    "objectId": "6773",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "562 Hougang Street 51  530562, Serangoon / Thomson (D19-20)",
+    "displayText": "562 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "f21det",
+    "objectId": "6774",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "563 Hougang Street 51  530563, Serangoon / Thomson (D19-20)",
+    "displayText": "563 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "9pw9no",
+    "objectId": "6775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "564 Hougang Street 51  530564, Serangoon / Thomson (D19-20)",
+    "displayText": "564 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "dv0i2q",
+    "objectId": "6776",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "565 Hougang Street 51  530565, Serangoon / Thomson (D19-20)",
+    "displayText": "565 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "zjjwfs",
+    "objectId": "6777",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "566 Hougang Street 51  530566, Serangoon / Thomson (D19-20)",
+    "displayText": "566 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "3x3mw5",
+    "objectId": "6778",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "567 Hougang Street 51  530567, Serangoon / Thomson (D19-20)",
+    "displayText": "567 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "9xj132",
+    "objectId": "6779",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "568 Hougang Street 51  530568, Serangoon / Thomson (D19-20)",
+    "displayText": "568 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "hy4qrx",
+    "objectId": "6780",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "569 Hougang Street 51  530569, Serangoon / Thomson (D19-20)",
+    "displayText": "569 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "2udmov",
+    "objectId": "6781",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "570 Hougang Street 51  530570, Serangoon / Thomson (D19-20)",
+    "displayText": "570 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "puzf7y",
+    "objectId": "6782",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "571 Hougang Street 51  530571, Serangoon / Thomson (D19-20)",
+    "displayText": "571 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "juafd4",
+    "objectId": "6783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "572 Hougang Street 51  530572, Serangoon / Thomson (D19-20)",
+    "displayText": "572 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "kbgku5",
+    "objectId": "6784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "573 Hougang Street 51  530573, Serangoon / Thomson (D19-20)",
+    "displayText": "573 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "00qrc6",
+    "objectId": "6785",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "574 Hougang Street 51  530574, Serangoon / Thomson (D19-20)",
+    "displayText": "574 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "a796h7",
+    "objectId": "6786",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "575 Hougang Street 51  530575, Serangoon / Thomson (D19-20)",
+    "displayText": "575 Hougang Street 51",
+    "displayType": "HDB",
+    "nanoId": "89l06w",
+    "objectId": "6787",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D19",
+      "estateCodes": [
+        "12"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  }
+]

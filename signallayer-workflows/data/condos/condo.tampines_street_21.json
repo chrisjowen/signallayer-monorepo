@@ -1,0 +1,1353 @@
+[
+  {
+    "displayText": "Tampines Street 21",
+    "displayType": "Street",
+    "objectId": "3257",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "202 Tampines Street 21  520202, Changi / Pasir Ris (D17-18)",
+    "displayText": "202 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "o07rbj",
+    "objectId": "10684",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "203 Tampines Street 21  520203, Changi / Pasir Ris (D17-18)",
+    "displayText": "203 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "uu59yp",
+    "objectId": "10685",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "204 Tampines Street 21  520204, Changi / Pasir Ris (D17-18)",
+    "displayText": "204 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "1yc6e3",
+    "objectId": "10686",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "205 Tampines Street 21  520205, Changi / Pasir Ris (D17-18)",
+    "displayText": "205 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "caq8x9",
+    "objectId": "10687",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "206 Tampines Street 21  520206, Changi / Pasir Ris (D17-18)",
+    "displayText": "206 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "e133np",
+    "objectId": "10688",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "207 Tampines Street 21  520207, Changi / Pasir Ris (D17-18)",
+    "displayText": "207 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "bhrp6g",
+    "objectId": "10689",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "208 Tampines Street 21  520208, Changi / Pasir Ris (D17-18)",
+    "displayText": "208 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "5ndxit",
+    "objectId": "10690",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "209 Tampines Street 21  520209, Changi / Pasir Ris (D17-18)",
+    "displayText": "209 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "q9bexl",
+    "objectId": "10691",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "231 Tampines Street 21  521231, Changi / Pasir Ris (D17-18)",
+    "displayText": "231 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "m0v1ou",
+    "objectId": "10692",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "232 Tampines Street 21  521232, Changi / Pasir Ris (D17-18)",
+    "displayText": "232 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "u7aibj",
+    "objectId": "10693",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "233 Tampines Street 21  521233, Changi / Pasir Ris (D17-18)",
+    "displayText": "233 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "zxxtq0",
+    "objectId": "10694",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "234 Tampines Street 21  521234, Changi / Pasir Ris (D17-18)",
+    "displayText": "234 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "fxoj26",
+    "objectId": "10695",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "235 Tampines Street 21  521235, Changi / Pasir Ris (D17-18)",
+    "displayText": "235 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "v87h51",
+    "objectId": "10696",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "236 Tampines Street 21  520236, Changi / Pasir Ris (D17-18)",
+    "displayText": "236 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "hin4fh",
+    "objectId": "10697",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "237 Tampines Street 21  520237, Changi / Pasir Ris (D17-18)",
+    "displayText": "237 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "p8516e",
+    "objectId": "10698",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "238 Tampines Street 21  520238, Changi / Pasir Ris (D17-18)",
+    "displayText": "238 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "ttvfxh",
+    "objectId": "10699",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "239 Tampines Street 21  520239, Changi / Pasir Ris (D17-18)",
+    "displayText": "239 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "5rmk2u",
+    "objectId": "10700",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "240 Tampines Street 21  520240, Changi / Pasir Ris (D17-18)",
+    "displayText": "240 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "ej21qc",
+    "objectId": "10701",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "241 Tampines Street 21  520241, Changi / Pasir Ris (D17-18)",
+    "displayText": "241 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "afq0gj",
+    "objectId": "10702",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "242 Tampines Street 21  521242, Changi / Pasir Ris (D17-18)",
+    "displayText": "242 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "uvxabf",
+    "objectId": "10703",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "243 Tampines Street 21  521243, Changi / Pasir Ris (D17-18)",
+    "displayText": "243 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "9f2q7j",
+    "objectId": "10704",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "244 Tampines Street 21  521244, Changi / Pasir Ris (D17-18)",
+    "displayText": "244 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "4tjid9",
+    "objectId": "10705",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "245 Tampines Street 21  521245, Changi / Pasir Ris (D17-18)",
+    "displayText": "245 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "txqwt2",
+    "objectId": "10706",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "246 Tampines Street 21  521246, Changi / Pasir Ris (D17-18)",
+    "displayText": "246 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "9o9vbh",
+    "objectId": "10707",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "247 Tampines Street 21  521247, Changi / Pasir Ris (D17-18)",
+    "displayText": "247 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "kmqmjj",
+    "objectId": "10708",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "248 Tampines Street 21  521248, Changi / Pasir Ris (D17-18)",
+    "displayText": "248 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "h1igni",
+    "objectId": "10709",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "249 Tampines Street 21  520249, Changi / Pasir Ris (D17-18)",
+    "displayText": "249 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "p37q5g",
+    "objectId": "10710",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "250 Tampines Street 21  520250, Changi / Pasir Ris (D17-18)",
+    "displayText": "250 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "4or3b5",
+    "objectId": "10711",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "251 Tampines Street 21  520251, Changi / Pasir Ris (D17-18)",
+    "displayText": "251 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "fydod9",
+    "objectId": "10712",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "252 Tampines Street 21  520252, Changi / Pasir Ris (D17-18)",
+    "displayText": "252 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "tq8nyb",
+    "objectId": "10713",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "253 Tampines Street 21  521253, Changi / Pasir Ris (D17-18)",
+    "displayText": "253 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "xtv64n",
+    "objectId": "10714",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "254 Tampines Street 21  521254, Changi / Pasir Ris (D17-18)",
+    "displayText": "254 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "rvtpj3",
+    "objectId": "10715",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "255 Tampines Street 21  521255, Changi / Pasir Ris (D17-18)",
+    "displayText": "255 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "lls3k7",
+    "objectId": "10716",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "256 Tampines Street 21  522256, Changi / Pasir Ris (D17-18)",
+    "displayText": "256 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "q8trm9",
+    "objectId": "10717",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "257 Tampines Street 21  520257, Changi / Pasir Ris (D17-18)",
+    "displayText": "257 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "qefwir",
+    "objectId": "10718",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "258 Tampines Street 21  520258, Changi / Pasir Ris (D17-18)",
+    "displayText": "258 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "jonslj",
+    "objectId": "10719",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "259 Tampines Street 21  520259, Changi / Pasir Ris (D17-18)",
+    "displayText": "259 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "8eg0dw",
+    "objectId": "10720",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "260 Tampines Street 21  520260, Changi / Pasir Ris (D17-18)",
+    "displayText": "260 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "8zaov6",
+    "objectId": "10721",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "261 Tampines Street 21  520261, Changi / Pasir Ris (D17-18)",
+    "displayText": "261 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "6ada9l",
+    "objectId": "10722",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "262 Tampines Street 21  520262, Changi / Pasir Ris (D17-18)",
+    "displayText": "262 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "c0z3ke",
+    "objectId": "10723",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "263 Tampines Street 21  520263, Changi / Pasir Ris (D17-18)",
+    "displayText": "263 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "8d0l65",
+    "objectId": "10724",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "264 Tampines Street 21  520264, Changi / Pasir Ris (D17-18)",
+    "displayText": "264 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "vk21nl",
+    "objectId": "10725",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "265 Tampines Street 21  520265, Changi / Pasir Ris (D17-18)",
+    "displayText": "265 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "6xpiv6",
+    "objectId": "10726",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "266 Tampines Street 21  520266, Changi / Pasir Ris (D17-18)",
+    "displayText": "266 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "lgb7hq",
+    "objectId": "10727",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "267 Tampines Street 21  520267, Changi / Pasir Ris (D17-18)",
+    "displayText": "267 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "lw0rq7",
+    "objectId": "10728",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "268 Tampines Street 21  520268, Changi / Pasir Ris (D17-18)",
+    "displayText": "268 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "05yngd",
+    "objectId": "10729",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "269 Tampines Street 21  520269, Changi / Pasir Ris (D17-18)",
+    "displayText": "269 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "emohiq",
+    "objectId": "10730",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "270 Tampines Street 21  520270, Changi / Pasir Ris (D17-18)",
+    "displayText": "270 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "6exfzp",
+    "objectId": "10731",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "271 Tampines Street 21  520271, Changi / Pasir Ris (D17-18)",
+    "displayText": "271 Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "g98qxb",
+    "objectId": "10732",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201A Tampines Street 21  521201, Changi / Pasir Ris (D17-18)",
+    "displayText": "201A Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "lnq4fd",
+    "objectId": "10733",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201B Tampines Street 21  522201, Changi / Pasir Ris (D17-18)",
+    "displayText": "201B Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "s2r30b",
+    "objectId": "10734",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201C Tampines Street 21  523201, Changi / Pasir Ris (D17-18)",
+    "displayText": "201C Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "v6mc6p",
+    "objectId": "10735",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "201D Tampines Street 21  524201, Changi / Pasir Ris (D17-18)",
+    "displayText": "201D Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "3sbc3g",
+    "objectId": "10736",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230A Tampines Street 21  529398, Changi / Pasir Ris (D17-18)",
+    "displayText": "230A Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "6iq22r",
+    "objectId": "10737",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230G Tampines Street 21  521230, Changi / Pasir Ris (D17-18)",
+    "displayText": "230G Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "p7qsw0",
+    "objectId": "10738",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230H Tampines Street 21  522230, Changi / Pasir Ris (D17-18)",
+    "displayText": "230H Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "8hjju5",
+    "objectId": "10739",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "230J Tampines Street 21  523230, Changi / Pasir Ris (D17-18)",
+    "displayText": "230J Tampines Street 21",
+    "displayType": "HDB",
+    "nanoId": "li0m1b",
+    "objectId": "10740",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "210 Tampines Street 23  520210, Changi / Pasir Ris (D17-18)",
+    "displayText": "210 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "6xyh6p",
+    "objectId": "10768",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "211 Tampines Street 23  520211, Changi / Pasir Ris (D17-18)",
+    "displayText": "211 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "mgmgod",
+    "objectId": "10769",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "212 Tampines Street 23  520212, Changi / Pasir Ris (D17-18)",
+    "displayText": "212 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "h500dc",
+    "objectId": "10770",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "213 Tampines Street 23  520213, Changi / Pasir Ris (D17-18)",
+    "displayText": "213 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "irz88o",
+    "objectId": "10771",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "214 Tampines Street 23  520214, Changi / Pasir Ris (D17-18)",
+    "displayText": "214 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "k99tkc",
+    "objectId": "10772",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "215 Tampines Street 23  520215, Changi / Pasir Ris (D17-18)",
+    "displayText": "215 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "b5dfxs",
+    "objectId": "10773",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "216 Tampines Street 23  520216, Changi / Pasir Ris (D17-18)",
+    "displayText": "216 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "t6hlk7",
+    "objectId": "10774",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "217 Tampines Street 23  520217, Changi / Pasir Ris (D17-18)",
+    "displayText": "217 Tampines Street 23",
+    "displayType": "HDB",
+    "nanoId": "ef55dw",
+    "objectId": "10775",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218 Tampines Street 24  520218, Changi / Pasir Ris (D17-18)",
+    "displayText": "218 Tampines Street 24",
+    "displayType": "HDB",
+    "nanoId": "gvmrsh",
+    "objectId": "10783",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "219 Tampines Street 24  520219, Changi / Pasir Ris (D17-18)",
+    "displayText": "219 Tampines Street 24",
+    "displayType": "HDB",
+    "nanoId": "yie9cr",
+    "objectId": "10784",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayDescription": "218139, Changi / Pasir Ris (D17-18)",
+    "displayText": "450 Tampines Street 42",
+    "displayType": "HDB",
+    "nanoId": "73r6mj",
+    "objectId": "10929",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        "24",
+        "24"
+      ],
+      "propertySubType": "HDB",
+      "propertyTypeGroup": "HDB"
+    }
+  },
+  {
+    "displayText": "Tampines Street 11",
+    "displayType": "Street",
+    "objectId": "3255",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 71",
+    "displayType": "Street",
+    "objectId": "3270",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 81",
+    "displayType": "Street",
+    "objectId": "3273",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 12",
+    "displayType": "Street",
+    "objectId": "3256",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 22",
+    "displayType": "Street",
+    "objectId": "3258",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 23",
+    "displayType": "Street",
+    "objectId": "3259",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 24",
+    "displayType": "Street",
+    "objectId": "3260",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 31",
+    "displayType": "Street",
+    "objectId": "3261",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 41",
+    "displayType": "Street",
+    "objectId": "3265",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 91",
+    "displayType": "Street",
+    "objectId": "3278",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 82",
+    "displayType": "Street",
+    "objectId": "3274",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 45",
+    "displayType": "Street",
+    "objectId": "3269",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 10",
+    "displayType": "Street",
+    "objectId": "12339",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 32",
+    "displayType": "Street",
+    "objectId": "3262",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 33",
+    "displayType": "Street",
+    "objectId": "3263",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 34",
+    "displayType": "Street",
+    "objectId": "3264",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 42",
+    "displayType": "Street",
+    "objectId": "3266",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 43",
+    "displayType": "Street",
+    "objectId": "3267",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 44",
+    "displayType": "Street",
+    "objectId": "3268",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 72",
+    "displayType": "Street",
+    "objectId": "3271",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 73",
+    "displayType": "Street",
+    "objectId": "3272",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 83",
+    "displayType": "Street",
+    "objectId": "3275",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 84",
+    "displayType": "Street",
+    "objectId": "3276",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 92",
+    "displayType": "Street",
+    "objectId": "3279",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayText": "Tampines Street 93",
+    "displayType": "Street",
+    "objectId": "3280",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 Tampines Central 7  528608, Changi / Pasir Ris (D17-18)",
+    "displayText": "The Tampines Trilliant",
+    "displayType": "Executive Condominium",
+    "nanoId": "3h47c6",
+    "objectId": "21141",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [
+        null
+      ],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayText": "Tampines St 21",
+    "displayType": "Street",
+    "objectId": "5728",
+    "objectType": "STREET",
+    "properties": {}
+  },
+  {
+    "displayDescription": "21 McCallum Street  069047, City & South West (D01-08)",
+    "displayText": "The Clift",
+    "displayType": "Apartment",
+    "nanoId": "2ntemh",
+    "objectId": "117",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D01",
+      "estateCodes": [],
+      "propertySubType": "APT",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "61 Bishan Street 21  574044, Serangoon / Thomson (D19-20)",
+    "displayText": "Bishan 8",
+    "displayType": "Condominium",
+    "nanoId": "0umjap",
+    "objectId": "532",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "21 Pasir Ris Street 72  518764, Changi / Pasir Ris (D17-18)",
+    "displayText": "Whitewater",
+    "displayType": "Executive Condominium",
+    "nanoId": "yocxte",
+    "objectId": "1557",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D18",
+      "estateCodes": [],
+      "propertySubType": "EXCON",
+      "propertyTypeGroup": "CONDO"
+    }
+  },
+  {
+    "displayDescription": "31 Bishan Street 21  579800, Serangoon / Thomson (D19-20)",
+    "displayText": "Rafflesia Condo",
+    "displayType": "Condominium",
+    "nanoId": "ar0gfp",
+    "objectId": "496",
+    "objectType": "PROPERTY",
+    "properties": {
+      "district": "D20",
+      "estateCodes": [],
+      "propertySubType": "CONDO",
+      "propertyTypeGroup": "CONDO"
+    }
+  }
+]
