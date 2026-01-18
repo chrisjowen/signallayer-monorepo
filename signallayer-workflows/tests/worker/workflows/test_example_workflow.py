@@ -13,7 +13,7 @@ from src.worker.workflows.activities.example import say_hello
 @pytest.mark.asyncio
 async def test_example_workflow():
     """Test the ExampleWorkflow logic."""
-    async with await WorkflowEnvironment.start_local() as env:
+    async with await WorkflowEnvironment.start_time_skipping() as env:
         async with Worker(
             env.client,
             task_queue="test-queue",

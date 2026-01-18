@@ -1,7 +1,7 @@
 """Tests for GitHubClient."""
 
 from datetime import datetime, timezone
-from unittest.mock import AsyncMock, patch
+from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
 
@@ -51,9 +51,9 @@ async def test_fetch_issues_by_label(github_client: GitHubClient) -> None:
     ]
 
     with patch("src.common.clients.github.httpx.AsyncClient") as mock_client_class:
-        mock_response = AsyncMock()
-        mock_response.json.return_value = mock_response_data  # json() is sync in httpx
-        mock_response.raise_for_status = AsyncMock()
+        mock_response = MagicMock()
+        mock_response.json.return_value = mock_response_data
+        mock_response.raise_for_status = MagicMock()
 
         mock_client = AsyncMock()
         mock_client.get = AsyncMock(return_value=mock_response)
@@ -75,9 +75,9 @@ async def test_fetch_issue_details(
 ) -> None:
     """Test fetching issue details."""
     with patch("src.common.clients.github.httpx.AsyncClient") as mock_client_class:
-        mock_response = AsyncMock()
-        mock_response.json.return_value = mock_github_issue_response  # json() is sync in httpx
-        mock_response.raise_for_status = AsyncMock()
+        mock_response = MagicMock()
+        mock_response.json.return_value = mock_github_issue_response
+        mock_response.raise_for_status = MagicMock()
 
         mock_client = AsyncMock()
         mock_client.get = AsyncMock(return_value=mock_response)
