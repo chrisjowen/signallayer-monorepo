@@ -88,23 +88,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
+          cache: 'npm'
+          cache-dependency-path: signallayer-ui/package-lock.json
 
       - name: Install dependencies
         working-directory: signallayer-ui
-        run: pnpm install
+        run: npm ci
 
-      - name: Run Prettier check
+      - name: Run lint
         working-directory: signallayer-ui
-        run: pnpm run format --check || true
-
-      - name: Run ESLint
-        working-directory: signallayer-ui
-        run: pnpm run lint || true
+        run: npm run lint || true
 
   # ============================================
   # UI Type Check
@@ -121,19 +114,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
+          cache: 'npm'
+          cache-dependency-path: signallayer-ui/package-lock.json
 
       - name: Install dependencies
         working-directory: signallayer-ui
-        run: pnpm install
+        run: npm ci
 
       - name: Run Svelte check
         working-directory: signallayer-ui
-        run: pnpm run check
+        run: npm run check
         continue-on-error: true
 
   # ============================================
