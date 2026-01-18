@@ -24,12 +24,6 @@ jobs:
         image: temporalio/auto-setup:latest
         ports:
           - 7233:7233
-        options: >-
-          --health-cmd "tctl --address temporal:7233 cluster health"
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 10
-          --health-start-period 30s
 
     steps:
       - name: Checkout code
@@ -127,7 +121,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: signallayer-ui
-        run: npm ci
+        run: npm install
 
       - name: Run lint
         working-directory: signallayer-ui
@@ -188,7 +182,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: signallayer-ui
-        run: npm ci
+        run: npm install
 
       - name: Build
         working-directory: signallayer-ui
