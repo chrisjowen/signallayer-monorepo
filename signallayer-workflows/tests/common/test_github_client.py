@@ -52,7 +52,7 @@ async def test_fetch_issues_by_label(github_client: GitHubClient) -> None:
 
     with patch("src.common.clients.github.httpx.AsyncClient") as mock_client_class:
         mock_response = AsyncMock()
-        mock_response.json = AsyncMock(return_value=mock_response_data)
+        mock_response.json.return_value = mock_response_data  # json() is sync in httpx
         mock_response.raise_for_status = AsyncMock()
 
         mock_client = AsyncMock()
@@ -76,7 +76,7 @@ async def test_fetch_issue_details(
     """Test fetching issue details."""
     with patch("src.common.clients.github.httpx.AsyncClient") as mock_client_class:
         mock_response = AsyncMock()
-        mock_response.json = AsyncMock(return_value=mock_github_issue_response)
+        mock_response.json.return_value = mock_github_issue_response  # json() is sync in httpx
         mock_response.raise_for_status = AsyncMock()
 
         mock_client = AsyncMock()

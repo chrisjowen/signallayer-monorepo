@@ -58,13 +58,13 @@ async def test_activity_execute_magic():
     with patch("temporalio.workflow.execute_activity", new_callable=AsyncMock) as mock_exec:
         # Call the magic .execute method directly on the function
         await magic_activity.execute(42)
-        
+
         mock_exec.assert_called_once()
         args, kwargs = mock_exec.call_args
         # First positional arg is the activity
         assert args[0].__name__ == "magic_activity"
-        # Second is the value
-        assert args[1] == 42
+        # Arguments are passed via 'args' keyword argument
+        assert kwargs["args"] == (42,)
         assert kwargs["task_queue"] == "magic_queue"
         assert kwargs["start_to_close_timeout"] == timedelta(minutes=5)
 

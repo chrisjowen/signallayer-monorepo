@@ -1,12 +1,11 @@
 """Example workflows demonstrating the workflow API."""
 
-import asyncio
-
 from pydantic import BaseModel, Field
 from temporalio import workflow
 
-from ..lib.decorators import workflow_api
-from .activities.example import say_hello
+with workflow.unsafe.imports_passed_through():
+    from ..lib.decorators import workflow_api
+    from .activities.example import say_hello
 
 
 class ExampleInput(BaseModel):
@@ -45,7 +44,7 @@ class ExampleWorkflow:
             message = await say_hello.execute(input.name)
             results.append(f"{message} (iteration {i + 1})")
             # Small sleep to simulate work
-            await asyncio.sleep(0.1)
+            await workflow.sleep(0.1)
 
         return ExampleOutput(
             result=", ".join(results),
