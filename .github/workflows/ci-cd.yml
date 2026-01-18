@@ -20,8 +20,28 @@ jobs:
     runs-on: ubuntu-latest
 
     services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: signallayer_test
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          - 5432:5432
+
       temporal:
         image: temporalio/auto-setup:latest
+        env:
+          DB: postgres12
+          DB_PORT: 5432
+          POSTGRES_USER: postgres
+          POSTGRES_PWD: postgres
+          POSTGRES_SEEDS: postgres
         ports:
           - 7233:7233
 
@@ -57,9 +77,8 @@ jobs:
       - name: Wait for Temporal
         run: |
           echo "Waiting for Temporal to be ready..."
-          sudo apt-get update && sudo apt-get install -y netcat-openbsd
           for i in {1..60}; do
-            if nc -z localhost 7233; then
+            if timeout 1 bash -c "</dev/tcp/localhost/7233" 2>/dev/null; then
               echo "Temporal is up!"
               sleep 5  # Give it extra time to fully initialize
               exit 0
